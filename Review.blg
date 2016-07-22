@@ -1,0 +1,18 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'Review.blg'
+[36] biber:275> INFO - === Fr Jul 22, 2016, 14:54:16
+[36] Biber.pm:333> INFO - Reading 'Review.bcf'
+[91] Biber.pm:630> INFO - Found 134 citekeys in bib section 0
+[101] Biber.pm:3053> INFO - Processing section 0
+[112] Biber.pm:3190> INFO - Looking for bibtex format file '/home/till/Dokumente/BibTex/Thesis.bib' for section 0
+[162] bibtex.pm:808> INFO - Found BibTeX data source '/home/till/Dokumente/BibTex/Thesis.bib'
+[174] Utils.pm:169> WARN - Duplicate entry key: 'Condliffe2014a' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[185] Utils.pm:169> WARN - Duplicate entry key: 'Akobundu2006' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[185] Utils.pm:169> WARN - Duplicate entry key: 'Kirigia2009' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[356] Utils.pm:169> WARN - BibTeX subsystem: /tmp/jg2pbrfwLZ/Thesis.bib_9259.utf8, line 6, warning: 177 characters of junk seen at toplevel
+[608] Biber.pm:2939> INFO - Overriding locale 'de_DE.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[608] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
+[608] Biber.pm:2949> INFO - No sort tailoring available for locale 'de_DE.UTF-8'
+[1163] bbl.pm:482> INFO - Writing 'Review.bbl' with encoding 'latin9'
+[1197] bbl.pm:555> INFO - Output to Review.bbl
+[1198] Biber.pm:105> INFO - WARNINGS: 4

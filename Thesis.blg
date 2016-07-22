@@ -1,0 +1,66 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'Thesis.blg'
+[44] biber:275> INFO - === Fr Jul 22, 2016, 18:59:04
+[44] Biber.pm:333> INFO - Reading 'Thesis.bcf'
+[95] Biber.pm:630> INFO - Found 67 citekeys in bib section 0
+[108] Biber.pm:3053> INFO - Processing section 0
+[121] Biber.pm:3190> INFO - Looking for bibtex format file '/home/till/Dokumente/BibTex/Thesis.bib' for section 0
+[201] bibtex.pm:808> INFO - Found BibTeX data source '/home/till/Dokumente/BibTex/Thesis.bib'
+[209] Utils.pm:169> WARN - Duplicate entry key: 'Minor2013' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[218] Utils.pm:169> WARN - Duplicate entry key: 'Condliffe2014a' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[222] Utils.pm:169> WARN - Duplicate entry key: 'Lin2011b' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[229] Utils.pm:169> WARN - Duplicate entry key: 'Akobundu2006' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[230] Utils.pm:169> WARN - Duplicate entry key: 'Kirigia2009' in file '/home/till/Dokumente/BibTex/Thesis.bib', skipping ...
+[259] Utils.pm:169> WARN - BibTeX subsystem: /tmp/XsVDgbiRNH/Thesis.bib_13817.utf8, line 6, warning: 177 characters of junk seen at toplevel
+[260] Utils.pm:169> WARN - I didn't find a database entry for 'Risk2016' (section 0)
+[260] Utils.pm:169> WARN - I didn't find a database entry for 'Schneiderman2014' (section 0)
+[260] Utils.pm:169> WARN - I didn't find a database entry for 'Meza2015' (section 0)
+[260] Utils.pm:169> WARN - I didn't find a database entry for 'Lim2011' (section 0)
+[260] Utils.pm:169> WARN - I didn't find a database entry for 'Gregg2012' (section 0)
+[260] Utils.pm:169> WARN - I didn't find a database entry for 'Reynoso-Noveron2011' (section 0)
+[261] Utils.pm:169> WARN - I didn't find a database entry for 'Minor2010' (section 0)
+[261] Utils.pm:169> WARN - I didn't find a database entry for 'Minor2015' (section 0)
+[261] Utils.pm:169> WARN - I didn't find a database entry for 'Seuring2015a' (section 0)
+[261] Utils.pm:169> WARN - I didn't find a database entry for 'VanEwijk2011' (section 0)
+[261] Utils.pm:169> WARN - I didn't find a database entry for 'Sotomayor2013' (section 0)
+[261] Utils.pm:169> WARN - I didn't find a database entry for 'Li2010b' (section 0)
+[261] Utils.pm:169> WARN - I didn't find a database entry for 'Currie2013' (section 0)
+[262] Utils.pm:169> WARN - I didn't find a database entry for 'Ayyagari2011a' (section 0)
+[262] Utils.pm:169> WARN - I didn't find a database entry for 'Kapteyn2009' (section 0)
+[262] Utils.pm:169> WARN - I didn't find a database entry for 'Beagley2014' (section 0)
+[262] Utils.pm:169> WARN - I didn't find a database entry for 'Cawley2015' (section 0)
+[262] Utils.pm:169> WARN - I didn't find a database entry for 'ONeill2013' (section 0)
+[262] Utils.pm:169> WARN - I didn't find a database entry for 'Perks2015' (section 0)
+[262] Utils.pm:169> WARN - I didn't find a database entry for 'Crimmins2015' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Strauss1998' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Thoolen2006' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Bergemann2011' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Schaller2015' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Heraclides2012' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Eriksson2013' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Schneiderman2005' (section 0)
+[263] Utils.pm:169> WARN - I didn't find a database entry for 'Wooldridge2012' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Paddison2011' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Nouwen2011' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Slade2012' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Baird2014' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Gong2015' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Thornton2008' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Zhao2013a' (section 0)
+[264] Utils.pm:169> WARN - I didn't find a database entry for 'Dillon2014' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Bell2015' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Mundlak1978' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Geishecker2011' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Wunder2014' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Boll2016' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Adler2003' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Hu2011' (section 0)
+[265] Utils.pm:169> WARN - I didn't find a database entry for 'Bratti2014' (section 0)
+[266] Utils.pm:169> WARN - I didn't find a database entry for 'Colchero2016' (section 0)
+[266] Utils.pm:169> WARN - I didn't find a database entry for 'Yuan2015' (section 0)
+[329] Biber.pm:2939> INFO - Overriding locale 'de_DE.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[330] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
+[330] Biber.pm:2949> INFO - No sort tailoring available for locale 'de_DE.UTF-8'
+[399] bbl.pm:482> INFO - Writing 'Thesis.bbl' with encoding 'latin9'
+[404] bbl.pm:555> INFO - Output to Thesis.bbl
+[404] Biber.pm:105> INFO - WARNINGS: 52

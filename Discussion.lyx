@@ -1,0 +1,265 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage[nolist]{acronym}
+%\usepackage{microtype}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{dcolumn}
+%\usepackage{nomencl}
+% Added by lyx2lyx
+\usepackage{multirow}
+\usepackage{graphicx}
+%\biboptions{authoryear}
+\newcommand{\sym}[1]{\ensuremath{^{#1}}} % for symbols in Table
+\usepackage{siunitx}
+\sisetup{ detect-mode, 
+          group-digits            = false ,
+          input-signs             = - (,
+          input-symbols           = - (,
+          input-open-uncertainty  = ,
+          input-close-uncertainty = ,
+          table-align-text-post   = false
+  }
+
+%\journal{Economics and Human Biology}
+\begin{acronym}
+\acro{2SLS} {two-stage least squares}
+\acro{ATE} {average treatment effect}
+\acro{ATT} {average treatment effect on the treated}
+\acro{AUD} {Australian Dollar}
+\acro{BLUE} {best linear unbiased estimator}
+\acro{BMI} {body mass index}
+\acro{BP} {bivariate probit}
+\acro{DALYs} {disability-adjusted life years}
+\acro{EUR} {Europe}
+\acro{ENSA} {La Encuesta Nacional de Salud}
+\acro{ENSANUT}{Encuesta Nacional de Salud y Nutrición}
+\acro{FE} {fixed effects}
+\acro{FGLS} {Feasible General Least Squares}
+\acro{HbA1c} {Glycated hemoglobin}
+\acro{IDF} {International Diabetes Federation}
+\acro{INEGI} {Instituto Nacional de Estadística y Geografía} 
+\acro{IV} {instrumental variable}
+\acro{LATE} {local average treatment effect}
+\acro{LPM} {linear probability model}
+\acro{MENA} {Middle East and North Africa}
+\acro{MxFLS} {Mexican Family Life Survey}
+\acro{NAC} {North American and Caribbean}
+\acro{NCD} {Non-Communicable Disease}
+\acro{NCDs} {Non-Communicable Diseases}
+\acro{OLS} {ordinary least squares}
+\acro{PML} {pseudo-maximum-likelihood}
+\acro{RE} {random effects}
+\acro{SACA} {South and Central America}
+\acro{SEA} {South East Asia}
+\acro{SSA} {Sub-Saharan Africa}
+\acro{US} {United States}
+\acro{WHO} {World Health Organization}
+\acro{WP} {Western Pacific}
+\end{acronym}
+\renewcommand{\thetable}{\Roman{table}}
+\end_preamble
+\options preprint,review,12pt
+\use_default_options true
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman lmodern
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize 12
+\spacing double
+\use_hyperref true
+\pdf_title "Labour market outcomes and diabetes in Mexico: A panel data analysis"
+\pdf_author "Till Seuring (UEA)"
+\pdf_keywords "Diabetes, Mexico, labour, market, economics, NCDs"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language swedish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Discussion
+\end_layout
+
+\begin_layout Itemize
+Brief overview of all the findings
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+what did I add
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+broad comparison with the existing literature:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+do findings agree or disagree with it
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Strengths
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+filled gaps in existing literature on the economics of diabetes in MICs
+\end_layout
+
+\begin_layout Itemize
+identified areas of research in where methodology could still be improved
+ to provide more reliable evidence
+\end_layout
+
+\begin_layout Itemize
+provided an up to date overview of the economic costs of diabetes globally
+\end_layout
+
+\begin_layout Itemize
+used various methods to identify effect of diabetes on labour market outcomes
+ in two countries
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+especially the advantages of panel data
+\end_layout
+
+\begin_layout Itemize
+lot of outcomes and confounders
+\end_layout
+
+\begin_layout Itemize
+across all methods and data sources find similar picture of the effect of
+ diabetes
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+used novel biomarker data to provide evidence for the large undiagnosed
+ diabetes population in MICs and on the possible bias introduced in estimates
+ when relying on self-reported diabetes exclusively
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Limitations
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Was not able to use quasi-experiemental strategies (i.e.
+ natural experiments or regression-discontinouity design) to potentially
+ more clearly identify causal effects
+\end_layout
+
+\begin_layout Itemize
+Cannot yet provide suggestions about what to do to reduce economic burden
+ of diabetes in MICs
+\end_layout
+
+\begin_layout Itemize
+mostly relying on self-reported information so most results are only valid
+ for diagnosed population
+\end_layout
+
+\begin_layout Itemize
+China data not nationally representative
+\end_layout
+
+\begin_layout Itemize
+missing data issue 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+give recommendations
+\end_layout
+
+\begin_layout Itemize
+brief policy implications: are there opportunities to prevent diabetes at
+ the workplace and to prevent them from having to leave the labour market
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+good healthcare --> early detection
+\end_layout
+
+\end_deeper
+\end_body
+\end_document

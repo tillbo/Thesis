@@ -1,0 +1,771 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nyt}
+    \entry{Barquera2013}{article}{}
+      \name{labelname}{6}{uniquelist=2}{%
+        {{hash=22447d5bf20dcf6bc42adb0c0362314f}{Barquera}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bb43e0dea1440d9cce30bafa1a9b409d}{Campos-Nonato}{C\bibinithyphendelim N\bibinitperiod}{Ismael}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=a539ee608f773ade7e0af0507df9d32e}{Aguilar-Salinas}{A\bibinithyphendelim S\bibinitperiod}{Carlos}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1aa9a58ed3957df403da93e3940a067}{Lopez-Ridaura}{L\bibinithyphendelim R\bibinitperiod}{Ruy}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=002da3e40f065712068f67fbe115f41a}{Arredondo}{A\bibinitperiod}{Armando}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8b8840abf8acefd41045e9c9c2aeab90}{Rivera-Dommarco}{R\bibinithyphendelim D\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{uniquelist=2}{%
+        {{hash=22447d5bf20dcf6bc42adb0c0362314f}{Barquera}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bb43e0dea1440d9cce30bafa1a9b409d}{Campos-Nonato}{C\bibinithyphendelim N\bibinitperiod}{Ismael}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=a539ee608f773ade7e0af0507df9d32e}{Aguilar-Salinas}{A\bibinithyphendelim S\bibinitperiod}{Carlos}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f1aa9a58ed3957df403da93e3940a067}{Lopez-Ridaura}{L\bibinithyphendelim R\bibinitperiod}{Ruy}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=002da3e40f065712068f67fbe115f41a}{Arredondo}{A\bibinitperiod}{Armando}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8b8840abf8acefd41045e9c9c2aeab90}{Rivera-Dommarco}{R\bibinithyphendelim D\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{246c438a7d213d93301a197f5f69d448}
+      \strng{fullhash}{4e46bb4d137a4a055aa7b61de162a936}
+      \field{sortinit}{B}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes in Mexico: cost and management of diabetes and its complications and challenges for health policy}}
+      \field{abstract}{BACKGROUND: Mexico has been experiencing some of the most rapid shifts ever recorded in dietary and physical activity patterns leading to obesity. Diabetes mellitus has played a crucial role causing nearly 14{\%} of all deaths. We wanted to make a comprehensive study of the role of diabetes in terms of burden of disease, prevalence, cost of diabetes, cost of complications and health policy. METHOD: We review the quantitative data that provides evidence of the extent to which the Mexican health economy is affected by the disease and its complications. We then discuss the current situation of diabetes in Mexico with experts in the field. RESULTS: There was a significant increase in the prevalence of diabetes from 1994 to 2006 with rising direct costs (2006: outpatient USD{\$} 717,764,787, inpatient USD{\$} 223,581,099) and indirect costs (2005: USD{\$} 177,220,390), and rising costs of complications (2010: Retinopathy USD{\$} 10,323,421; Cardiovascular disease USD{\$} 12,843,134; Nephropathy USD{\$} 81,814,501; Neuropathy USD{\$} 2,760,271; Peripheral vascular disease USD{\$} 2,042,601). The health policy focused on screening and the creation of self-support groups across the country. CONCLUSIONS: The increasing diabetes mortality and lack of control among diagnosed patients make quality of treatment a major concern in Mexico. The growing prevalence of childhood and adult obesity and the metabolic syndrome suggest that the situation could be even worse in the coming years. The government has reacted strongly with national actions to address the growing burden posed by diabetes. However our research suggests that the prevalence and mortality of diabetes will continue to rise in the future.}
+      \field{issn}{1744-8603}
+      \field{journaltitle}{Globalization and Health}
+      \field{number}{1}
+      \field{title}{{Diabetes in Mexico: cost and management of diabetes and its complications and challenges for health policy}}
+      \field{volume}{9}
+      \field{year}{2013}
+      \field{pages}{3}
+      \verb{doi}
+      \verb 10.1186/1744-8603-9-3
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Barquera et al. - 2013 - Diabetes in Mexico cost and management of diabetes and its complications and challenges for health policy.pdf:pdf
+      \endverb
+      \keyw{Adult,Cost of Illness,Diabetes Complications,Diabetes Complications: economics,Diabetes Complications: epidemiology,Diabetes Complications: therapy,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: epidemiology,Diabetes Mellitus: therapy,Female,Health Policy,Humans,Male,Mexico,Mexico: epidemiology,Middle Aged}
+    \endentry
+    \entry{Barquera2008b}{article}{}
+      \name{labelname}{7}{uniquelist=2}{%
+        {{hash=22447d5bf20dcf6bc42adb0c0362314f}{Barquera}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=46cb6223406fb93ec56e8b9e6d1073f3}{Hernandez-Barrera}{H\bibinithyphendelim B\bibinitperiod}{Lucia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b9f4425ae2e7c8cbd97b3435ebcc5074}{Tolentino}{T\bibinitperiod}{Maria\bibnamedelima Lizbeth}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f95cb5e89f4ef4231c168196f6fb76e6}{Espinosa}{E\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0a86948174c5701989d4fad3ad21795}{Ng}{N\bibinitperiod}{Shu\bibnamedelima Wen}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=5466402c728df07ef132f07720d05c06}{Rivera}{R\bibinitperiod}{Juan\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=59261e8f5fb31c688d8e6a5bcf80a559}{Popkin}{P\bibinitperiod}{Barry\bibnamedelima M}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{uniquelist=2}{%
+        {{hash=22447d5bf20dcf6bc42adb0c0362314f}{Barquera}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=46cb6223406fb93ec56e8b9e6d1073f3}{Hernandez-Barrera}{H\bibinithyphendelim B\bibinitperiod}{Lucia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b9f4425ae2e7c8cbd97b3435ebcc5074}{Tolentino}{T\bibinitperiod}{Maria\bibnamedelima Lizbeth}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f95cb5e89f4ef4231c168196f6fb76e6}{Espinosa}{E\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0a86948174c5701989d4fad3ad21795}{Ng}{N\bibinitperiod}{Shu\bibnamedelima Wen}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=5466402c728df07ef132f07720d05c06}{Rivera}{R\bibinitperiod}{Juan\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=59261e8f5fb31c688d8e6a5bcf80a559}{Popkin}{P\bibinitperiod}{Barry\bibnamedelima M}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{31130720d1f365af05cb2bde9a50049d}
+      \strng{fullhash}{499b8471293760979ba54bf2bcff446d}
+      \field{sortinit}{B}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Energy intake from beverages is increasing among Mexican adolescents and adults.}}
+      \field{abstract}{Little is understood about the patterns and trends in adolescent and adult beverage intake in Mexico or most other countries. Here, we used nationally representative dietary intake, income, and food expenditure surveys, which included 416 adolescents (aged 12-18 y) and 2180 adults (aged {\textgreater}or=19 y) from the 1999 Mexican Nutrition Survey and 7464 adolescents and 21,113 adults from the 2006 Mexican Health and Nutrition Survey. We measured the volume and energy per day contributed by all beverages consumed by the sample subjects. In 2006, Mexican adolescents and adults obtained 20.1 and 22.3{\%}, respectively, of their energy intake from energy-containing beverages. Whole milk, carbonated and noncarbonated sugar-sweetened beverages, fruit juice with various sugar and water combinations added, and alcohol represented the 4 major categories of beverage intake. The trends from the dietary intake surveys showed very large increases in the intake of energy-containing beverages among adolescents and adults between 1999 and 2006. Income elasticities showed a high likelihood that intakes will increase as Mexican incomes continue to rise. Whereas the own-price elasticities for whole milk and sodas were both modest, intakes of these were increasing and higher than those for all other food groups. Energy intake trends and current levels of beverage intakes in Mexico are the highest recorded in a nationally representative survey and present major challenges for public health authorities.}
+      \field{issn}{1541-6100}
+      \field{journaltitle}{The Journal of nutrition}
+      \field{number}{12}
+      \field{title}{{Energy intake from beverages is increasing among Mexican adolescents and adults.}}
+      \field{volume}{138}
+      \field{year}{2008}
+      \field{pages}{2454\bibrangedash 61}
+      \verb{doi}
+      \verb 10.3945/jn.108.092163
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop//Barquera et al. - 2008 - Energy intake from beverages is increasing among Mexican adolescents and adults.pdf:pdf
+      \endverb
+      \keyw{Adolescent,Adult,Beverages,Beverages: adverse effects,Child,Diabetes Mellitus,Energy Intake,Female,Food Habits,Humans,Male,Mexico,Middle Aged,Nutrition Surveys,Obesity,Obesity: etiology,Socioeconomic Factors,Type 2,Type 2: etiology,Young Adult}
+    \endentry
+    \entry{Basu2013}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=e00817d8efb38870f5d183ae61e86f7d}{Basu}{B\bibinitperiod}{Sanjay}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e76ac50e5eb223e8b56360cbdc5b307a}{Yoffe}{Y\bibinitperiod}{Paula}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a8a679b6ba32f96ec2459131f18a04bc}{Hills}{H\bibinitperiod}{Nancy}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cbbe6604698427fe0d85b2baaf65beb6}{Lustig}{L\bibinitperiod}{Robert\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e00817d8efb38870f5d183ae61e86f7d}{Basu}{B\bibinitperiod}{Sanjay}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e76ac50e5eb223e8b56360cbdc5b307a}{Yoffe}{Y\bibinitperiod}{Paula}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a8a679b6ba32f96ec2459131f18a04bc}{Hills}{H\bibinitperiod}{Nancy}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cbbe6604698427fe0d85b2baaf65beb6}{Lustig}{L\bibinitperiod}{Robert\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{754151ce937f5a5ef069ed5387ed34fe}
+      \strng{fullhash}{62bcb6dc426ea7d0f19d7ca2651b753e}
+      \field{sortinit}{B}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The relationship of sugar to population-level diabetes prevalence: an econometric analysis of repeated cross-sectional data.}}
+      \field{abstract}{While experimental and observational studies suggest that sugar intake is associated with the development of type 2 diabetes, independent of its role in obesity, it is unclear whether alterations in sugar intake can account for differences in diabetes prevalence among overall populations. Using econometric models of repeated cross-sectional data on diabetes and nutritional components of food from 175 countries, we found that every 150 kcal/person/day increase in sugar availability (about one can of soda/day) was associated with increased diabetes prevalence by 1.1{\%} (p {\textless}0.001) after testing for potential selection biases and controlling for other food types (including fibers, meats, fruits, oils, cereals), total calories, overweight and obesity, period-effects, and several socioeconomic variables such as aging, urbanization and income. No other food types yielded significant individual associations with diabetes prevalence after controlling for obesity and other confounders. The impact of sugar on diabetes was independent of sedentary behavior and alcohol use, and the effect was modified but not confounded by obesity or overweight. Duration and degree of sugar exposure correlated significantly with diabetes prevalence in a dose-dependent manner, while declines in sugar exposure correlated with significant subsequent declines in diabetes rates independently of other socioeconomic, dietary and obesity prevalence changes. Differences in sugar availability statistically explain variations in diabetes prevalence rates at a population level that are not explained by physical activity, overweight or obesity.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PloS ONE}
+      \field{number}{2}
+      \field{title}{{The relationship of sugar to population-level diabetes prevalence: an econometric analysis of repeated cross-sectional data.}}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{e57873}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0057873
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop//Basu et al. - 2013 - The Relationship of Sugar to Population-Level Diabetes Prevalence An Econometric Analysis of Repeated Cross-Section.pdf:pdf
+      \endverb
+      \keyw{Adult,Aged,Carbohydrates,Carbohydrates: analysis,Cross-Sectional Studies,Diabetes Mellitus,Econometric,Energy Intake,Humans,Middle Aged,Models,Obesity,Obesity: epidemiology,Prevalence,Selection Bias,Type 2,Type 2: epidemiology,Young Adult}
+    \endentry
+    \entry{Bellamy2009}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=585572d84836b4ef7cee65129f73478d}{Bellamy}{B\bibinitperiod}{Leanne}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=0435d5501c7ad12b97e15517f493e5aa}{Casas}{C\bibinitperiod}{Juan-Pablo}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=524cea3cb7a1df6233298316893f89dd}{Hingorani}{H\bibinitperiod}{Aroon\bibnamedelima D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d1e72ac43350dd0d17b7cb6776696ca6}{Williams}{W\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=585572d84836b4ef7cee65129f73478d}{Bellamy}{B\bibinitperiod}{Leanne}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=0435d5501c7ad12b97e15517f493e5aa}{Casas}{C\bibinitperiod}{Juan-Pablo}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=524cea3cb7a1df6233298316893f89dd}{Hingorani}{H\bibinitperiod}{Aroon\bibnamedelima D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d1e72ac43350dd0d17b7cb6776696ca6}{Williams}{W\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{a22bddf8d082dd93bad9b273511fcbe2}
+      \strng{fullhash}{f6530ccf145a99e1ac1a29bf7f96e550}
+      \field{sortinit}{B}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Type 2 diabetes mellitus after gestational diabetes: a systematic review and meta-analysis.}}
+      \field{abstract}{BACKGROUND: Women with gestational diabetes are at increased risk of developing type 2 diabetes, but the risk and time of onset have not been fully quantified. We therefore did a comprehensive systematic review and meta-analysis to assess the strength of association between these conditions and the effect of factors that might modify the risk. METHODS: We identified cohort studies in which women who had developed type 2 diabetes after gestational diabetes were followed up between Jan 1, 1960, and Jan 31, 2009, from Embase and Medline. 205 relevant reports were hand searched. We selected 20 studies that included 675 455 women and 10 859 type 2 diabetic events. We calculated and pooled unadjusted relative risks (RRs) with 95{\%} CIs for each study using a random-effects model. Subgroups analysed were the number of cases of type 2 diabetes, ethnic origin, duration of follow-up, maternal age, body-mass index, and diagnostic criteria. FINDINGS: Women with gestational diabetes had an increased risk of developing type 2 diabetes compared with those who had a normoglycaemic pregnancy (RR 7.43, 95{\%} CI 4.79-11.51). Although the largest study (659 164 women; 9502 cases of type 2 diabetes) had the largest RR (12.6, 95{\%} CI 12.15-13.19), RRs were generally consistent among the subgroups assessed. INTERPRETATION: Increased awareness of the magnitude and timing of the risk of type 2 diabetes after gestational diabetes among patients and clinicians could provide an opportunity to test and use dietary, lifestyle, and pharmacological interventions that might prevent or delay the onset of type 2 diabetes in affected women. FUNDING: None.}
+      \field{issn}{1474-547X}
+      \field{journaltitle}{Lancet}
+      \field{number}{9677}
+      \field{title}{{Type 2 diabetes mellitus after gestational diabetes: a systematic review and meta-analysis.}}
+      \field{volume}{373}
+      \field{year}{2009}
+      \field{pages}{1773\bibrangedash 9}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(09)60731-5
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Bellamy et al. - 2009 - Type 2 diabetes mellitus after gestational diabetes a systematic review and meta-analysis.pdf:pdf
+      \endverb
+      \keyw{Adolescent,Adult,Aftercare,Bias (Epidemiology),Cohort Studies,Diabetes,Diabetes Mellitus,Female,Gestational,Gestational: epidemiology,Gestational: etiology,Glucose Tolerance Test,Humans,Maternal Age,Middle Aged,Postnatal Care,Pregnancy,Research Design,Retrospective Studies,Risk Assessment,Risk Factors,Risk Reduction Behavior,Type 2,Type 2: diagnosis,Type 2: epidemiology,Type 2: etiology,Type 2: prevention {\&} control,Young Adult}
+    \endentry
+    \entry{Brown2005}{article}{}
+      \name{labelname}{3}{uniquelist=2}{%
+        {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{uniquelist=2}{%
+        {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1014a2e2888957eb52a7d59d418c3374}
+      \strng{fullhash}{fcec57d6f639685609f85d6ccf8af1d4}
+      \field{sortinit}{B}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The impact of diabetes on employment: genetic IVs in a bivariate probit.}}
+      \field{abstract}{Diabetes has been shown to have a detrimental impact on employment and labor market productivity, which results in lost work days and higher mortality/disability. This study utilizes data from the Border Epidemiologic Study on Aging to analyze the endogeneity of diabetes in an employment model. We use family history of diabetes as genetic instrumental variables. We show that assuming that diabetes is an exogenous variable results in an overestimate (underestimate) of the negative impact of diabetes on female (male) employment. Our results are particularly relevant in the case of populations where genetic predisposition has an important role in the etiology of diabetes.}
+      \field{issn}{1057-9230}
+      \field{journaltitle}{Health economics}
+      \field{number}{5}
+      \field{title}{{The impact of diabetes on employment: genetic IVs in a bivariate probit.}}
+      \field{volume}{14}
+      \field{year}{2005}
+      \field{pages}{537\bibrangedash 44}
+      \verb{doi}
+      \verb 10.1002/hec.942
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Brown, Pag{\'{a}}n, Bastida - 2005 - The impact of diabetes on employment genetic IVs in a bivariate probit.pdf:pdf
+      \endverb
+      \keyw{Absenteeism,African Americans,African Americans: genetics,African Americans: statistics {\&} numerical data,Aged,Cost of Illness,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: ethnology,Diabetes Mellitus: genetics,Efficiency,Employment,Employment: statistics {\&} numerical data,Female,Humans,Male,Mexican Americans,Mexican Americans: genetics,Mexican Americans: statistics {\&} numerical data,Middle Aged,Models,Poverty,Poverty: economics,Poverty: ethnology,Statistical,Texas,Texas: epidemiology}
+    \endentry
+    \entry{BrownIII2011}{article}{}
+      \name{labelname}{7}{uniquelist=2}{%
+        {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=c0fac0225ac87bfa6b9713f274271f3a}{Perez}{P\bibinitperiod}{Adriana}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=80e6dbba3d77c460f65dd58b0ce36415}{Yarnell}{Y\bibinitperiod}{Lisa\bibnamedelima Marie}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=fd23a0cd5aec6370324a15637b697d35}{Pagan}{P\bibinitperiod}{Jose\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=33646e04f4ecce7abf9425e618cfe807}{Hanis}{H\bibinitperiod}{Craig\bibnamedelima L}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=50a9252e6b4f180d80798a9bf11aea4f}{Fischer-Hoch}{F\bibinithyphendelim H\bibinitperiod}{Susan\bibnamedelima P}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=0c954c571c4256c5d4c28c89f3ee787d}{McCormick}{M\bibinitperiod}{Joseph\bibnamedelima B}{J\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{uniquelist=2}{%
+        {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=c0fac0225ac87bfa6b9713f274271f3a}{Perez}{P\bibinitperiod}{Adriana}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=80e6dbba3d77c460f65dd58b0ce36415}{Yarnell}{Y\bibinitperiod}{Lisa\bibnamedelima Marie}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=fd23a0cd5aec6370324a15637b697d35}{Pagan}{P\bibinitperiod}{Jose\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=33646e04f4ecce7abf9425e618cfe807}{Hanis}{H\bibinitperiod}{Craig\bibnamedelima L}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=50a9252e6b4f180d80798a9bf11aea4f}{Fischer-Hoch}{F\bibinithyphendelim H\bibinitperiod}{Susan\bibnamedelima P}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=0c954c571c4256c5d4c28c89f3ee787d}{McCormick}{M\bibinitperiod}{Joseph\bibnamedelima B}{J\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{35a2a9aad2636783e90803f9e152fd15}
+      \strng{fullhash}{1d727dc71a61d1b9d13be58ee0b8d624}
+      \field{sortinit}{B}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes and employment productivity: does diabetes management matter?}}
+      \field{abstract}{OBJECTIVE To determine whether labor market effects were the result of diabetes per se or rather depended on the degree to which diabetes was controlled through management of blood sugar levels. METHODS This study utilized data from a recently completed survey of households in Brownsville, Texas, a largely Mexican American community with a high prevalence of diabetes that is located on the Texas-Mexico border. Diabetes management, or control, was measured by blood sugar levels, glycosylated hemoglobin (A1C) levels, and interaction terms. Methods used were probit and Heckman regression. RESULTS Management of diabetes did not appear to have a discernible impact on labor market outcomes in the short run. However, diabetes was negatively associated with male productivity, particularly in males' propensity to work. The new American Diabetes Association (ADA) definition of diabetes is based on having an A1C level of {\textless}6.5{\%}. Using the new ADA definition, diabetes was negatively associated with female productivity. Female productivity was also negatively associated with the new ADA definition of prediabetes (A1C levels between 5.7{\%} and 6.4{\%}). However, very few people with diabetes actually controlled their blood sugar or A1C levels. CONCLUSION These results imply that in order to avoid productivity losses associated with diabetes, more scarce prevention resources should be spent on prevention of the onset of diabetes than on the management of A1C for those already diagnosed with diabetes. For women, the prevention of prediabetes is key.}
+      \field{isbn}{1088-0224}
+      \field{issn}{1936-2692}
+      \field{journaltitle}{The American journal of managed care}
+      \field{number}{8}
+      \field{title}{{Diabetes and employment productivity: does diabetes management matter?}}
+      \field{volume}{17}
+      \field{year}{2011}
+      \field{pages}{569\bibrangedash 576}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Brown I I I et al. - 2011 - Diabetes and employment productivity does diabetes management matter.pdf:pdf
+      \endverb
+      \keyw{*diabetes mellitus,*employment,*job performance,*productivity,Diabetes Mellitus,Employment,Humans,Mexican Americans,Texas,Till,United States,adult,all,article,community,disease control,download,embase,extracted,female,glucose blood level,glucose/ec [Endogenous Compound],health survey,hemoglobin A1c/ec [Endogenous Compound],human,included,major clinical study,male,newsearch,prevalence,priority journal,pubmed,relevant,reviewed,selected{\_}papers,statistical model,work environment}
+    \endentry
+    \entry{Brown2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=17afece971fa44fa2f221a33bde037a2}{Brown}{B\bibinitperiod}{Timothy\bibnamedelima Tyler}{T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=17afece971fa44fa2f221a33bde037a2}{Brown}{B\bibinitperiod}{Timothy\bibnamedelima Tyler}{T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{17afece971fa44fa2f221a33bde037a2}
+      \strng{fullhash}{17afece971fa44fa2f221a33bde037a2}
+      \field{sortinit}{B}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{How effective are public health departments at preventing mortality?}}
+      \field{abstract}{This study estimates the causal impact of variation in the expenditures of California county departments of public health on all-cause mortality rates and the associated value of lives saved. Since the activities of county departments of public health are likely to affect mortality rates with a lag, Koyck distributed lag models are estimated using the Lewbel instrumental variables estimator. The findings show that an additional {\$}10 per capita of public health expenditures reduces all-cause mortality by 9.1 deaths per 100,000. At current funding levels, the long-run annual number of lives saved by the presence of county departments of public health in California is estimated to be approximately 27,000 (26,937 lives, 95{\%} confidence interval: [11,963, 41,911]). The annual value of these lives is estimated to be worth {\$}212.8 billion using inflation-adjusted standard U.S. government estimates of the value of a statistical life ({\$}7.9 million).}
+      \field{issn}{1873-6130}
+      \field{journaltitle}{Economics and human biology}
+      \field{title}{{How effective are public health departments at preventing mortality?}}
+      \field{volume}{13}
+      \field{year}{2014}
+      \field{pages}{34\bibrangedash 45}
+      \verb{doi}
+      \verb 10.1016/j.ehb.2013.10.001
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Brown - 2014 - How effective are public health departments at preventing mortality.pdf:pdf
+      \endverb
+      \keyw{80 and over,Adolescent,Adult,Age Factors,Aged,California,Delivery of Health Care,Delivery of Health Care: economics,Delivery of Health Care: statistics {\&} numerical da,Economic,Female,Humans,Lewbel,Male,Mental Health,Mental Health: economics,Mental Health: statistics {\&} numerical data,Middle Aged,Models,Mortality,Mortality: trends,Public Health,Public Health Practice,Public Health Practice: statistics {\&} numerical dat,Public Health: economics,Residence Characteristics,Sex Factors,Socioeconomic Factors,Substance-Related Disorders,Substance-Related Disorders: economics,Substance-Related Disorders: epidemiology,Young Adult}
+    \endentry
+    \entry{Filmer2001}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1375397d7e52b76818bfb8287309c495}{Filmer}{F\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2c139a9b594a453a74d3168d7af30382}{Pritchett}{P\bibinitperiod}{LH}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1375397d7e52b76818bfb8287309c495}{Filmer}{F\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2c139a9b594a453a74d3168d7af30382}{Pritchett}{P\bibinitperiod}{LH}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e14fe4660d4bdcf146a0cd0ecfb24b66}
+      \strng{fullhash}{e14fe4660d4bdcf146a0cd0ecfb24b66}
+      \field{sortinit}{F}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Estimating wealth effects without expenditure data-Or tears: An application to educational enrollments in states of India}}
+      \field{journaltitle}{Demography}
+      \field{number}{1}
+      \field{title}{{Estimating wealth effects without expenditure data-Or tears: An application to educational enrollments in states of India}}
+      \field{volume}{38}
+      \field{year}{2001}
+      \field{pages}{115\bibrangedash 132}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Filmer, Pritchett - 2001 - Estimating wealth effects without expenditure data-Or tears An application to educational enrollments in stat.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Frankenberg2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=4bde70c93d230738bd333deea7fbbc6b}{Frankenberg}{F\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=952a7ddfa4885eeee6139a0517aac9d4}{Ho}{H\bibinitperiod}{Jessica\bibnamedelima Y.}{J\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=19a8bfbe1e99a8af15e5becbb9a52635}{Thomas}{T\bibinitperiod}{Duncan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=4bde70c93d230738bd333deea7fbbc6b}{Frankenberg}{F\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=952a7ddfa4885eeee6139a0517aac9d4}{Ho}{H\bibinitperiod}{Jessica\bibnamedelima Y.}{J\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=19a8bfbe1e99a8af15e5becbb9a52635}{Thomas}{T\bibinitperiod}{Duncan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{0004c401a8a77abec5011180b7aa624b}
+      \strng{fullhash}{99d422640a9239bdc5c1253b43becbf8}
+      \field{sortinit}{F}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Biological Health Risks and Economic Development}}
+      \field{series}{NBER Working Paper 21277}
+      \field{title}{{Biological Health Risks and Economic Development}}
+      \field{year}{2015}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Frankenberg, Ho, Thomas - 2015 - Biological Health Risks and Economic Development.pdf:pdf
+      \endverb
+    \endentry
+    \entry{InternationalDiabetesFederation2013}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7385de445dfbe5dccb8159ecc664779a}{{International\bibnamedelimb Diabetes\bibnamedelimb Federation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7385de445dfbe5dccb8159ecc664779a}{{International\bibnamedelimb Diabetes\bibnamedelimb Federation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {International Diabetes Federation}%
+      }
+      \strng{namehash}{7385de445dfbe5dccb8159ecc664779a}
+      \strng{fullhash}{7385de445dfbe5dccb8159ecc664779a}
+      \field{sortinit}{I}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes Atlas 2014 Update}}
+      \field{edition}{6}
+      \field{title}{{Diabetes Atlas 2014 Update}}
+      \field{year}{2014}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop//International Diabetes Federation - 2009 - IDF Diabetes Atlas.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Latif2009}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=df8559c7af61bd89055225ac6d78c476}{Latif}{L\bibinitperiod}{Ehsan}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=df8559c7af61bd89055225ac6d78c476}{Latif}{L\bibinitperiod}{Ehsan}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons}%
+      }
+      \strng{namehash}{df8559c7af61bd89055225ac6d78c476}
+      \strng{fullhash}{df8559c7af61bd89055225ac6d78c476}
+      \field{sortinit}{L}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The impact of diabetes on employment in Canada.}}
+      \field{abstract}{This paper examines the impact of diabetes on the employment of Canadian males and females ages 15-64. Using data from the National Population Health Survey (1998), it utilizes a recursive bivariate probit approach to take into account the potential endogeneity of diabetes in employment outcomes. The results suggest that treating diabetes as exogenous yields an over-estimation of its impact on male employment. The study finds that diabetes has a significant negative impact on female employment probability, but has no significant impact on that of non-white Canadians. An implication thus is that policy-makers should take endogeneity into account in estimating labor market costs of chronic diseases such as diabetes.}
+      \field{annotation}{From Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) From Duplicate 1 ( The impact of diabetes on employment in Canada. - Latif, Ehsan ) From Duplicate 2 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, E. ) And Duplicate 4 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) And Duplicate 5 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 6 ( The impact of diabetes on employment in canada - Economics, Health; Latif, Ehsan ) From Duplicate 2 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) From Duplicate 1 ( The impact of diabetes on employment in Canada. - Latif, Ehsan ) From Duplicate 2 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, E. ) And Duplicate 4 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) And Duplicate 5 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 6 ( The impact of diabetes on employment in canada - Economics, Health; Latif, Ehsan ) From Duplicate 5 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) From Duplicate 1 ( The impact of diabetes on employment in Canada - E., Latif ) From Duplicate 8 ( The impact of diabetes on employment in Canada. - Latif, Ehsan ) From Duplicate 2 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, E. ) And Duplicate 4 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) And Duplicate 5 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 6 ( The impact of diabetes on employment in canada - Economics, Health; Latif, Ehsan )}
+      \field{isbn}{1057-9230}
+      \field{issn}{1099-1050}
+      \field{journaltitle}{Health economics}
+      \field{number}{5}
+      \field{title}{{The impact of diabetes on employment in Canada.}}
+      \field{volume}{18}
+      \field{year}{2009}
+      \field{pages}{577\bibrangedash 89}
+      \verb{doi}
+      \verb 10.1002/hec.1390
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Latif - 2009 - The impact of diabetes on employment in Canada(2).pdf:pdf;:home/till/Dokumente/Mendeley Desktop//Latif - 2009 - The impact of diabetes on employment in Canada(2).pdf:pdf
+      \endverb
+      \keyw{Adolescent,Adult,Canada,Diabetes Mellitus,Diabetes Mellitus: ethnology,ECONLIT,EMBASE,Employment,Female,Health Surveys,Humans,Male,Middle Aged,Young Adult,download,duplicates,econlit,embase,embase2,newsearch,oldsearch,pubmed,relevant}
+    \endentry
+    \entry{Liu2014}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d8f424eac24a0528d763da424402527b}{Liu}{L\bibinitperiod}{Xiaoou}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=78c6e8f414f28c863790e381ab51a773}{Zhu}{Z\bibinitperiod}{Chen}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d8f424eac24a0528d763da424402527b}{Liu}{L\bibinitperiod}{Xiaoou}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=78c6e8f414f28c863790e381ab51a773}{Zhu}{Z\bibinitperiod}{Chen}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6c8d7fc72fbaee5201930d3182738f0e}
+      \strng{fullhash}{6c8d7fc72fbaee5201930d3182738f0e}
+      \field{sortinit}{L}
+      \field{labelyear}{2014}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Will knowing diabetes affect labor income? Evidence from a natural experiment}}
+      \field{issn}{01651765}
+      \field{journaltitle}{Economics Letters}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{{Will knowing diabetes affect labor income? Evidence from a natural experiment}}
+      \field{volume}{124}
+      \field{year}{2014}
+      \field{pages}{74\bibrangedash 78}
+      \verb{doi}
+      \verb 10.1016/j.econlet.2014.04.019
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Liu, Zhu - 2014 - Will knowing diabetes affect labor income Evidence from a natural experiment.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Minor2013}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
+      \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
+      \field{sortinit}{M}
+      \field{labelyear}{2013}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{An investigation into the effect of type I and type II diabetes duration on employment and wages}}
+      \field{abstract}{Using data from the National Longitudinal Survey of Youth 1979, the current study examines the effect of type I and type II diabetes on employment status and wages. The results suggest that both the probability of employment and wages are negatively related to the number of years since the initial diagnosis of diabetes. Moreover, the effect of diabetes duration on the probability of employment appears to be nonlinear, peaking around 16 years for females and 10 years for males. A similar negative effect on wages is found only in male diabetics. Finally, the results suggest that failure to distinguish between type I and type II diabetics may lead to some counterintuitive results.}
+      \field{issn}{1570677X}
+      \field{journaltitle}{Economics {\&} Human Biology}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{An investigation into the effect of type I and type II diabetes duration on employment and wages}}
+      \field{volume}{11}
+      \field{year}{2013}
+      \field{pages}{534\bibrangedash 544}
+      \verb{doi}
+      \verb 10.1016/j.ehb.2013.04.004
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Minor - 2013 - An investigation into the effect of type I and type II diabetes duration on employment and wages.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Rubalcava2013}{unpublished}{}
+      \name{labelname}{2}{}{%
+        {{hash=5a3d2adb60d59bd52aa39d196314429e}{Rubalcava}{R\bibinitperiod}{Luis}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=99452037588909f0d341db0f2d5094a1}{Teruel}{T\bibinitperiod}{Graciela}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5a3d2adb60d59bd52aa39d196314429e}{Rubalcava}{R\bibinitperiod}{Luis}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=99452037588909f0d341db0f2d5094a1}{Teruel}{T\bibinitperiod}{Graciela}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{941a377773bb61062055cd3c02b29636}
+      \strng{fullhash}{941a377773bb61062055cd3c02b29636}
+      \field{sortinit}{R}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{User's Guide for the Mexican Family Life Survey Third Round}}
+      \field{title}{{User's Guide for the Mexican Family Life Survey Third Round}}
+      \field{year}{2013}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Rubalcava, Teruel - 2013 - User's Guide for the Mexican Family Life Survey Third Round.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Seuring2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=d24331a0c933ad61da85a34c65b30ff8}{Seuring}{S\bibinitperiod}{Till}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=d8fb21d96662a55fe9609fc990f4d00e}{Goryakin}{G\bibinitperiod}{Yevgeniy}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f2d6b1d2772c5e287338e266972983b8}{Suhrcke}{S\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d24331a0c933ad61da85a34c65b30ff8}{Seuring}{S\bibinitperiod}{Till}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=d8fb21d96662a55fe9609fc990f4d00e}{Goryakin}{G\bibinitperiod}{Yevgeniy}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f2d6b1d2772c5e287338e266972983b8}{Suhrcke}{S\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9063c166373dbf69362cd992d9fc31e3}
+      \strng{fullhash}{29003dd58dd7d7be2d6eb8e0b7281c6f}
+      \field{sortinit}{S}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The impact of diabetes on employment in Mexico}}
+      \field{abstract}{This study explores the impact of diabetes on employment in Mexico using data from the Mexican Family Life Survey (MxFLS) (2005), taking into account the possible endogeneity of diabetes via an instrumental variable estimation strategy. We find that diabetes significantly decreases employment probabilities for men by about 10 percentage points (p{\textless} 0.01) and somewhat less so for women — 4.5 percentage points (p{\textless} 0.1) — without any indication of diabetes being endogenous. Further analysis shows that diabetes mainly affects the employment probabilities of men and women above the age of 44 and also has stronger effects on the poor than on the rich, particularly for men. We also find some indication for more adverse effects of diabetes on those in the large informal labour market compared to those in formal employment. Our results highlight — for the first time — the detrimental employment impact of diabetes in a developing country.}
+      \field{issn}{1570677X}
+      \field{journaltitle}{Economics {\&} Human Biology}
+      \field{title}{{The impact of diabetes on employment in Mexico}}
+      \field{volume}{18}
+      \field{year}{2015}
+      \field{pages}{85\bibrangedash 100}
+      \verb{doi}
+      \verb 10.1016/j.ehb.2015.04.002
+      \endverb
+      \keyw{Diabetes,Employment,I10,Instrumental variable,J01,Mexico,employment}
+    \endentry
+    \entry{Sicree2009}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=de859db97624ca61fbd59a9a28da1456}{Sicree}{S\bibinitperiod}{By\bibnamedelima Richard}{B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=1e51275f26a65eceeff3708b039a646c}{Shaw}{S\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=64c9288020eb17a245cfe45d22b1641c}{Zimmet}{Z\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=de859db97624ca61fbd59a9a28da1456}{Sicree}{S\bibinitperiod}{By\bibnamedelima Richard}{B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=1e51275f26a65eceeff3708b039a646c}{Shaw}{S\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=64c9288020eb17a245cfe45d22b1641c}{Zimmet}{Z\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {International Diabetes Federation}%
+      }
+      \list{location}{1}{%
+        {Brussels, Belgium}%
+      }
+      \list{publisher}{1}{%
+        {International Diabetes Federation}%
+      }
+      \strng{namehash}{217d12422f55b68e477276611c5b3767}
+      \strng{fullhash}{7f9229bd49136e8b0fdb995729fc31dc}
+      \field{sortinit}{S}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The Global Burden: Diabetes and Impaired Glucose Tolerance}}
+      \field{abstract}{Diabetes is now one of the most common non-communicable diseases globally. It is the fourth or fifth leading cause of death in most high-income countries and there is substantial evidence that it is epidemic in many low- and middle-income countries. Complications from diabetes, such as coronary artery and peripheral vascular disease, stroke, diabetic neuropathy, amputations, renal failure and blindness are resulting in increasing disability, reduced life expectancy and enormous health costs for virtually every society. Diabetes is certain to be one of the most challenging health problems in the 21st century. The number of studies describing the epidemiology of diabetes over the last 20 years has been extraordinary. It is now recognized that it is the developing countries that presently face the greatest burden of diabetes. However, many governments and public health planners still remain largely unaware of the current magnitude, or, more importantly, the future potential for increases in diabetes and its serious complications in their own countries. In addition to diabetes, the condition of impaired glucose tolerance (IGT) also constitutes a major public health problem, both because of its association with diabetes incidence and its own association with an increased risk of the development of cardiovascular disease. The data presented in this report should be cautiously interpreted as general indicators of diabetes frequency, and the estimates will need to be revised as new and better epidemiological information becomes available. When reporting data in this form, various assumptions need to be made that give rise to a number of limitations. Caution should be used when interpreting data and their limitations will be discussed further throughout the text. Comparison of country, regional, and even global rates from one report to the next can be misleading and should be performed with extreme caution. Large changes in the prevalence or numbers of people with diabetes from one edition of the Diabetes Atlas to another are usually due to the use of a more recent study rather than a genuine change in the profile of diabetes within that country. Thus, the inclusion of recent, and more reliable research brings us closer to the actual rates of diabetes, but also brings with it dangers in comparing global reports and estimates over time. These limitations need to always be considered, and the reader must realize that the key purpose of reports such as these is to stimulate action in the form of preventive and management programmes, as well as further research.}
+      \field{booktitle}{Diabetes Atlas}
+      \field{title}{{The Global Burden: Diabetes and Impaired Glucose Tolerance}}
+      \field{year}{2011}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop//Sicree, Shaw, Zimmet - 2011 - The Global Burden Diabetes and Impaired Glucose Tolerance.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Villalpando2010}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=be3b4431ac98d0aab464884f42958ac9}{Villalpando}{V\bibinitperiod}{Salvador}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2f831b576efc9f8b4381297ce22118b2}{Cruz}{C\bibinitperiod}{Vanessa}{V\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+        {{hash=695115ad7b3aa20c185ef5278f34dc78}{Rojas}{R\bibinitperiod}{Rosalba}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=282f0e973ea6255196e8fb9fc77db6b9}{Shamah-Levy}{S\bibinithyphendelim L\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=28edb4361e5fd5c08a361167e60657d8}{Avila}{A\bibinitperiod}{Marco\bibnamedelima Antonio}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=440c08e3b70003bdf3092333b2224a57}{Gaona}{G\bibinitperiod}{Berenice}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=9a092f23f625ef03049267ff9a66d772}{Rebollar}{R\bibinitperiod}{Rosario}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=45f48b69787dd49ca84ad17edea47407}{Hern{\'{a}}ndez}{H\bibinitperiod}{Lucia}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=be3b4431ac98d0aab464884f42958ac9}{Villalpando}{V\bibinitperiod}{Salvador}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2f831b576efc9f8b4381297ce22118b2}{Cruz}{C\bibinitperiod}{Vanessa}{V\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+        {{hash=695115ad7b3aa20c185ef5278f34dc78}{Rojas}{R\bibinitperiod}{Rosalba}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=282f0e973ea6255196e8fb9fc77db6b9}{Shamah-Levy}{S\bibinithyphendelim L\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=28edb4361e5fd5c08a361167e60657d8}{Avila}{A\bibinitperiod}{Marco\bibnamedelima Antonio}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=440c08e3b70003bdf3092333b2224a57}{Gaona}{G\bibinitperiod}{Berenice}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=9a092f23f625ef03049267ff9a66d772}{Rebollar}{R\bibinitperiod}{Rosario}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=45f48b69787dd49ca84ad17edea47407}{Hern{\'{a}}ndez}{H\bibinitperiod}{Lucia}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b7c59153a3e744d20e49b8fd46381546}
+      \strng{fullhash}{2f741cf04d13cf3bcd7d3610d32e45f7}
+      \field{sortinit}{V}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Prevalence and distribution of type 2 diabetes mellitus in Mexican adult population: a probabilistic survey.}}
+      \field{abstract}{OBJECTIVE: To describe the prevalence, distribution and degree of control of type 2 diabetes (T2D) in Mexican population. MATERIAL AND METHODS: Subjects were classified as previously diagnosed T2D (PD); or as "finding of the survey" (FS) (glucose {\textgreater}or=126 mg/dL). Hemoglobin A1c was measured in PD-subjects. RESULTS: The prevalence for PD-T2D was 7.34{\%} (95{\%}CI 6.3, 8.5) and for FS 7.07{\%} (95{\%}CI 6.1, 8.1), summing 14.42{\%}; (7.3 million diabetics). 5.3{\%} of PD-T2D were in good, 38.4{\%} in poor and 56.2{\%} very poor control. Older age (OR=0.96, 95{\%}CI 0.94, 0.97), lower BMI (OR=0.95, 95{\%}CI 0.91, 1.0), were protective for poor control. Affiliation to private services (OR=1.77, 95{\%}CI 0.98, 3.13), larger T2D duration (OR=1.05, 95{\%}CI 1.01, 1.08), and combining oral medication and insulin (OR=16.1, 95{\%}CI 1.61, 161) were riskier. CONCLUSIONS: We found an alarming prevalence of T2D in Mexican population; the majority of PD diabetics are in poor control. Research on the latter is warranted.}
+      \field{issn}{1606-7916}
+      \field{journaltitle}{Salud p{\'{u}}blica de M{\'{e}}xico}
+      \field{number}{1}
+      \field{title}{{Prevalence and distribution of type 2 diabetes mellitus in Mexican adult population: a probabilistic survey.}}
+      \field{volume}{52 Suppl 1}
+      \field{year}{2010}
+      \field{pages}{S19\bibrangedash 26}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Villalpando et al. - 2010 - Prevalence and distribution of type 2 diabetes mellitus in Mexican adult population a probabilistic survey.pdf:pdf
+      \endverb
+      \keyw{80 and over,Adult,Aged,Diabetes Mellitus,Diabetic Diet,Fasting,Fasting: blood,Female,Glycosylated,Glycosylated: analysis,Health Surveys,Hemoglobin A,Humans,Hypoglycemic Agents,Hypoglycemic Agents: therapeutic use,Male,Mexico,Mexico: epidemiology,Middle Aged,Nutrition Surveys,Prevalence,Risk Factors,Rural Population,Sampling Studies,Type 2,Type 2: blood,Type 2: epidemiology,Type 2: therapy,Urban Population,Young Adult}
+    \endentry
+    \entry{Williams2013}{article}{}
+      \name{labelname}{16}{}{%
+        {{hash=9e91449043a1e7e2e41df9b5dc97ede0}{Williams}{W\bibinitperiod}{Amy\bibnamedelima L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f8788d6619dbf298beea0bd609e4d3d2}{Jacobs}{J\bibinitperiod}{Suzanne\bibnamedelimb B.\bibnamedelimi R.}{S\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=6039e0ad00368fea5ab1f68d6081ef2d}{Moreno-Mac{\'{i}}as}{M\bibinithyphendelim M\bibinitperiod}{Hortensia}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=83c8bf85fd23f6de959b6373de63e115}{Huerta-Chagoya}{H\bibinithyphendelim C\bibinitperiod}{Alicia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7a94630c4669e70d9258e38736c33580}{Churchhouse}{C\bibinitperiod}{Claire}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=64c8b8f45070e3ecec4e53de83f01754}{M{\'{a}}rquez-Luna}{M\bibinithyphendelim L\bibinitperiod}{Carla}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=8bbfad70e160f499a12b3cff61d801f4}{Garc{\'{i}}a-Ort{\'{i}}z}{G\bibinithyphendelim O\bibinitperiod}{Humberto}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0fac20b248b1bd25650cffc3d6560d85}{G{\'{o}}mez-V{\'{a}}zquez}{G\bibinithyphendelim V\bibinitperiod}{Mar{\'{i}}a\bibnamedelima Jos{\'{e}}}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6bb1a6bbbb308ce016a985ccb75d112a}{Burtt}{B\bibinitperiod}{No{\"{e}}l\bibnamedelima P.}{N\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=8dd8373a9de5a67a478ab6a30d4a34da}{Aguilar-Salinas}{A\bibinithyphendelim S\bibinitperiod}{Carlos\bibnamedelima a.}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=e63144f43376947073b140b861c7bbf3}{Gonz{\'{a}}lez-Villalpando}{G\bibinithyphendelim V\bibinitperiod}{Clicerio}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=5929acfe1c45de8a981b15fa20e29d7c}{Florez}{F\bibinitperiod}{Jose\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=81b5793d036dd166292c7db80a5fb475}{Orozco}{O\bibinitperiod}{Lorena}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=cb9d30f0327d9bc42053a3de39de34b5}{Haiman}{H\bibinitperiod}{Christopher\bibnamedelima a.}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=22b784f38e4763c7b1a1756949443043}{Tusi{\'{e}}-Luna}{T\bibinithyphendelim L\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b9406b08940a9252ab7ef0ba3a33ab74}{Altshuler}{A\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{16}{}{%
+        {{hash=9e91449043a1e7e2e41df9b5dc97ede0}{Williams}{W\bibinitperiod}{Amy\bibnamedelima L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f8788d6619dbf298beea0bd609e4d3d2}{Jacobs}{J\bibinitperiod}{Suzanne\bibnamedelimb B.\bibnamedelimi R.}{S\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=6039e0ad00368fea5ab1f68d6081ef2d}{Moreno-Mac{\'{i}}as}{M\bibinithyphendelim M\bibinitperiod}{Hortensia}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=83c8bf85fd23f6de959b6373de63e115}{Huerta-Chagoya}{H\bibinithyphendelim C\bibinitperiod}{Alicia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7a94630c4669e70d9258e38736c33580}{Churchhouse}{C\bibinitperiod}{Claire}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=64c8b8f45070e3ecec4e53de83f01754}{M{\'{a}}rquez-Luna}{M\bibinithyphendelim L\bibinitperiod}{Carla}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=8bbfad70e160f499a12b3cff61d801f4}{Garc{\'{i}}a-Ort{\'{i}}z}{G\bibinithyphendelim O\bibinitperiod}{Humberto}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0fac20b248b1bd25650cffc3d6560d85}{G{\'{o}}mez-V{\'{a}}zquez}{G\bibinithyphendelim V\bibinitperiod}{Mar{\'{i}}a\bibnamedelima Jos{\'{e}}}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6bb1a6bbbb308ce016a985ccb75d112a}{Burtt}{B\bibinitperiod}{No{\"{e}}l\bibnamedelima P.}{N\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=8dd8373a9de5a67a478ab6a30d4a34da}{Aguilar-Salinas}{A\bibinithyphendelim S\bibinitperiod}{Carlos\bibnamedelima a.}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=e63144f43376947073b140b861c7bbf3}{Gonz{\'{a}}lez-Villalpando}{G\bibinithyphendelim V\bibinitperiod}{Clicerio}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=5929acfe1c45de8a981b15fa20e29d7c}{Florez}{F\bibinitperiod}{Jose\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=81b5793d036dd166292c7db80a5fb475}{Orozco}{O\bibinitperiod}{Lorena}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=cb9d30f0327d9bc42053a3de39de34b5}{Haiman}{H\bibinitperiod}{Christopher\bibnamedelima a.}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=22b784f38e4763c7b1a1756949443043}{Tusi{\'{e}}-Luna}{T\bibinithyphendelim L\bibinitperiod}{Teresa}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b9406b08940a9252ab7ef0ba3a33ab74}{Altshuler}{A\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f751139aad9c5267445cb62e10b03dce}
+      \strng{fullhash}{debac3b220d0f883a206e2638e95d557}
+      \field{sortinit}{W}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Sequence variants in SLC16A11 are a common risk factor for type 2 diabetes in Mexico.}}
+      \field{abstract}{Performing genetic studies in multiple human populations can identify disease risk alleles that are common in one population but rare in others, with the potential to illuminate pathophysiology, health disparities, and the population genetic origins of disease alleles. Here we analysed 9.2 million single nucleotide polymorphisms (SNPs) in each of 8,214 Mexicans and other Latin Americans: 3,848 with type 2 diabetes and 4,366 non-diabetic controls. In addition to replicating previous findings, we identified a novel locus associated with type 2 diabetes at genome-wide significance spanning the solute carriers SLC16A11 and SLC16A13 (P = 3.9 × 10(-13); odds ratio (OR) = 1.29). The association was stronger in younger, leaner people with type 2 diabetes, and replicated in independent samples (P = 1.1 × 10(-4); OR = 1.20). The risk haplotype carries four amino acid substitutions, all in SLC16A11; it is present at {\~{}}50{\%} frequency in Native American samples and {\~{}}10{\%} in east Asian, but is rare in European and African samples. Analysis of an archaic genome sequence indicated that the risk haplotype introgressed into modern humans via admixture with Neanderthals. The SLC16A11 messenger RNA is expressed in liver, and V5-tagged SLC16A11 protein localizes to the endoplasmic reticulum. Expression of SLC16A11 in heterologous cells alters lipid metabolism, most notably causing an increase in intracellular triacylglycerol levels. Despite type 2 diabetes having been well studied by genome-wide association studies in other populations, analysis in Mexican and Latin American individuals identified SLC16A11 as a novel candidate gene for type 2 diabetes with a possible role in triacylglycerol metabolism.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{number}{7486}
+      \field{title}{{Sequence variants in SLC16A11 are a common risk factor for type 2 diabetes in Mexico.}}
+      \field{volume}{506}
+      \field{year}{2014}
+      \field{pages}{97\bibrangedash 101}
+      \verb{doi}
+      \verb 10.1038/nature12828
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Williams et al. - 2014 - Sequence variants in SLC16A11 are a common risk factor for type 2 diabetes in Mexico.pdf:pdf
+      \endverb
+      \keyw{African Continental Ancestry Group,African Continental Ancestry Group: genetics,Alleles,Animals,Asian Continental Ancestry Group,Asian Continental Ancestry Group: genetics,Cohort Studies,Diabetes Mellitus,Endoplasmic Reticulum,Endoplasmic Reticulum: genetics,European Continental Ancestry Group,European Continental Ancestry Group: genetics,Female,Genetic Predisposition to Disease,Genetic Predisposition to Disease: genetics,Genome-Wide Association Study,Haplotypes,Haplotypes: genetics,HeLa Cells,Humans,Indians,Lipid Metabolism,Lipid Metabolism: genetics,Liver,Liver: cytology,Liver: metabolism,Male,Messenger,Messenger: genetics,Messenger: metabolism,Mexico,Monocarboxylic Acid Transporters,Monocarboxylic Acid Transporters: genetics,Neanderthals,Neanderthals: genetics,North American,North American: genetics,Polymorphism,RNA,Single Nucleotide,Single Nucleotide: genetics,Triglycerides,Triglycerides: metabolism,Type 2,Type 2: genetics}
+    \endentry
+    \entry{WorldHealthOrganization2011}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5d292a222024f1b13e98a059c94a9b75}{{World\bibnamedelimb Health\bibnamedelimb Organization}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5d292a222024f1b13e98a059c94a9b75}{{World\bibnamedelimb Health\bibnamedelimb Organization}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{5d292a222024f1b13e98a059c94a9b75}
+      \strng{fullhash}{5d292a222024f1b13e98a059c94a9b75}
+      \field{sortinit}{W}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Use of glycated haemoglobin (HbA1c) in the diagnosis of diabetes mellitus: abbreviated report of a WHO consultation}}
+      \field{abstract}{Executive Summary This report is an addendum to the diagnostic criteria published in the 2006 WHO/IDF report “Definition and diagnosis of diabetes mellitus and intermediate hyperglycaemia” , and addresses the use of HbA1c in diagnosing diabetes mellitus. This report does not invalidate the 2006 recommendations on the use of plasma glucose measurements to diagnose diabetes. A WHO expert consultation was held from 28 to 30 March 2009. A systematic review was conducted on the use of HbA1c as a diagnostic test for diabetes mellitus. The evidence was summarized and its quality evaluated using the GRADE methodology. The recommendation was formulated and its strength was rated on a two-point scale, based on the quality of evidence and the applicability and performance of the method in different settings. The WHO Consultation concluded that HbA1c can be used as a diagnostic test for diabetes, provided that stringent quality assurance tests are in place and assays are standardised to criteria aligned to the international reference values, and there are no conditions present which preclude its accurate measurement. An HbA1c of 6.5{\%} is recommended as the cut point for diagnosing diabetes. A value less than 6.5{\%} does not exclude diabetes diagnosed using glucose tests. The expert group concluded that there is currently insufficient evidence to make any formal recommendation on the interpretation of HbA1c levels below 6.5{\%}. GRADE quality of evidence: moderate GRADE strength of recommendation: conditional}
+      \field{title}{{Use of glycated haemoglobin (HbA1c) in the diagnosis of diabetes mellitus: abbreviated report of a WHO consultation}}
+      \field{year}{2011}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/World Health Organization - 2011 - Use of glycated haemoglobin (HbA1c) in the diagnosis of diabetes mellitus abbreviated report of a WHO.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Zajacova2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b6a9c20863b4bccd2d3f5389a40fd070}{Zajacova}{Z\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8b3880a339005af018f4a69156a38a78}{Dowd}{D\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f9a4db6eef6c69114cef29cad2d3523}{Schoeni}{S\bibinitperiod}{Robert\bibnamedelima F}{R\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee6580c5e2921d1351c4f1fdc3c2ea4}{Wallace}{W\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b6a9c20863b4bccd2d3f5389a40fd070}{Zajacova}{Z\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8b3880a339005af018f4a69156a38a78}{Dowd}{D\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f9a4db6eef6c69114cef29cad2d3523}{Schoeni}{S\bibinitperiod}{Robert\bibnamedelima F}{R\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee6580c5e2921d1351c4f1fdc3c2ea4}{Wallace}{W\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{300c03e425fa8e3dda1e54d6eca10ae4}
+      \strng{fullhash}{b69aa0716ca2b0c05a216cb73445e5c3}
+      \field{sortinit}{Z}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Consistency and precision of cancer reporting in a multiwave national panel survey}}
+      \field{abstract}{Background: Many epidemiological studies rely on self-reported information, the accuracy of which is critical for unbiased estimates of population health. Previously, accuracy has been analyzed by comparing self-reports to other sources, such as cancer registries. Cancer is believed to be a well-reported condition. This paper uses novel panel data to test the consistency of cancer reports for respondents with repeated self-reports. Methods: Data come from 978 adults who reported having been diagnosed with cancer in at least one of four waves of the Panel Study of Income Dynamics, 1999-2005. Consistency of cancer occurrence reports and precision of timing of onset were studied as a function of individual and cancer-related characteristics using logistic and ordered logistic models. Results: Almost 30{\%} of respondents gave inconsistent cancer reports, meaning they said they never had cancer after having said they did have cancer in a previous interview; 50{\%} reported the year of diagnosis with a discrepancy of two or more years. More recent cancers were reported with a higher consistency and timing precision; cervical cancer was reported more inaccurately than other cancer types. Demographic and socio-economic factors were only weak predictors of reporting quality. Conclusions: Results suggest that retrospective reports of cancer contain significant measurement error. The errors, however, are fairly random across different social groups, meaning that the results based on the data are not systematically biased by socio-economic factors. Even for health events as salient as cancer, researchers should exercise caution about the presumed accuracy of self-reports, especially if the timing of diagnosis is an important covariate.}
+      \field{issn}{1478-7954}
+      \field{journaltitle}{Population Health Metrics}
+      \field{number}{1}
+      \field{title}{{Consistency and precision of cancer reporting in a multiwave national panel survey}}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{pages}{20}
+      \verb{doi}
+      \verb 10.1186/1478-7954-8-20
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Zajacova et al. - 2010 - Consistency and precision of cancer reporting in a multiwave national panel survey.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Zhang2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=76c4ac342426fb82f4a004c0cdbadd6d}{Zhang}{Z\bibinitperiod}{Xiaohui}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=f7f1356e3e673b35325c225c421ef840}{Zhao}{Z\bibinitperiod}{Xueyan}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=4059f249af5f599b19b7af43f3e56235}{Harris}{H\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=76c4ac342426fb82f4a004c0cdbadd6d}{Zhang}{Z\bibinitperiod}{Xiaohui}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=f7f1356e3e673b35325c225c421ef840}{Zhao}{Z\bibinitperiod}{Xueyan}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=4059f249af5f599b19b7af43f3e56235}{Harris}{H\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9aabe32ccb90c1e430f1e2626f5a60fe}
+      \strng{fullhash}{4417eda04fcffe13d8be10afb74f1537}
+      \field{sortinit}{Z}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Chronic diseases and labour force participation in Australia.}}
+      \field{abstract}{We examine the impact of several chronic diseases on the probability of labour force participation using data from the Australian National Health Surveys. An endogenous multivariate probit model is used to account for the potential endogeneity of the incidence of chronic conditions such as diabetes, cardiovascular diseases and mental illnesses. The cross-equation correlations are significant, rejecting the exogeneity of the chronic illnesses. Marginal effects of exogenous socio-demographic and lifestyle variables are estimated through their direct effects on labour market participation and indirect effects via the chronic diseases. The treatment effects of chronic diseases on labour force participation are estimated via conditional probabilities using five-dimensional normal distributions. The estimated effects differ by gender and age groups. Although computationally more demanding, these treatment effects are compared with results from a univariate model treating the chronic conditions exogenous and the structural effects from the multivariate probit model; both significantly overestimate the effects.}
+      \field{annotation}{From Duplicate 2 ( Chronic Diseases and Labour Force Participation in Australia - Zhang, Xiaohui; Zhao, Xueyan; Harris, Anthony ) Accession Number: 1026022; Keywords: Diabetes;  Disease;  Health; Geographic Descriptors: Australia; Geographic Region: Oceania; Publication Type: Journal Article; Update Code: 200904,AD - Center for Health Economics, Monash U,AD - Monash U,AD - Monash U,L3 - http://www.elsevier.com/wps/find/journaldescription.cws{\_}home/505560/description{\#}description,UR - http://dx.doi.org/10.1016/j.jhealeco.2008.08.001,UR - http://www.elsevier.com/wps/find/journaldescription.cws{\_}home/505560/description{\#}description}
+      \field{issn}{0167-6296}
+      \field{journaltitle}{Journal of health economics}
+      \field{number}{1}
+      \field{title}{{Chronic diseases and labour force participation in Australia.}}
+      \field{volume}{28}
+      \field{year}{2009}
+      \field{pages}{91\bibrangedash 108}
+      \verb{doi}
+      \verb 10.1016/j.jhealeco.2008.08.001
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Zhang, Zhao, Harris - 2009 - Chronic diseases and labour force participation in Australia.pdf:pdf
+      \endverb
+      \keyw{Adolescent,Adult,Australia,Australia: epidemiology,Chronic Disease,Chronic Disease: epidemiology,ECONLIT,Employment,Female,Health Surveys,Humans,IBSS,Male,Middle Aged,Treatment Outcome,Young Adult,download,econlit,newsearch,relevant}
+    \endentry
+  \endsortlist
+  \missing{Li2010b}
+  \missing{Reynoso-Noveron2011}
+  \missing{Adler2003}
+  \missing{Crimmins2015}
+  \missing{Lim2011}
+  \missing{Eriksson2013}
+  \missing{VanEwijk2011}
+  \missing{Kapteyn2009}
+  \missing{Minor2015}
+  \missing{Strauss1998}
+  \missing{Dillon2014}
+  \missing{Risk2016}
+  \missing{Zhao2013a}
+  \missing{Cawley2015}
+  \missing{Thornton2008}
+  \missing{Wunder2014}
+  \missing{Wooldridge2012}
+  \missing{Schaller2015}
+  \missing{Heraclides2012}
+  \missing{ONeill2013}
+  \missing{Perks2015}
+  \missing{Currie2013}
+  \missing{Nouwen2011}
+  \missing{Hu2011}
+  \missing{Meza2015}
+  \missing{Beagley2014}
+  \missing{Colchero2016}
+  \missing{Yuan2015}
+  \missing{Slade2012}
+  \missing{Ayyagari2011a}
+  \missing{Schneiderman2005}
+  \missing{Gregg2012}
+  \missing{Baird2014}
+  \missing{Bell2015}
+  \missing{Mundlak1978}
+  \missing{Gong2015}
+  \missing{Paddison2011}
+  \missing{Thoolen2006}
+  \missing{Sotomayor2013}
+  \missing{Bergemann2011}
+  \missing{Schneiderman2014}
+  \missing{Geishecker2011}
+  \missing{Boll2016}
+  \missing{Minor2010}
+  \missing{Seuring2015a}
+  \missing{Bratti2014}
+\endrefsection
+\endinput
+

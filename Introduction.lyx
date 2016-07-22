@@ -1,0 +1,343 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage[nolist]{acronym}
+%\usepackage{microtype}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{dcolumn}
+%\usepackage{nomencl}
+% Added by lyx2lyx
+\usepackage{multirow}
+\usepackage{graphicx}
+%\biboptions{authoryear}
+\newcommand{\sym}[1]{\ensuremath{^{#1}}} % for symbols in Table
+\usepackage{siunitx}
+\sisetup{ detect-mode, 
+          group-digits            = false ,
+          input-signs             = - (,
+          input-symbols           = - (,
+          input-open-uncertainty  = ,
+          input-close-uncertainty = ,
+          table-align-text-post   = false
+  }
+
+%\journal{Economics and Human Biology}
+\begin{acronym}
+\acro{2SLS} {two-stage least squares}
+\acro{ATE} {average treatment effect}
+\acro{ATT} {average treatment effect on the treated}
+\acro{AUD} {Australian Dollar}
+\acro{BLUE} {best linear unbiased estimator}
+\acro{BMI} {body mass index}
+\acro{BP} {bivariate probit}
+\acro{DALYs} {disability-adjusted life years}
+\acro{EUR} {Europe}
+\acro{ENSA} {La Encuesta Nacional de Salud}
+\acro{ENSANUT}{Encuesta Nacional de Salud y Nutrición}
+\acro{FE} {fixed effects}
+\acro{FGLS} {Feasible General Least Squares}
+\acro{HbA1c} {Glycated hemoglobin}
+\acro{IDF} {International Diabetes Federation}
+\acro{INEGI} {Instituto Nacional de Estadística y Geografía} 
+\acro{IV} {instrumental variable}
+\acro{LATE} {local average treatment effect}
+\acro{LPM} {linear probability model}
+\acro{MENA} {Middle East and North Africa}
+\acro{MxFLS} {Mexican Family Life Survey}
+\acro{NAC} {North American and Caribbean}
+\acro{NCD} {Non-Communicable Disease}
+\acro{NCDs} {Non-Communicable Diseases}
+\acro{OLS} {ordinary least squares}
+\acro{PML} {pseudo-maximum-likelihood}
+\acro{RE} {random effects}
+\acro{SACA} {South and Central America}
+\acro{SEA} {South East Asia}
+\acro{SSA} {Sub-Saharan Africa}
+\acro{US} {United States}
+\acro{WHO} {World Health Organization}
+\acro{WP} {Western Pacific}
+\end{acronym}
+\renewcommand{\thetable}{\Roman{table}}
+\end_preamble
+\options preprint,review,12pt
+\use_default_options true
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman lmodern
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize 12
+\spacing double
+\use_hyperref true
+\pdf_title "Labour market outcomes and diabetes in Mexico: A panel data analysis"
+\pdf_author "Till Seuring (UEA)"
+\pdf_keywords "Diabetes, Mexico, labour, market, economics, NCDs"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language swedish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Itemize
+Have a one page summary/abstract describing the main methods and findings
+\end_layout
+
+\begin_layout Itemize
+Set stage describing burden of chronic disease/diabetes in world and MICs
+ (Mexico/China) more specifically.
+ (e.g.
+ burden of disease study/high level studies).
+\end_layout
+
+\begin_layout Itemize
+Economic background in China and Mexico, particularly in terms of the labour
+ market (structure) in terms of employment and income as well as unemployment
+ benefits etc.
+\end_layout
+
+\begin_layout Itemize
+Growing economies --> decreases unemployment but also increases diabetes-->
+ describe potential dynamics
+\end_layout
+
+\begin_layout Itemize
+Describe how I came to selecting the countries/data (show table of different
+ datasets that were available)
+\end_layout
+
+\begin_layout Itemize
+Argue that not so much is known about the economic impact of diabetes in
+ MICs, particularly on labour market.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+First need to know burden of disease, also to the economy, in order to justify
+ spending money on prevention/treatment of the disease
+\end_layout
+
+\begin_layout Itemize
+MIC may be particularly vulnerable to economic effects of increasing diabetes
+ prevalence, given their scarce resources and inability to effectively treat
+ disease and prevent complications.
+\end_layout
+
+\begin_layout Itemize
+onset of type 2 diabetes also appears to be increasingly earlier, so that
+ productive lifespan is affected to a greater extend
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Describe general goal and the aims of thesis:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Identify gaps in literature on the economic burden of diabetes in terms
+ of evidence but also methodology, particularly in MICs, and fill some of
+ the gaps.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Describe each of the chapters and the motivation behind it
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Systematic review
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+need to review the literature as considerable time had passed since last
+ review and only studies on HIC existed
+\end_layout
+
+\begin_layout Itemize
+no review on labour market studies
+\end_layout
+
+\begin_layout Itemize
+what methods were used?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Mexico study (cross-sectional)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+describe reasoning why chose Mexico
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+one of the highest obesity rates in the world
+\end_layout
+
+\begin_layout Itemize
+data availability to carry out more advanced statistical analysis (i.e.
+ IV)
+\end_layout
+
+\begin_layout Itemize
+helps fill gap to provide evidence on labour market impact in MICs
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+give more background on the health situation in Mexico
+\end_layout
+
+\begin_layout Itemize
+General question: how much detail on used data, methods and results should
+ I include?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Mexico study (panel and biomarker)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+reasoning for building on previous study
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+now able to use panel data to use different, potentially less controversial
+ identification strategy
+\end_layout
+
+\begin_layout Itemize
+explore issue of measurement error that has plagued prior research mostly
+ relying on self-reported data
+\end_layout
+
+\begin_layout Itemize
+issue of undiagnosed diabetes has not been extensively researched
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+China study 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+China has greatest diabetes population in the world
+\end_layout
+
+\begin_layout Itemize
+little is known in general, about how people change their behaviours after
+ receiving a diagnosis
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+might also tell us something about how well health system works in terms
+ of leading people to change their behaviour
+\end_layout
+
+\begin_layout Itemize
+would expect this potentially to be worse than in HICs, were people are
+ better educated and health systems better equipped
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+data also allows us to use two identification strategies, increasing the
+ reliability of our results, merging strategies mainly used in economics
+ with strategies mainly used in epidemiology
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+in actual chapter may also want to include marginal effects to make results
+ of employment model better comparable to results of mexico papers
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_body
+\end_document
