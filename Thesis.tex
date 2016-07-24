@@ -1,147 +1,104 @@
-\documentclass[12pt,english]{report}
-\usepackage{setspace} %linespacing
-\onehalfspacing
-\setlength{\parskip}{1em} % paragraph spacing
-\usepackage[affil-it]{authblk}
-\usepackage{graphicx}
-\usepackage[space]{grffile}
-\usepackage{latexsym}
-\usepackage{textcomp}
-\usepackage{longtable}
-\usepackage{multirow,booktabs}
-\usepackage{amsfonts,amsmath,amssymb}
-\usepackage{gensymb}  % to show special symbols like degree
-\usepackage{url}
-%\usepackage[utf8]{inputenc}
-\usepackage{hyperref}
-\hypersetup{colorlinks=false,pdfborder={0 0 0}}
-%\usepackage{latexml}
-\newcommand{\truncateit}[1]{\truncate{0.8\textwidth}{#1}}
-\newcommand{\scititle}[1]{\title[\truncateit{#1}]{#1}}
-\usepackage{lmodern}
-\usepackage[T1]{fontenc}
-\usepackage[latin9]{inputenc}
-\usepackage{geometry}
-\geometry{verbose,tmargin=2.5cm,bmargin=2.5cm,lmargin=3cm,rmargin=2.5cm}
-\providecommand{\tabularnewline}{\\}
-\usepackage[nolist]{acronym}
-\usepackage{ltablex,array} % to scale longtables
-\usepackage{lipsum}
-\usepackage[flushleft]{threeparttable}  %adds notes to tables
-\usepackage{caption}
-
-%fix problem with narrower table once using caption inside tabularx environment as suggested in lat response here http://www.latex-community.org/forum/viewtopic.php?f=45&p=39951
-\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
-\makeatletter
-\patchcmd{\TX@endtabularx}% <cmd>
-  {\def\caption}% <search>
-  {\def\caption{\caption@withoptargs\TX@caption}%
-   \def\TX@caption##1##2}% <replace>
-  {}{}% <success><failure>
-\makeatother
-
-
-\usepackage{graphicx}
-\usepackage[Export]{adjustbox}
-%\newcommand{\sym}[1]{\ensuremath{^{#1}}} % for symbols in Table
-%landscape pages
-\usepackage{pdflscape}
-\newcommand{\comment}[1]{}  %allows multiline comments
-%\usepackage[english]{babel}% Recommended
-%\usepackage{csquotes}
-\usepackage[
-maxcitenames=2, 
-style=authoryear-comp,
-firstinits=true,
-maxbibnames=99,
-backend=biber,
-uniquename=false,
-url=true,
-isbn=false]{biblatex}
-
-\DeclareNameAlias{sortname}{last-first}
-\DeclareFieldFormat{pages}{#1}%
-\renewcommand*{\nameyeardelim}{\addcomma\space} %adds comma between name and years in citations
-
-\renewbibmacro{in:}{}
-\renewbibmacro*{volume+number+eid}{%
-  \printfield{volume}%
-  \setunit*{\adddot}% DELETED
-  \setunit*{\addnbspace}% NEW (optional); there's also \addnbthinspace
- \printfield{number}%
- \setunit{\addcomma\space}%
- \printfield{eid}}
-\DeclareFieldFormat[article]{number}{\mkbibparens{#1}}
-\DeclareLanguageMapping{english}{english-apa}  %needed for APA style
-\AtEveryBibitem{
-  \clearfield{labelmonth}
-}
-
-\addbibresource{/home/till/Dokumente/BibTex/Thesis.bib}
-%\usepackage[authoryear]{natbib}
-
-
-% paper margins
-\usepackage{geometry}
-\geometry{
-letterpaper,
-left=25mm,
-right=30mm,
-top=20mm,
-bottom=30mm,
-}   
-%limiting tables to only float within section
-\usepackage[section]{placeins}
-  
-%use for commands only working with pdf
-  
-
-
-% *****************************************************************
-% siunitx
-% *****************************************************************
-\usepackage{siunitx} % centering in tables
-	\sisetup{
-		detect-mode,
-		tight-spacing		= true,
-		group-digits		= false ,
-		input-signs		= ,
-		input-symbols		= ( ) [ ] - + *,
-		input-open-uncertainty	= ,
-		input-close-uncertainty	= ,
-		table-align-text-post	= false
-        }
-
-%acronymx
-\usepackage[nolist]{acronym}
-\include{acronyms}
-
-%For tables commands, especially tabularx
-\newcolumntype{b}{X}  %large columns http://tex.stackexchange.com/questions/84400/table-layout-with-tabularx-column-widths-502525
-\newcolumntype{m}{>{\hsize=.5\hsize}X} % medium columns
-\newcommand{\merge}[1]{\multicolumn{2}{>{\hsize=\dimexpr2\hsize+2\tabcolsep+\arrayrulewidth\relax}X}{#1}}  %allows merging of two columns in tabularx http://tex.stackexchange.com/questions/236155/tabularx-and-multicolumn
-
-\newcolumntype{Y}{>{\centering\arraybackslash}X} %new columntype for X columns in tabularx to center them http://tex.stackexchange.com/questions/89166/centering-in-tabularx-and-x-columns
-\newcolumntype{Z}{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}X} %left aligned X columns http://tex.stackexchange.com/questions/97180/how-to-get-column-alignment-in-tabularx
-\newcolumntype{z}{>{\hsize=.5\hsize\\\raggedright\let\newline\\\arraybackslash\hspace{0pt}}X} %left aligned X columns http://tex.stackexchange.com/questions/97180/how-to-get-column-alignment-in-tabularx
-\newcolumntype{y}{>{\hsize=.5\hsize}Y} % small columns
-
-
-% Title Page
-\title{The Economics of Diabetes in Middle-Income-Countries}
-\author{Till Seuring}
-
+\input{Preamble.tex}
 
 \begin{document}
-\maketitle
+% Title Page
+\begin{titlepage}
+\centering
+\vfill
+Thesis submitted for the degree of Doctor of Philosophy (PhD)
+\par
+\vspace*{1in}
+\begin{Large}\bfseries
+The Economics of Diabetes in Middle-Income-Countries\par
+\end{Large}
+\vspace{1in}
+\begin{large}\bfseries
+Till Seuring\par
+\end{large}
+\par
+\vspace{0.2in}
+School of Medicine
+\par
+University of East Anglia, UK
+\par
+\vspace{1.0in}
+date
+\par
+\vspace{2.0in}
+This copy of the thesis has been supplied on condition that anyone who consults it is
+understood to recognise that its copyright rests with the author and that use of any
+information derived there from must be in accordance with current UK Copyright Law.
+In addition, any quotation or extract must include full attribution.
+\end{titlepage}
 
 \begin{abstract}
+\input{abstract}
 \end{abstract}
-\chapter{The Economic Costs of Type 2 Diabetes: A Global Systematic Review}
-%\include{Chapter2}
-\chapter{The Impact of Diabetes on Employment in Mexico}
-%\include{Chapter3}
-\chapter{The Impact of Diabetes on Labour Market Outcomes in Mexico: a Panel Data and Biomarker Analysis}
+
+\tableofcontents
+\clearpage
+
+\listoffigures
+\clearpage
+ 
+\listoftables
+\clearpage
+
+\chapter*{Abbreviations}
+\input{acronyms}
+
+\chapter*{Publications and statement of authorship}
+\section*{Publications arising from this thesis}
+
+\noindent \fullcite{Seuring2015a}
+\\[12pt]
+\noindent This publication can be found at: \url{http://link.springer.com/article/10.1007\%2Fs40273-015-0268-9}
+\\[12pt]
+\noindent \fullcite{Seuring2015}
+\\[12pt]
+\noindent This publication can be found at: \url{http://www.sciencedirect.com/science/article/pii/S1570677X15000349}
+
+\clearpage
+
+\section*{Statement of jointly authored publications}
+
+The research reported is my own original work which was carried out in collaboration with
+others as follows:
+
+\paragraph{Chapter \ref{cha:intro}:} Written by Till Seuring. 
+
+\paragraph{Chapter \ref{cha:review}:} Till Seuring was the lead author of a paper published as:
+\\[12pt]
+\noindent\fullcite{Seuring2015a}
+\\[12pt]
+\noindent Till Seuring, Marc Suhrcke and Olga Archangelidi designed the study. The search strategy was designed and executed by Till Seuring. Till Seuring and Olga Archangelidi screened the initial results and extracted the data from the primary studies. Till Seuring drafted the original manuscript which was critically reviewed by Olga Archangelidi and Marc Suhrcke.
+
+\paragraph{Chapter \ref{cha:Mex1}:} Till Seuring was the lead author of a paper published as:
+\\[12pt]
+\noindent\fullcite{Seuring2015}
+\\[12pt]
+\noindent Till Seuring, Yevgeniy Goryakin and Marc Suhrcke  designed the study. Till Seuring analysed the data. Till Seuring drafted the original manuscript which was critically reviewed by Yevgeniy Goryakin and Marc Suhrcke.
+
+
+\paragraph{Chapter \ref{cha:Mex2}:} Till Seuring, Pieter Serneels and Marc Suhrcke designed the study. Till Seuring analysed the data. Till Seuring drafted the original manuscript which was critically reviewed by Pieter Serneels and Marc Suhrcke.
+
+\paragraph{Chapter \ref{cha:China}:} Till Seuring and Max Bachmann designed the study. Till Seuring analysed the data. Till Seuring drafted the original manuscript which was critically reviewed by Max Bachmann.
+
+\paragraph{Chapter \ref{cha:Discussion}:} Written by Till Seuring.
+
+
+	
+\chapter{\label{cha:intro}General Introduction}
+\include{Introduction}
+\chapter{\label{cha:review}The Economic Costs of Type 2 Diabetes: A Global Systematic Review}
+\include{Chapter2}
+\chapter{\label{cha:Mex1}The Impact of Diabetes on Employment in Mexico}
+\include{Chapter3}
+\chapter{\label{cha:Mex2}The Impact of Diabetes on Labour Market Outcomes in Mexico: a Panel Data and Biomarker Analysis}
 \include{Chapter4}
+\chapter{\label{cha:China}The effects of receiving a diabetes diagnosis on health behaviour and economic outcomes in China}
+%\include{Chapter5}
+\chapter{\label{cha:Discussion}Discussion and Conclusions}
+
 \printbibliography
 \end{document}          

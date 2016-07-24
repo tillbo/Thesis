@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>Thesis.bcf</file>
@@ -82,6 +82,7 @@
       <file>Thesis.bcf</file>
     </requires>
     <requires type="editable">
+      <file>/home/till/Dokumente/BibTex/Second_Mexico_paper-Article.bib</file>
       <file>/home/till/Dokumente/BibTex/Thesis.bib</file>
     </requires>
   </external>

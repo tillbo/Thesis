@@ -1,0 +1,70 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:intro}:}{12}{section*.11}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:review}:}{12}{section*.12}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex1}:}{12}{section*.13}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex2}:}{12}{section*.14}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:China}:}{12}{section*.15}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Discussion}:}{12}{section*.16}
+\contentsline {chapter}{\numberline {1}General Introduction}{13}{chapter.1}
+\contentsline {chapter}{\numberline {2}The Economic Costs of Type 2 Diabetes: A Global Systematic Review}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}Methods}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Search Strategy}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Inclusion and Exclusion Criteria}{19}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Data Extraction and Analysis}{19}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Results}{23}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}\ac {COI} studies on Type 2 Diabetes}{23}{subsection.2.3.1}
+\contentsline {subsubsection}{\nonumberline Number of Studies}{23}{section*.22}
+\contentsline {subsubsection}{\nonumberline Regional Distribution}{23}{section*.23}
+\contentsline {subsubsection}{\nonumberline Data Sources}{23}{section*.24}
+\contentsline {subsubsection}{\nonumberline Variation in Costing Approaches}{24}{section*.25}
+\contentsline {subsubsection}{\nonumberline Study Perspective}{26}{section*.28}
+\contentsline {subsubsection}{\nonumberline Costing Components}{28}{section*.30}
+\contentsline {subsubsection}{\nonumberline Cost Estimates of Diabetes Using a Prevalence Approach}{28}{section*.31}
+\contentsline {subsubsection}{\nonumberline Direct and Indirect Costs of Diabetes}{30}{section*.37}
+\contentsline {subsubsection}{\nonumberline Studies Using the Incidence Approach}{33}{section*.39}
+\contentsline {subsubsection}{\nonumberline Country level costs prediction studies}{34}{section*.41}
+\contentsline {subsection}{\numberline {2.3.2}The Impact of Diabetes on Employment Chances and Productivity}{34}{subsection.2.3.2}
+\contentsline {subsubsection}{\nonumberline Employment Chances}{37}{section*.43}
+\contentsline {subsubsection}{\nonumberline Productivity}{43}{section*.47}
+\contentsline {section}{\numberline {2.4}Discussion}{48}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}General Findings and Developments Since the 2004 Review of Diabetes \ac {COI} Studies}{48}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Labour market studies}{50}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Comparison of \ac {COI} and Labour Market Studies: Common Themes and Lessons Learned}{51}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Limitations}{53}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Conclusion}{54}{section.2.5}
+\contentsline {section}{\numberline {2.6}Tables}{58}{section.2.6}
+\contentsline {chapter}{\numberline {3}The Impact of Diabetes on Employment in Mexico}{90}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{91}{section.3.1}
+\contentsline {section}{\numberline {3.2}Methodology}{93}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Dataset and descriptive statistics}{93}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Econometric specification}{94}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Results}{98}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Probit results}{99}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}IV results}{100}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Differences by age groups}{104}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Differences by wealth}{105}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Differences by employment type}{106}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Conclusion}{107}{section.3.4}
+\contentsline {section}{\numberline {3.5}Linear IV estimates (1st and 2nd stage)}{111}{section.3.5}
+\contentsline {section}{\numberline {3.6}Results for older age groups}{112}{section.3.6}
+\contentsline {section}{\numberline {3.7}Results for wealth quartiles}{113}{section.3.7}
+\contentsline {section}{\numberline {3.8}Instrumental variable analysis for age groups}{114}{section.3.8}
+\contentsline {section}{\numberline {3.9}Instrumental variable analysis for wealth groups}{117}{section.3.9}
+\contentsline {section}{\numberline {3.10}Multinomial logit and IV results for formal and informal employment}{119}{section.3.10}
+\contentsline {chapter}{\numberline {4}The Impact of Diabetes on Labour Market Outcomes in Mexico: a Panel Data and Biomarker Analysis}{123}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{124}{section.4.1}
+\contentsline {section}{\numberline {4.2} Diabetes and labor outcomes -- existing evidence}{126}{section.4.2}
+\contentsline {section}{\numberline {4.3}Data}{128}{section.4.3}
+\contentsline {section}{\numberline {4.4}Estimation strategy}{131}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Panel data on self-reported diabetes}{132}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Self-reported diabetes duration}{133}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Cross-section: biomarker and self-reported data}{134}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5} Results}{136}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Incidence of self-reported diabetes}{136}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Duration of self-reported diabetes}{138}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Cross-sectional biomarker analysis}{143}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Conclusion}{146}{section.4.6}
+\contentsline {section}{\numberline {4.7}Strategies to deal with inconsistent self-reporting over time}{150}{section.4.7}
+\contentsline {chapter}{\numberline {5}The effects of receiving a diabetes diagnosis on health behaviour and economic outcomes in China}{152}{chapter.5}
+\contentsline {chapter}{\numberline {6}Discussion and Conclusions}{153}{chapter.6}

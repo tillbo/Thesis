@@ -67,7 +67,7 @@ As discussed in more detail in Text Box 1, a range of costing approaches can be 
 
 \begin{minipage}{\linewidth}
 \begin{center}
-\includegraphics[width=0.5\linewidth]{Review/Figures/Fig2.eps}\\
+\includegraphics[width=0.8\linewidth]{Review/Figures/Fig2.eps}\\
 \end{center}
 \footnotesize
 \emph{Notes:} For \acp{LMIC} no \ac{WTP} study is counted, because the only study \parencite{Tharkar2010a} presenting a \ac{WTP} estimate for a \ac{LMIC} used primarily a different approach to estimate costs, and the \ac{WTP} estimate was only presented additionally. Therefore this study was not counted under \ac{WTP} here. Two studies are counted twice as they give estimates for a sum-diagnosis specific and a RB/matching approach.
@@ -415,8 +415,8 @@ Acknowledgments The work of MS on this paper was partially funded by the Centre 
 
 Author Contributions TS, OA and MS planned the work and finalized the manuscripts. TS carried out the data base search, extracted, analysed and interpreted the data and produced the draft of the manuscript. OA also performed data extraction and contributed to the production of the first draft. MS oversaw the development of the work, contributed to the various drafts of the manuscript and provided guidance. TS is the guarantor for the overall content.
 
-\begin{appendix}
-\section{What is endogeneity?}
+
+\section*{What is endogeneity?}
 Endogeneity is a statistical problem that occurs in regression models if the assumptions about the flow or direction of causality are incorrect. If endogeneity is ignored, it could be that claims about causality between two variables or the magnitude of the effect are false. In general, one can only be certain about a causal relationship of the effect of x on y if the following three conditions are met \parencite{Antonakis2012}:
 
 \begin{itemize}
@@ -446,11 +446,10 @@ This instrument is then used in a first regression to obtain predicted values of
 
 In the case of type 2 diabetes and labour market outcomes, an instrument has to predict the development of diabetes without being otherwise causally related to any of the labour market outcomes, be it employment chances, wages or some other measure of productivity. The instrument of choice so far has been the family history of diabetes. It has been shown that a considerable part of the risk of developing type 2 diabetes is hereditary \parencite{Herder2011,Hemminki2010,TheInteractConsortium2013}. This fact is exploited when the instrument is used and it is assumed that this is the only pathway through which a family history of diabetes affects a person's diabetes risk, and also that, e.g., parental diabetes does not affect the person's labour market outcomes directly.
 
-The most common estimation techniques for the estimation of \ac{IV} regressions are the linear \ac{IV} model and the bivariate probit model. The latter is often deemed more apt for models where both the outcome as well as the instrumental variable are binary, so either 0 or 1, which is the case for employment as an outcome variable as well as diabetes family history as an instrument. Nonetheless, there is some discussion in the econometrics literature regarding the best method to estimate these cases, as it also has been argued that because the linear \ac{IV} technique does not depend on the assumption of normality of the error terms, in contrast to the bivariate probit model, its results are more reliable in the case of non-normality, but can sometimes lead to imprecise estimators which can no longer be interpreted meaningfully \parencite{Chiburis2012}. Both methods can be found in the reviewed papers.
+The most common estimation techniques for the estimation of \ac{IV} regressions are the linear \ac{IV} model and the bivariate probit model. The latter is often deemed more apt for models where both the outcome as well as the instrumental variable are binary, so either 0 or 1, which is the case for employment as an outcome variable as well as diabetes family history as an instrument. Nonetheless, there is some discussion in the econometrics literature regarding the best method to estimate these cases, as it also has been argued that because \ref{tathe linear \ac{IV} technique does not depend on the assumption of normality of the error terms, in contrast to the bivariate probit model, its results are more reliable in the case of non-normality, but can sometimes lead to imprecise estimators which can no longer be interpreted meaningfully \parencite{Chiburis2012}. Both methods can be found in the reviewed papers.
 
-\section{Country codes}
-\small
-\begin{tabularx}{\linewidth}{Z Y Z Y}
+\section*{Country codes}
+{\small \begin{tabularx}{\linewidth}{Z Y Z Y}
 \caption{Country Codes}\label{tab:review_countries}\\
 \toprule
 Country                 & Country code & Country                                             & Country code \\ 
@@ -488,13 +487,13 @@ Ireland                 & IRL          &                                        
 Israel                  & ISR          &                                                     &              \\
 Italy                   & ITA          &                                                     &              \\ \bottomrule
 \end{tabularx}
-
+}
 
 
 \section{Tables}
 
-\scriptsize
-\begin{landscape}
+
+{\scriptsize \begin{landscape}
 \begin{tabularx}{\linewidth}{Z X X Z Z X X X X X X X X Y Y}
 \caption{COI study characteristics and cost estimates}\label{tab:COI_charactersitics}\\
 \toprule
@@ -638,7 +637,6 @@ Ref. & Horizon & Country & Sample size & Population & Perspective & Approach & L
 \end{landscape}
 
 \begin{landscape}
-\scriptsize
 \begin{tabularx}{\linewidth}{Z m y y y y y y y y Z}
 \caption{COI study costing components}\label{tab:costing_components}\\
 \toprule
@@ -731,6 +729,5 @@ Ref.     & Country (year of cost data) & Hospital Visits                        
 \end{tabularx}
 \end{landscape}
 
+}
 
-
-\end{appendix}
