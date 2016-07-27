@@ -120,7 +120,7 @@
       \endverb
       \keyw{End-stage renal disease,Insulin,Macroalbuminuria,Microalbuminuria,Nephropathy,Plasma creatinine,Type 2 diabetes}
     \endentry
-    \entry{Agardh2011a}{article}{}
+    \entry{Agardh2011}{article}{}
       \name{labelname}{5}{}{%
         {{hash=5d533eb8f0e5ad8a434873b5e4322998}{Agardh}{A\bibinitperiod}{Emilie}{E\bibinitperiod}{}{}{}{}}%
         {{hash=02cc8f4231142f16f90cb6867947ed00}{Allebeck}{A\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
@@ -140,20 +140,20 @@
       \field{sortinit}{A}
       \field{labelyear}{2011}
       \field{datelabelsource}{}
-      \field{labeltitle}{{Type 2 diabetes incidence and socio-economic position: a systematic review and meta-analysis.}}
-      \field{abstract}{BACKGROUND: We conducted a systematic review and meta-analysis, the first to our knowledge, summarizing and quantifying the published evidence on associations between type 2 diabetes incidence and socio-economic position (SEP) (measured by educational level, occupation and income) worldwide and when sub-divided into high-, middle- and low-income countries. METHODS: Relevant case-control and cohort studies published between 1966 and January 2010 were searched in PubMed and EMBASE using the keywords: diabetes vs educational level, occupation or income. All identified citations were screened by one author, and two authors independently evaluated and extracted data from relevant publications. Risk estimates from individual studies were pooled using random-effects models quantifying the associations. RESULTS: Out of 5120 citations, 23 studies, including 41 measures of association, were found to be relevant. Compared with high educational level, occupation and income, low levels of these determinants were associated with an overall increased risk of type 2 diabetes; [relative risk (RR) = 1.41, 95{\%} confidence interval (CI): 1.28-1.51], (RR = 1.31, 95{\%} CI: 1.09-1.57) and (RR = 1.40, 95{\%} CI: 1.04-1.88), respectively. The increased risks were independent of the income levels of countries, although based on limited data in middle- and low-income countries. CONCLUSIONS: The risk of getting type 2 diabetes was associated with low SEP in high-, middle- and low-income countries and overall. The strength of the associations was consistent in high-income countries, whereas there is a strong need for further investigation in middle- and low-income countries.}
-      \field{issn}{1464-3685}
-      \field{journaltitle}{International journal of epidemiology}
+      \field{labeltitle}{{Type 2 diabetes incidence and socio-economic position: a systematic review and meta-analysis}}
+      \field{abstract}{We conducted a systematic review and meta-analysis, the first to our knowledge, summarizing and quantifying the published evidence on associations between type 2 diabetes incidence and socio-economic position (SEP) (measured by educational level, occupation and income) worldwide and when sub-divided into high-, middle- and low-income countries.}
+      \field{issn}{0300-5771}
+      \field{journaltitle}{International Journal of Epidemiology}
       \field{number}{3}
-      \field{title}{{Type 2 diabetes incidence and socio-economic position: a systematic review and meta-analysis.}}
+      \field{title}{{Type 2 diabetes incidence and socio-economic position: a systematic review and meta-analysis}}
       \field{volume}{40}
       \field{year}{2011}
-      \field{pages}{804\bibrangedash 18}
+      \field{pages}{804\bibrangedash 818}
       \verb{doi}
       \verb 10.1093/ije/dyr029
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Agardh et al. - 2011 - Type 2 diabetes incidence and socio-economic position a systematic review and meta-analysis(2).pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Agardh et al. - 2011 - Type 2 diabetes incidence and socio-economic position a systematic review and meta-analysis.pdf:pdf
       \endverb
       \keyw{Adult,Age Distribution,Aged,Case-Control Studies,Cohort Studies,Diabetes Mellitus,Educational Status,Female,Humans,Male,Middle Aged,Occupations,Occupations: trends,Poverty,Prevalence,Risk Assessment,Sex Distribution,Socioeconomic Factors,Sweden,Type 2,Type 2: epidemiology,Type 2: physiopathology,World Health}
     \endentry
@@ -302,7 +302,7 @@
       \field{labeltitle}{{Sleep behavior and unemployment conditions.}}
       \field{abstract}{Recent research has reported that habitually short sleep duration is a risk factor for declining health, including increased risk of obesity, diabetes and coronary heart disease. In this study we investigate whether macroeconomic conditions are associated with variation in mean sleep time in the United States, and if so, whether the effect is procyclical or countercyclical. We merge state unemployment rates from 2003 through 2012 with the American Time Use Survey, a nationally representative sample of adults with 24h time diaries. We find that higher aggregate unemployment is associated with longer mean sleep duration, with each additional point of state unemployment associated with an additional average 0.83min of sleep (p{\textless}0.001), after adjusting for a secular trend of increasing sleep over the time period. Despite a national poll in 2009 that found one-third of Americans reporting losing sleep over the economy, we do not find that higher state unemployment is associated with more sleeplessness. Instead, we find that higher state unemployment is associated with less frequent time use described as "sleeplessness" (marginal effect=0.05 at 4{\%} unemployment and 0.034 at 14{\%} unemployment, p{\textless}0.001), after controlling for a secular trend.}
       \field{issn}{1873-6130}
-      \field{journaltitle}{Economics and human biology}
+      \field{journaltitle}{Economics {\&} Human Biology}
       \field{month}{07}
       \field{title}{{Sleep behavior and unemployment conditions.}}
       \field{volume}{14}
@@ -552,28 +552,30 @@
         {{hash=a46c8bd5d2ea6844c4462fe391b61184}{Baird}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
         {{hash=8fe7e64514655c28e6e85d0b30381cf8}{Gong}{G\bibinitperiod}{Erick}{E\bibinitperiod}{}{}{}{}}%
         {{hash=fd0aedbdea8528d76206479ff151c5e6}{McIntosh}{M\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=6eca88a5890af30cfde631d27c7b7aa6}{Ozler}{O\bibinitperiod}{Berk}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=04634ea93931110a343baeb9ceebdffc}{{\"{O}}zler}{{\"{O}}\bibinitperiod}{Berk}{B\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{hash=a46c8bd5d2ea6844c4462fe391b61184}{Baird}{B\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
         {{hash=8fe7e64514655c28e6e85d0b30381cf8}{Gong}{G\bibinitperiod}{Erick}{E\bibinitperiod}{}{}{}{}}%
         {{hash=fd0aedbdea8528d76206479ff151c5e6}{McIntosh}{M\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=6eca88a5890af30cfde631d27c7b7aa6}{Ozler}{O\bibinitperiod}{Berk}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=04634ea93931110a343baeb9ceebdffc}{{\"{O}}zler}{{\"{O}}\bibinitperiod}{Berk}{B\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Elsevier B.V.}%
       }
       \strng{namehash}{1eb94aaf9d9bf65dbd94790750754a27}
-      \strng{fullhash}{13f9cbf431a50e0f8101a8056e5c4000}
+      \strng{fullhash}{94108ea324331a0dbc6ea3c32095c679}
       \field{sortinit}{B}
       \field{labelyear}{2014}
+      \field{labelmonth}{09}
       \field{datelabelsource}{}
-      \field{labeltitle}{{The heterogeneous effects of HIV testing.}}
+      \field{labeltitle}{{The heterogeneous effects of HIV testing}}
       \field{abstract}{An extensive multi-disciplinary literature examines the effects of learning one's HIV status on subsequent risky sexual behaviors. However, many of these studies rely on non-experimental designs; use self-reported outcome measures; or both. In this study, we investigate the effects of a randomly assigned home based HIV testing and counseling (HTC) intervention on risky sexual behaviors and schooling investments among school-age females in Malawi. We find no overall effects on HIV, Herpes Simplex Virus (HSV-2), or achievement test scores at follow-up. However, among the small group of individuals who tested positive for HIV, we find a large increase in the probability of HSV-2 infection, with this effect being stronger among those surprised by their test results. Similarly, those surprised by HIV-negative test results have significantly higher achievement test scores at follow-up, consistent with increased returns to investments in human capital.}
-      \field{issn}{1879-1646}
-      \field{journaltitle}{Journal of health economics}
-      \field{title}{{The heterogeneous effects of HIV testing.}}
-      \field{volume}{37C}
+      \field{issn}{01676296}
+      \field{journaltitle}{Journal of Health Economics}
+      \field{month}{09}
+      \field{title}{{The heterogeneous effects of HIV testing}}
+      \field{volume}{37}
       \field{year}{2014}
       \field{pages}{98\bibrangedash 112}
       \verb{doi}
@@ -581,6 +583,9 @@
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Baird et al. - 2014 - The heterogeneous effects of HIV testing.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S0167629614000836
       \endverb
     \endentry
     \entry{Ballesta2006}{article}{}
@@ -765,14 +770,12 @@
       \strng{fullhash}{499b8471293760979ba54bf2bcff446d}
       \field{sortinit}{B}
       \field{labelyear}{2008}
-      \field{labelmonth}{12}
       \field{datelabelsource}{}
       \field{labeltitle}{{Energy Intake from Beverages Is Increasing among Mexican Adolescents and Adults}}
       \field{abstract}{Little is understood about the patterns and trends in adolescent and adult beverage intake in Mexico or most other countries. Here, we used nationally representative dietary intake, income, and food expenditure surveys, which included 416 adolescents (aged 12-18 y) and 2180 adults (aged {\textgreater}or=19 y) from the 1999 Mexican Nutrition Survey and 7464 adolescents and 21,113 adults from the 2006 Mexican Health and Nutrition Survey. We measured the volume and energy per day contributed by all beverages consumed by the sample subjects. In 2006, Mexican adolescents and adults obtained 20.1 and 22.3{\%}, respectively, of their energy intake from energy-containing beverages. Whole milk, carbonated and noncarbonated sugar-sweetened beverages, fruit juice with various sugar and water combinations added, and alcohol represented the 4 major categories of beverage intake. The trends from the dietary intake surveys showed very large increases in the intake of energy-containing beverages among adolescents and adults between 1999 and 2006. Income elasticities showed a high likelihood that intakes will increase as Mexican incomes continue to rise. Whereas the own-price elasticities for whole milk and sodas were both modest, intakes of these were increasing and higher than those for all other food groups. Energy intake trends and current levels of beverage intakes in Mexico are the highest recorded in a nationally representative survey and present major challenges for public health authorities.}
       \field{isbn}{0022-3166}
       \field{issn}{0022-3166}
       \field{journaltitle}{Journal of Nutrition}
-      \field{month}{12}
       \field{number}{12}
       \field{title}{{Energy Intake from Beverages Is Increasing among Mexican Adolescents and Adults}}
       \field{volume}{138}
@@ -797,15 +800,14 @@
       \strng{namehash}{267aaced67656ea11129df96bafff81b}
       \strng{fullhash}{267aaced67656ea11129df96bafff81b}
       \field{sortinit}{B}
-      \field{extrayear}{1}
       \field{labelyear}{2002}
       \field{datelabelsource}{}
-      \field{labeltitle}{{The impact of diabetes on adult employment and earnings of Mexican Americans: findings from a community based study}}
+      \field{labeltitle}{{The impact of diabetes on adult employment and earnings of Mexican Americans: Findings from a community based study}}
       \field{abstract}{Epidemiological studies indicate that minority populations in the US - including African Americans, Native Americans and Mexican Americans - are particularly at risk for diabetes and that their complications are more frequent and severe. Using microdata from a 1994-1999 population based study of middle aged and older Mexican Americans in the Southwest, this study analyzes the impact of diabetes on the employment and earnings outcomes of adults 45 years of age and older. The empirical results from estimating maximum likelihood employment and earnings models suggest that diabetes leads to lower productivity and earnings for women but has no statistically significant impact on their employment probability. In the case of men, however, diabetes leads to a lower employment propensity but has no effect on earnings. Thus, the problems associated with this condition could lead to potential future financial difficulties particularly for high-risk populations in their later years.}
       \field{issn}{1057-9230}
-      \field{journaltitle}{Health economics}
+      \field{journaltitle}{Health Economics}
       \field{number}{5}
-      \field{title}{{The impact of diabetes on adult employment and earnings of Mexican Americans: findings from a community based study}}
+      \field{title}{{The impact of diabetes on adult employment and earnings of Mexican Americans: Findings from a community based study}}
       \field{volume}{11}
       \field{year}{2002}
       \field{pages}{403\bibrangedash 413}
@@ -813,41 +815,9 @@
       \verb 10.1002/hec.676
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop//Bastida, Pag{\'{a}}n - 2002 - The impact of diabetes on adult employment and earnings of Mexican Americans findings from a community based(2).pdf:pdf
-      \endverb
-      \keyw{Aged,Cost of Illness,Diabet,Diabetes Complications,Till,all,download,econlit,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
-    \endentry
-    \entry{Bastida2002a}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9edab58523912ef4ad74475938db9a0b}
-      \strng{fullhash}{9edab58523912ef4ad74475938db9a0b}
-      \field{sortinit}{B}
-      \field{extrayear}{2}
-      \field{labelyear}{2002}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The impact of diabetes on adult employment and earnings of Mexican Americans: findings from a community based study.}}
-      \field{abstract}{Epidemiological studies indicate that minority populations in the US - including African Americans, Native Americans and Mexican Americans - are particularly at risk for diabetes and that their complications are more frequent and severe. Using microdata from a 1994-1999 population based study of middle aged and older Mexican Americans in the Southwest, this study analyzes the impact of diabetes on the employment and earnings outcomes of adults 45 years of age and older. The empirical results from estimating maximum likelihood employment and earnings models suggest that diabetes leads to lower productivity and earnings for women but has no statistically significant impact on their employment probability. In the case of men, however, diabetes leads to a lower employment propensity but has no effect on earnings. Thus, the problems associated with this condition could lead to potential future financial difficulties particularly for high-risk populations in their later years.}
-      \field{issn}{1057-9230}
-      \field{journaltitle}{Health economics}
-      \field{number}{5}
-      \field{title}{{The impact of diabetes on adult employment and earnings of Mexican Americans: findings from a community based study.}}
-      \field{volume}{11}
-      \field{year}{2002}
-      \field{pages}{403\bibrangedash 13}
-      \verb{doi}
-      \verb 10.1002/hec.676
-      \endverb
-      \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Bastida, Pag{\'{a}}n - 2002 - The impact of diabetes on adult employment and earnings of Mexican Americans findings from a community based st.pdf:pdf
       \endverb
-      \keyw{Aged,Cost of Illness,Diabetes Complications,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: ethnology,Efficiency,Employment,Employment: economics,Employment: statistics {\&} numerical data,Family Characteristics,Family Characteristics: ethnology,Female,Humans,Interviews as Topic,Investments,Investments: economics,Likelihood Functions,Male,Mexican Americans,Mexican Americans: statistics {\&} numerical data,Middle Aged,Models,Poverty,Poverty: ethnology,Poverty: statistics {\&} numerical data,Prevalence,Risk Factors,Socioeconomic Factors,Southwestern United States,Southwestern United States: epidemiology,Statistical}
+      \keyw{Aged,Cost of Illness,Diabet,Diabetes Complications,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: ethnology,Efficiency,Employment,Employment: economics,Employment: statistics {\&} numerical data,Family Characteristics,Family Characteristics: ethnology,Female,Humans,Interviews as Topic,Investments,Investments: economics,Likelihood Functions,Male,Mexican Americans,Mexican Americans: statistics {\&} numerical data,Middle Aged,Models,Poverty,Poverty: ethnology,Poverty: statistics {\&} numerical data,Prevalence,Risk Factors,Socioeconomic Factors,Southwestern United States,Southwestern United States: epidemiology,Statistical,Till,all,download,econlit,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
     \entry{LopezBastida2002a}{article}{}
       \name{labelname}{3}{uniquelist=2}{%
@@ -915,6 +885,51 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Basu et al. - 2013 - The Relationship of Sugar to Population-Level Diabetes Prevalence An Econometric Analysis of Repeated Cross-Section.pdf:pdf
       \endverb
       \keyw{Adult,Aged,Carbohydrates,Carbohydrates: analysis,Cross-Sectional Studies,Diabetes Mellitus,Econometric,Energy Intake,Humans,Middle Aged,Models,Obesity,Obesity: epidemiology,Prevalence,Selection Bias,Type 2,Type 2: epidemiology,Young Adult}
+    \endentry
+    \entry{Batis2014}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=08cfeed641d33d8817edc5e8fd243ec2}{Mendez}{M\bibinitperiod}{Michelle\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=74787ab45e89c9083ce3ac58d95a8851}{Sotres-Alvarez}{S\bibinithyphendelim A\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=7803637b4943e116f249c38cb000edc2}{Gordon-Larsen}{G\bibinithyphendelim L\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e3705f2f361e6d6722d52a05ccd42f01}{Popkin}{P\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=08cfeed641d33d8817edc5e8fd243ec2}{Mendez}{M\bibinitperiod}{Michelle\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=74787ab45e89c9083ce3ac58d95a8851}{Sotres-Alvarez}{S\bibinithyphendelim A\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=7803637b4943e116f249c38cb000edc2}{Gordon-Larsen}{G\bibinithyphendelim L\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e3705f2f361e6d6722d52a05ccd42f01}{Popkin}{P\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fd0e86e40976215c36a7dc1ea9510918}
+      \strng{fullhash}{9c056cbf7cfe25c3e30027ed8572acf1}
+      \field{sortinit}{B}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Dietary pattern trajectories during 15 years of follow-up and HbA1c, insulin resistance and diabetes prevalence among Chinese adults.}}
+      \field{abstract}{BACKGROUND: Most research on dietary patterns and health outcomes does not include longitudinal exposure data. We used an innovative technique to capture dietary pattern trajectories and their association with haemoglobin A1c (HbA1c), homeostasis model of insulin resistance (HOMA-IR) and prevalence of newly diagnosed diabetes.$\backslash$n$\backslash$nMETHODS: We included 4096 adults with 3-6 waves of diet data (1991-2006) and biomarkers measured in 2009 from the China Health and Nutrition Survey. Diet was assessed with three 24-h recalls and a household food inventory. We used a dietary pattern previously identified with reduced rank regression that positively predicted diabetes in 2006 (high in wheat products and soy milk and low in rice, legumes, poultry, eggs and fish). We estimated a score for this dietary pattern for each subject at each wave. Using latent class trajectory analysis, we grouped subjects with similar dietary pattern score trajectories over time into five classes.$\backslash$n$\backslash$nRESULTS: Three trajectory classes were stable over time, and in two classes the diet became unhealthier over time (upward trend in dietary pattern score). Among two classes with similar scores in 2006, the one with the lower (healthier) initial score had an HbA1c 1.64{\%} lower (-1.64 (95{\%} CI -3.17 to -0.11)) and non-significantly a HOMA-IR 6.47{\%} lower (-6.47 (-17.37 to 4.42)) and lower odds of diabetes (0.86 (0.44 to 1.67)).$\backslash$n$\backslash$nCONCLUSIONS: Our findings suggest that dietary pattern trajectories with healthier scores longitudinally had a lower HbA1c compared with those with unhealthier scores, even when the trajectories had similar scores in the end point.}
+      \field{annotation}{likely good to create a control group}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1470-2738 (Electronic) 0143-005X (Linking)}
+      \field{issn}{1470-2738}
+      \field{journaltitle}{Journal of epidemiology and community health}
+      \field{number}{6}
+      \field{title}{{Dietary pattern trajectories during 15 years of follow-up and HbA1c, insulin resistance and diabetes prevalence among Chinese adults.}}
+      \field{volume}{29}
+      \field{year}{2014}
+      \field{pages}{773\bibrangedash 779}
+      \verb{doi}
+      \verb 10.1136/jech-2013-203560
+      \endverb
+      \verb{eprint}
+      \verb NIHMS150003
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Batis et al. - 2014 - Dietary pattern trajectories during 15 years of follow-up and HbA1c, insulin resistance and diabetes prevalence am.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24729424
+      \endverb
     \endentry
     \entry{Baum2007}{article}{}
       \name{labelname}{3}{}{%
@@ -1444,19 +1459,19 @@
       \endverb
       \keyw{*diabetes mellitus,*diabetes mellitus/dm [Disease Management],*employment,Diabetes Mellitus,Employment,Till,United States,adult,aged,all,article,controlled study,cost of illness,download,economics,embase,extracted,female,health care cost,health survey,human,included,major clinical study,male,medical care,medical literature,newsearch,oldsearch,population model,population research,productivity,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
-    \entry{Brown2005d}{article}{}
+    \entry{Brown2005}{article}{}
       \name{labelname}{3}{uniquelist=2}{%
         {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=fd23a0cd5aec6370324a15637b697d35}{Pagan}{P\bibinitperiod}{Jose\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{uniquelist=2}{%
         {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=fd23a0cd5aec6370324a15637b697d35}{Pagan}{P\bibinitperiod}{Jose\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{d54bccfd3176bda39ad73c6306ce7c87}
-      \strng{fullhash}{69797390cbc1326ed0ba68abc0fb7a9d}
+      \strng{namehash}{1014a2e2888957eb52a7d59d418c3374}
+      \strng{fullhash}{fcec57d6f639685609f85d6ccf8af1d4}
       \field{sortinit}{B}
       \field{labelyear}{2005}
       \field{datelabelsource}{}
@@ -1474,42 +1489,9 @@
       \verb 10.1002/hec.942
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop//Brown, Pag{\'{a}}n, Bastida - 2005 - The impact of diabetes on employment genetic IVs in a bivariate probit.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop//Brown, Pag{\'{a}}n, Bastida - 2005 - The impact of diabetes on employment genetic IVs in a bivariate probit.pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Brown, Pag{\'{a}}n, Bastida - 2005 - The impact of diabetes on employment genetic IVs in a bivariate probit.pdf:pdf
       \endverb
-      \keyw{*diabetes mellitus,*employment,African Americans,Cost of Illness,Health Production I120,Hispanic,Till,Time Allocation an,absenteeism,aged,all,article,demography,download,econlit,embase,epidemiological data,extracted,genetic predisposition,genetic variability,health economics,health survey,human,included,mortality,newsearch,physical disability,priority journal,productivity,pubmed,relevant,reviewed,selected{\_}papers,sex difference,social aspect}
-    \endentry
-    \entry{Brown2005}{article}{}
-      \name{labelname}{3}{uniquelist=2}{%
-        {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{uniquelist=2}{%
-        {{hash=6dc15a3d84a263fd2d4b297e6dbc57b9}{Brown}{B\bibinitperiod}{H\bibnamedelima Shelton}{H\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=4edf9a56343f61b674675aa55446c7b0}{Pag{\'{a}}n}{P\bibinitperiod}{Jos{\'{e}}\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=d1102702cf9f935be1f577c38fac9ea6}{Bastida}{B\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{1014a2e2888957eb52a7d59d418c3374}
-      \strng{fullhash}{fcec57d6f639685609f85d6ccf8af1d4}
-      \field{sortinit}{B}
-      \field{labelyear}{2005}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The impact of diabetes on employment: genetic IVs in a bivariate probit.}}
-      \field{abstract}{Diabetes has been shown to have a detrimental impact on employment and labor market productivity, which results in lost work days and higher mortality/disability. This study utilizes data from the Border Epidemiologic Study on Aging to analyze the endogeneity of diabetes in an employment model. We use family history of diabetes as genetic instrumental variables. We show that assuming that diabetes is an exogenous variable results in an overestimate (underestimate) of the negative impact of diabetes on female (male) employment. Our results are particularly relevant in the case of populations where genetic predisposition has an important role in the etiology of diabetes.}
-      \field{issn}{1057-9230}
-      \field{journaltitle}{Health economics}
-      \field{number}{5}
-      \field{title}{{The impact of diabetes on employment: genetic IVs in a bivariate probit.}}
-      \field{volume}{14}
-      \field{year}{2005}
-      \field{pages}{537\bibrangedash 44}
-      \verb{doi}
-      \verb 10.1002/hec.942
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Brown, Pag{\'{a}}n, Bastida - 2005 - The impact of diabetes on employment genetic IVs in a bivariate probit.pdf:pdf
-      \endverb
-      \keyw{Absenteeism,African Americans,African Americans: genetics,African Americans: statistics {\&} numerical data,Aged,Cost of Illness,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: ethnology,Diabetes Mellitus: genetics,Efficiency,Employment,Employment: statistics {\&} numerical data,Female,Humans,Male,Mexican Americans,Mexican Americans: genetics,Mexican Americans: statistics {\&} numerical data,Middle Aged,Models,Poverty,Poverty: economics,Poverty: ethnology,Statistical,Texas,Texas: epidemiology}
+      \keyw{*diabetes mellitus,*employment,Absenteeism,African Americans,African Americans: genetics,African Americans: statistics {\&} numerical data,Aged,Cost of Illness,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: ethnology,Diabetes Mellitus: genetics,Efficiency,Employment,Employment: statistics {\&} numerical data,Female,Health Production I120,Hispanic,Humans,Male,Mexican Americans,Mexican Americans: genetics,Mexican Americans: statistics {\&} numerical data,Middle Aged,Models,Poverty,Poverty: economics,Poverty: ethnology,Statistical,Texas,Texas: epidemiology,Till,Time Allocation an,absenteeism,aged,all,article,demography,download,econlit,embase,epidemiological data,extracted,genetic predisposition,genetic variability,health economics,health survey,human,included,mortality,newsearch,physical disability,priority journal,productivity,pubmed,relevant,reviewed,selected{\_}papers,sex difference,social aspect}
     \endentry
     \entry{BrownIII2011}{article}{}
       \name{labelname}{7}{uniquelist=2}{%
@@ -1535,20 +1517,20 @@
       \field{sortinit}{B}
       \field{labelyear}{2011}
       \field{datelabelsource}{}
-      \field{labeltitle}{{Diabetes and employment productivity: Does diabetes management matter?}}
+      \field{labeltitle}{{Diabetes and employment productivity: does diabetes management matter?}}
       \field{abstract}{Objective: To determine whether labor market effects were the result of diabetes per se or rather depended on the degree to which diabetes was controlled through management of blood sugar levels. Methods: This study utilized data from a recently completed survey of households in Brownsville, Texas, a largely Mexican American community with a high prevalence of diabetes that is located on the Texas-Mexico border. Diabetes management, or control, was measured by blood sugar levels, glycosylated hemoglobin (A1C) levels, and interaction terms. Methods used were probit and Heckman regression. Results: Management of diabetes did not appear to have a discernible impact on labor market outcomes in the short run. However, diabetes was negatively associated with male productivity, particularly in males' propensity to work. The new American Diabetes Association (ADA) definition of diabetes is based on having an A1C level of {\textless}6.5{\%}. Using the new ADA definition, diabetes was negatively associated with female productivity. Female productivity was also negatively associated with the new ADA definition of prediabetes (A1C levels between 5.7{\%} and 6.4{\%}). However, very few people with diabetes actually controlled their blood sugar or A1C levels. Conclusion: These results imply that in order to avoid productivity losses associated with diabetes, more scarce prevention resources should be spent on prevention of the onset of diabetes than on the management of A1C for those already diagnosed with diabetes. For women, the prevention of prediabetes is key.}
       \field{isbn}{1088-0224}
       \field{issn}{1936-2692}
       \field{journaltitle}{American Journal of Managed Care}
       \field{number}{8}
-      \field{title}{{Diabetes and employment productivity: Does diabetes management matter?}}
+      \field{title}{{Diabetes and employment productivity: does diabetes management matter?}}
       \field{volume}{17}
       \field{year}{2011}
       \field{pages}{569\bibrangedash 576}
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Brown I I I et al. - 2011 - Diabetes and employment productivity does diabetes management matter.pdf:pdf
       \endverb
-      \keyw{*diabetes mellitus,*employment,*job performance,*productivity,Diabetes Mellitus,Employment,Humans,Mexican Americans,Texas,United States,adult,article,community,disease control,female,glucose blood level,glucose/ec [Endogenous Compound],health survey,hemoglobin A1c/ec [Endogenous Compound],human,major clinical study,male,prevalence,priority journal,statistical model,work environment}
+      \keyw{*diabetes mellitus,*employment,*job performance,*productivity,Diabetes Mellitus,Employment,Humans,Mexican Americans,Texas,Till,United States,adult,all,article,community,disease control,download,embase,extracted,female,glucose blood level,glucose/ec [Endogenous Compound],health survey,hemoglobin A1c/ec [Endogenous Compound],human,included,major clinical study,male,newsearch,prevalence,priority journal,pubmed,relevant,reviewed,selected{\_}papers,statistical model,work environment}
     \endentry
     \entry{Brown2014}{article}{}
       \name{labelname}{1}{}{%
@@ -1830,19 +1812,19 @@
       \keyw{Externalities,Insurance,Medical care costs,Obesity}
     \endentry
     \entry{Chan2007a}{article}{}
-      \name{labelname}{4}{}{%
+      \name{labelname}{4}{uniquelist=2}{%
         {{hash=9aa454605de210508975f4eec43264c3}{Chan}{C\bibinitperiod}{B\bibnamedelima S\bibnamedelima W}{B\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
         {{hash=f0eacefb934d8f518d2edcc8a6b08c9e}{Tsang}{T\bibinitperiod}{M\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
         {{hash=be07ef228e8dfbd42224b26e50f2c7c6}{Lee}{L\bibinitperiod}{V\bibnamedelima W\bibnamedelima Y}{V\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=a9a9bbdf3404cd7bb80dcd723d5ca487}{Lee}{L\bibinitperiod}{K\bibnamedelima K\bibnamedelima C}{K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{4}{}{%
+      \name{author}{4}{uniquelist=2}{%
         {{hash=9aa454605de210508975f4eec43264c3}{Chan}{C\bibinitperiod}{B\bibnamedelima S\bibnamedelima W}{B\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
         {{hash=f0eacefb934d8f518d2edcc8a6b08c9e}{Tsang}{T\bibinitperiod}{M\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
         {{hash=be07ef228e8dfbd42224b26e50f2c7c6}{Lee}{L\bibinitperiod}{V\bibnamedelima W\bibnamedelima Y}{V\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=a9a9bbdf3404cd7bb80dcd723d5ca487}{Lee}{L\bibinitperiod}{K\bibnamedelima K\bibnamedelima C}{K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{46c1a5077f3c6c55ba9f3d3aea628c87}
+      \strng{namehash}{4437d7627b6f78f9a681d057a3684312}
       \strng{fullhash}{024ab98eb6e2cf0c6e8037159fb698d6}
       \field{sortinit}{C}
       \field{labelyear}{2007}
@@ -1861,6 +1843,43 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Chan et al. - 2007 - Cost of Type 2 Diabetes mellitus in Hong Kong Chinese.pdf:pdf
       \endverb
       \keyw{Aged,Cost of Illness,Costs and Cost Analysis,Diabe,all,download,extracted,included,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Chan2014}{article}{}
+      \name{labelname}{3}{uniquelist=2}{%
+        {{hash=e19c136b50ef6f70651712743d6b341d}{Chan}{C\bibinitperiod}{Juliana\bibnamedelimb C\bibnamedelima N}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=3e198c277b61eb94a13cf16f9b6278cc}{Zhang}{Z\bibinitperiod}{Yuying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=05c644d809545177147cedf5f782d4d0}{Ning}{N\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{uniquelist=2}{%
+        {{hash=e19c136b50ef6f70651712743d6b341d}{Chan}{C\bibinitperiod}{Juliana\bibnamedelimb C\bibnamedelima N}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=3e198c277b61eb94a13cf16f9b6278cc}{Zhang}{Z\bibinitperiod}{Yuying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=05c644d809545177147cedf5f782d4d0}{Ning}{N\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{b6342eb2df8edee0ee397fb8cae5bcf4}
+      \strng{fullhash}{9eb2c003be2336832e11de144a3280d0}
+      \field{sortinit}{C}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes in China: a societal solution for a personal challenge}}
+      \field{issn}{22138587}
+      \field{journaltitle}{The Lancet Diabetes {\&} Endocrinology}
+      \field{number}{12}
+      \field{title}{{Diabetes in China: a societal solution for a personal challenge}}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{969\bibrangedash 979}
+      \verb{doi}
+      \verb 10.1016/S2213-8587(14)70144-5
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Chan, Zhang, Ning - 2014 - Diabetes in China a societal solution for a personal challenge.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S2213858714701445
+      \endverb
     \endentry
     \entry{Chang2010b}{article}{}
       \name{labelname}{1}{}{%
@@ -2073,6 +2092,38 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Colchero et al. - 2016 - Beverage purchases from stores in Mexico under the excise tax on sugar sweetened beverages observational study.pdf:pdf
       \endverb
     \endentry
+    \entry{Cole2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=806fdb2c425970a544db78140e5aad5d}{Cole}{C\bibinitperiod}{S.\bibnamedelimi R.}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=cb69455e6671cad689a1d9e4920479bb}{Hernan}{H\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=806fdb2c425970a544db78140e5aad5d}{Cole}{C\bibinitperiod}{S.\bibnamedelimi R.}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=cb69455e6671cad689a1d9e4920479bb}{Hernan}{H\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{98a2b953f6f615e051c73e75084cb9a6}
+      \strng{fullhash}{98a2b953f6f615e051c73e75084cb9a6}
+      \field{sortinit}{C}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Constructing Inverse Probability Weights for Marginal Structural Models}}
+      \field{issn}{0002-9262}
+      \field{journaltitle}{American Journal of Epidemiology}
+      \field{number}{6}
+      \field{title}{{Constructing Inverse Probability Weights for Marginal Structural Models}}
+      \field{volume}{168}
+      \field{year}{2008}
+      \field{pages}{656\bibrangedash 664}
+      \verb{doi}
+      \verb 10.1093/aje/kwn164
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Cole, Hernan - 2008 - Constructing Inverse Probability Weights for Marginal Structural Models.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://aje.oxfordjournals.org/cgi/doi/10.1093/aje/kwn164
+      \endverb
+    \endentry
     \entry{Collins2005}{article}{}
       \name{labelname}{9}{}{%
         {{hash=6c8469ebcf7a1d308ec25f792f8019de}{Collins}{C\bibinitperiod}{James\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -2122,46 +2173,45 @@
       \endverb
       \keyw{*absenteeism,*allergy/dm [Disease Management],*allergy/ep [Epidemiology],*chronic disease/dm [Disease Management],*chronic disease/ep [Epidemiology],*musculoskeletal disease/dm [Disease Management],*musculoskeletal disease/ep [Epidemiology],Stanford Presenteeism Scale,Till,United States,adult,all,anxiety disorder/dm [Disease Management],anxiety disorder/ep [Epidemiology],arthralgia/dm [Disease Management],arthralgia/ep [Epidemiology],arthritis/dm [Disease Management],arthritis/ep [Epidemiology],biometry,breathing disorder/dm [Disease Management],breathing disorder/ep [Epidemiology],cardiovascular disease/dm [Disease Management],cardiovascular disease/ep [Epidemiology],compensation,cost of illness,demography,depression/dm [Disease Management],depression/ep [Epidemiology],diabetes mellitus/dm [Disease Management],diabetes mellitus/ep [Epidemiology],download,embase,embase2,excludestudy,female,gastrointestinal disease/dm [Disease Management],gastrointestinal disease/ep [Epidemiology],headache/dm [Disease Management],headache/ep [Epidemiology],health hazard,human,job performance,joint stiffness/dm [Disease Management],joint stiffness/ep [Epidemiology],major clinical study,male,migraine/dm [Disease Management],migraine/ep [Epidemiology],newsearch,other,prevalence,rating scale,relevant,review,reviewed,risk factor,selected{\_}papers,self report,smoking,spine disease/dm [Disease Management],spine disease/ep [Epidemiology],work disability,worker}
     \endentry
-    \entry{Condliffe2013}{article}{}
-      \name{labelname}{4}{}{%
+    \entry{Condliffe2014}{article}{}
+      \name{labelname}{2}{}{%
         {{hash=05ad71ed08f5053bf4d207559d9a4788}{Condliffe}{C\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=60778e7136cb71136b5d6c9db3870f70}{Link}{L\bibinitperiod}{Charles\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=ff2e7cedc9e4ae273c30be757fa50ee1}{Parasuraman}{P\bibinitperiod}{Shreekant}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=ab7568567e0c4cb9bee51246893407d7}{Pollack}{P\bibinitperiod}{Michael\bibnamedelima F.}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=60c323455b2f68fcfff62980434fe336}{Link}{L\bibinitperiod}{Charles\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{4}{}{%
+      \name{author}{2}{}{%
         {{hash=05ad71ed08f5053bf4d207559d9a4788}{Condliffe}{C\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=60778e7136cb71136b5d6c9db3870f70}{Link}{L\bibinitperiod}{Charles\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=ff2e7cedc9e4ae273c30be757fa50ee1}{Parasuraman}{P\bibinitperiod}{Shreekant}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=ab7568567e0c4cb9bee51246893407d7}{Pollack}{P\bibinitperiod}{Michael\bibnamedelima F.}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=60c323455b2f68fcfff62980434fe336}{Link}{L\bibinitperiod}{Charles\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{a5182a23f02a1329257979b0b8678a9c}
-      \strng{fullhash}{d73170c9919daffc8925e61506f4bf9c}
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{1f3a1a691dce9372536faa0300e102fc}
+      \strng{fullhash}{1f3a1a691dce9372536faa0300e102fc}
       \field{sortinit}{C}
-      \field{labelyear}{2013}
-      \field{labelmonth}{05}
+      \field{labelyear}{2014}
+      \field{labelmonth}{03}
       \field{datelabelsource}{}
-      \field{labeltitle}{{The effects of hypertension and obesity on total health-care expenditures of diabetes patients in the United States}}
-      \field{abstract}{We identify a representative sample of US diabetes patients with comorbid hypertension and obesity and then evaluate health-care expenditures in this population across comorbidity categories. The...}
-      \field{annotation}{possible to calculate total unadjusted healthcare costs. have to multiply each group estimate by number of people in group, sum it up and divide by total number}
-      \field{issn}{1350-4851}
-      \field{journaltitle}{Applied Economics Letters}
-      \field{month}{05}
-      \field{number}{7}
-      \field{title}{{The effects of hypertension and obesity on total health-care expenditures of diabetes patients in the United States}}
-      \field{volume}{20}
-      \field{year}{2013}
-      \field{pages}{649\bibrangedash 652}
+      \field{labeltitle}{{Racial differences in the effects of hypertension and obesity on health expenditures by diabetes patients in the US}}
+      \field{abstract}{Using a representative sample of US diabetes patients with comorbid hypertension and obesity, we estimate the determinants of health care expenditures. The hypothesis is that the presence of comorbid obesity and hypertension is associated with higher expenditures in the health care system. We are unaware of any study that examines the effects of these conditions taken together. The results confirm our hypothesis. For all races/ethnicities, the addition of hypertension and/or obese to diabetes substantially increases health care expenditures: by over 25{\%} for whites, by over 70{\%} for Blacks and by over 48{\%} for Hispanics. We further find that interactions of obesity and hypertension with race indicate lower health expenditures by minorities compared to whites having the same combination of conditions. Diabetic-obese-not-hypertensive blacks spend 37.7{\%} ({\$}4224 per year) less than their white counterparts. Diabetic- obese-not-hypertensive Hispanics spend 41{\%} ({\$}4591 per year) less than diabetic-obese- not-hypertensive whites. Blacks and Hispanics who are diabetic but not obese or hypertensive spend {\$}5923 and {\$}6409 less than whites with equivalent conditions. The results have implications for efficiency and equity in the health care system. Reprinted by permission of Routledge, Taylor and Francis Ltd.}
+      \field{annotation}{Date revised - 2013-12-16 Last updated - 2014-02-11 SubjectsTermNotLitGenreText - 3524 6220; 8823; 10565 3549 2688 2449 10404; 3465 7815 971 2085 2088 10642 2688 2449 10404; 5780 4618; 433 293 14}
+      \field{issn}{1350-4851, 1350-4851}
+      \field{journaltitle}{Applied economics letters}
+      \field{month}{03}
+      \field{number}{4}
+      \field{title}{{Racial differences in the effects of hypertension and obesity on health expenditures by diabetes patients in the US}}
+      \field{volume}{21}
+      \field{year}{2014}
+      \field{pages}{280\bibrangedash 283}
       \verb{doi}
-      \verb 10.1080/13504851.2012.727966
+      \verb http://dx.doi.org/10.1080/13504851.2013.856990
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Condliffe, Link - 2013 - The effects of hypertension and obesity on total health-care expenditures of diabetes patients in the United St.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Condliffe, Link - 2014 - Racial differences in the effects of hypertension and obesity on health expenditures by diabetes patients in th.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.tandfonline.com/doi/abs/10.1080/13504851.2012.727966
+      \verb http://search.proquest.com/docview/1468568489?accountid=10637%20http://mlsfx.lib.uea.ac.uk:8888/sfx%7B%5C_%7Dlocal?url%7B%5C_%7Dver=Z39.88-2004%7B%5C&%7Drft%7B%5C_%7Dval%7B%5C_%7Dfmt=info:ofi/fmt:kev:mtx:journal%7B%5C&%7Dgenre=article%7B%5C&%7Dsid=ProQ:ProQ:ibssshell%7B%5C&%7Datitle=Racial+differences+in+the+effects+of+hyperten
       \endverb
-      \keyw{IBSS{\_}update,download,econlit{\_}update,extracted,included,reviewed}
+      \keyw{Determinants,Diabetes,Health expenditure,IBSS{\_}11{\_}14,Obesity,Racial differentiation,Sociology,U.S.A.,all,download,econlit{\_}11{\_}14,relevant,selected{\_}papers}
     \endentry
     \entry{Craig2012}{article}{}
       \name{labelname}{11}{}{%
@@ -2465,6 +2515,42 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Dawson et al. - 2002 - The economic cost of diabetes in Canada, 1998.pdf:pdf
       \endverb
       \keyw{Acute Disease,Acute Disease: economics,Adolescent,Adult,Aged,Canada,Cardiovascular Diseases,Cardiovascular Diseases: economics,Cardiovascular Diseases: etiology,Child,Chronic Disease,Chronic Disease: economics,Cost of Illness,Diabetes Complications,Diabetes Mellitus,Diabetes Mellitus: economics,Direct Service Costs,Female,Humans,Infant,Male,Middle Aged,Newborn,Preschool,all,download,embase,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{DeFineOlivarius2015}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=b9141df83ab1fc81b2a8da9cd458bb6d}{{De\bibnamedelimb Fine\bibnamedelimb Olivarius}}{D\bibinitperiod}{Niels}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=1b6b6ee37fbcf97d4b4ea605f0fcfd5e}{Siersma}{S\bibinitperiod}{Volkert\bibnamedelima Dirk}{V\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=e3dcf47a2ea0bfa88c14f044a3cd63da}{K{\o}ster-Rasmussen}{K\bibinithyphendelim R\bibinitperiod}{Rasmus}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=02572381074d1b04e13a0223c10f19f2}{Heitmann}{H\bibinitperiod}{Berit\bibnamedelima Lilienthal}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=98a5f007ed429e8477c625c1d0700a0b}{Waldorff}{W\bibinitperiod}{Frans\bibnamedelima Boch}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=b9141df83ab1fc81b2a8da9cd458bb6d}{{De\bibnamedelimb Fine\bibnamedelimb Olivarius}}{D\bibinitperiod}{Niels}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=1b6b6ee37fbcf97d4b4ea605f0fcfd5e}{Siersma}{S\bibinitperiod}{Volkert\bibnamedelima Dirk}{V\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=e3dcf47a2ea0bfa88c14f044a3cd63da}{K{\o}ster-Rasmussen}{K\bibinithyphendelim R\bibinitperiod}{Rasmus}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=02572381074d1b04e13a0223c10f19f2}{Heitmann}{H\bibinitperiod}{Berit\bibnamedelima Lilienthal}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=98a5f007ed429e8477c625c1d0700a0b}{Waldorff}{W\bibinitperiod}{Frans\bibnamedelima Boch}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cc49443182eea735c394fc77dc3ea8ec}
+      \strng{fullhash}{414ccf8c6b21e4ad8f5d29653d6592fa}
+      \field{sortinit}{D}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Weight changes following the diagnosis of type 2 diabetes: The impact of recent and past weight history before diagnosis. Results from the Danish Diabetes Care in General Practice (DCGP) Study}}
+      \field{abstract}{AIMS: The association between recent and more distant weight changes before and after the diagnosis of type 2 diabetes has been little researched. The aim of this study is to determine the influence of patients' weight history before diabetes diagnosis on the observed 6-year weight changes after diagnosis.$\backslash$n$\backslash$nMETHODS: A clinical cohort study combined with self-reported past weight history. In total 885 patients aged ≥40 years and newly diagnosed with clinical type 2 diabetes were included. Body weight was measured immediately after diabetes diagnosis and again at the 6-year follow up examination (median, 5.7 years). At diagnosis patients reported their weight 1 year and 10 years previously, and also at the age of 20. Multivariate linear regression analyses controlled for 20 baseline patient characteristics.$\backslash$n$\backslash$nRESULTS: The median (interquartile range) age at diagnosis was 63.2 (53.9; 71.4) years. Median body weight was 80.0 (72.0; 90.0) kg 10 years before diagnosis, 85.0 (75.0; 95.0) kg 1 year before diagnosis, 82.4 (72.0; 94.0) kg at diagnosis, and 80.0 (70.0; 91.1) kg at 6-year follow up. Each kg of weight gain during the year preceding the diagnosis was associated with a weight change (95{\%} CI) of -0.20 (-0.28; -0.13) kg during the follow up period. In all models age and body mass index at diagnosis predicted future weight changes, while the weight at age 20 (-0.01 (-0.06; 0.03) kg/kg), and the weight change from 10 years to 1 year before diagnosis (-0.01 (-0.06; 0.04) kg/kg), did not predict weight change after diagnosis.$\backslash$n$\backslash$nCONCLUSIONS: During the first on average 5.7 years after diagnosis of type 2 diabetes, patients generally follow a course of declining average weight, and these weight developments are related primarily to recent weight changes, body mass index, and age, but not to the more distant weight history.}
+      \field{issn}{19326203}
+      \field{journaltitle}{PLoS ONE}
+      \field{number}{4}
+      \field{title}{{Weight changes following the diagnosis of type 2 diabetes: The impact of recent and past weight history before diagnosis. Results from the Danish Diabetes Care in General Practice (DCGP) Study}}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 14}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0122219
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/De Fine Olivarius et al. - 2015 - Weight changes following the diagnosis of type 2 diabetes The impact of recent and past weight history.PDF:PDF
+      \endverb
     \endentry
     \entry{Denny2013}{article}{}
       \name{labelname}{2}{}{%
@@ -3346,42 +3432,11 @@
       \strng{namehash}{cbb8bf66cca39e79bb109607032cd57e}
       \strng{fullhash}{cbb8bf66cca39e79bb109607032cd57e}
       \field{sortinit}{H}
-      \field{extrayear}{1}
-      \field{labelyear}{2011}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Globalization of Diabetes: The role of diet, lifestyle, and genes}}
-      \field{abstract}{Type 2 diabetes is a global public health crisis that threatens the economies of all nations, particularly developing countries. Fueled by rapid urbanization, nutrition transition, and increasingly sedentary lifestyles, the epidemic has grown in parallel with the worldwide rise in obesity. Asia's large population and rapid economic development have made it an epicenter of the epidemic. Asian populations tend to develop diabetes at younger ages and lower BMI levels than Caucasians. Several factors contribute to accelerated diabetes epidemic in Asians, including the "normal-weight metabolically obese" phenotype; high prevalence of smoking and heavy alcohol use; high intake of refined carbohydrates (e.g., white rice); and dramatically decreased physical activity levels. Poor nutrition in utero and in early life combined with overnutrition in later life may also play a role in Asia's diabetes epidemic. Recent advances in genome-wide association studies have contributed substantially to our understanding of diabetes pathophysiology, but currently identified genetic loci are insufficient to explain ethnic differences in diabetes risk. Nonetheless, interactions between Westernized diet and lifestyle and genetic background may accelerate the growth of diabetes in the context of rapid nutrition transition. Epidemiologic studies and randomized clinical trials show that type 2 diabetes is largely preventable through diet and lifestyle modifications. Translating these findings into practice, however, requires fundamental changes in public policies, the food and built environments, and health systems. To curb the escalating diabetes epidemic, primary prevention through promotion of a healthy diet and lifestyle should be a global public policy priority.}
-      \field{issn}{0149-5992}
-      \field{journaltitle}{Diabetes Care}
-      \field{number}{6}
-      \field{title}{{Globalization of Diabetes: The role of diet, lifestyle, and genes}}
-      \field{volume}{34}
-      \field{year}{2011}
-      \field{pages}{1249\bibrangedash 1257}
-      \verb{doi}
-      \verb 10.2337/dc11-0442
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop//Hu - 2011 - Globalization of diabetes the role of diet, lifestyle, and genes.pdf:pdf
-      \endverb
-      \keyw{Adult,Alcohol Drinking,Alcohol Drinking: adverse effects,Asia,Asia: epidemiology,Asian Continental Ancestry Group,Asian Continental Ancestry Group: genetics,Developing Countries,Diabetes Mellitus,Diet,Diet: adverse effects,Dietary Carbohydrates,Dietary Carbohydrates: adverse effects,Exercise,Exercise: physiology,Genetic Association Studies,Genetic Predisposition to Disease,Health Promotion,Humans,Inflammation,Inflammation: complications,Insulin Resistance,Life Style,Motor Activity,Prevalence,Smoking,Smoking: adverse effects,Type 2,Type 2: epidemiology,Type 2: genetics,Type 2: prevention {\&} control}
-    \endentry
-    \entry{Hu2011a}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=cbb8bf66cca39e79bb109607032cd57e}{Hu}{H\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=cbb8bf66cca39e79bb109607032cd57e}{Hu}{H\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{cbb8bf66cca39e79bb109607032cd57e}
-      \strng{fullhash}{cbb8bf66cca39e79bb109607032cd57e}
-      \field{sortinit}{H}
-      \field{extrayear}{2}
       \field{labelyear}{2011}
       \field{datelabelsource}{}
       \field{labeltitle}{{Globalization of diabetes: the role of diet, lifestyle, and genes.}}
       \field{abstract}{Type 2 diabetes is a global public health crisis that threatens the economies of all nations, particularly developing countries. Fueled by rapid urbanization, nutrition transition, and increasingly sedentary lifestyles, the epidemic has grown in parallel with the worldwide rise in obesity. Asia's large population and rapid economic development have made it an epicenter of the epidemic. Asian populations tend to develop diabetes at younger ages and lower BMI levels than Caucasians. Several factors contribute to accelerated diabetes epidemic in Asians, including the "normal-weight metabolically obese" phenotype; high prevalence of smoking and heavy alcohol use; high intake of refined carbohydrates (e.g., white rice); and dramatically decreased physical activity levels. Poor nutrition in utero and in early life combined with overnutrition in later life may also play a role in Asia's diabetes epidemic. Recent advances in genome-wide association studies have contributed substantially to our understanding of diabetes pathophysiology, but currently identified genetic loci are insufficient to explain ethnic differences in diabetes risk. Nonetheless, interactions between Westernized diet and lifestyle and genetic background may accelerate the growth of diabetes in the context of rapid nutrition transition. Epidemiologic studies and randomized clinical trials show that type 2 diabetes is largely preventable through diet and lifestyle modifications. Translating these findings into practice, however, requires fundamental changes in public policies, the food and built environments, and health systems. To curb the escalating diabetes epidemic, primary prevention through promotion of a healthy diet and lifestyle should be a global public policy priority.}
-      \field{issn}{1935-5548}
+      \field{issn}{0149-5992}
       \field{journaltitle}{Diabetes care}
       \field{number}{6}
       \field{title}{{Globalization of diabetes: the role of diet, lifestyle, and genes.}}
@@ -3739,7 +3794,47 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Kirigia et al. - 2009 - Economic burden of diabetes mellitus in the WHO African region.pdf:pdf
       \endverb
-      \keyw{download,google,included,review}
+      \keyw{all,download,google,included,review,selected{\_}papers}
+    \endentry
+    \entry{Klein2007}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=a0840de7a2fc8b058d30d580b400d886}{Klein}{K\bibinitperiod}{Samuel}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2f7d3974188f986af0a2da5be2654a12}{Allison}{A\bibinitperiod}{David\bibnamedelima B.}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=4cd274eec08be1895b75abce725f3b14}{Heymsfield}{H\bibinitperiod}{Steven\bibnamedelima B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=bfa019c9f202f94ca3c788665174fe14}{Kelley}{K\bibinitperiod}{David\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=8254eb11b413538276b336cac7bd920c}{Leibel}{L\bibinitperiod}{Rudolph\bibnamedelima L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=c7519fa9313a4c6898e7e4df16aee003}{Nonas}{N\bibinitperiod}{Cathy}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=1182878bcd4f15128e5523f699cd79a4}{Kahn}{K\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=a0840de7a2fc8b058d30d580b400d886}{Klein}{K\bibinitperiod}{Samuel}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2f7d3974188f986af0a2da5be2654a12}{Allison}{A\bibinitperiod}{David\bibnamedelima B.}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=4cd274eec08be1895b75abce725f3b14}{Heymsfield}{H\bibinitperiod}{Steven\bibnamedelima B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=bfa019c9f202f94ca3c788665174fe14}{Kelley}{K\bibinitperiod}{David\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=8254eb11b413538276b336cac7bd920c}{Leibel}{L\bibinitperiod}{Rudolph\bibnamedelima L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=c7519fa9313a4c6898e7e4df16aee003}{Nonas}{N\bibinitperiod}{Cathy}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=1182878bcd4f15128e5523f699cd79a4}{Kahn}{K\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b7429a9e177e7bb57b31ef08919a48a1}
+      \strng{fullhash}{113073f7f19ca774e934716cbb440419}
+      \field{sortinit}{K}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Waist circumference and cardiometabolic risk: A consensus statement from Shaping America's Health: Association for Weight Management and Obesity Prevention; NAASO, the Obesity Society; the American Society for Nutrition; and the American Diabetes Associat}}
+      \field{isbn}{1935-5548 (Electronic)$\backslash$r0149-5992 (Linking)}
+      \field{issn}{01495992}
+      \field{journaltitle}{Diabetes Care}
+      \field{number}{6}
+      \field{title}{{Waist circumference and cardiometabolic risk: A consensus statement from Shaping America's Health: Association for Weight Management and Obesity Prevention; NAASO, the Obesity Society; the American Society for Nutrition; and the American Diabetes Associat}}
+      \field{volume}{30}
+      \field{year}{2007}
+      \field{pages}{1647\bibrangedash 1652}
+      \verb{doi}
+      \verb 10.2337/dc07-9921
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Klein et al. - 2007 - Waist circumference and cardiometabolic risk A consensus statement from Shaping America's Health Association for W.pdf:pdf
+      \endverb
     \endentry
     \entry{Knapp1998}{misc}{}
       \name{labelname}{2}{}{%
@@ -4012,21 +4107,24 @@
       \endverb
       \keyw{Cost of Illness,Costs and Cost Analysis,Costs and Cost Analysis: methods,Efficiency,Health Care Costs,Health Resources,Health Resources: economics,Health Resources: utilization,Humans,Research Design}
     \endentry
-    \entry{Latif2009b}{article}{}
+    \entry{Latif2009}{article}{}
       \name{labelname}{1}{}{%
         {{hash=df8559c7af61bd89055225ac6d78c476}{Latif}{L\bibinitperiod}{Ehsan}{E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
         {{hash=df8559c7af61bd89055225ac6d78c476}{Latif}{L\bibinitperiod}{Ehsan}{E\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons}%
+      }
       \strng{namehash}{df8559c7af61bd89055225ac6d78c476}
       \strng{fullhash}{df8559c7af61bd89055225ac6d78c476}
       \field{sortinit}{L}
-      \field{extrayear}{1}
       \field{labelyear}{2009}
       \field{datelabelsource}{}
       \field{labeltitle}{{The impact of diabetes on employment in Canada}}
-      \field{abstract}{This paper examines the impact of diabetes on the employment of Canadian males and females ages 15-64. Using data from the National Population Health Survey (1998), it utilizes a recursive bivariate probit approach to take into account the potential endogeneity of diabetes in employment outcomes. The results suggest that treating diabetes as exogenous yields an over-estimation of its impact on male employment. The study finds that diabetes has a significant negative impact on female employment probability, but has no significant impact on that of nonwhite Canadians. An implication thus is that policy-makers should take endogeneity into account in estimating labor market costs of chronic diseases such as diabetes. Copyright 2008 John Wiley {\&} Sons, Ltd.}
+      \field{abstract}{This paper examines the impact of diabetes on the employment of Canadian males and females ages 15-64. Using data from the National Population Health Survey (1998), it utilizes a recursive bivariate probit approach to take into account the potential endogeneity of diabetes in employment outcomes. The results suggest that treating diabetes as exogenous yields an over-estimation of its impact on male employment. The study finds that diabetes has a significant negative impact on female employment probability, but has no significant impact on that of non-white Canadians. An implication thus is that policy-makers should take endogeneity into account in estimating labor market costs of chronic diseases such as diabetes.}
+      \field{annotation}{From Duplicate 1 (The impact of diabetes on employment in Canada. - Latif, Ehsan) From Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) From Duplicate 1 ( The impact of diabetes on employment in Canada. - Latif, Ehsan ) From Duplicate 2 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, E. ) And Duplicate 4 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) And Duplicate 5 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 6 ( The impact of diabetes on employment in canada - Economics, Health; Latif, Ehsan ) From Duplicate 2 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) From Duplicate 1 ( The impact of diabetes on employment in Canada. - Latif, Ehsan ) From Duplicate 2 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, E. ) And Duplicate 4 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) And Duplicate 5 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 6 ( The impact of diabetes on employment in canada - Economics, Health; Latif, Ehsan ) From Duplicate 5 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) From Duplicate 1 ( The impact of diabetes on employment in Canada - E., Latif ) From Duplicate 8 ( The impact of diabetes on employment in Canada. - Latif, Ehsan ) From Duplicate 2 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 3 ( The impact of diabetes on employment in Canada - Latif, E. ) And Duplicate 4 ( The impact of diabetes on employment in Canada - Latif, Ehsan ) And Duplicate 5 ( THE IMPACT OF DIABETES ON EMPLOYMENT IN CANADA - {\~{A}}, Ehsan Latif ) And Duplicate 6 ( The impact of diabetes on employment in canada - Economics, Health; Latif, Ehsan )}
       \field{isbn}{1057-9230}
       \field{issn}{1099-1050}
       \field{journaltitle}{Health Economics}
@@ -4039,41 +4137,9 @@
       \verb 10.1002/hec.1390
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop//Latif - 2009 - The impact of diabetes on employment in Canada(2).pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop//Latif - 2009 - The impact of diabetes on employment in Canada(2).pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Latif - 2009 - The impact of diabetes on employment in Canada(2).pdf:pdf
       \endverb
-      \keyw{*diabetes mellitus,*employability,Canada,Diabetes Mellitus,Employme,Till,adolescent,adult,all,article,controlled study,download,econlit,embase,embase2,employment,ethnic difference,extracted,female,health economics,health survey,human,included,job market,major clinical study,male,newsearch,priority journal,pubmed,relevant,reviewed,selected{\_}papers,sex difference}
-    \endentry
-    \entry{Latif2009}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=df8559c7af61bd89055225ac6d78c476}{Latif}{L\bibinitperiod}{Ehsan}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=df8559c7af61bd89055225ac6d78c476}{Latif}{L\bibinitperiod}{Ehsan}{E\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{df8559c7af61bd89055225ac6d78c476}
-      \strng{fullhash}{df8559c7af61bd89055225ac6d78c476}
-      \field{sortinit}{L}
-      \field{extrayear}{2}
-      \field{labelyear}{2009}
-      \field{labelmonth}{05}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The impact of diabetes on employment in Canada}}
-      \field{abstract}{This paper examines the impact of diabetes on the employment of Canadian males and females ages 15-64. Using data from the National Population Health Survey (1998), it utilizes a recursive bivariate probit approach to take into account the potential endogeneity of diabetes in employment outcomes. The results suggest that treating diabetes as exogenous yields an over-estimation of its impact on male employment. The study finds that diabetes has a significant negative impact on female employment probability, but has no significant impact on that of non-white Canadians. An implication thus is that policy-makers should take endogeneity into account in estimating labor market costs of chronic diseases such as diabetes.}
-      \field{issn}{10579230}
-      \field{journaltitle}{Health Economics}
-      \field{month}{05}
-      \field{number}{5}
-      \field{title}{{The impact of diabetes on employment in Canada}}
-      \field{volume}{18}
-      \field{year}{2009}
-      \field{pages}{577\bibrangedash 589}
-      \verb{doi}
-      \verb 10.1002/hec.1390
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Latif - 2009 - The impact of diabetes on employment in Canada(2).pdf:pdf
-      \endverb
-      \keyw{Adolescent,Adult,Canada,Diabetes Mellitus,Employme,duplicates,econlit,pubmed}
+      \keyw{*diabetes mellitus,*employability,Adolescent,Adult,Canada,Diabetes Mellitus,Diabetes Mellitus: ethnology,ECONLIT,EMBASE,Employme,Employment,Female,Health Surveys,Humans,Male,Middle Aged,Till,Young Adult,adolescent,adult,all,article,controlled study,download,duplicates,econlit,embase,embase2,employment,ethnic difference,extracted,female,health economics,health survey,human,included,job market,major clinical study,male,newsearch,oldsearch,priority journal,pubmed,relevant,reviewed,selected{\_}papers,sex difference}
     \endentry
     \entry{Lau2011a}{article}{}
       \name{labelname}{3}{}{%
@@ -4477,7 +4543,6 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop//Lin - 2011 - Estimating the impact of diabetes on employment in Taiwan.pdf:pdf
       \endverb
-      \keyw{download,econlit,newsearch,relevant}
     \endentry
     \entry{Lin2004}{article}{}
       \name{labelname}{5}{uniquelist=1}{%
@@ -4565,6 +4630,9 @@
         {{hash=d8f424eac24a0528d763da424402527b}{Liu}{L\bibinitperiod}{Xiaoou}{X\bibinitperiod}{}{}{}{}}%
         {{hash=78c6e8f414f28c863790e381ab51a773}{Zhu}{Z\bibinitperiod}{Chen}{C\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
       \strng{namehash}{6c8d7fc72fbaee5201930d3182738f0e}
       \strng{fullhash}{6c8d7fc72fbaee5201930d3182738f0e}
       \field{sortinit}{L}
@@ -4585,6 +4653,80 @@
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Liu, Zhu - 2014 - Will knowing diabetes affect labor income Evidence from a natural experiment.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Liu2010}{article}{}
+      \name{labelname}{4}{uniquelist=2}{%
+        {{hash=976a161b6120f184e21e70456e2b4b82}{Liu}{L\bibinitperiod}{Zhaolan}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=c0fdcb9a2dd29fad5c77a6b0d10a4368}{Fu}{F\bibinitperiod}{Chaowei}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=2f281880cf168a91c1a63ce7574d2bcf}{Wang}{W\bibinitperiod}{Weibing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=c23186d4c1f5d36984b7b2c60933dda0}{Xu}{X\bibinitperiod}{Biao}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{uniquelist=2}{%
+        {{hash=976a161b6120f184e21e70456e2b4b82}{Liu}{L\bibinitperiod}{Zhaolan}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=c0fdcb9a2dd29fad5c77a6b0d10a4368}{Fu}{F\bibinitperiod}{Chaowei}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=2f281880cf168a91c1a63ce7574d2bcf}{Wang}{W\bibinitperiod}{Weibing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=c23186d4c1f5d36984b7b2c60933dda0}{Xu}{X\bibinitperiod}{Biao}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c9d9b730d80750e588532c004c18194e}
+      \strng{fullhash}{cff37dc735bc487146ef40122b5c2383}
+      \field{sortinit}{L}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Prevalence of chronic complications of type 2 diabetes mellitus in outpatients - a cross-sectional hospital based survey in urban China.}}
+      \field{abstract}{BACKGROUND: Chronic complications are the major outcome of type 2 diabetes mellitus progress, which reduce the quality of life of patients, incur heavy burdens to the health care system, and increase diabetic mortality. The aims of this study were to describe the prevalence of chronic complications among urban Chinese type 2 diabetic outpatients; and to analyze the associations between chronic complications and patients' demographics, diabetic related clinical characteristics. METHODS: This cross-sectional hospital-based study was carried out in 4 major Chinese cities: - Shanghai, Chengdu, Beijing and Guangzhou. The survey was conducted from March to July in 2007 among 1,524 type 2 diabetic outpatients. The subjects were interviewed face-to-face by trained interviewers using a questionnaire to capture information on demographics, disease presentations and complications. All the subjects were invited to have a HbA1c test free of charge by the standardized method with Bio-Rad Variant II. RESULTS: Of the 1,524 study subjects, 637 (41.8{\%}) were male, and the mean age was 63.3 +/- 10.2 years. At least one chronic complication was diagnosed in 792 individuals (52.0{\%}) of the study subjects; 509 (33.4{\%}) presented with macrovascular complications and 528 (34.7{\%}) with microvascular complications. The prevalence of cardiovascular and cerebrovascular conditions, neuropathy, nephropathy, ocular lesions and foot disease were 30.1{\%}, 6.8{\%}, 17.8{\%}, 10.7{\%}, 14.8{\%} and 0.8{\%}, respectively. The prevalence of chronic complications varied between cities, and significantly increased with age and duration of diagnosed diabetes. The mean of HbA1c in diabetic patients with chronic complications was 8.2{\%} +/- 1.6{\%} and 63.0{\%} of the subjects with type 2 diabetes related complications had a poor glycemic control with the HbA1c {\textgreater} 7.5{\%}. CONCLUSIONS: Chronic complications are highly prevalent among type 2 diabetic outpatients, the glycemic control of diabetic patients with chronic complications was poor, and future efforts should be directed at intensive blood glucose control, strengthening early diagnosis and improving case management to prevent and minimize the occurrence of complications.}
+      \field{isbn}{1477-7525}
+      \field{issn}{1477-7525}
+      \field{journaltitle}{Health and quality of life outcomes}
+      \field{title}{{Prevalence of chronic complications of type 2 diabetes mellitus in outpatients - a cross-sectional hospital based survey in urban China.}}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{pages}{62}
+      \verb{doi}
+      \verb 10.1186/1477-7525-8-62
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Liu et al. - 2010 - Prevalence of chronic complications of type 2 diabetes mellitus in outpatients - a cross-sectional hospital based su.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Long2014}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=1fc76d61058787486d1caf68195dd416}{Long}{L\bibinitperiod}{Gr{\'{a}}inne\bibnamedelima H.}{G\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=ba81fdb77ad3a54b6c7e0bbbde918e94}{Cooper}{C\bibinitperiod}{Andrew\bibnamedelima J.M.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ec3c4777883706d1587ef300b39ac406}{Wareham}{W\bibinitperiod}{Nicholas\bibnamedelima J.}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=da78c7421d151f1b0500839274ebca8f}{Griffin}{G\bibinitperiod}{Simon\bibnamedelima J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8cd8d80b7713f3543615c8d09145b070}{Simmons}{S\bibinitperiod}{Rebecca\bibnamedelima K.}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1fc76d61058787486d1caf68195dd416}{Long}{L\bibinitperiod}{Gr{\'{a}}inne\bibnamedelima H.}{G\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=ba81fdb77ad3a54b6c7e0bbbde918e94}{Cooper}{C\bibinitperiod}{Andrew\bibnamedelima J.M.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ec3c4777883706d1587ef300b39ac406}{Wareham}{W\bibinitperiod}{Nicholas\bibnamedelima J.}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=da78c7421d151f1b0500839274ebca8f}{Griffin}{G\bibinitperiod}{Simon\bibnamedelima J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8cd8d80b7713f3543615c8d09145b070}{Simmons}{S\bibinitperiod}{Rebecca\bibnamedelima K.}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{73eb9033f48e7584047220e3356b003e}
+      \strng{fullhash}{e243fab7fbfdde81f00d2a9403641ea5}
+      \field{sortinit}{L}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Healthy Behavior Change and Cardiovascular Outcomes in Newly Diagnosed Type 2 Diabetic Patients: A Cohort Analysis of the ADDITION-Cambridge Study}}
+      \field{abstract}{OBJECTIVE To examine whether improvements in health behaviors are associated with reduced risk of cardiovascular disease (CVD) in individuals with newly diagnosed type 2 diabetes. RESEARCH DESIGN AND METHODS Population-based prospective cohort study of 867 newly diagnosed diabetic patients aged between 40 and 69 years from the treatment phase of the ADDITION-Cambridge study. Because the results for all analyses were similar by trial arm, data were pooled, and results were presented for the whole cohort. Participants were identified via population-based stepwise screening between 2002 and 2006, and underwent assessment of physical activity (European Prospective Investigation into Cancer-Norfolk Physical Activity Questionnaire), diet (plasma vitamin C and self-report), and alcohol consumption (self-report) at baseline and 1 year. A composite primary CVD outcome was examined, comprised of cardiovascular mortality, nonfatal myocardial infarction, nonfatal stroke, and revascularization. RESULTS After a median (interquartile range) follow-up period of 5.0 years (1.3 years), 6{\%} of the cohort experienced a CVD event (12.2 per 1,000 person-years; 95{\%} CI 9.3- 15.9). CVD risk was inversely related to the number of positive health behaviors changed in the year after diabetes diagnosis. The relative risk for primary CVD event in individuals who did not change any health behavior compared with those who adopted three/four healthy behaviors was 4.17 (95{\%} CI 1.02-17.09), adjusting for age, sex, study group, social class, occupation, and prescription of cardioprotective medication (P for trend = 0.005). CONCLUSIONS CVD risk was inversely associated with the number of healthy behavior changes adopted in the year after the diagnosis of diabetes. Interventions that promote early achievement of these goals in patients with newly diagnosed diabetes could help reduce the burden of diabetes-related morbidity and mortality. {\textcopyright} 2014 by the American Diabetes Association.}
+      \field{isbn}{0149-5992}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{Diabetes Care}
+      \field{number}{6}
+      \field{title}{{Healthy Behavior Change and Cardiovascular Outcomes in Newly Diagnosed Type 2 Diabetic Patients: A Cohort Analysis of the ADDITION-Cambridge Study}}
+      \field{volume}{37}
+      \field{year}{2014}
+      \field{pages}{1712\bibrangedash 1720}
+      \verb{doi}
+      \verb 10.2337/dc13-1731
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Long et al. - 2014 - Healthy behavior change and cardiovascularoutcomes innewly diagnosed type 2 diabetic patients A cohort analysis of.pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Long et al. - 2014 - Healthy Behavior Change and Cardiovascular Outcomes in Newly Diagnosed Type 2 Diabetic Patients A Cohort Analysis o.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://care.diabetesjournals.org/lookup/doi/10.2337/dc13-1731
       \endverb
     \endentry
     \entry{Lorenzoni2014}{article}{}
@@ -4659,6 +4801,89 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Lucioni et al. - 2003 - The Costs of Type 2 Diabetes Mellitus in Italy.pdf:pdf
       \endverb
       \keyw{*antidiabetic agent/dt [Drug Therapy],*antidiabetic agent/pe [Pharmacoeconomics],*health care cost,*non insulin dependent diabetes mellitus/dm [Disea,*non insulin dependent diabetes mellitus/dt [Drug,*non insulin dependent diabetes mellitus/ep [Epide,Cost of Illness,Costs and Cost Analysis,Cross-Sect,Italy,acarbose/cb [Drug Combination],acarbose/dt [Drug Therapy],acarbose/pe [Pharmacoeconomics],adult,aged,all,antidepressant agent/dt [Drug Therapy],antidepressant agent/pe [Pharmacoeconomics],antiinfective agent/dt [Drug Therapy],antiinfective agent/pe [Pharmacoeconomics],antilipemic agent/dt [Drug Therapy],antilipemic agent/pe [Pharmacoeconomics],article,chlorpropamide/cb [Drug Combination],chlorpropamide/dt [Drug Therapy],chlorpropamide/pe [Pharmacoeconomics],diabetes mellitus/co [Complication],download,drug cost,economic evaluation,embase2,female,gastrointestinal agent/dt [Drug Therapy],gastrointestinal agent/pe [Pharmacoeconomics],glibenclamide/cb [Drug Combination],glibenclamide/dt [Drug Therapy],glibenclamide/pe [Pharmacoeconomics],gliclazide/cb [Drug Combination],gliclazide/dt [Drug Therapy],gliclazide/pe [Pharmacoeconomics],glimepiride/cb [Drug Combination],glimepiride/dt [Drug Therapy],glimepiride/pe [Pharmacoeconomics],gliquidone/cb [Drug Combination],gliquidone/dt [Drug Therapy],gliquidone/pe [Pharmacoeconomics],glisolamide/cb [Drug Combination],glisolamide/dt [Drug Therapy],glisolamide/pe [Pharmacoeconomics],health survey,human,insulin/do [Drug Dose],insulin/dt [Drug Therapy],insulin/pe [Pharmacoeconomics],insulin/pk [Pharmacokinetics],international cooperation,major clinical study,male,metformin/cb [Drug Combination],metformin/dt [Drug Therapy],metformin/pe [Pharmacoeconomics],newsearch,olia,oral antidiabetic agent/dt [Drug Therapy],oral antidiabetic agent/pe [Pharmacoeconomics],oral antidiabetic agent/po [Oral Drug Administrati,phenformin/cb [Drug Combination],phenformin/dt [Drug Therapy],phenformin/pe [Pharmacoeconomics],priority journal,pubmed,quality of life,questionnaire,relevant,resource allocation,scoring system,selected{\_}papers}
+    \endentry
+    \entry{Luo2015}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=d9ab1f6c388e5c931fd5877c0019e18d}{Luo}{L\bibinitperiod}{Xiaoping}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=77ca3f48de838e8d1ed2b4d311f9457e}{Liu}{L\bibinitperiod}{Tingting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=a2dd856776bd6165409aaa2c43b910d7}{Yuan}{Y\bibinitperiod}{Xiaojing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=1b160cc7e22f24d9e3b599f9d3ff7229}{Ge}{G\bibinitperiod}{Song}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=590e4e39e560d4f5c33781113cd98b41}{Yang}{Y\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e44633ed63d82020a099328a2af6652d}{Li}{L\bibinitperiod}{Changwei}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=86d28ab9f877f4aa5779ce7979565f4d}{Sun}{S\bibinitperiod}{Wenjie}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=d9ab1f6c388e5c931fd5877c0019e18d}{Luo}{L\bibinitperiod}{Xiaoping}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=77ca3f48de838e8d1ed2b4d311f9457e}{Liu}{L\bibinitperiod}{Tingting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=a2dd856776bd6165409aaa2c43b910d7}{Yuan}{Y\bibinitperiod}{Xiaojing}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=1b160cc7e22f24d9e3b599f9d3ff7229}{Ge}{G\bibinitperiod}{Song}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=590e4e39e560d4f5c33781113cd98b41}{Yang}{Y\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e44633ed63d82020a099328a2af6652d}{Li}{L\bibinitperiod}{Changwei}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=86d28ab9f877f4aa5779ce7979565f4d}{Sun}{S\bibinitperiod}{Wenjie}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{25152ad36351b3a5af412879d193e928}
+      \strng{fullhash}{6af47cc75e4c9b14bf177fe2992cc147}
+      \field{sortinit}{L}
+      \field{labelyear}{2015}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Factors Influencing Self-Management in Chinese Adults with Type 2 Diabetes: A Systematic Review and Meta-Analysis}}
+      \field{abstract}{Diabetes is a major public health problem in China. Diabetes self-management is critical for patients to achieved better health outcomes, however, previous studies have shown suboptimal diabetes self-management performance. We conducted a systematic review and meta-analysis to identify factors associated with diabetes self-management in Chinese adults. The results showed that confrontation, resignation, overall health beliefs, perceived susceptibility, perceived barriers, and self-efficacy were factors associated with overall diabetes self-management performance and six aspects of diabetes self-management behaviors. There is some limited evidence to suggest that provider-patient communication, married individuals, higher educational level, and higher household income level may also be linked to better diabetes self-management practice. Having healthcare insurance and utilizing chronic illness resources generally appeared to have a favorable effect on diabetes self-management performance. In addition, there were a number of factors for which the evidence is too limited to be able to ascertain its strength of association with diabetes self-management practice. The findings of this review suggest that diabetes self-management behaviors are affected by a wide range of personal and environmental factors, which allow health care providers to develop theory-based strategies to improve diabetes-self-management behaviors in this population.}
+      \field{issn}{1660-4601}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{month}{09}
+      \field{number}{9}
+      \field{title}{{Factors Influencing Self-Management in Chinese Adults with Type 2 Diabetes: A Systematic Review and Meta-Analysis}}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{11304\bibrangedash 11327}
+      \verb{doi}
+      \verb 10.3390/ijerph120911304
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Luo et al. - 2015 - Factors Influencing Self-Management in Chinese Adults with Type 2 Diabetes A Systematic Review and Meta-Analysis.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.embase.com/search/results?subaction=viewrecord%7B%5C&%7Dfrom=export%7B%5C&%7Did=L605963199$%5Cbackslash$nhttp://dx.doi.org/10.3390/ijerph120911304$%5Cbackslash$nhttp://sfx.metabib.ch/sfx%7B%5C_%7Dlocater?sid=EMBASE%7B%5C&%7Dissn=16604601%7B%5C&%7Did=doi:10.3390/ijerph120911304%7B%5C&%7Datitle=Factors+influencing+self-manag
+      \endverb
+      \keyw{Chinese,adult,age,article,coping behavior,depression,disease duration,doctor patient relation,educational status,environmental factor,health belief,health care utilization,health education,health insurance,hospital admission,human,income,locus of control,marriage,medical history,non insulin dependent diabetes mellitus,patient attitude,self care,self concept,sex difference,social support,systematic review}
+    \endentry
+    \entry{Ma2014}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=f2caec655011847aa86cc74e95fe6df4}{Ma}{M\bibinitperiod}{Ronald\bibnamedelimb Ching\bibnamedelima Wan}{R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=28b373aecd4416fac5fa24cf8ed01f68}{Lin}{L\bibinitperiod}{Xu}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9eb56532fe9f910045464e290e18a49a}{Jia}{J\bibinitperiod}{Weiping}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f2caec655011847aa86cc74e95fe6df4}{Ma}{M\bibinitperiod}{Ronald\bibnamedelimb Ching\bibnamedelima Wan}{R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=28b373aecd4416fac5fa24cf8ed01f68}{Lin}{L\bibinitperiod}{Xu}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9eb56532fe9f910045464e290e18a49a}{Jia}{J\bibinitperiod}{Weiping}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{6d022b1ff477ff3ed9a3ac42feda1b77}
+      \strng{fullhash}{3b0a815c5848764bc53d5e3ea73eec92}
+      \field{sortinit}{M}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Causes of type 2 diabetes in China}}
+      \field{issn}{22138587}
+      \field{journaltitle}{The Lancet Diabetes {\&} Endocrinology}
+      \field{number}{12}
+      \field{title}{{Causes of type 2 diabetes in China}}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{980\bibrangedash 991}
+      \verb{doi}
+      \verb 10.1016/S2213-8587(14)70145-7
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Ma, Lin, Jia - 2014 - Causes of type 2 diabetes in China.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S2213858714701457
+      \endverb
     \endentry
     \entry{Maahs2010}{article}{}
       \name{labelname}{4}{}{%
@@ -4910,37 +5135,7 @@
       \endverb
       \keyw{diabetes incidence and prevalence,diabetes projections,markov simulation models}
     \endentry
-    \entry{Minor2011a}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
-      \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
-      \field{sortinit}{M}
-      \field{extrayear}{1}
-      \field{labelyear}{2011}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
-      \field{abstract}{This paper estimates the effect of diabetes on labor-force participation, hours worked, days-out-of-work due to illness, and earnings using data from the National Health Interview Survey. Findings indicate that diabetes, estimated wholly, is significantly detrimental to most labor market outcomes. However, separation of type I and II diabetes shows that much of the negative effect is due to type II diabetes. On average a female with type II diabetes can experience a wage penalty of almost 50{\%} relative to a healthy individual. Additionally, estimates of specifically type II diabetes may be subject to endogeneity bias. To account for this, I utilize whether an individual's biological mother has been diagnosed with diabetes as an instrumental variable. This instrument provides both theoretical and statistical explanatory power to separate the causal effect of type II diabetes on labor-force decisions.}
-      \field{issn}{1099-1050}
-      \field{journaltitle}{Health economics}
-      \field{number}{12}
-      \field{title}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
-      \field{volume}{20}
-      \field{year}{2011}
-      \field{pages}{1468\bibrangedash 1486}
-      \verb{doi}
-      \verb 10.1002/hec.1685
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey.pdf:pdf
-      \endverb
-      \keyw{Algorithms,Diabetes Mell,Diabetes Mellitus,Till,Type 1,all,download,econlit,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
-    \endentry
-    \entry{Minor2010a}{article}{}
+    \entry{Minor2011}{article}{}
       \name{labelname}{1}{}{%
         {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
       }
@@ -4953,7 +5148,6 @@
       \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
       \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
       \field{sortinit}{M}
-      \field{extrayear}{2}
       \field{labelyear}{2011}
       \field{datelabelsource}{}
       \field{labeltitle}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey.}}
@@ -4974,47 +5168,7 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey.pdf:pdf
       \endverb
-      \keyw{Algorithms,Diabetes Mellitus,Employment,Employment: statistics {\&} numerical data,Female,Health Surveys,Health Surveys: instrumentation,Humans,IBSS,Interviews as Topic,Salaries and Fringe Benefits,Salaries and Fringe Benefits: statistics {\&} numeric,Sick Leave,Sick Leave: statistics {\&} numerical data,Type 1,Type 2,download,duplicates,econlit,embase,excludestudy,inclusion,inpatient,look up at least,methodology,newsearch,noaccess,oldsearch,pubmed,relevant,retrieve,wtp}
-    \endentry
-    \entry{Minor2010}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {P.C. Langley, University of Minnesota, Minneapolis, MN, United States}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier Ltd}%
-      }
-      \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
-      \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
-      \field{sortinit}{M}
-      \field{extrayear}{3}
-      \field{labelyear}{2011}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
-      \field{abstract}{This paper estimates the effect of diabetes on labor-force participation, hours worked, days-out-of-work due to illness, and earnings using data from the National Health Interview Survey. Findings indicate that diabetes, estimated wholly, is significantly detrimental to most labor market outcomes. However, separation of type I and II diabetes shows that much of the negative effect is due to type II diabetes. On average a female with type II diabetes can experience a wage penalty of almost 50{\%} relative to a healthy individual. Additionally, estimates of specifically type II diabetes may be subject to endogeneity bias. To account for this, I utilize whether an individual's biological mother has been diagnosed with diabetes as an instrumental variable. This instrument provides both theoretical and statistical explanatory power to separate the causal effect of type II diabetes on labor-force decisions.}
-      \field{isbn}{1098-3015}
-      \field{issn}{10579230}
-      \field{journaltitle}{Health Economics}
-      \field{month}{12}
-      \field{number}{12}
-      \field{series}{15th Annual International Meeting of the International Society for Pharmacoeconomics and Outcomes Research, ISPOR 2010 Atlanta, GA United States. Conference Start: 20100515 Conference End: 20100519}
-      \field{title}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
-      \field{volume}{20}
-      \field{year}{2011}
-      \field{pages}{1468\bibrangedash 1486}
-      \verb{doi}
-      \verb 10.1002/hec.1685
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey.pdf:pdf
-      \endverb
-      \keyw{Algorithms,Diabetes Mellitus,Employment,Employment: statistics {\&} numerical data,Female,Health Surveys,Health Surveys: instrumentation,Humans,IBSS,Interviews as Topic,Salaries and Fringe Benefits,Salaries and Fringe Benefits: statistics {\&} numeric,Sick Leave,Sick Leave: statistics {\&} numerical data,Type 1,Type 2,download,duplicates,econlit,embase,excludestudy,inclusion,inpatient,look up at least,methodology,newsearch,noaccess,oldsearch,pubmed,relevant,retrieve,wtp}
+      \keyw{Algorithms,Diabetes Mellitus,Employment,Employment: statistics {\&} numerical data,Female,Health Surveys,Health Surveys: instrumentation,Humans,Interviews as Topic,Salaries and Fringe Benefits,Salaries and Fringe Benefits: statistics {\&} numeric,Sick Leave,Sick Leave: statistics {\&} numerical data,Type 1,Type 2}
     \endentry
     \entry{Minor2013}{article}{}
       \name{labelname}{1}{}{%
@@ -5585,6 +5739,40 @@
       \verb :home/till/Dokumente/Mendeley Desktop/135910710X495366.pdf:pdf
       \endverb
     \endentry
+    \entry{Pan2015}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=366a398907c43f0d8219c0051e2f6ed6}{Pan}{P\bibinitperiod}{Xi}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=366a398907c43f0d8219c0051e2f6ed6}{Pan}{P\bibinitperiod}{Xi}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{366a398907c43f0d8219c0051e2f6ed6}
+      \strng{fullhash}{366a398907c43f0d8219c0051e2f6ed6}
+      \field{sortinit}{P}
+      \field{labelyear}{2015}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Gender Dissimilarity in Type 2 Diabetes Risk Factors: a Chinese Study}}
+      \field{abstract}{Background Gender has been identified as a significant factor that contributes to variations on unhealthy behavior engage- ment and disparity in health outcomes; however, gender dis- similarity in type 2 diabetes-related behavioral risks has not been fully understood in a non-Western social setting. Purposes Recognizing gender-specific behavioral risks of type 2 diabetes is important in improving the disease associ- ated health outcomes and healthcare service. This study iden- tifies gender-specific behavioral factors associated with type 2 diabetes diagnoses among middle-aged and older adults in a Chinese context. Methods Data are selected from the China Health and Nutri- tion Survey (CHNS) 2009. There are 259 male cases and 280 female cases individually matchedwith their nondiabetic con- trols on age. Results Higher level of total carbohydrate intake and physical inactivity is associated with a higher risk of type 2 diabetes diagnoses in both genders (p{\textless}.001). Odds ratios of type 2 diabetes diagnoses are higher only among male cigarette smokers and heavy alcohol drinkers. Conclusions This study provides evidence regarding gender- specific behavioral risks of type 2 diabetes suggesting the need for improving type 2 diabetes related research, preven- tion, education, and healthcare services for middle-aged and older adults in China. X.}
+      \field{issn}{1070-5503}
+      \field{journaltitle}{International Journal of Behavioral Medicine}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{{Gender Dissimilarity in Type 2 Diabetes Risk Factors: a Chinese Study}}
+      \field{volume}{22}
+      \field{year}{2015}
+      \field{pages}{614\bibrangedash 624}
+      \verb{doi}
+      \verb 10.1007/s12529-015-9474-2
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Pan - 2015 - Gender Dissimilarity in Type 2 Diabetes Risk Factors a Chinese Study.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s12529-015-9474-2
+      \endverb
+      \keyw{behavioral risks,case,control design,gender,middle-aged and older chinese,type 2 diabetes}
+    \endentry
     \entry{Peele2002a}{article}{}
       \name{labelname}{3}{}{%
         {{hash=36981f473ecfa67f12f0fd2ea5e1052f}{Peele}{P\bibinitperiod}{Pamela\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
@@ -5993,7 +6181,7 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Rivera et al. - 2002 - Epidemiological and nutritional transition in Mexico rapid increase of non-communicable chronic diseases and o(2).pdf:pdf
       \endverb
     \endentry
-    \entry{Rivera2004a}{article}{}
+    \entry{Rivera2004}{article}{}
       \name{labelname}{5}{uniquelist=3}{%
         {{hash=30872cf2a7225dcf5a6c78679796ef21}{Rivera}{R\bibinitperiod}{Juan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=22447d5bf20dcf6bc42adb0c0362314f}{Barquera}{B\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
@@ -6008,28 +6196,56 @@
         {{hash=e3ad50aec2bc03549488a3a3d5c3315c}{Olaiz}{O\bibinitperiod}{Gustavo}{G\bibinitperiod}{}{}{}{}}%
         {{hash=2da12c4d46b3d98a10a56d672bd8347d}{Sep{\'{u}}lveda}{S\bibinitperiod}{Jaime}{J\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons}%
+      }
       \strng{namehash}{c2eaeaf9fc0e2d1debf6441cd3642a5d}
       \strng{fullhash}{9bd2f413909483b555d22696abf02524}
       \field{sortinit}{R}
       \field{labelyear}{2004}
-      \field{labelmonth}{07}
       \field{datelabelsource}{}
       \field{labeltitle}{{Nutrition Transition in Mexico and in Other Latin American Countries}}
       \field{issn}{00296643}
       \field{journaltitle}{Nutrition Reviews}
-      \field{month}{07}
-      \field{number}{July}
+      \field{number}{2}
       \field{title}{{Nutrition Transition in Mexico and in Other Latin American Countries}}
       \field{volume}{62}
       \field{year}{2004}
       \field{pages}{S149\bibrangedash S157}
       \verb{doi}
-      \verb 10.1111/j.1753-4887.2004.tb00086.x
+      \verb 10.1301/nr.2004.jul.S149
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Rivera et al. - 2004 - Nutrition Transition in Mexico and in Other Latin American Countries.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Rivera et al. - 2004 - Nutrition transition in Mexico and in other Latin American countries.pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Rivera et al. - 2004 - Nutrition Transition in Mexico and in Other Latin American Countries.pdf:pdf
       \endverb
       \keyw{epidemiologic transition,food intake,noncommunicable chronic disease,obesity}
+    \endentry
+    \entry{Robins2000}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=98831b85ec74f3fdc818cb0338a3893e}{Robins}{R\bibinitperiod}{James\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=ea2bde598aa50ad91b42fb827c12b58d}{Hernan}{H\bibinitperiod}{Miguel\bibnamedelima {\'{A}}ngel}{M\bibinitperiod\bibinitdelim {\'{A}}\bibinitperiod}{}{}{}{}}%
+        {{hash=b4734534b3b9358f167f39a35ff189e1}{Brumback}{B\bibinitperiod}{Babette}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=98831b85ec74f3fdc818cb0338a3893e}{Robins}{R\bibinitperiod}{James\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=ea2bde598aa50ad91b42fb827c12b58d}{Hernan}{H\bibinitperiod}{Miguel\bibnamedelima {\'{A}}ngel}{M\bibinitperiod\bibinitdelim {\'{A}}\bibinitperiod}{}{}{}{}}%
+        {{hash=b4734534b3b9358f167f39a35ff189e1}{Brumback}{B\bibinitperiod}{Babette}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d1541580c88cc9f4a7fdaae79479ff45}
+      \strng{fullhash}{48bb97a57467ee66b3705672149f5031}
+      \field{sortinit}{R}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Marginal Structural Models and Causal Inference in Epidemiology}}
+      \field{journaltitle}{Epidemiology}
+      \field{title}{{Marginal Structural Models and Causal Inference in Epidemiology}}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{pages}{550\bibrangedash 560}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Robins, Hernan, Brumback - 2000 - Marginal Structural Models and Causal Inference in Epidemiology.pdf:pdf
+      \endverb
+      \keyw{causality,confounding,counterfactuals,epidemiologic methods,intermediate,longitudinal data,structural models}
     \endentry
     \entry{Rodbard2010b}{article}{}
       \name{labelname}{4}{}{%
@@ -6544,7 +6760,7 @@
       \endverb
       \keyw{Diabetes,Employment,I10,Instrumental variable,J01,Mexico,employment}
     \endentry
-    \entry{Shemilt2010b}{article}{}
+    \entry{Shemilt2010}{article}{}
       \name{labelname}{3}{}{%
         {{hash=d695ba8233ab16d5aec3820e6de16893}{Shemilt}{S\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
         {{hash=1ad8d835a95f8df394e6faf5d8e0548f}{Thomas}{T\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
@@ -6563,7 +6779,7 @@
       \field{labeltitle}{{A web-based tool for adjusting costs to a specific target currency and price year}}
       \field{abstract}{Objective:To develop a web-based tool to automate the adjustment of$\backslash$nestimates of costs drawn from previously published or unpublished$\backslash$nstudies to a specified target currency and price year$\backslash$nMethods: A web-based tool was programmed using C{\#}, utilising GDP$\backslash$ndeflator index values and Purchasing Power Parities conversion rates$\backslash$nproduced by the International Monetary Fund and the Organisation for$\backslash$nEconomic Co-operation and Development.$\backslash$nResults: Version 1.0 is available at$\backslash$nhttp://eppi.ioe.ac.uk/costconversion/default.aspx$\backslash$nConclusions:The tool can be used as a first-line approach to cost$\backslash$nadjustment in non-healthcare applications and as an optional approach in$\backslash$nhealthcare applications when use of more sophisticated methods is not$\backslash$nfeasible.}
       \field{issn}{17442648}
-      \field{journaltitle}{Evidence and Policy}
+      \field{journaltitle}{Evidence {\&} Policy: A Journal of Research, Debate and Practice}
       \field{number}{1}
       \field{title}{{A web-based tool for adjusting costs to a specific target currency and price year}}
       \field{volume}{6}
@@ -6571,6 +6787,9 @@
       \field{pages}{51\bibrangedash 59}
       \verb{doi}
       \verb 10.1332/174426410X482999
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Shemilt, Thomas, Morciano - 2010 - A web-based tool for adjusting costs to a specific target currency and price year(2).pdf:pdf
       \endverb
       \keyw{Cost adjustement,Costs,Decision models,Systematic review}
     \endentry
@@ -6932,6 +7151,39 @@
       \endverb
       \keyw{all,download,embase,embase2,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
     \endentry
+    \entry{Textor2011}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=6d67e4628007198f49152bd69eab37fb}{Textor}{T\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d411e4510032b39b609bffed4e3f1590}{Hardt}{H\bibinitperiod}{Juliane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8a702c555d33eb7836446d34e5e7ff92}{Kn{\"{u}}ppel}{K\bibinitperiod}{Sven}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=6d67e4628007198f49152bd69eab37fb}{Textor}{T\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d411e4510032b39b609bffed4e3f1590}{Hardt}{H\bibinitperiod}{Juliane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8a702c555d33eb7836446d34e5e7ff92}{Kn{\"{u}}ppel}{K\bibinitperiod}{Sven}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d1b8565ec259ba060e8357e453ecbefd}
+      \strng{fullhash}{7eb00f85b5f575d8056a7f40d838a02d}
+      \field{sortinit}{T}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{DAGitty: a graphical tool for analyzing causal diagrams.}}
+      \field{abstract}{Epidemiology. 2011 Sep;22(5):745. doi: 10.1097/EDE.0b013e318225c2be. Letter}
+      \field{isbn}{1044-3983}
+      \field{issn}{1531-5487}
+      \field{journaltitle}{Epidemiology}
+      \field{number}{5}
+      \field{title}{{DAGitty: a graphical tool for analyzing causal diagrams.}}
+      \field{volume}{22}
+      \field{year}{2011}
+      \field{pages}{745}
+      \verb{doi}
+      \verb 10.1097/EDE.0b013e318225c2be
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Textor, Hardt, Kn{\"{u}}ppel - 2011 - DAGitty a graphical tool for analyzing causal diagrams.pdf:pdf
+      \endverb
+    \endentry
     \entry{Tharkar2010a}{article}{}
       \name{labelname}{4}{}{%
         {{hash=849dbc4cae52977da198ce31ee9be30c}{Tharkar}{T\bibinitperiod}{Shabana}{S\bibinitperiod}{}{}{}{}}%
@@ -7240,43 +7492,6 @@
       \endverb
       \keyw{Absenteeism,Case-Control Studies,Cost of Illness,Diabetes Mellitus,Diabetes Mellitus: economics,Efficiency,Employment,Health Status,Humans,Oklahoma,all,download,embase2,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
-    \entry{Vijan2004b}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=739d59233823c466a32fff7ca625e739}{Vijan}{V\bibinitperiod}{Sandeep}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=7a6f12c75da111d4470102313b0dfc2a}{Hayward}{H\bibinitperiod}{Rodney\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=18742f9b06cbe04c0746acdc512ab28d}{Langa}{L\bibinitperiod}{Kenneth\bibnamedelima M}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=739d59233823c466a32fff7ca625e739}{Vijan}{V\bibinitperiod}{Sandeep}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=7a6f12c75da111d4470102313b0dfc2a}{Hayward}{H\bibinitperiod}{Rodney\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=18742f9b06cbe04c0746acdc512ab28d}{Langa}{L\bibinitperiod}{Kenneth\bibnamedelima M}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{01bbdbb528140f70c208e650d9a7b716}
-      \strng{fullhash}{0b129a9e16fd4a32cd9788bd0fe3cca0}
-      \field{sortinit}{V}
-      \field{extrayear}{1}
-      \field{labelyear}{2004}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The impact of diabetes on workforce participation: results from a national household sample.}}
-      \field{abstract}{Diabetes is a highly prevalent condition that results in substantial morbidity and premature mortality. We investigated how diabetes-associated mortality, disability, early retirement, and work absenteeism impacts workforce participation.}
-      \field{isbn}{0017-9124}
-      \field{issn}{0017-9124}
-      \field{journaltitle}{Health services research}
-      \field{month}{12}
-      \field{number}{6 Pt 1}
-      \field{title}{{The impact of diabetes on workforce participation: results from a national household sample.}}
-      \field{volume}{39}
-      \field{year}{2004}
-      \field{pages}{1653\bibrangedash 69}
-      \verb{doi}
-      \verb 10.1111/j.1475-6773.2004.00311.x
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop//Vijan, Hayward, Langa - 2001 - The Impact of Diabetes on Workforce Participation Results from a National Household Sample.pdf:pdf
-      \endverb
-      \keyw{Chronic Disease,Cohort Studies,Cost of Illness,Cross-Sectional Studies,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: physiopathology,Disabled Persons,Efficiency,Employment,Female,Health Services Research,Health Status Indicators,Humans,Longitudinal Studies,Male,Middle Aged,United States,United States: epidemiology,all,download,embase,embase2,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
-    \endentry
     \entry{Vijan2004}{article}{}
       \name{labelname}{3}{}{%
         {{hash=739d59233823c466a32fff7ca625e739}{Vijan}{V\bibinitperiod}{Sandeep}{S\bibinitperiod}{}{}{}{}}%
@@ -7291,14 +7506,16 @@
       \strng{namehash}{01bbdbb528140f70c208e650d9a7b716}
       \strng{fullhash}{0b129a9e16fd4a32cd9788bd0fe3cca0}
       \field{sortinit}{V}
-      \field{extrayear}{2}
       \field{labelyear}{2004}
+      \field{labelmonth}{12}
       \field{datelabelsource}{}
       \field{labeltitle}{{The impact of diabetes on workforce participation: results from a national household sample.}}
-      \field{abstract}{OBJECTIVE: Diabetes is a highly prevalent condition that results in substantial morbidity and premature mortality. We investigated how diabetes-associated mortality, disability, early retirement, and work absenteeism impacts workforce participation. DATA SOURCE: We used the Health and Retirement Study (HRS), a national household sample of adults aged 51-61 in 1992, as a data source. STUDY DESIGN: We conducted cross-sectional analyses on the baseline HRS data, and longitudinal analyses using data from eight years of follow-up. We used two-part regression models to estimate the adjusted impact of diabetes on workforce participation, and then estimated the economic impact of diabetes-related losses in productivity. PRINCIPAL FINDINGS: Diabetes is a significant predictor of lost productivity. The incremental lost income due to diabetes by 1992 was 60.0 billion US dollars over an average diabetes duration of 9.7 years. From 1992 to 2000, diabetes was responsible for 4.4 billion US dollars in lost income due to early retirement, 0.5 billion US dollars due to increased sick days, 31.7 billion US dollars due to disability, and 22.0 US dollars billion in lost income due to premature mortality, for a total of 58.6 billion dollars in lost productivity, or 7.3 billion US dollars per year. CONCLUSIONS: In the U.S. population of adults born between 1931 and 1941, diabetes is associated with a profound negative impact on economic productivity. By 1992, an estimated 60 billion US dollars in lost productivity was associated with diabetes; additional annual losses averaged 7.3 billion US dollars over the next eight years, totaling about 120 billion US dollars by the year 2000. Given the rising prevalence of diabetes, these costs are likely to increase substantially unless countered by better public health or medical interventions.}
-      \field{annotation}{From Duplicate 3 ( The impact of diabetes on workforce participation: results from a national household sample. - Vijan, Sandeep; Hayward, Rodney A; Langa, Kenneth M ) From Duplicate 1 ( The impact of diabetes on workforce participation: results from a national household sample. - Vijan, Sandeep; Hayward, Rodney A; Langa, Kenneth M ) From Duplicate 1 ( The Impact of Diabetes on Workforce Participation: Results from a National Household Sample - Vijan, Sandeep; Hayward, Rodney A; Langa, Kenneth M ) From Duplicate 2 ( The impact of diabetes on workforce participation: results from a national household sample. - Vijan, Sandeep; Hayward, Rodney a; Langa, Kenneth M )}
+      \field{abstract}{Diabetes is a highly prevalent condition that results in substantial morbidity and premature mortality. We investigated how diabetes-associated mortality, disability, early retirement, and work absenteeism impacts workforce participation.}
+      \field{annotation}{From Duplicate 2 (The impact of diabetes on workforce participation: results from a national household sample. - Vijan, Sandeep; Hayward, Rodney A; Langa, Kenneth M) From Duplicate 3 ( The impact of diabetes on workforce participation: results from a national household sample. - Vijan, Sandeep; Hayward, Rodney A; Langa, Kenneth M ) From Duplicate 1 ( The impact of diabetes on workforce participation: results from a national household sample. - Vijan, Sandeep; Hayward, Rodney A; Langa, Kenneth M ) From Duplicate 1 ( The Impact of Diabetes on Workforce Participation: Results from a National Household Sample - Vijan, Sandeep; Hayward, Rodney A; Langa, Kenneth M ) From Duplicate 2 ( The impact of diabetes on workforce participation: results from a national household sample. - Vijan, Sandeep; Hayward, Rodney a; Langa, Kenneth M )}
+      \field{isbn}{0017-9124}
       \field{issn}{0017-9124}
       \field{journaltitle}{Health services research}
+      \field{month}{12}
       \field{number}{6 Pt 1}
       \field{title}{{The impact of diabetes on workforce participation: results from a national household sample.}}
       \field{volume}{39}
@@ -7308,9 +7525,9 @@
       \verb 10.1111/j.1475-6773.2004.00311.x
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Vijan, Hayward, Langa - 2004 - The impact of diabetes on workforce participation results from a national household sample.pdf:pdf;:home/till/Dokumente/Mendeley Desktop//Vijan, Hayward, Langa - 2001 - The Impact of Diabetes on Workforce Participation Results from a National Household Sample.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop//Vijan, Hayward, Langa - 2001 - The Impact of Diabetes on Workforce Participation Results from a National Household Sample.pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Vijan, Hayward, Langa - 2004 - The impact of diabetes on workforce participation results from a national household sample.pdf:pdf
       \endverb
-      \keyw{Chronic Disease,Cohort Studies,Cost of Illness,Cross-Sectional Studies,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: physiopathology,Disabled Persons,Efficiency,Employment,Female,Health Services Research,Health Status Indicators,Humans,Longitudinal Studies,Male,Middle Aged,United States,United States: epidemiology,download,duplicates,econlit,newsearch,oldsearch,pubmed,relevant}
+      \keyw{Chronic Disease,Cohort Studies,Cost of Illness,Cross-Sectional Studies,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: physiopathology,Disabled Persons,Efficiency,Employment,Female,Health Services Research,Health Status Indicators,Humans,Longitudinal Studies,Male,Middle Aged,United States,United States: epidemiology,all,download,duplicates,econlit,embase,embase2,extracted,included,newsearch,oldsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
     \entry{Villalpando2010}{article}{}
       \name{labelname}{8}{}{%
@@ -7701,24 +7918,59 @@
       \field{sortinit}{Y}
       \field{labelyear}{2006}
       \field{datelabelsource}{}
-      \field{labeltitle}{{Epidemiologic and economic consequences of the global epidemics of obesity and diabetes.}}
+      \field{labeltitle}{{Epidemiologic and economic consequences of the global epidemics of obesity and diabetes}}
       \field{issn}{1078-8956}
-      \field{journaltitle}{Nature medicine}
+      \field{journaltitle}{Nature Medicine}
       \field{number}{1}
-      \field{title}{{Epidemiologic and economic consequences of the global epidemics of obesity and diabetes.}}
+      \field{title}{{Epidemiologic and economic consequences of the global epidemics of obesity and diabetes}}
       \field{volume}{12}
       \field{year}{2006}
-      \field{pages}{62\bibrangedash 6}
+      \field{pages}{62\bibrangedash 66}
       \verb{doi}
       \verb 10.1038/nm0106-62
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Yach, Stuckler, Brownell - 2006 - Epidemiologic and economic consequences of the global epidemics of obesity and diabetes(2).pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Yach, Stuckler, Brownell - 2006 - Epidemiologic and economic consequences of the global epidemics of obesity and diabetes(2).pdf:pdf;:home/till/Dokumente/Mendeley Desktop//Yach, Stuckler, Brownell - 2006 - Epidemiologic and economic consequences of the global epidemics of obesity and diabetes(3).pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Yach, Stuckler, Brownell - 2006 - Epidemiologic and economic consequences of the global epidemics of obesity and diabetes(2).pdf:pdf;:home/till/Dokumente/Mendeley Desktop//Yach, Stuckler, Brownell - 2006 - Epidemiologic and economic consequences of the global epidemics of obesity and diabetes(3).pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Yach, Stuckler, Brownell - 2006 - Epidemiologic and economic consequences of the global epidemics of obesity and diabetes(2).pdf:pdf
       \endverb
       \keyw{Adult,Cost of Illness,Developing Countries,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: epidemiology,Diabetes Mellitus: prevention {\&} control,Disease Outbreaks,Female,Humans,Male,NC,Obesity,Obesity: economics,Obesity: epidemiology,Obesity: prevention {\&} control,Public Health,United States,excludestudy,newsearch,pubmed,references,relevant}
     \endentry
+    \entry{Yang2014}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a908d7fbe54a396e295ae39d0c5eecd9}{Yang}{Y\bibinitperiod}{Wenying}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=79c7f488faa1732b93cbe957a7c38984}{Weng}{W\bibinitperiod}{Jianping}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a908d7fbe54a396e295ae39d0c5eecd9}{Yang}{Y\bibinitperiod}{Wenying}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=79c7f488faa1732b93cbe957a7c38984}{Weng}{W\bibinitperiod}{Jianping}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{7a68c32e171b51d36c2ad3a7529df39d}
+      \strng{fullhash}{7a68c32e171b51d36c2ad3a7529df39d}
+      \field{sortinit}{Y}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Early therapy for type 2 diabetes in China}}
+      \field{issn}{22138587}
+      \field{journaltitle}{The Lancet Diabetes {\&} Endocrinology}
+      \field{number}{12}
+      \field{title}{{Early therapy for type 2 diabetes in China}}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{992\bibrangedash 1002}
+      \verb{doi}
+      \verb 10.1016/S2213-8587(14)70136-6
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Yang, Weng - 2014 - Early therapy for type 2 diabetes in China.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S2213858714701366
+      \endverb
+    \endentry
     \entry{Yang2012}{article}{}
-      \name{labelname}{19}{}{%
+      \name{labelname}{19}{uniquelist=2}{%
         {{hash=a908d7fbe54a396e295ae39d0c5eecd9}{Yang}{Y\bibinitperiod}{Wenying}{W\bibinitperiod}{}{}{}{}}%
         {{hash=3125194ac134ae18c27b1e781507d154}{Zhao}{Z\bibinitperiod}{Wenhui}{W\bibinitperiod}{}{}{}{}}%
         {{hash=31dd26a0953cac5cc962275916f3bd8c}{Xiao}{X\bibinitperiod}{Jianzhong}{J\bibinitperiod}{}{}{}{}}%
@@ -7739,7 +7991,7 @@
         {{hash=293c31f46eb012efc4b2449215c92484}{Chen}{C\bibinitperiod}{Gang}{G\bibinitperiod}{}{}{}{}}%
         {{hash=b4ff48d1a8718e2cfc2ee17af7be51ce}{Brown}{B\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{19}{}{%
+      \name{author}{19}{uniquelist=2}{%
         {{hash=a908d7fbe54a396e295ae39d0c5eecd9}{Yang}{Y\bibinitperiod}{Wenying}{W\bibinitperiod}{}{}{}{}}%
         {{hash=3125194ac134ae18c27b1e781507d154}{Zhao}{Z\bibinitperiod}{Wenhui}{W\bibinitperiod}{}{}{}{}}%
         {{hash=31dd26a0953cac5cc962275916f3bd8c}{Xiao}{X\bibinitperiod}{Jianzhong}{J\bibinitperiod}{}{}{}{}}%
@@ -7760,18 +8012,16 @@
         {{hash=293c31f46eb012efc4b2449215c92484}{Chen}{C\bibinitperiod}{Gang}{G\bibinitperiod}{}{}{}{}}%
         {{hash=b4ff48d1a8718e2cfc2ee17af7be51ce}{Brown}{B\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{9654adde93317957f37c672e6919677a}
+      \strng{namehash}{70c0b6abc20eefc35672713a78beccb8}
       \strng{fullhash}{090b7defbced6dfde612dc0810aae2dd}
       \field{sortinit}{Y}
       \field{labelyear}{2012}
-      \field{labelmonth}{01}
       \field{datelabelsource}{}
       \field{labeltitle}{{Medical care and payment for diabetes in China: enormous threat and great opportunity.}}
       \field{abstract}{The Diabetes Impact Study followed up a large national population-based screening study to estimate the use of and expenditures for medical care caused by diabetes in China and to ascertain the use and cost of essential basic medicines and care.}
-      \field{annotation}{saw release of paper on IDF homepage. TS}
+      \field{annotation}{From Duplicate 1 (Medical care and payment for diabetes in China: enormous threat and great opportunity. - Yang, Wenying; Zhao, Wenhui; Xiao, Jianzhong; Li, Rui; Zhang, Ping; Kissimova-Skarbek, Katarzyna; Schneider, Erin; Jia, Weiping; Ji, Linong; Guo, Xiaohui; Shan, Zhongyan; Liu, Jie; Tian, Haoming; Chen, Li; Zhou, Zhiguang; Ji, Qiuhe; Ge, Jiapu; Chen, Gang; Brown, Jonathan) saw release of paper on IDF homepage. TS From Duplicate 2 (Medical care and payment for diabetes in China: enormous threat and great opportunity. - Yang, Wenying; Zhao, Wenhui; Xiao, Jianzhong; Li, Rui; Zhang, Ping; Kissimova-Skarbek, Katarzyna; Schneider, Erin; Jia, Weiping; Ji, Linong; Guo, Xiaohui; Shan, Zhongyan; Liu, Jie; Tian, Haoming; Chen, Li; Zhou, Zhiguang; Ji, Qiuhe; Ge, Jiapu; Chen, Gang; Brown, Jonathan) has some more references to China costs studies which might be interesting. TS}
       \field{issn}{1932-6203}
       \field{journaltitle}{PloS one}
-      \field{month}{01}
       \field{number}{9}
       \field{title}{{Medical care and payment for diabetes in China: enormous threat and great opportunity.}}
       \field{volume}{7}
@@ -7786,7 +8036,6 @@
       \verb{url}
       \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3458850%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
-      \keyw{IDF project,download,relevant}
     \endentry
     \entry{Yu2007}{article}{}
       \name{labelname}{2}{}{%
@@ -7853,7 +8102,7 @@
       \verb 10.1136/bmjopen-2014-006633
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Yuan et al. - 2015 - Validity of self-reported diabetes among middle-aged and older Chinese adults the China Health and Retirement Longi.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Yuan et al. - 2015 - Validity of self-reported diabetes among middle-aged and older Chinese adults the China Health and Retirement Lo(2).pdf:pdf
       \endverb
     \endentry
     \entry{Zajacova2010}{article}{}
@@ -7890,37 +8139,6 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Zajacova et al. - 2010 - Consistency and precision of cancer reporting in a multiwave national panel survey.pdf:pdf
       \endverb
     \endentry
-    \entry{Zhang2009k}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=76c4ac342426fb82f4a004c0cdbadd6d}{Zhang}{Z\bibinitperiod}{Xiaohui}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=f7f1356e3e673b35325c225c421ef840}{Zhao}{Z\bibinitperiod}{Xueyan}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=4059f249af5f599b19b7af43f3e56235}{Harris}{H\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=76c4ac342426fb82f4a004c0cdbadd6d}{Zhang}{Z\bibinitperiod}{Xiaohui}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=f7f1356e3e673b35325c225c421ef840}{Zhao}{Z\bibinitperiod}{Xueyan}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=4059f249af5f599b19b7af43f3e56235}{Harris}{H\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9aabe32ccb90c1e430f1e2626f5a60fe}
-      \strng{fullhash}{4417eda04fcffe13d8be10afb74f1537}
-      \field{sortinit}{Z}
-      \field{extrayear}{1}
-      \field{labelyear}{2009}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Chronic Diseases and Labour Force Participation in Australia}}
-      \field{abstract}{We examine the impact of several chronic diseases on the probability of labour force participation using data from the Australian National Health Surveys. An endogenous multivariate probit model is used to account for the potential endogeneity of the incidence of chronic conditions such as diabetes, cardiovascular diseases, and mental illnesses. The cross-equation correlations are significant, rejecting the exogeneity of the chronic illnesses. Marginal effects of exogenous socio-demographic and lifestyle variables are estimated through their direct effects on labour market participation and indirect effects via the chronic diseases. The treatment effects of chronic diseases on labour force participation are estimated via conditional probabilities using five-dimensional normal distributions. The estimated effects differ by gender and age groups. Although computationally more demanding, these treatment effects are compared with results from a univariate model treating the chronic conditions exogenous and the structural effects from the multivariate probit model; both significantly overestimate the effects.}
-      \field{issn}{01676296}
-      \field{journaltitle}{Journal of Health Economics}
-      \field{number}{1}
-      \field{title}{{Chronic Diseases and Labour Force Participation in Australia}}
-      \field{volume}{28}
-      \field{year}{2009}
-      \field{pages}{91\bibrangedash 108}
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop//Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey(2).pdf:pdf
-      \endverb
-      \keyw{Demand and Supply of Labor: General J200,IBSS,all,download,econlit,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
-    \endentry
     \entry{Zhang2009}{article}{}
       \name{labelname}{3}{}{%
         {{hash=76c4ac342426fb82f4a004c0cdbadd6d}{Zhang}{Z\bibinitperiod}{Xiaohui}{X\bibinitperiod}{}{}{}{}}%
@@ -7935,15 +8153,15 @@
       \strng{namehash}{9aabe32ccb90c1e430f1e2626f5a60fe}
       \strng{fullhash}{4417eda04fcffe13d8be10afb74f1537}
       \field{sortinit}{Z}
-      \field{extrayear}{2}
       \field{labelyear}{2009}
       \field{datelabelsource}{}
-      \field{labeltitle}{{Chronic diseases and labour force participation in Australia}}
+      \field{labeltitle}{{Chronic Diseases and Labour Force Participation in Australia}}
       \field{abstract}{We examine the impact of several chronic diseases on the probability of labour force participation using data from the Australian National Health Surveys. An endogenous multivariate probit model is used to account for the potential endogeneity of the incidence of chronic conditions such as diabetes, cardiovascular diseases and mental illnesses. The cross-equation correlations are significant, rejecting the exogeneity of the chronic illnesses. Marginal effects of exogenous socio-demographic and lifestyle variables are estimated through their direct effects on labour market participation and indirect effects via the chronic diseases. The treatment effects of chronic diseases on labour force participation are estimated via conditional probabilities using five-dimensional normal distributions. The estimated effects differ by gender and age groups. Although computationally more demanding, these treatment effects are compared with results from a univariate model treating the chronic conditions exogenous and the structural effects from the multivariate probit model; both significantly overestimate the effects.}
+      \field{annotation}{From Duplicate 3 (Chronic diseases and labour force participation in Australia. - Zhang, Xiaohui; Zhao, Xueyan; Harris, Anthony) From Duplicate 2 ( Chronic Diseases and Labour Force Participation in Australia - Zhang, Xiaohui; Zhao, Xueyan; Harris, Anthony ) Accession Number: 1026022; Keywords: Diabetes;  Disease;  Health; Geographic Descriptors: Australia; Geographic Region: Oceania; Publication Type: Journal Article; Update Code: 200904,AD - Center for Health Economics, Monash U,AD - Monash U,AD - Monash U,L3 - http://www.elsevier.com/wps/find/journaldescription.cws{\_}home/505560/description{\#}description,UR - http://dx.doi.org/10.1016/j.jhealeco.2008.08.001,UR - http://www.elsevier.com/wps/find/journaldescription.cws{\_}home/505560/description{\#}description}
       \field{issn}{01676296}
       \field{journaltitle}{Journal of Health Economics}
       \field{number}{1}
-      \field{title}{{Chronic diseases and labour force participation in Australia}}
+      \field{title}{{Chronic Diseases and Labour Force Participation in Australia}}
       \field{volume}{28}
       \field{year}{2009}
       \field{pages}{91\bibrangedash 108}
@@ -7951,9 +8169,9 @@
       \verb 10.1016/j.jhealeco.2008.08.001
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Zhang, Zhao, Harris - 2009 - Chronic diseases and labour force participation in Australia.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop//Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey(2).pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Zhang, Zhao, Harris - 2009 - Chronic diseases and labour force participation in Australia.pdf:pdf
       \endverb
-      \keyw{Adolescent,Adult,Australia,Australia: epidemiology,Chronic Disease,Chronic Disease: epidemiology,Employment,Female,Health Surveys,Humans,Male,Middle Aged,Treatment Outcome,Young Adult}
+      \keyw{Adolescent,Adult,Australia,Australia: epidemiology,Chronic Disease,Chronic Disease: epidemiology,Demand and Supply of Labor: General J200,ECONLIT,Employment,Female,Health Surveys,Humans,IBSS,Male,Middle Aged,Treatment Outcome,Young Adult,all,download,econlit,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
     \endentry
     \entry{Zhao2013}{article}{}
       \name{labelname}{4}{uniquelist=2}{%
@@ -8016,7 +8234,8 @@
       \field{labelyear}{2013}
       \field{datelabelsource}{}
       \field{labeltitle}{{Does information on health status lead to a healthier lifestyle? Evidence from China on the effect of hypertension diagnosis on food consumption}}
-      \field{abstract}{We examine the role of information in understanding the differential effects of income on the demand for health. In the health capital framework of Grossman (JPE, 1972), we derive the testable hypotheses that individuals adjust their diet in a healthier direction upon receiving negative health information, and that the effect is greater for richer individuals. Based on unique Chinese longitudinal data and a regression discontinuity design that exploits the exogenous cutoff of systolic blood pressure in the diagnosis of hypertension, we find that, upon receiving hypertension diagnosis, individuals reduce fat intake significantly, and richer individuals reduce more. Our results also indicate that among the rich, hypertension diagnosis is more effective for individuals with lower education.}
+      \field{abstract}{We examine the role of information in understanding the differential effects of income on the demand for health. In the health capital framework of Grossman (JPE, 1972), we derive the testable hypotheses that individuals adjust their diet in a healthier direction upon receiving negative health information, and that the effect is greater for richer individuals. Based on unique Chinese longitudinal data and a regression discontinuity design that exploits the exogenous cutoff of systolic blood pressure in the diagnosis of hypertension, we find that, upon receiving hypertension diagnosis, individuals reduce fat intake significantly, and richer individuals reduce more. Our results also indicate that among the rich, hypertension diagnosis is more effective for individuals with lower education. ?? 2012 Elsevier B.V.}
+      \field{isbn}{0167-6296}
       \field{issn}{01676296}
       \field{journaltitle}{Journal of Health Economics}
       \field{number}{2}
@@ -8028,12 +8247,70 @@
       \verb 10.1016/j.jhealeco.2012.11.007
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Zhao, Konishi, Glewwe - 2013 - Does information on health status lead to a healthier lifestyle Evidence from China on the effect of hype.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Zhao, Konishi, Glewwe - 2013 - Does information on health status lead to a healthier lifestyle Evidence from China on the effect of hype.pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Zhao, Konishi, Glewwe - 2013 - Does information on health status lead to a healthier lifestyle Evidence from China on the effect of h(2).pdf:pdf
       \endverb
-      \keyw{80 and over,Adolescent,Adult,Aged,China,Diet,Diet: statistics {\&} numerical data,Dietary Fats,Dietary Fats: administration {\&} dosage,Educational Status,Female,Health Behavior,Humans,Hypertension,Hypertension: diagnosis,Income,Income: statistics {\&} numerical data,Life Style,Longitudinal Studies,Male,Middle Aged,Young Adult}
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.jhealeco.2012.11.007
+      \endverb
+      \keyw{80 and over,Adolescent,Adult,Aged,China,Diet,Diet: statistics {\&} numerical data,Dietary Fats,Dietary Fats: administration {\&} dosage,Educational Status,Female,Health Behavior,Health information,Humans,Hypertension,Hypertension: diagnosis,Income,Income: statistics {\&} numerical data,Life Style,Longitudinal Studies,Male,Middle Aged,Regression discontinuity,Young Adult}
+    \endentry
+    \entry{Zhao2012}{article}{}
+      \name{labelname}{11}{uniquelist=2}{%
+        {{hash=ceef9b93d4b871b9ba33683bdcb216a3}{Zhao}{Z\bibinitperiod}{Xiaolong}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9ecbbc189a409817b73e4dc5fbe03563}{Zhu}{Z\bibinitperiod}{Xiaoming}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9275fc3cb0a2c3c7dd629f3f8c01d02e}{Zhang}{Z\bibinitperiod}{Han-shen}{H\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
+        {{hash=aac3878e5d114b6bc36b42e9167dea46}{Zhao}{Z\bibinitperiod}{Weiwei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=31189b9f0007e044548ccd38df160c68}{Li}{L\bibinitperiod}{Jinghui}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8e9dd5170d607ef7d573f71e7a608b7b}{Shu}{S\bibinitperiod}{Yonghui}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=98243f8d34639928a5937ddec8c054fe}{Li}{L\bibinitperiod}{Songwu}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=eed4591cc87fd0f424637f308dd29cdf}{Yang}{Y\bibinitperiod}{Minghui}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=90b81ccb7f3372a9555f65b0507874bd}{Cai}{C\bibinitperiod}{Linghu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=23245fb1f0a110e911ec39b6c4fdbdda}{Zhou}{Z\bibinitperiod}{Jiping}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b89c360a121e2a0d7888632b57bd3e65}{Li}{L\bibinitperiod}{Yingming}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{uniquelist=2}{%
+        {{hash=ceef9b93d4b871b9ba33683bdcb216a3}{Zhao}{Z\bibinitperiod}{Xiaolong}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9ecbbc189a409817b73e4dc5fbe03563}{Zhu}{Z\bibinitperiod}{Xiaoming}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9275fc3cb0a2c3c7dd629f3f8c01d02e}{Zhang}{Z\bibinitperiod}{Han-shen}{H\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
+        {{hash=aac3878e5d114b6bc36b42e9167dea46}{Zhao}{Z\bibinitperiod}{Weiwei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=31189b9f0007e044548ccd38df160c68}{Li}{L\bibinitperiod}{Jinghui}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8e9dd5170d607ef7d573f71e7a608b7b}{Shu}{S\bibinitperiod}{Yonghui}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=98243f8d34639928a5937ddec8c054fe}{Li}{L\bibinitperiod}{Songwu}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=eed4591cc87fd0f424637f308dd29cdf}{Yang}{Y\bibinitperiod}{Minghui}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=90b81ccb7f3372a9555f65b0507874bd}{Cai}{C\bibinitperiod}{Linghu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=23245fb1f0a110e911ec39b6c4fdbdda}{Zhou}{Z\bibinitperiod}{Jiping}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b89c360a121e2a0d7888632b57bd3e65}{Li}{L\bibinitperiod}{Yingming}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {BMC Public Health}%
+      }
+      \strng{namehash}{8fbb6762b5c17ea884446ae8f751b867}
+      \strng{fullhash}{79cfc61ac01746f998f12dc2884dbda3}
+      \field{sortinit}{Z}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Prevalence of diabetes and predictions of its risks using anthropometric measures in southwest rural areas of China}}
+      \field{abstract}{BACKGROUND: To examine the prevalence of diabetes and prediabetes in Songming county, Yunnan province, South-west China and examine influences of anthropometric indicators on diabetic risk.$\backslash$n$\backslash$nMETHODS: This study was a population based cross-sectional study of 1031 subjects in Songming County aged 30 years and older. Age-standardization was performed by using the 2010 Songming population as the standard population. After an overnight fasting, participants underwent an oral glucose tolerance test (OGTT), and venous blood glucose levels were measured to identify diabetes and prediabetes. Physicians completed questionnaires and blood pressure measurements; trained nurses measured anthropometric variables. Age-adjusted logistic regression models were used to assess the association between anthropometric variables and diabetes.$\backslash$n$\backslash$nRESULTS: Total prevalences of diabetes and prediabetes were 10.0{\%} and 11.6{\%}, respectively. In women, prevalence of diabetes and prediabetes significantly increased with body mass index (BMI),waist hip ratio (WHR), and waist-to-height ratio (WHtR). But in men, prevalence of diabetes and prediabetes only significantly increased with WHR and WHtR. Compared to 1st WHR tertile in women, there was a nearly tenfold increase in the risk of diabetes with 3rd WHR tertile (OR 10.50, 95{\%} CI 3.95-27.86). Men with 3rd BMI tertile had 4.8-fold risk of getting diabetes compared to men with 1st WHtR tertile (OR 4.79, 95{\%} CI 1.88-12.26). Only WHtR had significantly higher receiver operating characteristic (ROC) area than BMI in total men (0.668 vs. 0.561, p {\textless} 0.05). And in total women, only WHR had significantly higher ROC area than BMI (0.723 vs. 0.628, p {\textless} 0.05). In the partial correlation analysis controlling for waist circumference, only WHR had significant correlation with fasting plasma glucose (r = 0.132, p = 0.002) and 2-h plasma glucose (r = 0.162, p = 0.000) in women, and WHtR had a much stronger association with both fasting plasma glucose (r = 0.305, P = 0.000) and 2 h plasma glucose (r = 0.303, P = 0.000) than WHR in men.$\backslash$n$\backslash$nCONCLUSION: High prevalence of diabetes and prediabetes were found in this underdeveloped region. About half of total subjects with diabetes were undiagnosed. The association of obesity indices and diabetic risk factors varied with gender. The strongest predictors of diabetes were WHR for the female subgroup and WHtR for the male subgroup.}
+      \field{issn}{1471-2458}
+      \field{journaltitle}{BMC Public Health}
+      \field{number}{1}
+      \field{title}{{Prevalence of diabetes and predictions of its risks using anthropometric measures in southwest rural areas of China}}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{821}
+      \verb{doi}
+      \verb 10.1186/1471-2458-12-821
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Zhao et al. - 2012 - Prevalence of diabetes and predictions of its risks using anthropometric measures in southwest rural areas of China.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb BMC%20Public%20Health
+      \endverb
+      \keyw{163,Body mass index,Diabetes type 2,Obesity,Waist hip ratio,Waist-to-height ratio,body mass index,cn,com,correspondence,diabetes type 2,edu,fudan,obesity,waist hip ratio,waist-to-height ratio,xiaolongzhao,yimingli}
     \endentry
     \entry{Zhou2005a}{article}{}
-      \name{labelname}{7}{}{%
+      \name{labelname}{7}{uniquelist=2}{%
         {{hash=a566e1d6a368e3e22ba2d934aa5f7b8b}{Zhou}{Z\bibinitperiod}{Honghong}{H\bibinitperiod}{}{}{}{}}%
         {{hash=caa20042997f78250023bfe8b7e38f66}{Isaman}{I\bibinitperiod}{Deanna\bibnamedelimb J\bibnamedelima M}{D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=9cb78313779a2a0c359ae970aad38083}{Messinger}{M\bibinitperiod}{Shari}{S\bibinitperiod}{}{}{}{}}%
@@ -8042,7 +8319,7 @@
         {{hash=d72133455176bd5bfc9f6a6e1c85aad3}{Brandle}{B\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=2db736e372aa592f34a49661e55bd799}{Herman}{H\bibinitperiod}{William\bibnamedelima H}{W\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{7}{}{%
+      \name{author}{7}{uniquelist=2}{%
         {{hash=a566e1d6a368e3e22ba2d934aa5f7b8b}{Zhou}{Z\bibinitperiod}{Honghong}{H\bibinitperiod}{}{}{}{}}%
         {{hash=caa20042997f78250023bfe8b7e38f66}{Isaman}{I\bibinitperiod}{Deanna\bibnamedelimb J\bibnamedelima M}{D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=9cb78313779a2a0c359ae970aad38083}{Messinger}{M\bibinitperiod}{Shari}{S\bibinitperiod}{}{}{}{}}%
@@ -8051,7 +8328,7 @@
         {{hash=d72133455176bd5bfc9f6a6e1c85aad3}{Brandle}{B\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=2db736e372aa592f34a49661e55bd799}{Herman}{H\bibinitperiod}{William\bibnamedelima H}{W\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{b27e67f95c6b134f09a3416a7e340c34}
+      \strng{namehash}{9fc7bd2ec6ff6a209bdf68a0a6af987c}
       \strng{fullhash}{d2be35b7c2d9bfdae284646facfe8d2d}
       \field{sortinit}{Z}
       \field{labelyear}{2005}
@@ -8069,6 +8346,58 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Zhou et al. - 2005 - A computer simulation model of diabetes progression, quality of life, and cost.pdf:pdf
       \endverb
       \keyw{*diabetes mellitus,Biological,Continental Population Groups,Costs and Cost Analysis,Diabetes Complications,Diabetes Mellitus,Disease Progression,Humans,Michigan,Models,United States,Wisconsin,all,article,biological model,computer simulation,cost,disease course,doubt,download,economics,embase,embase2,extracted,female,human,included,male,newsearch,pathophysiology,psychological aspect,pubmed,race,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Zhou2016}{article}{}
+      \name{labelname}{11}{uniquelist=2}{%
+        {{hash=c3651a471752c28f84e40a9eeee71719}{Zhou}{Z\bibinitperiod}{Xianghai}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=a19eac972c8a6d85d0e58d27a9bf0966}{Ji}{J\bibinitperiod}{Linong}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c319c02e21e3ce1a05da18aba332817f}{Ran}{R\bibinitperiod}{Xingwu}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=aa7827a77156e0737ba23fd1979aa092}{Su}{S\bibinitperiod}{Benli}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=26359461b01e623b946da320f810ba3c}{Ji}{J\bibinitperiod}{Qiuhe}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=cc5e45198c494473023619cc03c25266}{Pan}{P\bibinitperiod}{Changyu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=79c7f488faa1732b93cbe957a7c38984}{Weng}{W\bibinitperiod}{Jianping}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=46227c63a4a720940c938e1e25cc1243}{Ma}{M\bibinitperiod}{Changsheng}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=495c065090a77f979efecca9342427ce}{Hao}{H\bibinitperiod}{Chuanming}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=aa8ab45699e62933d0fdce16a5fd5a0f}{Zhang}{Z\bibinitperiod}{Danyi}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0bb2aa57da391b62fcbf5d5a55252c6c}{Hu}{H\bibinitperiod}{Dayi}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{uniquelist=2}{%
+        {{hash=c3651a471752c28f84e40a9eeee71719}{Zhou}{Z\bibinitperiod}{Xianghai}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=a19eac972c8a6d85d0e58d27a9bf0966}{Ji}{J\bibinitperiod}{Linong}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c319c02e21e3ce1a05da18aba332817f}{Ran}{R\bibinitperiod}{Xingwu}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=aa7827a77156e0737ba23fd1979aa092}{Su}{S\bibinitperiod}{Benli}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=26359461b01e623b946da320f810ba3c}{Ji}{J\bibinitperiod}{Qiuhe}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=cc5e45198c494473023619cc03c25266}{Pan}{P\bibinitperiod}{Changyu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=79c7f488faa1732b93cbe957a7c38984}{Weng}{W\bibinitperiod}{Jianping}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=46227c63a4a720940c938e1e25cc1243}{Ma}{M\bibinitperiod}{Changsheng}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=495c065090a77f979efecca9342427ce}{Hao}{H\bibinitperiod}{Chuanming}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=aa8ab45699e62933d0fdce16a5fd5a0f}{Zhang}{Z\bibinitperiod}{Danyi}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0bb2aa57da391b62fcbf5d5a55252c6c}{Hu}{H\bibinitperiod}{Dayi}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1072972541dcbe32a0b98ec012a30e0a}{Devaney}{D\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{95aea0d4fd86a9ab6406e3a92037b6c5}
+      \strng{fullhash}{af5cedacde37a196cfef9eb39725ab77}
+      \field{sortinit}{Z}
+      \field{labelyear}{2016}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Prevalence of Obesity and Its Influence on Achievement of Cardiometabolic Therapeutic Goals in Chinese Type 2 Diabetes Patients: An Analysis of the Nationwide, Cross-Sectional 3B Study}}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Prevalence of Obesity and Its Influence on Achievement of Cardiometabolic Therapeutic Goals in Chinese Type 2 Diabetes Patients: An Analysis of the Nationwide, Cross-Sectional 3B Study}}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{pages}{e0144179}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0144179
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Zhou et al. - 2016 - Prevalence of Obesity and Its Influence on Achievement of Cardiometabolic Therapeutic Goals in Chinese Type 2 Diabe.pdf:pdf
+      \endverb
     \endentry
   \endsortlist
 \endrefsection
