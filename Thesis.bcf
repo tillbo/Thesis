@@ -1994,6 +1994,12 @@
     <bcf:citekey order="22">Roberto2015</bcf:citekey>
     <bcf:citekey order="23">Ettaro2004</bcf:citekey>
     <bcf:citekey order="24">Ettaro2004</bcf:citekey>
+    <bcf:citekey order="25">Antonakis2012</bcf:citekey>
+    <bcf:citekey order="26">Minor2013</bcf:citekey>
+    <bcf:citekey order="27">Minor2013</bcf:citekey>
+    <bcf:citekey order="28">WorldHealthOrganization2011</bcf:citekey>
+    <bcf:citekey order="29">WorldHealthOrganization2006</bcf:citekey>
+    <bcf:citekey order="29">WorldHealthOrganization2011</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nyt">
   <bcf:sorting>
