@@ -1,8 +1,10 @@
+
+
 \begin{abstract}
 This study explores the impact of diabetes on employment in Mexico using data from the \acf{MxFLS} (2005), taking into account the possible endogeneity of diabetes via an instrumental variable estimation strategy. We find that diabetes significantly decreases employment probabilities for men by about 10 percentage points (p<0.01) and somewhat less so for women---4.5 percentage points (p<0.1)---without any indication of diabetes being endogenous. Further analysis shows that diabetes mainly affects the employment probabilities of men and women above the age of 44 and also has stronger effects on the poor than on the rich, particularly for men. We also find some indication for more adverse effects of diabetes on those in the large informal labour market compared to those in formal employment. Our results highlight---for the first time---the detrimental employment impact of diabetes in a developing country.
 \end{abstract}
 
-\section{\label{sec:Introduction}Introduction}
+\section{\label{sec:Introduction3}Introduction}
 
 Diabetes, similar to other conditions that have been coined ''diseases of affluence'', has traditionally been seen as mostly a problem of the developed, more affluent countries. Only in recent
 years the awareness has been growing of the sheer size of the problem
@@ -22,7 +24,7 @@ particular genetic predisposition of many Mexicans to develop type
 2 diabetes \parencite{Williams2013}. While many of the high-income countries
 may be in a position to cope resource-wise with the health care consequences
 of diabetes, this will be less so the case for Mexico and other \acp{LMIC}.
-The most recent ''cost-of-illness'' estimates put the costs of diabetes
+The most recent "cost-of-illness" estimates put the costs of diabetes
 to the Mexican society at more than US\$778 million in 2010, with
 a large part of these costs being paid out-of-pocket \parencite{A.2011z}.
 While the above includes some estimate of indirect costs, meant to
@@ -121,14 +123,14 @@ inclusion of information on parental education as an additional control
 variable affects the \ac{IV} parameter estimates.
 
 The remainder of the paper is structured as follows. Section
-\ref{sec:METHODOLOGY} provides details about the used dataset and
+\ref{sec:Methodology3} provides details about the used dataset and
 the econometric specification; and section \ref{sec:RESULTS} presents
 and discusses the empirical results. Section \ref{sec:Conclusion}
 concludes.
 
 
 
-\section{\label{sec:METHODOLOGY}Methodology}
+\section{\label{sec:Methodology3}Methodology}
 
 
 \subsection{\label{sub:Data}Dataset and descriptive statistics}
@@ -212,10 +214,13 @@ takes the value of $1$ if person $i$ is employed and $0$ if unemployed.
 Employment status is defined as having worked or carried out an activity
 that helped with the household expenses for at least ten hours over
 the last week. This explicitly includes those employed informally,
-for instance people working in a family business. $Diabetes_{i}$
-denotes the main independent variable of interest, taking the value
+for instance people working in a family business. 
+
+$Diabetes_{i}$ denotes the main independent variable of interest, taking the value
 of $1$ if individual $i$ has reported a diagnosis of diabetes and
-$0$ otherwise. $X_{i}$ contains various control variables. Because
+$0$ otherwise. 
+
+$X_{i}$ contains various control variables. Because
 no information on job history is available in the data to adequately
 account for work experience, we need to rely on the combination of
 age and education to proxy for work experience \parencite{Aaronson2010}.
@@ -225,8 +230,9 @@ highest level of schooling attained was either primary school, secondary
 school, high school, university or some other form of higher education
 with no education serving as the reference category, to control for
 the impact of education on employment and to account for the relationship
-between diabetes and education \parencite{Agardh2011}. Since Mexico
-is a large and diverse country with regional socioeconomic differences
+between diabetes and education \parencite{Agardh2011}. 
+
+Since Mexico is a large and diverse country with regional socioeconomic differences
 we also include dummies for five different Mexican regions\footnote{The region variables have been constructed after recommendations on
 the MxFLS-Homepage. South-southeastern Mexico: Oaxaca, Veracruz, Yucatan;
 Central Mexico: Federal District of Mexico, State of Mexico, Morelos,
@@ -252,8 +258,9 @@ and lifestyle habits. Further a variable capturing the number of children
 residing in the household below the age of 15 is inlcuded, to control
 for their impact on employment chances and for the effect of childbearing
 and related gestational diabetes on the probabilities of women to
-develop type 2 diabetes \parencite{Bellamy2009}. To account for the effect
-that household wealth might have on diabetes and employment chances,
+develop type 2 diabetes \parencite{Bellamy2009}. 
+
+To account for the effect that household wealth might have on diabetes and employment chances,
 we use the well established method of principal component analysis
 of multiple indicators of household assets and housing conditions
 to create an indicator for household wealth \parencite{Filmer2001}. Our
@@ -540,7 +547,7 @@ diabetes, and hence are more likely to develop complications.
 \subsection{Differences by age groups }
 
 When divided into an older and younger age group using the
-cut-off point of 45 years,the negative effect of diabetes is mainly
+cut-off point of 45 years, the negative effect of diabetes is mainly
 found in the older age group, for males and females alike (see Table
 \ref{tab:age groups probit}), where 12.5 percent report having diabetes,
 compared to only 1.7 percent in the younger age group. The probability
@@ -841,7 +848,7 @@ this.
 A limitation of this study is the use of cross-sectional
 data, which does not allow for the use of fixed effects and hence
 for the control of unobserved time-invariant heterogeneity. Data spanning
-a longer time period of 10 to 15 years would be required to be able
+a longer time period would be required to be able
 to observe changes in the diabetes and employment status which would
 allow the use of fixed effects. A further limitation is the somewhat
 old data from 2005, which precedes the main implementation period
@@ -851,10 +858,7 @@ effects might be different today, where most Mexicans have access
 to some sort of health insurance \parencite{Knaul2012}. The presented
 results rather show the effects of diabetes on employment chances
 in 2005 in an environment were insufficient healthcare coverage was
-common for parts of the Mexican population. Further, the data only
-provided self-reported information on diabetes, which might have caused
-some attenuation bias in our estimated parameters, making them rather
-conservative \parencite{Lewbel2007}. We nonetheless deliberately chose
+common for parts of the Mexican population. We nonetheless deliberately chose
 this particular data as it provided us with a sensible instrument
 in parental diabetes as well as an array of other socioeconomic information
 which---as far as we have been able to ascertain---is not provided
@@ -872,8 +876,7 @@ the effects of diabetes on employment in Mexico using more recent
 data. In light of the recently completed implementation of  Seguro
 Popular---which increased its coverage from about 10 million people
 in 2005 to over 50 million in 2012 and now provides almost all previously
-uninsured Mexicans with access to healthcare \parencite{Knaul2012} ---
-the results of this paper might be used as a baseline to judge the
+uninsured Mexicans with access to healthcare \parencite{Knaul2012}---the results of this paper might be used as a baseline to judge the
 success of Seguro Popular in reducing the adverse effects of diabetes
 on employment. In addition, the reasons for the differences between
 males and females in the estimated effects remain a matter of speculation

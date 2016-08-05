@@ -1,2 +1,15 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \acs *{PRISMA} flowchart.\relax }}{31}{figure.caption.29}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Number of \acs *{COI} studies, by costing approach and income group.\relax }}{34}{figure.caption.36}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \acs *{GDP} to direct costs ratio by estimation approach.\relax }}{40}{figure.caption.44}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Direct and indirect cost relation in studies estimating total costs of type 2 diabetes.\relax }}{42}{figure.caption.48}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Kernel-weighted local polynomial regression of employment status on diabetes duration.\relax }}{108}{figure.caption.82}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Kernel-weighted local polynomial regression of log hourly wages on diabetes duration.\relax }}{109}{figure.caption.83}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Kernel-weighted local polynomial regression of working hours on diabetes duration.\relax }}{109}{figure.caption.84}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Direct acyclic graph (DAG) representing the relations between confounders, a diabetes diagnosis and our six outcomes.\relax }}{123}{figure.caption.98}
+\addvspace {10\p@ }
