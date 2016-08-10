@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  5 AUG 2016 16:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  9 AUG 2016 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1413,7 +1413,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
-(./Thesis.bbl)
+(./Thesis.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Pieters2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 3.
 Package biblatex Info: Reference segment=0 on input line 3.
 
@@ -1628,7 +1636,7 @@ nverted-to.pdf Review/Figures/Fig1.eps>
 (epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig1-eps-converted-to.pdf, id=860, 539.01375pt x 489.83pt>
+<Review/Figures/Fig1-eps-converted-to.pdf, id=870, 539.01375pt x 489.83pt>
 File: Review/Figures/Fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig1-eps-converted-to.pdf>
@@ -1661,7 +1669,7 @@ nverted-to.pdf Review/Figures/Fig2.eps>
 (epstopdf)             \includegraphics on input line 66.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig2-eps-converted-to.pdf, id=1026, 580.1675pt x 508.90125pt>
+<Review/Figures/Fig2-eps-converted-to.pdf, id=1036, 580.1675pt x 508.90125pt>
 File: Review/Figures/Fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig2-eps-converted-to.pdf>
@@ -1783,7 +1791,7 @@ Package epstopdf Info: Source file: <Review/Figures/Fig3.eps>
 nverted-to.pdf Review/Figures/Fig3.eps>
 (epstopdf)             \includegraphics on input line 161.
 Package epstopdf Info: Output file is already uptodate.
- <Review/Figures/Fig3-eps-converted-to.pdf, id=1220, 722.7pt x 578.16pt>
+ <Review/Figures/Fig3-eps-converted-to.pdf, id=1230, 722.7pt x 578.16pt>
 File: Review/Figures/Fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig3-eps-converted-to.pdf>
@@ -1806,7 +1814,7 @@ nverted-to.pdf Review/Figures/Fig4.eps>
 (epstopdf)             \includegraphics on input line 225.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig4-eps-converted-to.pdf, id=1263, 724.7075pt x 581.17125pt>
+<Review/Figures/Fig4-eps-converted-to.pdf, id=1273, 724.7075pt x 581.17125pt>
 File: Review/Figures/Fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig4-eps-converted-to.pdf>
@@ -3768,7 +3776,7 @@ uration.eps>
 (epstopdf)             \includegraphics on input line 368.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=2786, 3
+<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=2796, 3
 97.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf Graphi
 c file (type pdf)
@@ -3791,7 +3799,7 @@ ation.eps>
 (epstopdf)             \includegraphics on input line 377.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=2787, 39
+<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=2797, 39
 7.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -3818,7 +3826,7 @@ tesduration.eps>
 (epstopdf)             \includegraphics on input line 386.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=2788,
+<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=2798,
  397.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf Grap
 hic file (type pdf)
@@ -3854,7 +3862,7 @@ Chapter 5.
  (./Chapter5.tex [120
 
 ] [121] [122]
-<Chapter5/Figures/dag_II_alt.png, id=2952, 536.75531pt x 395.22656pt>
+<Chapter5/Figures/dag_II_alt.png, id=2962, 536.75531pt x 395.22656pt>
 File: Chapter5/Figures/dag_II_alt.png Graphic file (type png)
 
 <use Chapter5/Figures/dag_II_alt.png>
@@ -3939,13 +3947,14 @@ Overfull \hbox (18.5258pt too wide) in paragraph at lines 26--27
 es on the un-di-ag-nosed population---
  []
 
-[148] [149] [150] [151] [152]) [153] [154
+[148] [149] [150] [151] [152] [153] [154] [155] [156]) [157] [158
 
 
 ]
 \openout2 = `Appendix.aux'.
 
- (./Appendix.tex [155
+
+(./Appendix.tex [159
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 39--39
@@ -7918,10 +7927,10 @@ Overfull \hbox (7.87799pt too wide) in paragraph at lines 39--39
 \T1/lmtt/m/n/10 rlms-[]hse$[]| 
  []
 
-[156
+[160
 
-] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167]
-[168] [169] [170] [171] [172
+] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171]
+[172] [173] [174] [175] [176
 
 ]
 Overfull \hbox (10.68329pt too wide) in paragraph at lines 186--186
@@ -10668,10 +10677,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--186
 \T1/lmr/m/n/8 African
  []
 
-[173
+[177
 
-] [174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184]
-[185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196]
+] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188]
+[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
 Underfull \hbox (badness 10000) in paragraph at lines 279--279
 []|\T1/lmr/m/n/8 Country
  []
@@ -11321,62 +11330,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--279
 []|\T1/lmr/m/n/8 USA
  []
 
-[197
+[201
 
 
-] [198] [199] [200] [201] [202] [203] [204
+] [202] [203] [204] [205] [206] [207] [208
 
-] [205
-
-] [206
-
-] [207
-
-] [208]
-[209
+] [209
 
 ] [210
 
 ] [211
 
-] [212
+] [212]
+[213
 
-] [213] [214
+] [214
 
 ] [215
 
 ] [216
 
-]) [217] [218
+] [217] [218
+
+] [219
+
+] [220
+
+]) [221] [222
 
 
-] [219] [220]
+] [223] [224]
+[225]
 Overfull \hbox (11.76158pt too wide) in paragraph at lines 123--123
 \T1/lmr/m/n/12 M., and Gnavi, R. (2012). ``Di-rect costs in di-a-betic and non 
 di-a-betic peo-ple: the population-
  []
 
-[221] [222] [223] [224] [225] [226] [227]
+[226] [227] [228] [229] [230] [231] [232]
 Overfull \hbox (8.44962pt too wide) in paragraph at lines 123--123
 [][]\T1/lmr/m/n/12 Lesniowska, J., Schu-bert, A., Wo-jna, M. M., Skrzekowska-Ba
 ran, I., Fe-dyna, M., Le±niowska,
  []
 
-[228] [229]
+[233]
 Overfull \hbox (12.75224pt too wide) in paragraph at lines 123--123
 \T1/lmr/m/n/12 tient and out-pa-tient ser-vices in the Vet-er-ans Ad-min-is-tra
 -tion.'' \T1/lmr/m/it/12 Di-a-betes Care \T1/lmr/m/n/12 27 (SUPPL.2),
  []
 
-[230] [231] [232]
+[234] [235] [236] [237]
 Overfull \hbox (9.2185pt too wide) in paragraph at lines 123--123
 \T1/lmr/m/n/12 ``Epi-demi-o-log-i-cal and nu-tri-tional tran-si-tion in Mex-ico
 : rapid in-crease of non-communicable
  []
 
-[233] [234] [235] [236] [237] [238]
+[238] [239] [240] [241] [242] [243]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
- [239]
+ [244]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
  (./Thesis.aux (./Introduction.aux)
 (./Chapter2.aux) (./Chapter3.aux) (./Chapter4.aux) (./Chapter5.aux)
@@ -11384,7 +11394,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 4C4220745B83F85DDAE485C750A8E32A;5610.
+(rerunfilecheck)             Checksum: 0D3D35562E253AF669F970D136A723EB;5782.
 
 
 LaTeX Warning: There were undefined references.
@@ -11398,10 +11408,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
  ) 
 Here is how much of TeX's memory you used:
- 29325 strings out of 493304
- 550211 string characters out of 6139871
- 2333242 words of memory out of 5000000
- 31421 multiletter control sequences out of 15000+600000
+ 29466 strings out of 493304
+ 553079 string characters out of 6139871
+ 2371926 words of memory out of 5000000
+ 31542 multiletter control sequences out of 15000+600000
  122062 words of font info for 103 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,17n,87p,16925b,1596s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -11422,10 +11432,10 @@ ts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb>
 sr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Thesis.pdf (239 pages, 1062065 bytes).
+Output written on Thesis.pdf (244 pages, 1076841 bytes).
 PDF statistics:
- 5457 PDF objects out of 6186 (max. 8388607)
- 3518 compressed objects within 36 object streams
- 837 named destinations out of 1000 (max. 500000)
- 609 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5528 PDF objects out of 6186 (max. 8388607)
+ 3584 compressed objects within 36 object streams
+ 857 named destinations out of 1000 (max. 500000)
+ 625 words of extra memory for PDF output out of 10000 (max. 10000000)
 

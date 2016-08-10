@@ -887,21 +887,21 @@
       \keyw{Adult,Aged,Carbohydrates,Carbohydrates: analysis,Cross-Sectional Studies,Diabetes Mellitus,Econometric,Energy Intake,Humans,Middle Aged,Models,Obesity,Obesity: epidemiology,Prevalence,Selection Bias,Type 2,Type 2: epidemiology,Young Adult}
     \endentry
     \entry{Batis2014}{article}{}
-      \name{labelname}{5}{}{%
+      \name{labelname}{5}{uniquelist=2}{%
         {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
         {{hash=08cfeed641d33d8817edc5e8fd243ec2}{Mendez}{M\bibinitperiod}{Michelle\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
         {{hash=74787ab45e89c9083ce3ac58d95a8851}{Sotres-Alvarez}{S\bibinithyphendelim A\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
         {{hash=7803637b4943e116f249c38cb000edc2}{Gordon-Larsen}{G\bibinithyphendelim L\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
         {{hash=e3705f2f361e6d6722d52a05ccd42f01}{Popkin}{P\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{5}{}{%
+      \name{author}{5}{uniquelist=2}{%
         {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
         {{hash=08cfeed641d33d8817edc5e8fd243ec2}{Mendez}{M\bibinitperiod}{Michelle\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
         {{hash=74787ab45e89c9083ce3ac58d95a8851}{Sotres-Alvarez}{S\bibinithyphendelim A\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
         {{hash=7803637b4943e116f249c38cb000edc2}{Gordon-Larsen}{G\bibinithyphendelim L\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
         {{hash=e3705f2f361e6d6722d52a05ccd42f01}{Popkin}{P\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{fd0e86e40976215c36a7dc1ea9510918}
+      \strng{namehash}{47c6d3fc3a418c4d182396b8ee80c034}
       \strng{fullhash}{9c056cbf7cfe25c3e30027ed8572acf1}
       \field{sortinit}{B}
       \field{labelyear}{2014}
@@ -931,6 +931,42 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24729424
       \endverb
     \endentry
+    \entry{Batis2016}{article}{}
+      \name{labelname}{4}{uniquelist=2}{%
+        {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=30872cf2a7225dcf5a6c78679796ef21}{Rivera}{R\bibinitperiod}{Juan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=35d535a2790224c6fc4d04283e448de4}{Popkin}{P\bibinitperiod}{Barry\bibnamedelima M.}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dc02055a12486f473843bfa9ab942afb}{Taillie}{T\bibinitperiod}{Lindsey\bibnamedelima Smith}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{uniquelist=2}{%
+        {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=30872cf2a7225dcf5a6c78679796ef21}{Rivera}{R\bibinitperiod}{Juan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=35d535a2790224c6fc4d04283e448de4}{Popkin}{P\bibinitperiod}{Barry\bibnamedelima M.}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=dc02055a12486f473843bfa9ab942afb}{Taillie}{T\bibinitperiod}{Lindsey\bibnamedelima Smith}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5844987a74d3fb11ea5e382bb6da8bf6}
+      \strng{fullhash}{61ffe0eca9d87cc116dec8f3f2468053}
+      \field{sortinit}{B}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{First-Year Evaluation of Mexico's Tax on Nonessential Energy-Dense Foods: An Observational Study}}
+      \field{issn}{1549-1676}
+      \field{journaltitle}{PLOS Medicine}
+      \field{number}{7}
+      \field{title}{{First-Year Evaluation of Mexico's Tax on Nonessential Energy-Dense Foods: An Observational Study}}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{e1002057}
+      \verb{doi}
+      \verb 10.1371/journal.pmed.1002057
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Batis et al. - 2016 - First-Year Evaluation of Mexico's Tax on Nonessential Energy-Dense Foods An Observational Study.PDF:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.plos.org/10.1371/journal.pmed.1002057
+      \endverb
+    \endentry
     \entry{Baum2007}{article}{}
       \name{labelname}{3}{}{%
         {{hash=0923601fcf876afcb34e8240adedd647}{Baum}{B\bibinitperiod}{CF}{C\bibinitperiod}{}{}{}{}}%
@@ -954,6 +990,40 @@
       \field{volume}{7}
       \field{year}{2007}
       \field{pages}{465\bibrangedash 506}
+    \endentry
+    \entry{Bazargani2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=e6d635f0ab2b8093d8971cee70cf6f88}{Bazargani}{B\bibinitperiod}{Yaser\bibnamedelima T.}{Y\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=135b0bcf3d73173997aacae65861972d}{{De\bibnamedelimb Boer}}{D\bibinitperiod}{Anthonius}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=691393d8b77a89bf373c99ed8457a4d8}{Leufkens}{L\bibinitperiod}{Hubert\bibnamedelimb G\bibnamedelima M}{H\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=ab2784b35428ac6eb42c4e42c1aeed0d}{Mantel-Teeuwisse}{M\bibinithyphendelim T\bibinitperiod}{Aukje\bibnamedelima K.}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e6d635f0ab2b8093d8971cee70cf6f88}{Bazargani}{B\bibinitperiod}{Yaser\bibnamedelima T.}{Y\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=135b0bcf3d73173997aacae65861972d}{{De\bibnamedelimb Boer}}{D\bibinitperiod}{Anthonius}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=691393d8b77a89bf373c99ed8457a4d8}{Leufkens}{L\bibinitperiod}{Hubert\bibnamedelimb G\bibnamedelima M}{H\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=ab2784b35428ac6eb42c4e42c1aeed0d}{Mantel-Teeuwisse}{M\bibinithyphendelim T\bibinitperiod}{Aukje\bibnamedelima K.}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{443cebdb3c128198f48a60d9ead14e04}
+      \strng{fullhash}{99dac5ca9e74aaae7f421b9ad96976de}
+      \field{sortinit}{B}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Selection of essential medicines for diabetes in low and middle income countries: A survey of 32 national essential medicines lists}}
+      \field{abstract}{AIM: Diabetes is a growing burden especially in low and middle income countries (LMICs). Inadequate access to diabetes care is of particular concern and selection of appropriate diabetes medicines on national essential medicines lists (NEMLs) is a first step in achieving adequate access. This selection was studied among LMICs and influences of various factors associated with selection decisions were assessed. METHODS: Countries were studied if they employed NEMLs for reimbursement or procurement purposes. Presence and number of essential diabetes medicines from different classes, both insulins and oral blood glucose lowering medicines, were surveyed and calculated. Data were also analyzed by country income level, geographic region, year of last update of the NEML and purpose of NEML employment. The effect of prevalence and burden of disease on the number of essential diabetes medicines was also studied. Non parametric tests and univariate linear regression analysis were used. RESULTS: Nearly all countries (n = 32) had chosen fast (97{\%}) and intermediate acting insulin (93{\%}), glibenclamide and metformin (100{\%} both) as essential medicines. The median number of essential diabetes medicines was 6, equally divided between insulins and oral medicines. 20{\%} of the countries had selected insulin analogues as essential medicines. Among all the studied factors, an increase in burden of diabetes and wealth of countries were associated with selection of higher numbers of essential diabetes medicines (p = 0.02 in both cases). CONCLUSIONS: Nearly all the studied LMICs had included the minimum required medicines for diabetes management in their NEMLs. Selection can still be improved (e.g. exclusion of insulin analogues and replacement of glibenclamide by gliclazide). Nevertheless, the known suboptimal and inconsistent availability of essential diabetes medicines in LMICs cannot be explained by inadequate selection of essential medicines. Countries should therefore be encouraged to give precedence to implementation of NEMLs to make essential diabetes medicines more accessible.}
+      \field{isbn}{1932-6203 (Electronic)$\backslash$r1932-6203 (Linking)}
+      \field{issn}{19326203}
+      \field{journaltitle}{PLoS ONE}
+      \field{number}{9}
+      \field{title}{{Selection of essential medicines for diabetes in low and middle income countries: A survey of 32 national essential medicines lists}}
+      \field{volume}{9}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0106072
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Bazargani et al. - 2014 - Selection of essential medicines for diabetes in low and middle income countries A survey of 32 national essen.PDF:PDF
+      \endverb
     \endentry
     \entry{Beagley2014}{article}{}
       \name{labelname}{4}{}{%
@@ -1093,6 +1163,38 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Bergemann, Gr{\"{o}}nqvist, Gudbj{\"{o}}rnsdottir - 2011 - The effects of job displacement on the onset and progression.pdf:pdf
       \endverb
       \keyw{arne uhlendorff and gerard,berg and participants at,c14,diabetes,discussions with and comments,for population economics conference,from geert ridder,health,i18,in essen,j64,j65,jel-codes,matching,the 2010 european society,unemployment,van den,we are also,we have benefited from}
+    \endentry
+    \entry{Bertram2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=bb89db3fe198a4919926b58830778d02}{Bertram}{B\bibinitperiod}{Melanie\bibnamedelima Y.}{M\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=3c453a1d7d0c83a4d4d5dd5832e4829f}{Vos}{V\bibinitperiod}{Theo}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=bb89db3fe198a4919926b58830778d02}{Bertram}{B\bibinitperiod}{Melanie\bibnamedelima Y.}{M\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=3c453a1d7d0c83a4d4d5dd5832e4829f}{Vos}{V\bibinitperiod}{Theo}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aea243ba38772b9569d7ea7744eaec11}
+      \strng{fullhash}{aea243ba38772b9569d7ea7744eaec11}
+      \field{sortinit}{B}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Quantifying the duration of pre-diabetes.}}
+      \field{abstract}{OBJECTIVE: Interventions for individuals with pre-diabetes are efficacious, however, identification of people with pre-diabetes does not occur in Australia. This study aims to calculate the duration of pre-diabetes, in order to provide supporting evidence for a screening program. METHODS: We carried out a systematic review and random effects meta-analysis to identify if an increased risk of mortality is present in people with pre-diabetes. The result of this meta-analysis as well as information on prevalence, remission of pre-diabetes and transition to diabetes from an Australian cohort study, were used in the software program DisMod to calculate duration. RESULTS: From 2,578 articles identified, 11 studies met the inclusion criteria. The pooled relative risk of all-cause mortality was 1.26 (1.17-1.34) with no sign of heterogeneity between the studies. The average duration of pre-diabetes was 8.5 years in males aged 30+ and 10.3 years in females aged 30+. CONCLUSIONS: The duration of pre-diabetes in Australia is long enough to warrant a screening program. The finding is robust to sensitivity testing of very large variations in the epidemiological parameters. IMPLICATIONS: If the interventions following screening are shown to be cost-effective, a strong rationale for the implementation of a screening program exists.}
+      \field{isbn}{1326-0200}
+      \field{issn}{17536405}
+      \field{journaltitle}{Australian and New Zealand journal of public health}
+      \field{number}{3}
+      \field{title}{{Quantifying the duration of pre-diabetes.}}
+      \field{volume}{34}
+      \field{year}{2010}
+      \field{pages}{311\bibrangedash 314}
+      \verb{doi}
+      \verb 10.1111/j.1753-6405.2010.00532.x
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Bertram, Vos - 2010 - Quantifying the duration of pre-diabetes.pdf:pdf
+      \endverb
+      \keyw{00532,10,1111,1753-6405,2010,311-4,34,aust nz j public,doi,duration,epidemiology,health,j,pre-diabetes,screening,x}
     \endentry
     \entry{Biorac2009a}{article}{}
       \name{labelname}{5}{}{%
@@ -1815,6 +1917,54 @@
       \verb arXiv:1011.1669v3
       \endverb
       \keyw{Externalities,Insurance,Medical care costs,Obesity}
+    \endentry
+    \entry{Cefalu2016}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=d27c449800dd275edebddad309ef1eeb}{Cefalu}{C\bibinitperiod}{William\bibnamedelima T}{W\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4917cbf12a1cff7cde0b1dc89f89ca51}{Buse}{B\bibinitperiod}{John\bibnamedelima B}{J\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=4cca4fbf220114697fb266a2a32d3e6f}{Tuomilehto}{T\bibinitperiod}{Jaakko}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=82e6ab7751287eaaa175f57a6d65010c}{Fleming}{F\bibinitperiod}{G\bibnamedelima Alexander}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=00a562c1532871b9fe2a4a791d7b90ce}{Ferrannini}{F\bibinitperiod}{Ele}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=37f2dd35146a17451e93150813e32456}{Gerstein}{G\bibinitperiod}{Hertzel\bibnamedelima C}{H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6fde02f535fb65fc3e6d07d3bc2dc1}{Bennett}{B\bibinitperiod}{Peter\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8ab5e45b9e6a19e566bb86297757685c}{Ramachandran}{R\bibinitperiod}{Ambady}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e1376d441666de256191c8f71f6efcea}{Raz}{R\bibinitperiod}{Itamar}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=f6069376187a21f65fb78391662e0825}{Rosenstock}{R\bibinitperiod}{Julio}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=065164da92c49a8782594ed734b4302d}{Kahn}{K\bibinitperiod}{Steven\bibnamedelima E}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=d27c449800dd275edebddad309ef1eeb}{Cefalu}{C\bibinitperiod}{William\bibnamedelima T}{W\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=4917cbf12a1cff7cde0b1dc89f89ca51}{Buse}{B\bibinitperiod}{John\bibnamedelima B}{J\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=4cca4fbf220114697fb266a2a32d3e6f}{Tuomilehto}{T\bibinitperiod}{Jaakko}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=82e6ab7751287eaaa175f57a6d65010c}{Fleming}{F\bibinitperiod}{G\bibnamedelima Alexander}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=00a562c1532871b9fe2a4a791d7b90ce}{Ferrannini}{F\bibinitperiod}{Ele}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=37f2dd35146a17451e93150813e32456}{Gerstein}{G\bibinitperiod}{Hertzel\bibnamedelima C}{H\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6fde02f535fb65fc3e6d07d3bc2dc1}{Bennett}{B\bibinitperiod}{Peter\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8ab5e45b9e6a19e566bb86297757685c}{Ramachandran}{R\bibinitperiod}{Ambady}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e1376d441666de256191c8f71f6efcea}{Raz}{R\bibinitperiod}{Itamar}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=f6069376187a21f65fb78391662e0825}{Rosenstock}{R\bibinitperiod}{Julio}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=065164da92c49a8782594ed734b4302d}{Kahn}{K\bibinitperiod}{Steven\bibnamedelima E}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b950324210479c3503aba435554fbf5d}
+      \strng{fullhash}{2e0572c02416e639f9d0d255ae196f97}
+      \field{sortinit}{C}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Update and Next Steps for Real- World Translation of Interventions for Type 2 Diabetes Prevention: Reflections From a Diabetes Care Editors' Expert Forum}}
+      \field{abstract}{The International Diabetes Federation estimates that 415 million adults world-wide now have diabetes and 318 million have impaired glucose tolerance. These numbers are expected to increase to 642 million and 482 million, respectively, by 2040. This burgeoning pandemic places an enormous burden on countries worldwide, particularly resource-poor regions. Numerous landmark trials evalu-ating both intensive lifestyle modification and pharmacological interventions have persuasively demonstrated that type 2 diabetes can be prevented or its onset can be delayed in high-risk individuals with impaired glucose tolerance. However, key challenges remain, including how to scale up such approaches for widespread translation and implementation, how to select appropriately from various interventions and tailor them for different populations and settings, and how to ensure that preventive interventions yield clinically meaningful, cost-effective outcomes. In June 2015, a Diabetes Care Editors' Expert Forum convened to discuss these issues. This article, an outgrowth of the forum, begins with a summary of seminal prevention trials, followed by a discussion of considerations for selecting appropriate populations for intervention and the clinical implications of the various diagnostic criteria for prediabetes. The authors outline knowledge gaps in need of elucidation and explore a possible new avenue for securing reg-ulatory approval of a prevention-related indication for metformin, as well as specific considerations for future pharmacological interventions to delay the on-set of type 2 diabetes. They conclude with descriptions of some innovative, prag-matic translational initiatives already under way around the world. According to the latest International Diabetes Federation (IDF) calculations, an estimated 415 million adults worldwide (8.8{\%} of the global population) have dia-betesda number that is projected to increase to 642 million (10.4{\%}) by 2040. The vast majority of diabetes cases are attributable to type 2 diabetes. Furthermore, an estimated 318 million adults have impaired glucose tolerance (IGT). That number is expected to climb to 482 million in the next 25 years (1). In the U.S. alone, an estimated 86 million adults have prediabetes (2). The toll of diabetes and its complications on patients' health and quality of life is enormous. The burgeoning diabetes pandemic also places a great burden on coun-tries throughout the world, particularly in resource-poor regions. The IDF estimates that global spending to treat diabetes ranged between {\$}673 billion and {\$}1.2 trillion 1}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{Diabetes Care}
+      \field{number}{July}
+      \field{title}{{Update and Next Steps for Real- World Translation of Interventions for Type 2 Diabetes Prevention: Reflections From a Diabetes Care Editors' Expert Forum}}
+      \field{volume}{39}
+      \field{year}{2016}
+      \field{pages}{1186\bibrangedash 1201}
+      \verb{doi}
+      \verb 10.2337/dc16-0873
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Cefalu et al. - 2016 - Update and Next Steps for Real- World Translation of Interventions for Type 2 Diabetes Prevention Reflections Fro.pdf:pdf
+      \endverb
     \endentry
     \entry{Chan2007a}{article}{}
       \name{labelname}{4}{uniquelist=2}{%
@@ -2629,6 +2779,61 @@
       \endverb
       \keyw{Class sizes,Educational production,Endogeneity,Instrumental variables}
     \endentry
+    \entry{DiCesare2013}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=aa226abfad1c4e587bdce07562b40e10}{{Di\bibnamedelimb Cesare}}{D\bibinitperiod}{Mariachiara}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2d3747134f3a009a082d0947cafdab24}{Khang}{K\bibinitperiod}{Young\bibnamedelima Ho}{Y\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=69b9a41f672768ff6743323f78092eb0}{Asaria}{A\bibinitperiod}{Perviz}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b157e6b79a10120f7d6606c2548e83cf}{Blakely}{B\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4a7f42787eaf4e7267c4e314cd7cec94}{Cowan}{C\bibinitperiod}{Melanie\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4179f3a6eab44913f537da3c256b33}{Farzadfar}{F\bibinitperiod}{Farshad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=1c75291f039a205b196bc9ec26bad737}{Guerrero}{G\bibinitperiod}{Ramiro}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=d9fc16d976b1f17cf627d2df6e08a539}{Ikeda}{I\bibinitperiod}{Nayu}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=68108f9aafb3e269a6e55b82ec7e3a41}{Kyobutungi}{K\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6381ef1480e301c4d441cf8bde018465}{Msyamboza}{M\bibinitperiod}{Kelias\bibnamedelima P.}{K\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=5cfef2b76152361b6614a281cedd5cae}{Oum}{O\bibinitperiod}{Sophal}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a49cb5108fcf60d88bf11b28eb92f5bf}{Lynch}{L\bibinitperiod}{John\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=ec1b34a8e4a8c95d23bd8777aa6800f4}{Marmot}{M\bibinitperiod}{Michael\bibnamedelima G.}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=643f9106f2c3a807434d4c568dc45af8}{Ezzati}{E\bibinitperiod}{Majid}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=aa226abfad1c4e587bdce07562b40e10}{{Di\bibnamedelimb Cesare}}{D\bibinitperiod}{Mariachiara}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2d3747134f3a009a082d0947cafdab24}{Khang}{K\bibinitperiod}{Young\bibnamedelima Ho}{Y\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=69b9a41f672768ff6743323f78092eb0}{Asaria}{A\bibinitperiod}{Perviz}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b157e6b79a10120f7d6606c2548e83cf}{Blakely}{B\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4a7f42787eaf4e7267c4e314cd7cec94}{Cowan}{C\bibinitperiod}{Melanie\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4179f3a6eab44913f537da3c256b33}{Farzadfar}{F\bibinitperiod}{Farshad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=1c75291f039a205b196bc9ec26bad737}{Guerrero}{G\bibinitperiod}{Ramiro}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=d9fc16d976b1f17cf627d2df6e08a539}{Ikeda}{I\bibinitperiod}{Nayu}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=68108f9aafb3e269a6e55b82ec7e3a41}{Kyobutungi}{K\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6381ef1480e301c4d441cf8bde018465}{Msyamboza}{M\bibinitperiod}{Kelias\bibnamedelima P.}{K\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=5cfef2b76152361b6614a281cedd5cae}{Oum}{O\bibinitperiod}{Sophal}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a49cb5108fcf60d88bf11b28eb92f5bf}{Lynch}{L\bibinitperiod}{John\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=ec1b34a8e4a8c95d23bd8777aa6800f4}{Marmot}{M\bibinitperiod}{Michael\bibnamedelima G.}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=643f9106f2c3a807434d4c568dc45af8}{Ezzati}{E\bibinitperiod}{Majid}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6ebf11f1a1c0482c03f708ddd1de1d91}
+      \strng{fullhash}{0cd38676767fce8ce85e7900cf7cec8f}
+      \field{sortinit}{D}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Inequalities in non-communicable diseases and effective responses}}
+      \field{abstract}{In most countries, people who have a low socioeconomic status and those who live in poor or marginalised communities have a higher risk of dying from non-communicable diseases (NCDs) than do more advantaged groups and communities. Smoking rates, blood pressure, and several other NCD risk factors are often higher in groups with low socioeconomic status than in those with high socioeconomic status; the social gradient also depends on the country's stage of economic development, cultural factors, and social and health policies. Social inequalities in risk factors account for more than half of inequalities in major NCDs, especially for cardiovascular diseases and lung cancer. People in low-income countries and those with low socioeconomic status also have worse access to health care for timely diagnosis and treatment of NCDs than do those in high-income countries or those with higher socioeconomic status. Reduction of NCDs in disadvantaged groups is necessary to achieve substantial decreases in the total NCD burden, making them mutually reinforcing priorities. Effective actions to reduce NCD inequalities include equitable early childhood development programmes and education; removal of barriers to secure employment in disadvantaged groups; comprehensive strategies for tobacco and alcohol control and for dietary salt reduction that target low socioeconomic status groups; universal, financially and physically accessible, high-quality primary care for delivery of preventive interventions and for early detection and treatment of NCDs; and universal insurance and other mechanisms to remove financial barriers to health care.}
+      \field{isbn}{0140-6736 1474-547X}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{number}{9866}
+      \field{title}{{Inequalities in non-communicable diseases and effective responses}}
+      \field{volume}{381}
+      \field{year}{2013}
+      \field{pages}{585\bibrangedash 597}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(12)61851-0
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Di Cesare et al. - 2013 - Inequalities in non-communicable diseases and effective responses.pdf:pdf
+      \endverb
+    \endentry
     \entry{DiabetesUK2012}{article}{}
       \name{labelname}{1}{}{%
         {{hash=4ddd06f378bf64f0829f4770f1c61cd6}{{Diabetes\bibnamedelimb UK}}{D\bibinitperiod}{}{}{}{}{}{}}%
@@ -2996,6 +3201,47 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Esteghamati et al. - 2009 - The economic costs of diabetes a population-based study in Tehran, Iran.pdf:pdf
       \endverb
       \keyw{*cost of illness,*diabetes mellitus/dm [Disease Management],*diabetes mellitus/ep [Epidemiology],80 and over,Adolescent,Aged,Chil,Child,Iran,adult,all,article,controlled study,download,embase,extracted,female,follow up,health care cost,health care utilization,health service,hospitalization,human,included,major clinical study,male,newsearch,prevalence,priority journal,productivity,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Esterson2014}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=331c4e946cf6b314521b14929c51559e}{Esterson}{E\bibinitperiod}{Yonah\bibnamedelima B}{Y\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=a39fd01216b14b7d025427d6fae573ba}{Carey}{C\bibinitperiod}{Michelle}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=659650b7b9eb877f74fc59d64d194c79}{Piette}{P\bibinitperiod}{John\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d5890a0be2cbb8afc85b88af4be6ac1f}{Thomas}{T\bibinitperiod}{Nihal}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ea5a45f760a2ccba9c759733a15d4482}{Hawkins}{H\bibinitperiod}{Meredith}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=331c4e946cf6b314521b14929c51559e}{Esterson}{E\bibinitperiod}{Yonah\bibnamedelima B}{Y\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=a39fd01216b14b7d025427d6fae573ba}{Carey}{C\bibinitperiod}{Michelle}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=659650b7b9eb877f74fc59d64d194c79}{Piette}{P\bibinitperiod}{John\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=d5890a0be2cbb8afc85b88af4be6ac1f}{Thomas}{T\bibinitperiod}{Nihal}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ea5a45f760a2ccba9c759733a15d4482}{Hawkins}{H\bibinitperiod}{Meredith}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{206b442841a559cad009f58894ddfbd9}
+      \strng{fullhash}{153b350c67c5d80eb1781d3dcb20b5b2}
+      \field{sortinit}{E}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{A Systematic Review of Innovative Diabetes Care Models in Low-and Middle-Income Countries (LMICs)}}
+      \field{abstract}{Background. Over 70{\%} of the world's patients with diabetes reside in low- and middle-income countries (LMICs), where adequate infrastructure and resources for diabetes care are often lacking. Therefore, academic institutions, health care organizations, and governments from Western nations and LMICs have worked together to develop a variety of effective diabetes care models for resource-poor settings. Methods. A focused search of PubMed was conducted with the goal of identifying reports that addressed the implementation of diabetes care models or initiatives to improve clinical and/or biochemical outcomes in patients with diabetes mellitus. Results. A total of 15 published manuscripts comprising nine diabetes care models in 16 locations in sub-Saharan Africa, Latin America, and Asia identified by the above approach were systematically reviewed. The reviewed models shared a number of principles including collaboration, education, standardization, resource optimization, and technological innovation. The most comprehensive models used a number of these principles, which contributed to their success. Conclusions. Reviewing the principles shared by these successful programs may help guide the development of effective future models for diabetes care in low-income settings. [ABSTRACT FROM AUTHOR]}
+      \field{isbn}{1548-6869 (Electronic) 1049-2089 (Linking)}
+      \field{issn}{1548-6869}
+      \field{journaltitle}{Journal of Health Care for the Poor and Underserved}
+      \field{number}{1}
+      \field{title}{{A Systematic Review of Innovative Diabetes Care Models in Low-and Middle-Income Countries (LMICs)}}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{pages}{72\bibrangedash 93}
+      \verb{doi}
+      \verb 10.1353/hpu.2014.0037
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Esterson et al. - 2014 - A Systematic Review of Innovative Diabetes Care Models in Low-and Middle-Income Countries (LMICs).pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://muse.jhu.edu/content/crossref/journals/journal%7B%5C_%7Dof%7B%5C_%7Dhealth%7B%5C_%7Dcare%7B%5C_%7Dfor%7B%5C_%7Dthe%7B%5C_%7Dpoor%7B%5C_%7Dand%7B%5C_%7Dunderserved/v025/25.1.esterson.html
+      \endverb
+      \keyw{DEVELOPING countries,DIABETES,DIABETES -- Treatment,DIFFUSION of innovations,DISEASE management -- Methodology,Diabetes care models,EVIDENCE-based medicine,HEALTH self-care,HUMAN services programs,INTERPROFESSIONAL relations,MAPS,MEDICAL care -- Standards,MEDLINE,ONLINE information services,ORGANIZATIONAL effectiveness,PATIENT education,PATIENTS,PERSONNEL management,PROFESSIONAL practice,QUALITY assurance,RESEARCH -- Finance,SYSTEMATIC reviews (Medical research),developing countries,diabetes complications,diabetes management,diabetes management programs,diabetes mellitus,diabetes model,global diabetes care models,less- developed countries,low- and middle- income countries,resource- poor settings,type 2 diabetes}
     \endentry
     \entry{Ettaro2004}{article}{}
       \name{labelname}{4}{}{%
@@ -3795,6 +4041,44 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop//International Diabetes Federation - 2009 - IDF Diabetes Atlas.pdf:pdf
       \endverb
+    \endentry
+    \entry{Jacobs2012}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=bf424ec58729aa7d35e9d57ec1c7d40d}{Jacobs}{J\bibinitperiod}{Bart}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8f5301e1dd2bb1b465a1609abaea7d9c}{Ir}{I\bibinitperiod}{Por}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0eb71dc614d1963e1122837ee4e035f2}{Bigdeli}{B\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d4184806e61ced74467e06633db7d99f}{Annear}{A\bibinitperiod}{Peter\bibnamedelima Leslie}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=75bd8e98a675a649402b889f6219c88f}{{Van\bibnamedelimb Damme}}{V\bibinitperiod}{Wim}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=bf424ec58729aa7d35e9d57ec1c7d40d}{Jacobs}{J\bibinitperiod}{Bart}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8f5301e1dd2bb1b465a1609abaea7d9c}{Ir}{I\bibinitperiod}{Por}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0eb71dc614d1963e1122837ee4e035f2}{Bigdeli}{B\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d4184806e61ced74467e06633db7d99f}{Annear}{A\bibinitperiod}{Peter\bibnamedelima Leslie}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=75bd8e98a675a649402b889f6219c88f}{{Van\bibnamedelimb Damme}}{V\bibinitperiod}{Wim}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3d0d1ed5f0c2568d412c14227f32e8ce}
+      \strng{fullhash}{50d77a6937010b8937b068757612f724}
+      \field{sortinit}{J}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Addressing access barriers to health services: An analytical framework for selectingappropriate interventions in low-income Asian countries}}
+      \field{abstract}{While World Health Organization member countries embraced the concept of universal coverage as early as 2005, few low-income countries have yet achieved the objective. This is mainly due to numerous barriers that hamper access to needed health services. In this paper we provide an overview of the various dimensions of barriers to access to health care in low-income countries (geographical access, availability, affordability and acceptability) and outline existing interventions designed to overcome these barriers. These barriers and consequent interventions are arranged in an analytical framework, which is then applied to two case studies from Cambodia. The aim is to illustrate the use of the framework in identifying the dimensions of access barriers that have been tackled by the interventions. The findings suggest that a combination of interventions is required to tackle specific access barriers but that their effectiveness can be influenced by contextual factors. It is also necessary to address demand-side and supply-side barriers concurrently. The framework can be used both to identify interventions that effectively address particular access barriers and to analyse why certain interventions fail to tackle specific barriers.}
+      \field{isbn}{0268-1080}
+      \field{issn}{02681080}
+      \field{journaltitle}{Health Policy and Planning}
+      \field{number}{4}
+      \field{title}{{Addressing access barriers to health services: An analytical framework for selectingappropriate interventions in low-income Asian countries}}
+      \field{volume}{27}
+      \field{year}{2012}
+      \field{pages}{288\bibrangedash 300}
+      \verb{doi}
+      \verb 10.1093/heapol/czr038
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Jacobs et al. - 2012 - Addressing access barriers to health services An analytical framework for selectingappropriate interventions in l.pdf:pdf
+      \endverb
+      \keyw{Access barriers,analytical framework,demand side,effectiveness,interventions,supply side}
     \endentry
     \entry{Javanbakht2011b}{article}{}
       \name{labelname}{7}{}{%
@@ -6204,6 +6488,116 @@
       \endverb
       \keyw{bias,body mass index,correction factors,income attainment,measured and self-reported}
     \endentry
+    \entry{Peters2015}{article}{}
+      \name{labelname}{4}{uniquelist=3}{%
+        {{hash=344541424b90be16a47968ae826590b8}{Peters}{P\bibinitperiod}{Sanne\bibnamedelimb A\bibnamedelima E}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=09cb5217b90edf7a2cf542cc8d8ad8c0}{Huxley}{H\bibinitperiod}{Rachel\bibnamedelima R.}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0e232a5061b8648ed9e7422bacefc3f6}{Sattar}{S\bibinitperiod}{Naveed}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ffada600fad6dbd30fb3c7121fc75079}{Woodward}{W\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{uniquelist=3}{%
+        {{hash=344541424b90be16a47968ae826590b8}{Peters}{P\bibinitperiod}{Sanne\bibnamedelimb A\bibnamedelima E}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=09cb5217b90edf7a2cf542cc8d8ad8c0}{Huxley}{H\bibinitperiod}{Rachel\bibnamedelima R.}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=0e232a5061b8648ed9e7422bacefc3f6}{Sattar}{S\bibinitperiod}{Naveed}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ffada600fad6dbd30fb3c7121fc75079}{Woodward}{W\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4462ed6dbe2000c90d2d1a9dc43b8cc7}
+      \strng{fullhash}{eae69daa8f48b5d1a3e563ec52a39c27}
+      \field{sortinit}{P}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Sex Differences in the Excess Risk of Cardiovascular Diseases Associated with Type 2 Diabetes: Potential Explanations and Clinical Implications}}
+      \field{abstract}{Strong evidence suggests that type 2 diabetes confers a stronger excess risk of cardiovascular diseases in women than in men; with women having a 27 {\%} higher relative risk of stroke and a 44 {\%} higher relative risk of coronary heart disease compared with men. The mechanisms that underpin these sex differences in the associations between diabetes and cardiovascular disease risk are not fully understood. Some of the excess risk may be the result of a sex disparity in the management and treatment of diabetes, to the detriment of women. However, accruing evidence suggests that real biological differences between men and women underpin the excess risk of diabetes-related cardiovascular risk in women such that there is a greater decline in risk factor status in women than in men in the transition from normoglycemia to overt diabetes. This greater risk factor decline appears to be associated with women having to put on more weight than men, and thus attain a higher body mass index, to develop diabetes. Further studies addressing the mechanisms responsible for sex differences in the excess risk of cardiovascular diseases associated with diabetes are needed to improve the prevention and management of diabetes in clinical practise.}
+      \field{issn}{19329563}
+      \field{journaltitle}{Current Cardiovascular Risk Reports}
+      \field{number}{7}
+      \field{title}{{Sex Differences in the Excess Risk of Cardiovascular Diseases Associated with Type 2 Diabetes: Potential Explanations and Clinical Implications}}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 7}
+      \verb{doi}
+      \verb 10.1007/s12170-015-0462-5
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Peters et al. - 2015 - Sex Differences in the Excess Risk of Cardiovascular Diseases Associated with Type 2 Diabetes Potential Explanati.pdf:pdf
+      \endverb
+      \keyw{Cardiovascular disease,Coronary heart disease,Diabetes,Men,Sex differences,Stroke,Women}
+    \endentry
+    \entry{Peters2014}{article}{}
+      \name{labelname}{3}{uniquelist=3}{%
+        {{hash=344541424b90be16a47968ae826590b8}{Peters}{P\bibinitperiod}{Sanne\bibnamedelimb A\bibnamedelima E}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=09cb5217b90edf7a2cf542cc8d8ad8c0}{Huxley}{H\bibinitperiod}{Rachel\bibnamedelima R.}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=ffada600fad6dbd30fb3c7121fc75079}{Woodward}{W\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{uniquelist=3}{%
+        {{hash=344541424b90be16a47968ae826590b8}{Peters}{P\bibinitperiod}{Sanne\bibnamedelimb A\bibnamedelima E}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=09cb5217b90edf7a2cf542cc8d8ad8c0}{Huxley}{H\bibinitperiod}{Rachel\bibnamedelima R.}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=ffada600fad6dbd30fb3c7121fc75079}{Woodward}{W\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{314565af5f47c0e07d05b32bee2783a5}
+      \strng{fullhash}{314565af5f47c0e07d05b32bee2783a5}
+      \field{sortinit}{P}
+      \field{extrayear}{1}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes as a risk factor for stroke in women compared with men: A systematic review and meta-analysis of 64 cohorts, including 775 385 individuals and 12 539 strokes}}
+      \field{abstract}{Background Diabetes mellitus is a major cause of death and disability worldwide and is a strong risk factor for stroke. Whether and to what extent the excess risk of stroke conferred by diabetes differs between the sexes is unknown. We did a systematic review and meta-analysis to estimate the relative effect of diabetes on stroke risk in women compared with men. Methods We systematically searched PubMed for reports of prospective, population-based cohort studies published between Jan 1, 1966, and Dec 16, 2013. Studies were selected if they reported sex-specific estimates of the relative risk (RR) for stroke associated with diabetes, and its associated variability. We pooled the sex-specific RRs and their ratio comparing women with men using random-effects meta-analysis with inverse-variance weighting. Findings Data from 64 cohort studies, representing 775 385 individuals and 12 539 fatal and non-fatal strokes, were included in the analysis. The pooled maximum-adjusted RR of stroke associated with diabetes was 2??28 (95{\%} CI 1??93-2??69) in women and 1??83 (1??60-2??08) in men. Compared with men with diabetes, women with diabetes therefore had a greater risk of stroke-the pooled ratio of RRs was 1??27 (1??10-1??46; I2=0{\%}), with no evidence of publication bias. This sex differential was seen consistently across major predefined stroke, participant, and study subtypes. Interpretation The excess risk of stroke associated with diabetes is significantly higher in women than men, independent of sex differences in other major cardiovascular risk factors. These data add to the existing evidence that men and women experience diabetes-related diseases differently and suggest the need for further work to clarify the biological, behavioural, or social mechanisms involved.}
+      \field{isbn}{0140-6736}
+      \field{issn}{1474547X}
+      \field{journaltitle}{The Lancet}
+      \field{number}{9933}
+      \field{title}{{Diabetes as a risk factor for stroke in women compared with men: A systematic review and meta-analysis of 64 cohorts, including 775 385 individuals and 12 539 strokes}}
+      \field{volume}{383}
+      \field{year}{2014}
+      \field{pages}{1973\bibrangedash 1980}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(14)60040-4
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Peters, Huxley, Woodward - 2014 - Diabetes as a risk factor for stroke in women compared with men A systematic review and meta-analysis.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S0140-6736(14)60040-4
+      \endverb
+    \endentry
+    \entry{Peters2014a}{article}{}
+      \name{labelname}{3}{uniquelist=3}{%
+        {{hash=344541424b90be16a47968ae826590b8}{Peters}{P\bibinitperiod}{Sanne\bibnamedelimb A\bibnamedelima E}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=09cb5217b90edf7a2cf542cc8d8ad8c0}{Huxley}{H\bibinitperiod}{Rachel\bibnamedelima R.}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=ffada600fad6dbd30fb3c7121fc75079}{Woodward}{W\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{uniquelist=3}{%
+        {{hash=344541424b90be16a47968ae826590b8}{Peters}{P\bibinitperiod}{Sanne\bibnamedelimb A\bibnamedelima E}{S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=09cb5217b90edf7a2cf542cc8d8ad8c0}{Huxley}{H\bibinitperiod}{Rachel\bibnamedelima R.}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=ffada600fad6dbd30fb3c7121fc75079}{Woodward}{W\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{314565af5f47c0e07d05b32bee2783a5}
+      \strng{fullhash}{314565af5f47c0e07d05b32bee2783a5}
+      \field{sortinit}{P}
+      \field{extrayear}{2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes as risk factor for incident coronary heart disease in women compared with men: A systematic review and meta-analysis of 64 cohorts including 858,507 individuals and 28,203 coronary events}}
+      \field{abstract}{AIMS/HYPOTHESIS: A previous pooled analysis suggested that women with diabetes are at substantially increased risk of fatal CHD compared with affected men. Additional findings from several larger and more contemporary studies have since been published on the sex-specific associations between diabetes and incident CHD. We performed an updated systematic review with meta-analysis to provide the most reliable evidence of any sex difference in the effect of diabetes on subsequent risk of CHD.$\backslash$n$\backslash$nMETHODS: PubMed MEDLINE was systematically searched for prospective population-based cohort studies published between 1 January 1966 and 13 February 2013. Eligible studies had to have reported sex-specific RR estimates for incident CHD associated with diabetes and its associated variability that had been adjusted at least for age. Random-effects meta-analyses with inverse variance weighting were used to obtain sex-specific RRs and the RR ratio (RRR) (women:men) for incident CHD associated with diabetes.$\backslash$n$\backslash$nRESULTS: Data from 64 cohorts, including 858,507 individuals and 28,203 incident CHD events, were included. The RR for incident CHD associated with diabetes compared with no diabetes was 2.82 (95{\%} CI 2.35, 3.38) in women and 2.16 (95{\%} CI 1.82, 2.56) in men. The multiple-adjusted RRR for incident CHD was 44{\%} greater in women with diabetes than in men with diabetes (RRR 1.44 [95{\%} CI 1.27, 1.63]) with no significant heterogeneity between studies (I (2) = 20{\%}).$\backslash$n$\backslash$nCONCLUSIONS/INTERPRETATION: Women with diabetes have more than a 40{\%} greater risk of incident CHD compared with men with diabetes. Sex disparities in pharmacotherapy are unlikely to explain much of the excess risk in women, but future studies are warranted to more clearly elucidate the mechanisms responsible for the substantial sex difference in diabetes-related risk of CHD.}
+      \field{isbn}{0140-6736}
+      \field{issn}{14320428}
+      \field{journaltitle}{Diabetologia}
+      \field{number}{8}
+      \field{title}{{Diabetes as risk factor for incident coronary heart disease in women compared with men: A systematic review and meta-analysis of 64 cohorts including 858,507 individuals and 28,203 coronary events}}
+      \field{volume}{57}
+      \field{year}{2014}
+      \field{pages}{1542\bibrangedash 1551}
+      \verb{doi}
+      \verb 10.1007/s00125-014-3260-6
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Peters, Huxley, Woodward - 2014 - Diabetes as risk factor for incident coronary heart disease in women compared with men A systematic re.pdf:pdf
+      \endverb
+      \keyw{Coronary heart disease,Diabetes,Meta-analysis,Risk factors,Sex differences,Systematic review}
+    \endentry
     \entry{Pohar2007a}{article}{}
       \name{labelname}{2}{}{%
         {{hash=c9206e845bee0c94ac70a7976817eb1b}{Pohar}{P\bibinitperiod}{Sheri\bibnamedelima L}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -6789,6 +7183,36 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Rodr{\'{i}}guez Bola{\~{n}}os et al. - 2010 - Direct costs of medical care for patients with type 2 diabetes mellitus in Mexico micro-costing anal.pdf:pdf
       \endverb
       \keyw{*health care cost,*non insulin dependent diabetes mellitus/di [Diagn,*non insulin dependent diabetes mellitus/ep [Epide,*non insulin dependent diabetes mellitus/th [Thera,Costs and C,IBSS,Mexico/ep [Epidemiology],adult,aged,all,article,comorbidity,cost,cost of illness,diabetes mellitus/ep [Epidemiology],download,economics,embase,embase2,epidemiology,extracted,female,hospital cost,hospitalization,human,hypertension/ep [Epidemiology],included,male,middle aged,newsearch,pubmed,relevant,reviewed,selected{\_}papers,social security,spanish}
+    \endentry
+    \entry{Gomes2013}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6e8c3c79b9126227780e3cebd96113f1}{Rojas}{R\bibinitperiod}{Lilian\bibnamedelimb Beatriz\bibnamedelima Aguayo}{L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e166021608732dd7822a142d28fefead}{Gomes}{G\bibinitperiod}{Marilia\bibnamedelima Brito}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6e8c3c79b9126227780e3cebd96113f1}{Rojas}{R\bibinitperiod}{Lilian\bibnamedelimb Beatriz\bibnamedelima Aguayo}{L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=e166021608732dd7822a142d28fefead}{Gomes}{G\bibinitperiod}{Marilia\bibnamedelima Brito}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9c7f0be56c72f28b5a68cb1e3174845a}
+      \strng{fullhash}{9c7f0be56c72f28b5a68cb1e3174845a}
+      \field{sortinit}{R}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Metformin: an old but still the best treatment for type 2 diabetes}}
+      \field{issn}{1758-5996}
+      \field{journaltitle}{Diabetology {\&} Metabolic Syndrome}
+      \field{number}{1}
+      \field{title}{{Metformin: an old but still the best treatment for type 2 diabetes}}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{6}
+      \verb{doi}
+      \verb 10.1186/1758-5996-5-6
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Rojas, Gomes - 2013 - Metformin an old but still the best treatment for type 2 diabetes.pdf:pdf
+      \endverb
+      \keyw{diabetes mellitus,insulin,metformin,resistance}
     \endentry
     \entry{Roy2012}{article}{}
       \name{labelname}{2}{}{%
@@ -7442,6 +7866,47 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Simpson et al. - 2003 - The cost of major comorbidity in people with diabetes mellitus.pdf:pdf
       \endverb
       \keyw{*diabetes mellitus/dm [Disease Management],Alberta,Databases,Diabetes Co,Factual,Olia,adult,aged,all,article,cardiovascular disease/co [Complication],cardiovascular disease/dm [Disease Management],comorbidity,cost control,download,economic aspect,embase2,extracted,eye disease/co [Complication],eye disease/dm [Disease Management],female,health care cost,human,included,kidney disease/co [Complication],kidney disease/dm [Disease Management],major clinical study,male,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Singh2016}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f9449cd0e7f42aeeb7b248f0595d2246}{Singh}{S\bibinitperiod}{Kavita}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=203d2586d4b857bc706177f3e85978f3}{Ranjani}{R\bibinitperiod}{Harish}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7f3351e90e97cd4c783896b1cf5ae3c1}{Rhodes}{R\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=860f74d7cfe9d5241827ff8b566359f6}{Weber}{W\bibinitperiod}{Mary\bibnamedelima Beth}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f9449cd0e7f42aeeb7b248f0595d2246}{Singh}{S\bibinitperiod}{Kavita}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=203d2586d4b857bc706177f3e85978f3}{Ranjani}{R\bibinitperiod}{Harish}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7f3351e90e97cd4c783896b1cf5ae3c1}{Rhodes}{R\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=860f74d7cfe9d5241827ff8b566359f6}{Weber}{W\bibinitperiod}{Mary\bibnamedelima Beth}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Current Diabetes Reports}%
+      }
+      \strng{namehash}{90faa6b14e9194da60164b84db0066d4}
+      \strng{fullhash}{282bc8cc3afab3fa436ee8023ee274a0}
+      \field{sortinit}{S}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries}}
+      \field{isbn}{1189201607689}
+      \field{issn}{1534-4827}
+      \field{journaltitle}{Current Diabetes Reports}
+      \field{number}{8}
+      \field{title}{{International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries}}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{69}
+      \verb{doi}
+      \verb 10.1007/s11892-016-0768-9
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Singh et al. - 2016 - International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11892-016-0768-9
+      \endverb
+      \keyw{Diabetes care models,Prevention,Diabetes managemen,diabetes,diabetes care models,electronic medical records,low- and middle-income countries,management,prevention,shifting,task}
     \endentry
     \entry{Slade2012}{article}{}
       \name{labelname}{1}{}{%
@@ -9009,6 +9474,42 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Zajacova et al. - 2010 - Consistency and precision of cancer reporting in a multiwave national panel survey.pdf:pdf
       \endverb
     \endentry
+    \entry{Zeng2014}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=8cfae4b3967addfc6d4943769a456ed8}{Zeng}{Z\bibinitperiod}{Junxia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=22a9b331d7e794f5d8928a04ca57226f}{Pang}{P\bibinitperiod}{Xiaopeng}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=256d709d6d704d13dc2a71957a74ec59}{Zhang}{Z\bibinitperiod}{Linxiu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=8ded3f10b1fca89df1c3f0ea82df5cd3}{Medina}{M\bibinitperiod}{Alexis}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=06774c7ecb7cba6431d1973f34d333f1}{Rozelle}{R\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=8cfae4b3967addfc6d4943769a456ed8}{Zeng}{Z\bibinitperiod}{Junxia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=22a9b331d7e794f5d8928a04ca57226f}{Pang}{P\bibinitperiod}{Xiaopeng}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=256d709d6d704d13dc2a71957a74ec59}{Zhang}{Z\bibinitperiod}{Linxiu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=8ded3f10b1fca89df1c3f0ea82df5cd3}{Medina}{M\bibinitperiod}{Alexis}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=06774c7ecb7cba6431d1973f34d333f1}{Rozelle}{R\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7e44c9124b0348de7562079be5247dd9}
+      \strng{fullhash}{427ad44bebb8d2c051170ad725a930e1}
+      \field{sortinit}{Z}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Gender inequality in education in China: A meta-regression analysis}}
+      \field{abstract}{Although there is evidence that there was gender inequality in China's$\backslash$neducation system in the 1980s, the literature in China has mixed$\backslash$nevidence on improvements in gender inequality in educational attainment$\backslash$nover the past three decades. Some suggest gender inequality is still$\backslash$nsevere; others report progress. We seek to understand the progress China$\backslash$nhas made (if any) in reducing gender inequality in education since the$\backslash$n1980s. To meet this goal, we use a meta-analysis approach which provides$\backslash$na new quantitative review of a relatively large volume of empirical$\backslash$nliterature on gender educational differentials. This article analyzes$\backslash$ndifferences across both time and space, and also across different grade$\backslash$nlevels and ethnicities. Our results indicate that gender inequality in$\backslash$neducational attainment still exists, but it has been narrowing over$\backslash$ntime. Moreover, it varies by area (rural versus urban) and grade level.$\backslash$nThere is nearly no significant gender inequality in the case of girls in$\backslash$nurban areas or in the case of the 9 years of compulsory education$\backslash$n(primary school and junior high school). Girls, however, still face$\backslash$ninequality in rural areas (although inequality is falling over time) and$\backslash$nwhen they reach high school or beyond. (JEL I24)}
+      \field{issn}{10743529}
+      \field{journaltitle}{Contemporary Economic Policy}
+      \field{number}{2}
+      \field{title}{{Gender inequality in education in China: A meta-regression analysis}}
+      \field{volume}{32}
+      \field{year}{2014}
+      \field{pages}{474\bibrangedash 491}
+      \verb{doi}
+      \verb 10.1111/coep.12006
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Zeng et al. - 2014 - Gender inequality in education in China A meta-regression analysis.pdf:pdf
+      \endverb
+    \endentry
     \entry{Zhang2009}{article}{}
       \name{labelname}{3}{}{%
         {{hash=76c4ac342426fb82f4a004c0cdbadd6d}{Zhang}{Z\bibinitperiod}{Xiaohui}{X\bibinitperiod}{}{}{}{}}%
@@ -9270,6 +9771,7 @@
       \endverb
     \endentry
   \endsortlist
+  \missing{Pieters2015}
 \endrefsection
 \endinput
 
