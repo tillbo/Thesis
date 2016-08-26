@@ -1,0 +1,57 @@
+Comments Pieter and Max
+
+MAX
+
+Here at last are my detailed comments and suggestions. The paper is coming along nicely, and I like it short.
+ 
+My major points are:
+ 
+I agree that, with your submission deadline coming soon, you should first complete this study as a chapter, and complete the thesis, before submitting the paper to a journal. It will still take a lot of work to get this ready for publication, and that will leave you not enough time to complete the thesis by end of September.
+ 
+I agree with Pieter’s comments and suggestions. Except I dont think it is necessary to repeat all the analyses with binary outcomes using probit regression. The coefficients from probit still have a different interpretation from OLS coeffiecients, ie differences in proportions vs differences in means.
+ 
+For the MSM, I really think the ‘lagged’ models should be the primary models. That is, models using lagged time-varying covariates to predict current diabetes (if that is what you did). The reason is that the primary methodological advantage of longitudinal data, compared to cross-sectional data, is that you can assume that the ‘cause’ occurred before the effect. Eg that lagged BMI caused diabetes. I dont think it is valid to use outcomes in one wave to predict diabetes in the same wave, and then to use diabetes in that wave to predict outcomes in the same wave. That is circular. If we do that we could get a lot of criticism from examiners and reviewers. We assume that, in any wave, a diabetes diagnosis happened in the past, and that behavioural and economic outcomes are measured in the present. If true, it is valid to use diabetes reported in a wave to predict outcomes in the same wave. This might not always be true, but it is an explicit assumption, and more likely to be true than false. [I hope your lagged model didnt only lag diabetes, because then you would be using the future to predict the past, or would need assume that outcomes measured in one wave happened before diabetes was diagnosed and reported in the same wave]. It is all quite subtle and confusing, I know.  Fortunately the results are very similar, as you show in Table 16. In any case you need to describe the lagged models more clearly – my DAG helps do that.
+ 
+The DAG is confusing, especially with so many arrows involving confounders, and with such a long footnote. I have sketched out two options for a much simpler DAG (attached). Details from the footnote (eg the lists of baseline and time-varying covariates) should be in the text of methods. They are also listed under each table, so you dont need them under the figure as well.
+ 
+You need to report the fixed effects methods. And I agee with Pieter that you should say more in the discussion comparing the two methods, theoretically and why results differ. Fixed effects have the advantage of avoiding between-person confounding by unmeasured time invariant confounders, adn can also adjust for time-varying confounders.  In this study, because we excluded people who reported diabetes in their first wave, the difference in outcomes between waves with and without diabetes can be interpreted as the effects of diabetes. The MSMs have the advantage of dealing with the dynamic bicausal relationship between diabetes and our outcomes, and separating each causal process. They are also counterfactual models, comparing potential outcomes if all participants developed diabetes versus if none of them developed diabetes. Such counterfactual models are more fundamentally causal.
+
+PIETER
+
+Comments on 'the effects of receiving a diabetes diagnosis on health behaviour and employment'
+
+1. Data
+- it would be good to give more info on the sample: this is the adult working population, within which age brackets? Does it contain the entire 'active population', both working and not working?  Are unemployed and inactive in the sample?
+- what is attrition of the panel?
+- more details on data handling, imputations, inconsistencies, etc. how many in different categories, etc.
+
+2. Statistical and Econometric Analysis
+- explain assumptions behind the MSM model briefly - unless this is very standard stuff for readers of the journal you target
+- in the descriptive stats: report se's and p-values to show  which differences are significant in table 1
+- Apart from the overall effects, I would also provide some space to discussing the difference in estimates between the two methods, the importance of underlying assumptions, and how using both methods helps narrow down inference. It would for instance be very nice to have a paragraph summarising more explicitly where each model is better than the other
+- Some work provides graphical representations of odds rations which are sometimes clearer, but not always.  There is a book by Scott Long - now rather old - book with suggested ways. 
+- a  graphical representation for table 4 and 5 would help
+- I was slightly confused by the discussion of fe only addressing time invariant unobservable confounders, it also allows to look at time variant observed confounders, right?
+- more details discussion on testing of assumptions
+
+2. Interpretation and discussion
+- would it not be easier to report marginal effects using probit so coefs can be directly compared to coefs obtained from ols?
+- I can see 4 possible channels through which the observed effects may take place: they may be a consequence of (I) illness; (ii) medical treatment; (iii) medical advice; and (iv) behavioural response.  It would be fascinating to unravel this further, even if they cannot be fully identified in your data.  
+-- At a first level I was wondering whether there is a literature providing insights on each of these?  
+-- At a second level a question is whether more insights can be gained from further data analysis - I am not sure what info is available.
+--- one example would be to isolate the FE and regress them on the observed char to assess which observed char are important and how important relative to unobserved chars. This may also enrich the comparison between the two methods. It may also open ways to find out / investigate whether there is heterogeneity in effects among women, and if so along which dimension, this may shed light on which of the 4 channels above play a more important role.
+--- is there more information on health outcomes ? E.g. Survival, other illnesses, Hb levels, look at obesity instead of BMI
+
+3. Style
+
+- Sharpen the abstract
+- overall edits - some sentences are a bit long. 
+- text below figure 1 can be simpler, same confounders at t0,t,T?  work with dotted lines, as reader may not have access to a colour copy
+Make font consistent in title and abstract among others
+
+4. Extensions: same data can perhaps be used for more analysis 
+For instance: 
+- are there other outcomes of interest, e.g earnings, sector, movements in and out of employment between rounds
+- is there bio marker data?
+ 
+
