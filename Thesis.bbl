@@ -931,6 +931,38 @@
       \endverb
       \keyw{Aged,Cost of Illness,Diabet,Diabetes Complications,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: ethnology,Efficiency,Employment,Employment: economics,Employment: statistics {\&} numerical data,Family Characteristics,Family Characteristics: ethnology,Female,Humans,Interviews as Topic,Investments,Investments: economics,Likelihood Functions,Male,Mexican Americans,Mexican Americans: statistics {\&} numerical data,Middle Aged,Models,Poverty,Poverty: ethnology,Poverty: statistics {\&} numerical data,Prevalence,Risk Factors,Socioeconomic Factors,Southwestern United States,Southwestern United States: epidemiology,Statistical,Till,all,download,econlit,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
+    \entry{LopezBastida2002a}{article}{}
+      \name{labelname}{3}{uniquelist=2}{%
+        {{hash=4e8dc56cee3241bf425a4968dd2e4f8d}{Bastida}{B\bibinitperiod}{J.\bibnamedelimi Lopez}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=e6f80ef9ecd2609073c75781fa24ed65}{Aguilar}{A\bibinitperiod}{P.\bibnamedelimi Serrano}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=701d25aefa2bdb243cdb83ed9f8343f9}{Gonzalez}{G\bibinitperiod}{B.\bibnamedelimi Duque}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{uniquelist=2}{%
+        {{hash=4e8dc56cee3241bf425a4968dd2e4f8d}{Bastida}{B\bibinitperiod}{J.\bibnamedelimi Lopez}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=e6f80ef9ecd2609073c75781fa24ed65}{Aguilar}{A\bibinitperiod}{P.\bibnamedelimi Serrano}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=701d25aefa2bdb243cdb83ed9f8343f9}{Gonzalez}{G\bibinitperiod}{B.\bibnamedelimi Duque}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{12575a659d5065272d28f75e0a1b46ef}
+      \strng{fullhash}{12a3f1fadeb4d398e1d174badd309a7c}
+      \field{sortinit}{B}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The social and economic cost of diabetes mellitus}}
+      \field{abstract}{OBJECTIVE: To evaluate the economic impact in terms of the direct costs (health care costs) and the indirect costs (effects on production caused by mortality and morbidity) of diabetes mellitus (DM) in the Canary Islands (Spain) during 1998. DESIGN: The approach used was to study the cost of the disease through looking only at people in the productive sphere (human capital). Direct and indirect costs were calculated by using costs of prevalence, i.e. the costs caused during 1998. SETTING: Direct costs were broken down into hospital care, primary care, out-patient consultations, drugs and further tests; indirect costs, into premature mortality and time off work. Measurements and main results. The total cost of DM amounted to 6468.76 million pesetas (38.88 millio ), or the equivalent of 126 168 pesetas (758.28 ) a year for each known diabetic patient. Total direct cost of DM was 4011.51 million pesetas (24.11 million ), which amounts to 2.13{\%} of health expenditure in the Canaries; or the equivalent of 78 240 pesetas (470.23 ) a year for each known diabetic patient. Direct cost of health care was 62{\%} of the total cost. Total indirect cost was 2457.25 million pesetas (14.77 million ), 38{\%} of the total cost. CONCLUSIONS: Despite the conservatism of the approach, in that the study omitted costs linked to pain and suffering, permanent disability or home care by family members, the high social and economic cost of DM patients calls for cost-effectiveness studies that would permit a more transparent debate on this question.}
+      \field{isbn}{0212-6567}
+      \field{issn}{0212-6567}
+      \field{journaltitle}{Atencion primaria / Sociedad Española de Medicina de Familia y Comunitaria}
+      \field{number}{3}
+      \field{series}{Los costes socioeconomicos de la diabetes mellitus}
+      \field{title}{{The social and economic cost of diabetes mellitus}}
+      \field{volume}{29}
+      \field{year}{2002}
+      \field{pages}{145\bibrangedash 150}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop//Bastida et al. - 2002 - Los costes socioeconómicos de la diabetes mellitus.pdf:pdf
+      \endverb
+      \keyw{*cost of illness,*diabetes mellitus/ep [Epidemiology],Cost of Illness,Diabet,adolescent,adult,aged,all,article,child,download,economics,embase,embase2,extracted,female,human,included,male,middle aged,newsearch,prevalence,pubmed,relevant,reviewed,selected{\_}papers,socioeconomics}
+    \endentry
     \entry{Basu2013}{article}{}
       \name{labelname}{4}{}{%
         {{hash=e00817d8efb38870f5d183ae61e86f7d}{Basu}{B\bibinitperiod}{Sanjay}{S\bibinitperiod}{}{}{}{}}%
@@ -2875,6 +2907,38 @@
       \verb :home/till/Dokumente/Mendeley Desktop/De Fine Olivarius et al. - 2015 - Weight changes following the diagnosis of type 2 diabetes The impact of recent and past weight history.PDF:PDF
       \endverb
     \endentry
+    \entry{Denny2013}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=78e89a28c697c5367a9ca4d5d8c6c3fc}{Denny}{D\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=ac543e9e2385d13d16e77151bc7cdcb6}{Oppedisano}{O\bibinitperiod}{Veruska}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=78e89a28c697c5367a9ca4d5d8c6c3fc}{Denny}{D\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=ac543e9e2385d13d16e77151bc7cdcb6}{Oppedisano}{O\bibinitperiod}{Veruska}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{d8ee1a7f77607b3c25e24af145e81b3e}
+      \strng{fullhash}{d8ee1a7f77607b3c25e24af145e81b3e}
+      \field{sortinit}{D}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The surprising effect of larger class sizes: Evidence using two identification strategies}}
+      \field{issn}{09275371}
+      \field{journaltitle}{Labour Economics}
+      \field{title}{{The surprising effect of larger class sizes: Evidence using two identification strategies}}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{pages}{57\bibrangedash 65}
+      \verb{doi}
+      \verb 10.1016/j.labeco.2013.04.004
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S0927537113000468
+      \endverb
+      \keyw{Class sizes,Educational production,Endogeneity,Instrumental variables}
+    \endentry
     \entry{DiCesare2013}{article}{}
       \name{labelname}{14}{}{%
         {{hash=aa226abfad1c4e587bdce07562b40e10}{{Di\bibnamedelimb Cesare}}{D\bibinitperiod}{Mariachiara}{M\bibinitperiod}{}{}{}{}}%
@@ -3016,6 +3080,39 @@
       \verb :home/till/Dokumente/Mendeley Desktop/van Dooren et al. - 2013 - Depression and Risk of Mortality in People with Diabetes Mellitus A Systematic Review and Meta-Analysis.pdf:pdf
       \endverb
     \endentry
+    \entry{Drichoutis2011}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=dc027831121dc25fd975a77aa5ca9083}{Drichoutis}{D\bibinitperiod}{Andreas\bibnamedelima C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=182cf09590bd226893c7e2c4f04e0a62}{Nayga}{N\bibinitperiod}{Rodolfo\bibnamedelima M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=189e780b6bf1331fd27bf9126c606ff5}{Lazaridis}{L\bibinitperiod}{Panagiotis}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dc027831121dc25fd975a77aa5ca9083}{Drichoutis}{D\bibinitperiod}{Andreas\bibnamedelima C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=182cf09590bd226893c7e2c4f04e0a62}{Nayga}{N\bibinitperiod}{Rodolfo\bibnamedelima M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=189e780b6bf1331fd27bf9126c606ff5}{Lazaridis}{L\bibinitperiod}{Panagiotis}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e61dff87e937af84681ea6bcbff4ad2e}
+      \strng{fullhash}{b4e233c007cdaf6d0df29c5d24d2003b}
+      \field{sortinit}{D}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Food away from home expenditures and obesity among older Europeans: are there gender differences?}}
+      \field{isbn}{0018101104534}
+      \field{issn}{0377-7332}
+      \field{journaltitle}{Empirical Economics}
+      \field{number}{3}
+      \field{title}{{Food away from home expenditures and obesity among older Europeans: are there gender differences?}}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{pages}{1051\bibrangedash 1078}
+      \verb{doi}
+      \verb 10.1007/s00181-011-0453-4
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Drichoutis, Nayga, Lazaridis - 2011 - Food away from home expenditures and obesity among older Europeans are there gender differences.pdf:pdf
+      \endverb
+      \keyw{body mass index,food expenditures,gmm,instrumental variables}
+    \endentry
     \entry{Druss2001}{article}{}
       \name{labelname}{3}{}{%
         {{hash=d3a3ff43a273d0b7d163272e8b4ba513}{Druss}{D\bibinitperiod}{BG}{B\bibinitperiod}{}{}{}{}}%
@@ -3124,6 +3221,35 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Elrayah-Eliadarous et al. - 2010 - Direct costs for care and glycaemic control in patients with type 2 diabetes in Sudan(2).pdf:pdf
       \endverb
       \keyw{80 and over,Adult,Aged,Blood Glucose,Blood Glucose Self-Monitoring,Blood Glucose Self-Monitoring: economics,Blood Glucose: metabolism,Cross-Sectional Studies,Diabetes Mellitus,Economic,Female,Glycosylated,Glycosylated: metabolism,Health Care Costs,Hemoglobin A,Hospital,Hospital: economics,Humans,Hypoglycemic Agents,Hypoglycemic Agents: economics,Hypoglycemic Agents: therapeutic use,Interviews as Topic,Male,Middle Aged,Models,Nonparametric,Outpatient Clinics,Socioeconomic Factors,Statistics,Sudan,Type 2,Type 2: drug therapy,Type 2: economics,all,download,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Emran2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=9af2e7b99f5d5a2dcec8e1b616bb6638}{Emran}{E\bibinitperiod}{M.\bibnamedelimi Shahe}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=60e86c4ab1e551e7b6b96e878b2ea27d}{Shilpi}{S\bibinitperiod}{Forhad}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=9af2e7b99f5d5a2dcec8e1b616bb6638}{Emran}{E\bibinitperiod}{M.\bibnamedelimi Shahe}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=60e86c4ab1e551e7b6b96e878b2ea27d}{Shilpi}{S\bibinitperiod}{Forhad}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bbf344deabfe9f0a3e49422bf1ec9f1f}
+      \strng{fullhash}{bbf344deabfe9f0a3e49422bf1ec9f1f}
+      \field{sortinit}{E}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The extent of the market and stages of agricultural specialization}}
+      \field{issn}{00084085}
+      \field{journaltitle}{Canadian Journal of Economics/Revue canadienne d'économique}
+      \field{number}{3}
+      \field{title}{{The extent of the market and stages of agricultural specialization}}
+      \field{volume}{45}
+      \field{year}{2012}
+      \field{pages}{1125\bibrangedash 1153}
+      \verb{doi}
+      \verb 10.1111/j.1540-5982.2012.01729.x
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Emran, Shilpi - 2012 - The extent of the market and stages of agricultural specialization.pdf:pdf
+      \endverb
     \endentry
     \entry{Engelgau2012}{article}{}
       \name{labelname}{2}{}{%
@@ -3380,41 +3506,6 @@
       \verb :home/till/Dokumente/Mendeley Desktop/van Ewijk - 2011 - Long-Term Health Effects on the Next Generation of Ramadan Fasting during Pregnancy.pdf:pdf
       \endverb
       \keyw{Child Care,Children,Cultural Economics: Religion,NC,econlit,excludestudy,newsearch}
-    \endentry
-    \entry{Fan2013}{article}{}
-      \name{labelname}{4}{}{%
-        {{hash=b5712f56a317f963ff6705e5ae4abc15}{Fan}{F\bibinitperiod}{Jessie\bibnamedelima X.}{J\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=25eac348c54606c27d3a7fa57d9701a6}{Wen}{W\bibinitperiod}{Ming}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=05c27065209fca515d01d7301fb08b9f}{Jin}{J\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=0766f1e9ccda60d7c599a2a0d70bb83f}{Wang}{W\bibinitperiod}{Guixin}{G\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=b5712f56a317f963ff6705e5ae4abc15}{Fan}{F\bibinitperiod}{Jessie\bibnamedelima X.}{J\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
-        {{hash=25eac348c54606c27d3a7fa57d9701a6}{Wen}{W\bibinitperiod}{Ming}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=05c27065209fca515d01d7301fb08b9f}{Jin}{J\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=0766f1e9ccda60d7c599a2a0d70bb83f}{Wang}{W\bibinitperiod}{Guixin}{G\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{8a6734bc644f2b933c6e545b63ba90a0}
-      \strng{fullhash}{a9cd95c0675073c0eb13663f59e3a673}
-      \field{sortinit}{F}
-      \field{labelyear}{2013}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Disparities in Healthcare Utilization in China: Do Gender and Migration Status Matter?}}
-      \field{abstract}{Using a multi-stage cluster sampling approach, we collected healthcare and demographic data from 531 migrants and 529 local urban residents aged 16-64 in Shanghai, China. Logistic regressions were used to analyze the relationship between gender-migration status and healthcare utilization while controlling for predisposing, enabling and needs factors. Other things equal, female migrants and male locals had significantly lower actual healthcare utilization rates, compared to female locals. Female migrants were more likely to report "no money" as a reason for not seeking care, while male locals were more likely to report "self-medication" as a reason. Considering established gender differences in healthcare utilization, we conclude that female migrants as a group face the most healthcare access barriers among all groups.}
-      \field{issn}{10580476}
-      \field{journaltitle}{Journal of Family and Economic Issues}
-      \field{number}{1}
-      \field{title}{{Disparities in Healthcare Utilization in China: Do Gender and Migration Status Matter?}}
-      \field{volume}{34}
-      \field{year}{2013}
-      \field{pages}{52\bibrangedash 63}
-      \verb{doi}
-      \verb 10.1007/s10834-012-9296-1
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Fan et al. - 2013 - Disparities in Healthcare Utilization in China Do Gender and Migration Status Matter.pdf:pdf
-      \endverb
-      \keyw{China,Gender differences,Healthcare access,Healthcare utilization,Migrants}
     \endentry
     \entry{FazeliFarsani2013}{article}{}
       \name{labelname}{5}{}{%
@@ -4104,6 +4195,42 @@
       \endverb
       \keyw{Adult,Alcohol Drinking,Alcohol Drinking: adverse effects,Asia,Asia: epidemiology,Asian Continental Ancestry Group,Asian Continental Ancestry Group: genetics,Developing Countries,Diabetes Mellitus,Diet,Diet: adverse effects,Dietary Carbohydrates,Dietary Carbohydrates: adverse effects,Exercise,Exercise: physiology,Genetic Association Studies,Genetic Predisposition to Disease,Health Promotion,Humans,Inflammation,Inflammation: complications,Insulin Resistance,Life Style,Motor Activity,Prevalence,Smoking,Smoking: adverse effects,Type 2,Type 2: epidemiology,Type 2: genetics,Type 2: prevention {\&} control}
     \endentry
+    \entry{Huang2009a}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=2d67d265d961f2a615549c6b01158bc2}{Huang}{H\bibinitperiod}{Ho-Chuan\bibnamedelima (River)}{H\bibinithyphendelim C\bibinitperiod\bibinitdelim (\bibinitperiod}{}{}{}{}}%
+        {{hash=c157c983ab9f964627a9583cbf4cf3d7}{Lin}{L\bibinitperiod}{Yi-Chen}{Y\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=de231f207a34cf1a12b36541bba1fc5e}{Yeh}{Y\bibinitperiod}{Chih-Chuan}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2d67d265d961f2a615549c6b01158bc2}{Huang}{H\bibinitperiod}{Ho-Chuan\bibnamedelima (River)}{H\bibinithyphendelim C\bibinitperiod\bibinitdelim (\bibinitperiod}{}{}{}{}}%
+        {{hash=c157c983ab9f964627a9583cbf4cf3d7}{Lin}{L\bibinitperiod}{Yi-Chen}{Y\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=de231f207a34cf1a12b36541bba1fc5e}{Yeh}{Y\bibinitperiod}{Chih-Chuan}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{85a564d2864743ae467707ec71a4d831}
+      \strng{fullhash}{6389579f72b998352f9345b839dadd14}
+      \field{sortinit}{H}
+      \field{labelyear}{2009}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Joint determinations of inequality and growth}}
+      \field{issn}{01651765}
+      \field{journaltitle}{Economics Letters}
+      \field{month}{06}
+      \field{number}{3}
+      \field{title}{{Joint determinations of inequality and growth}}
+      \field{volume}{103}
+      \field{year}{2009}
+      \field{pages}{163\bibrangedash 166}
+      \verb{doi}
+      \verb 10.1016/j.econlet.2009.03.010
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Huang, Lin, Yeh - 2009 - Joint determinations of inequality and growth.pdf:pdf
+      \endverb
+    \endentry
     \entry{Huxley2006}{article}{}
       \name{labelname}{1}{}{%
         {{hash=63eca97ac5fecaf2e36c7d9e0329f8a6}{Huxley}{H\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
@@ -4155,44 +4282,6 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop//International Diabetes Federation - 2009 - IDF Diabetes Atlas.pdf:pdf
       \endverb
-    \endentry
-    \entry{Jacobs2012}{article}{}
-      \name{labelname}{5}{}{%
-        {{hash=bf424ec58729aa7d35e9d57ec1c7d40d}{Jacobs}{J\bibinitperiod}{Bart}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=8f5301e1dd2bb1b465a1609abaea7d9c}{Ir}{I\bibinitperiod}{Por}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=0eb71dc614d1963e1122837ee4e035f2}{Bigdeli}{B\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=d4184806e61ced74467e06633db7d99f}{Annear}{A\bibinitperiod}{Peter\bibnamedelima Leslie}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=75bd8e98a675a649402b889f6219c88f}{{Van\bibnamedelimb Damme}}{V\bibinitperiod}{Wim}{W\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{5}{}{%
-        {{hash=bf424ec58729aa7d35e9d57ec1c7d40d}{Jacobs}{J\bibinitperiod}{Bart}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=8f5301e1dd2bb1b465a1609abaea7d9c}{Ir}{I\bibinitperiod}{Por}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=0eb71dc614d1963e1122837ee4e035f2}{Bigdeli}{B\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=d4184806e61ced74467e06633db7d99f}{Annear}{A\bibinitperiod}{Peter\bibnamedelima Leslie}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=75bd8e98a675a649402b889f6219c88f}{{Van\bibnamedelimb Damme}}{V\bibinitperiod}{Wim}{W\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{3d0d1ed5f0c2568d412c14227f32e8ce}
-      \strng{fullhash}{50d77a6937010b8937b068757612f724}
-      \field{sortinit}{J}
-      \field{labelyear}{2012}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Addressing access barriers to health services: An analytical framework for selectingappropriate interventions in low-income Asian countries}}
-      \field{abstract}{While World Health Organization member countries embraced the concept of universal coverage as early as 2005, few low-income countries have yet achieved the objective. This is mainly due to numerous barriers that hamper access to needed health services. In this paper we provide an overview of the various dimensions of barriers to access to health care in low-income countries (geographical access, availability, affordability and acceptability) and outline existing interventions designed to overcome these barriers. These barriers and consequent interventions are arranged in an analytical framework, which is then applied to two case studies from Cambodia. The aim is to illustrate the use of the framework in identifying the dimensions of access barriers that have been tackled by the interventions. The findings suggest that a combination of interventions is required to tackle specific access barriers but that their effectiveness can be influenced by contextual factors. It is also necessary to address demand-side and supply-side barriers concurrently. The framework can be used both to identify interventions that effectively address particular access barriers and to analyse why certain interventions fail to tackle specific barriers.}
-      \field{isbn}{0268-1080}
-      \field{issn}{02681080}
-      \field{journaltitle}{Health Policy and Planning}
-      \field{number}{4}
-      \field{title}{{Addressing access barriers to health services: An analytical framework for selectingappropriate interventions in low-income Asian countries}}
-      \field{volume}{27}
-      \field{year}{2012}
-      \field{pages}{288\bibrangedash 300}
-      \verb{doi}
-      \verb 10.1093/heapol/czr038
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Jacobs et al. - 2012 - Addressing access barriers to health services An analytical framework for selectingappropriate interventions in l.pdf:pdf
-      \endverb
-      \keyw{Access barriers,analytical framework,demand side,effectiveness,interventions,supply side}
     \endentry
     \entry{Javanbakht2011b}{article}{}
       \name{labelname}{7}{}{%
@@ -4349,6 +4438,39 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Kapteyn, Smith, Van Soest - 2009 - Work disability, work, and justification bias in Europe and the United States.pdf:pdf
       \endverb
       \keyw{5th and 6th framework,by grants from the,european commission through its,it uses data from,national institute on aging,primarily funded by the,programmes,project numbers qlk6-ct-2001-,reporting bias,security administration through mrrc,share wave 1,social,this research was supported,to rand and the,vignettes,work limiting disability}
+    \endentry
+    \entry{Kelly2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=e590cc767c07896a57fe20dc5771e62f}{Kelly}{K\bibinitperiod}{Inas\bibnamedelima Rashad}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=10b6bf65b7554b64454009410b9a677c}{Dave}{D\bibinitperiod}{Dhaval\bibnamedelima M.}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=bf5d54bbdd6d831672131e6f3ab7bd75}{Sindelar}{S\bibinitperiod}{Jody\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=31dbe773f3b52300f8d7de1a3f79c58b}{Gallo}{G\bibinitperiod}{William\bibnamedelima T.}{W\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e590cc767c07896a57fe20dc5771e62f}{Kelly}{K\bibinitperiod}{Inas\bibnamedelima Rashad}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=10b6bf65b7554b64454009410b9a677c}{Dave}{D\bibinitperiod}{Dhaval\bibnamedelima M.}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=bf5d54bbdd6d831672131e6f3ab7bd75}{Sindelar}{S\bibinitperiod}{Jody\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=31dbe773f3b52300f8d7de1a3f79c58b}{Gallo}{G\bibinitperiod}{William\bibnamedelima T.}{W\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e8404ebac3916f45bfa740b4c4967c43}
+      \strng{fullhash}{81bcf2d3d7047af1de4a78be5c515b68}
+      \field{sortinit}{K}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The impact of early occupational choice on health behaviors}}
+      \field{issn}{1569-5239}
+      \field{journaltitle}{Review of Economics of the Household}
+      \field{number}{4}
+      \field{title}{{The impact of early occupational choice on health behaviors}}
+      \field{volume}{12}
+      \field{year}{2014}
+      \field{pages}{737\bibrangedash 770}
+      \verb{doi}
+      \verb 10.1007/s11150-012-9166-5
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Kelly et al. - 2012 - The impact of early occupational choice on health behaviors.pdf:pdf
+      \endverb
     \endentry
     \entry{Khowaja2007a}{article}{}
       \name{labelname}{3}{}{%
@@ -5504,6 +5626,41 @@
       \verb http://linkinghub.elsevier.com/retrieve/pii/S2213858714701457
       \endverb
     \endentry
+    \entry{Maahs2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f50319cc0768d01f2935683706b74311}{Maahs}{M\bibinitperiod}{David\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=866ae5b0d8cadce97a6d35d67eb847d3}{West}{W\bibinitperiod}{Nancy\bibnamedelima A}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8165ee27493c15aaaa9b30bedfb88696}{Lawrence}{L\bibinitperiod}{Jean\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2346994ad0b1b2195954ba077552b56d}{Mayer-Davis}{M\bibinithyphendelim D\bibinitperiod}{Elizabeth\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f50319cc0768d01f2935683706b74311}{Maahs}{M\bibinitperiod}{David\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=866ae5b0d8cadce97a6d35d67eb847d3}{West}{W\bibinitperiod}{Nancy\bibnamedelima A}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=8165ee27493c15aaaa9b30bedfb88696}{Lawrence}{L\bibinitperiod}{Jean\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2346994ad0b1b2195954ba077552b56d}{Mayer-Davis}{M\bibinithyphendelim D\bibinitperiod}{Elizabeth\bibnamedelima J}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3dd4e9e76700cbeaaadae4c31b2de606}
+      \strng{fullhash}{a452d262f48e7ab2017e5f5b7b26e21e}
+      \field{sortinit}{M}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Epidemiology of Type 1 Diabetes}}
+      \field{abstract}{This article describes the epidemiology of type 1 diabetes mellitus (T1D) around the world and across the lifespan. Epidemiologic patterns of T1D by demographic, geographic, biologic, cultural, and other factors in populations are presented to gain insight about the causes, natural history, risks, and complications of T1D. Data from large epidemiologic studies worldwide indicate that the incidence of T1D has been increasing by 2{\%} to 5{\%} worldwide and that the prevalence of T1D is approximately 1 in 300 in the United States by 18 years of age. Research on risk factors for T1D is an active area of research to identify genetic and environmental triggers that could potentially be targeted for intervention. Although significant advances have been made in the clinical care of T1D with resultant improvements in quality of life and clinical outcomes, much more needs to be done to improve care of, and ultimately find a cure for, T1D. Epidemiologic studies have an important ongoing role to investigate the complex causes, clinical care, prevention, and cure of T1D.}
+      \field{issn}{08898529}
+      \field{journaltitle}{Endocrinology and Metabolism Clinics of North America}
+      \field{number}{3}
+      \field{title}{{Epidemiology of Type 1 Diabetes}}
+      \field{volume}{39}
+      \field{year}{2010}
+      \field{pages}{481\bibrangedash 497}
+      \verb{doi}
+      \verb 10.1016/j.ecl.2010.05.011
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Maahs et al. - 2010 - Epidemiology of type 1 diabetes.pdf:pdf
+      \endverb
+      \keyw{Adolescent,Age of Onset,Child,Comorbidity,Diabetes Mellitus,Humans,Incidence,Prevalence,Risk Factors,Type 1,Type 1: complications,Type 1: epidemiology,Type 1: etiology,Type 1: therapy}
+    \endentry
     \entry{Maciejewski2004}{article}{}
       \name{labelname}{2}{}{%
         {{hash=a3ace1813e268114a985af0d5d5c105f}{Maciejewski}{M\bibinitperiod}{ML}{M\bibinitperiod}{}{}{}{}}%
@@ -5571,6 +5728,43 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Marchesini et al. - 2011 - The direct economic cost of pharmacologically-treated diabetes in Italy-2006. The ARNO observatory.pdf:pdf
       \endverb
       \keyw{Diabetes Mellitus,Drug Costs,European Continental Ancestry Group,European Continental Ancestry Group: statistics {\&},Hospital Costs,Hospitalization,Hospitalization: economics,Humans,Hypoglycemic Agents,Hypoglycemic Agents: economics,Hypoglycemic Agents: therapeutic use,Incidence,Insulin,Insulin: economics,Insulin: therapeutic use,Italy,Italy: epidemiology,Longitudinal Studies,Prevalence,Type 2,Type 2: drug therapy,Type 2: economics,Type 2: epidemiology,all,download,extracted,included,newsearch,olia,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Marmot2008}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=ba10c6966afb4f21762aaabf2a999e8b}{Marmot}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ba6f9386e3f98e2978b0d8512eac168a}{Friel}{F\bibinitperiod}{Sharon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7cc14fe354f44708fb07e34ee46f797d}{Bell}{B\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=d68ab6ee1ecac6b436dbf41e39e1ec92}{Houweling}{H\bibinitperiod}{Tanja\bibnamedelima AJ}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9097da26a1ccd7e9fdb5d9de7c83ba90}{Taylor}{T\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=ba10c6966afb4f21762aaabf2a999e8b}{Marmot}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ba6f9386e3f98e2978b0d8512eac168a}{Friel}{F\bibinitperiod}{Sharon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7cc14fe354f44708fb07e34ee46f797d}{Bell}{B\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=d68ab6ee1ecac6b436dbf41e39e1ec92}{Houweling}{H\bibinitperiod}{Tanja\bibnamedelima AJ}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9097da26a1ccd7e9fdb5d9de7c83ba90}{Taylor}{T\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b59fddafdf668b00f3fc857c9dceec1c}
+      \strng{fullhash}{0bbf36c03af348c3b8b954de1e1b1cf9}
+      \field{sortinit}{M}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Closing the gap in a generation: health equity through action on the social determinants of health}}
+      \field{abstract}{The Commission on Social Determinants of Health, created to marshal the evidence on what can be done to promote health equity and to foster a global movement to achieve it, is a global collaboration of policy makers, researchers, and civil society, led by commissioners with a unique blend of political, academic, and advocacy experience. The focus of attention is on countries at all levels of income and development. The commission launched its final report on August 28, 2008. This paper summarises the key findings and recommendations; the full list is in the final report. © 2008 Elsevier Ltd. All rights reserved.}
+      \field{isbn}{0140-6736}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{number}{9650}
+      \field{title}{{Closing the gap in a generation: health equity through action on the social determinants of health}}
+      \field{volume}{372}
+      \field{year}{2008}
+      \field{pages}{1661\bibrangedash 1669}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(08)61690-6
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Marmot et al. - 2008 - Closing the gap in a generation health equity through action on the social determinants of health.pdf:pdf
+      \endverb
     \endentry
     \entry{Martin2007b}{article}{}
       \name{labelname}{9}{}{%
@@ -5955,6 +6149,44 @@
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Mundlak - 1978 - On the Pooling of Time Series and Cross Section Data.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Mytton2012c}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=4da90bc8c0dcaad7f114dec6cc057a0b}{Mytton}{M\bibinitperiod}{O.\bibnamedelimi T.}{O\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=d2eafa8a9d44354bbf5139f670c4bc30}{Clarke}{C\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c20ec37a671e5d73a376d0d0084b5959}{Rayner}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=4da90bc8c0dcaad7f114dec6cc057a0b}{Mytton}{M\bibinitperiod}{O.\bibnamedelimi T.}{O\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=d2eafa8a9d44354bbf5139f670c4bc30}{Clarke}{C\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c20ec37a671e5d73a376d0d0084b5959}{Rayner}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3d44b2323fb27197f5d1f4ccfec8ab5d}
+      \strng{fullhash}{a6ea96c82eb8ee07e83932274c4494b7}
+      \field{sortinit}{M}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Taxing unhealthy food and drinks to improve health}}
+      \field{abstract}{The article focuses on the possible health related effects of implementing taxes on unhealthy foods and beverages. It explores the introduction and implementation of health related food taxes in different countries which approach is aimed at overall health, and just obesity as fat tax is concerned. It discusses the three sources of the evidence of the effectiveness of health related food taxes, namely natural experiments, modelling studies, and controlled trials of price changes in closed environments. It concludes that health related food taxes do improve human health by shifting people's consumption in a better food choice.}
+      \field{eprintclass}{10.1136}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1756-1833}
+      \field{issn}{1756-1833}
+      \field{journaltitle}{Bmj}
+      \field{number}{may15 2}
+      \field{title}{{Taxing unhealthy food and drinks to improve health}}
+      \field{volume}{344}
+      \field{year}{2012}
+      \field{pages}{e2931\bibrangedash e2931}
+      \verb{doi}
+      \verb 10.1136/bmj.e2931
+      \endverb
+      \verb{eprint}
+      \verb bmj.e2931
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Mytton, Clarke, Rayner - 2012 - Taxing unhealthy food and drinks to improve health(2).pdf:pdf
       \endverb
     \endentry
     \entry{Nakamura2008}{article}{}
@@ -7234,6 +7466,38 @@
       \endverb
       \keyw{epidemiologic transition,food intake,noncommunicable chronic disease,obesity}
     \endentry
+    \entry{Rivera-Hernandez2016}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=98dbe1fd250dc43497afd7f3b2179d97}{Rivera-Hernandez}{R\bibinithyphendelim H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e1ded047f3176d00170e7f34b3b4e5d}{Rahman}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c2de722e4d6d58a08ebdda7460934583}{Mor}{M\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=8b678d78313a5df3e1814c8b5fc4737d}{Galárraga}{G\bibinitperiod}{O}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=98dbe1fd250dc43497afd7f3b2179d97}{Rivera-Hernandez}{R\bibinithyphendelim H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e1ded047f3176d00170e7f34b3b4e5d}{Rahman}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c2de722e4d6d58a08ebdda7460934583}{Mor}{M\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=8b678d78313a5df3e1814c8b5fc4737d}{Galárraga}{G\bibinitperiod}{O}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{30f476795ef6dff199078cda5c55c578}
+      \strng{fullhash}{47d10b39c24cf14f373b98056a361e8a}
+      \field{sortinit}{R}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The Impact of Social Health Insurance on Diabetes Outcomes in Older Adults}}
+      \field{issn}{14756773}
+      \field{journaltitle}{Health Services Research}
+      \field{title}{{The Impact of Social Health Insurance on Diabetes Outcomes in Older Adults}}
+      \field{year}{2016}
+      \field{pages}{1323\bibrangedash 1346}
+      \verb{doi}
+      \verb 10.1111/1475-6773.12404
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Rivera-Hernandez et al. - 2016 - The Impact of Social Health Insurance on Diabetes Outcomes in Older Adults.pdf:pdf
+      \endverb
+      \keyw{diabetes,health care access,health insurance,seguro popular}
+    \endentry
     \entry{Roberto2015}{article}{}
       \name{labelname}{9}{}{%
         {{hash=2db66a369e4207141b9fbe8e6393001c}{Roberto}{R\bibinitperiod}{Christina\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -7815,6 +8079,38 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Schneiderman et al. - 2014 - Prevalence of Diabetes Among HispanicsLatinos From Diverse Backgrounds The Hispanic Community Health StudyS.pdf:pdf
       \endverb
     \endentry
+    \entry{Schroeter2012}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8890fd6a8e1b4a530aa6dd0cb478d808}{Schroeter}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72b9c3e14a0463cd83043c619b84b391}{Anders}{A\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3ab3c6645f5f045428b78f11ae9d35dd}{Carlson}{C\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8890fd6a8e1b4a530aa6dd0cb478d808}{Schroeter}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=72b9c3e14a0463cd83043c619b84b391}{Anders}{A\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=3ab3c6645f5f045428b78f11ae9d35dd}{Carlson}{C\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{79c2f4040c6f55276b4e7e5d9b109de9}
+      \strng{fullhash}{027d237a60e7dc8c4e095c4a4cd070e4}
+      \field{sortinit}{S}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The Economics of Health and Vitamin Consumption}}
+      \field{issn}{2040-5790}
+      \field{journaltitle}{Applied Economic Perspectives and Policy}
+      \field{number}{1}
+      \field{title}{{The Economics of Health and Vitamin Consumption}}
+      \field{volume}{35}
+      \field{year}{2012}
+      \field{pages}{125\bibrangedash 149}
+      \verb{doi}
+      \verb 10.1093/aepp/pps040
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Schroeter, Anders, Carlson - 2012 - The Economics of Health and Vitamin Consumption.pdf:pdf
+      \endverb
+      \keyw{endogeneity,healthy,instrumental variables,vitamins}
+    \endentry
     \entry{Segel2006}{article}{}
       \name{labelname}{1}{}{%
         {{hash=6f4193a0a7a4763c2d0493e215ec543b}{Segel}{S\bibinitperiod}{Joel\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
@@ -8165,47 +8461,6 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Simpson et al. - 2003 - The cost of major comorbidity in people with diabetes mellitus.pdf:pdf
       \endverb
       \keyw{*diabetes mellitus/dm [Disease Management],Alberta,Databases,Diabetes Co,Factual,Olia,adult,aged,all,article,cardiovascular disease/co [Complication],cardiovascular disease/dm [Disease Management],comorbidity,cost control,download,economic aspect,embase2,extracted,eye disease/co [Complication],eye disease/dm [Disease Management],female,health care cost,human,included,kidney disease/co [Complication],kidney disease/dm [Disease Management],major clinical study,male,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
-    \endentry
-    \entry{Singh2016}{article}{}
-      \name{labelname}{4}{}{%
-        {{hash=f9449cd0e7f42aeeb7b248f0595d2246}{Singh}{S\bibinitperiod}{Kavita}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=203d2586d4b857bc706177f3e85978f3}{Ranjani}{R\bibinitperiod}{Harish}{H\bibinitperiod}{}{}{}{}}%
-        {{hash=7f3351e90e97cd4c783896b1cf5ae3c1}{Rhodes}{R\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=860f74d7cfe9d5241827ff8b566359f6}{Weber}{W\bibinitperiod}{Mary\bibnamedelima Beth}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=f9449cd0e7f42aeeb7b248f0595d2246}{Singh}{S\bibinitperiod}{Kavita}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=203d2586d4b857bc706177f3e85978f3}{Ranjani}{R\bibinitperiod}{Harish}{H\bibinitperiod}{}{}{}{}}%
-        {{hash=7f3351e90e97cd4c783896b1cf5ae3c1}{Rhodes}{R\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=860f74d7cfe9d5241827ff8b566359f6}{Weber}{W\bibinitperiod}{Mary\bibnamedelima Beth}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Current Diabetes Reports}%
-      }
-      \strng{namehash}{90faa6b14e9194da60164b84db0066d4}
-      \strng{fullhash}{282bc8cc3afab3fa436ee8023ee274a0}
-      \field{sortinit}{S}
-      \field{labelyear}{2016}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries}}
-      \field{isbn}{1189201607689}
-      \field{issn}{1534-4827}
-      \field{journaltitle}{Current Diabetes Reports}
-      \field{number}{8}
-      \field{title}{{International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries}}
-      \field{volume}{16}
-      \field{year}{2016}
-      \field{pages}{69}
-      \verb{doi}
-      \verb 10.1007/s11892-016-0768-9
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Singh et al. - 2016 - International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries.pdf:pdf
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/s11892-016-0768-9
-      \endverb
-      \keyw{Diabetes care models,Prevention,Diabetes managemen,diabetes,diabetes care models,electronic medical records,low- and middle-income countries,management,prevention,shifting,task}
     \endentry
     \entry{Slade2012}{article}{}
       \name{labelname}{1}{}{%
@@ -9207,6 +9462,38 @@
       \endverb
       \keyw{80 and over,Adult,Aged,China,Cost-Benefit An,Olia,all,download,newsearch,pubmed,relevant,selected{\_}papers}
     \endentry
+    \entry{Wareham2016}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ec3c4777883706d1587ef300b39ac406}{Wareham}{W\bibinitperiod}{Nicholas\bibnamedelima J.}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=136965b697dd0c78cad061425f8ba491}{Herman}{H\bibinitperiod}{William\bibnamedelima H.}{W\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ec3c4777883706d1587ef300b39ac406}{Wareham}{W\bibinitperiod}{Nicholas\bibnamedelima J.}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=136965b697dd0c78cad061425f8ba491}{Herman}{H\bibinitperiod}{William\bibnamedelima H.}{W\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2aaa8cc595264fa9d0ca4cb998176ab6}
+      \strng{fullhash}{2aaa8cc595264fa9d0ca4cb998176ab6}
+      \field{sortinit}{W}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The Clinical and Public Health Challenges of Diabetes Prevention: A Search for Sustainable Solutions}}
+      \field{issn}{1549-1676}
+      \field{journaltitle}{PLOS Medicine}
+      \field{number}{7}
+      \field{title}{{The Clinical and Public Health Challenges of Diabetes Prevention: A Search for Sustainable Solutions}}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{e1002097}
+      \verb{doi}
+      \verb 10.1371/journal.pmed.1002097
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Wareham, Herman - 2016 - The Clinical and Public Health Challenges of Diabetes Prevention A Search for Sustainable Solutions.PDF:PDF
+      \endverb
+      \verb{url}
+      \verb http://dx.plos.org/10.1371/journal.pmed.1002097
+      \endverb
+    \endentry
     \entry{White2016}{article}{}
       \name{labelname}{1}{}{%
         {{hash=9077ad591ec2e0c7f1a4babe3e861ec8}{White}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
@@ -9731,40 +10018,38 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Yuan et al. - 2015 - Validity of self-reported diabetes among middle-aged and older Chinese adults the China Health and Retirement Lo(2).pdf:pdf
       \endverb
     \endentry
-    \entry{Zeng2014}{article}{}
-      \name{labelname}{5}{}{%
-        {{hash=8cfae4b3967addfc6d4943769a456ed8}{Zeng}{Z\bibinitperiod}{Junxia}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=22a9b331d7e794f5d8928a04ca57226f}{Pang}{P\bibinitperiod}{Xiaopeng}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=256d709d6d704d13dc2a71957a74ec59}{Zhang}{Z\bibinitperiod}{Linxiu}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=8ded3f10b1fca89df1c3f0ea82df5cd3}{Medina}{M\bibinitperiod}{Alexis}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=06774c7ecb7cba6431d1973f34d333f1}{Rozelle}{R\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+    \entry{Zajacova2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b6a9c20863b4bccd2d3f5389a40fd070}{Zajacova}{Z\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8b3880a339005af018f4a69156a38a78}{Dowd}{D\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f9a4db6eef6c69114cef29cad2d3523}{Schoeni}{S\bibinitperiod}{Robert\bibnamedelima F}{R\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee6580c5e2921d1351c4f1fdc3c2ea4}{Wallace}{W\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{5}{}{%
-        {{hash=8cfae4b3967addfc6d4943769a456ed8}{Zeng}{Z\bibinitperiod}{Junxia}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=22a9b331d7e794f5d8928a04ca57226f}{Pang}{P\bibinitperiod}{Xiaopeng}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=256d709d6d704d13dc2a71957a74ec59}{Zhang}{Z\bibinitperiod}{Linxiu}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=8ded3f10b1fca89df1c3f0ea82df5cd3}{Medina}{M\bibinitperiod}{Alexis}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=06774c7ecb7cba6431d1973f34d333f1}{Rozelle}{R\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+      \name{author}{4}{}{%
+        {{hash=b6a9c20863b4bccd2d3f5389a40fd070}{Zajacova}{Z\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8b3880a339005af018f4a69156a38a78}{Dowd}{D\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7f9a4db6eef6c69114cef29cad2d3523}{Schoeni}{S\bibinitperiod}{Robert\bibnamedelima F}{R\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=8ee6580c5e2921d1351c4f1fdc3c2ea4}{Wallace}{W\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{7e44c9124b0348de7562079be5247dd9}
-      \strng{fullhash}{427ad44bebb8d2c051170ad725a930e1}
+      \strng{namehash}{300c03e425fa8e3dda1e54d6eca10ae4}
+      \strng{fullhash}{b69aa0716ca2b0c05a216cb73445e5c3}
       \field{sortinit}{Z}
-      \field{labelyear}{2014}
+      \field{labelyear}{2010}
       \field{datelabelsource}{}
-      \field{labeltitle}{{Gender inequality in education in China: A meta-regression analysis}}
-      \field{abstract}{Although there is evidence that there was gender inequality in China's$\backslash$neducation system in the 1980s, the literature in China has mixed$\backslash$nevidence on improvements in gender inequality in educational attainment$\backslash$nover the past three decades. Some suggest gender inequality is still$\backslash$nsevere; others report progress. We seek to understand the progress China$\backslash$nhas made (if any) in reducing gender inequality in education since the$\backslash$n1980s. To meet this goal, we use a meta-analysis approach which provides$\backslash$na new quantitative review of a relatively large volume of empirical$\backslash$nliterature on gender educational differentials. This article analyzes$\backslash$ndifferences across both time and space, and also across different grade$\backslash$nlevels and ethnicities. Our results indicate that gender inequality in$\backslash$neducational attainment still exists, but it has been narrowing over$\backslash$ntime. Moreover, it varies by area (rural versus urban) and grade level.$\backslash$nThere is nearly no significant gender inequality in the case of girls in$\backslash$nurban areas or in the case of the 9 years of compulsory education$\backslash$n(primary school and junior high school). Girls, however, still face$\backslash$ninequality in rural areas (although inequality is falling over time) and$\backslash$nwhen they reach high school or beyond. (JEL I24)}
-      \field{issn}{10743529}
-      \field{journaltitle}{Contemporary Economic Policy}
-      \field{number}{2}
-      \field{title}{{Gender inequality in education in China: A meta-regression analysis}}
-      \field{volume}{32}
-      \field{year}{2014}
-      \field{pages}{474\bibrangedash 491}
+      \field{labeltitle}{{Consistency and precision of cancer reporting in a multiwave national panel survey}}
+      \field{abstract}{Background: Many epidemiological studies rely on self-reported information, the accuracy of which is critical for unbiased estimates of population health. Previously, accuracy has been analyzed by comparing self-reports to other sources, such as cancer registries. Cancer is believed to be a well-reported condition. This paper uses novel panel data to test the consistency of cancer reports for respondents with repeated self-reports. Methods: Data come from 978 adults who reported having been diagnosed with cancer in at least one of four waves of the Panel Study of Income Dynamics, 1999-2005. Consistency of cancer occurrence reports and precision of timing of onset were studied as a function of individual and cancer-related characteristics using logistic and ordered logistic models. Results: Almost 30{\%} of respondents gave inconsistent cancer reports, meaning they said they never had cancer after having said they did have cancer in a previous interview; 50{\%} reported the year of diagnosis with a discrepancy of two or more years. More recent cancers were reported with a higher consistency and timing precision; cervical cancer was reported more inaccurately than other cancer types. Demographic and socio-economic factors were only weak predictors of reporting quality. Conclusions: Results suggest that retrospective reports of cancer contain significant measurement error. The errors, however, are fairly random across different social groups, meaning that the results based on the data are not systematically biased by socio-economic factors. Even for health events as salient as cancer, researchers should exercise caution about the presumed accuracy of self-reports, especially if the timing of diagnosis is an important covariate.}
+      \field{issn}{1478-7954}
+      \field{journaltitle}{Population Health Metrics}
+      \field{number}{1}
+      \field{title}{{Consistency and precision of cancer reporting in a multiwave national panel survey}}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{pages}{20}
       \verb{doi}
-      \verb 10.1111/coep.12006
+      \verb 10.1186/1478-7954-8-20
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Zeng et al. - 2014 - Gender inequality in education in China A meta-regression analysis.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Zajacova et al. - 2010 - Consistency and precision of cancer reporting in a multiwave national panel survey.pdf:pdf
       \endverb
     \endentry
     \entry{Zhang2014d}{article}{}
