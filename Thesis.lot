@@ -35,27 +35,27 @@
 \contentsline {table}{\numberline {4.3}{\ignorespaces Self-reported diabetes and labour market outcomes.\relax }}{155}{table.caption.133}
 \contentsline {table}{\numberline {4.4}{\ignorespaces Effect of self-reported diabetes on wages and working hours, by type of work.\relax }}{156}{table.caption.135}
 \contentsline {table}{\numberline {4.5}{\ignorespaces Relationship between self-reported diabetes and selection into types of work.\relax }}{157}{table.caption.137}
-\contentsline {table}{\numberline {4.6}{\ignorespaces Relationship between self-reported years since diagnosis and labour market outcomes using continuous duration and duration splines.\relax }}{162}{table.caption.142}
-\contentsline {table}{\numberline {4.7}{\ignorespaces Number of observations with diabetes (HbA1c $\geq 6.5\%$) and self-reported diabetes.\relax }}{163}{table.caption.144}
-\contentsline {table}{\numberline {4.8}{\ignorespaces Biomarker results\relax }}{164}{table.caption.146}
-\contentsline {table}{\numberline {4.9}{\ignorespaces Self-reported diabetes, biomarkers, diabetes severity and self-reported health and their association with labour market outcomes\relax }}{165}{table.caption.148}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Relationship between self-reported years since diagnosis and labour market outcomes using continuous duration and duration splines.\relax }}{163}{table.caption.142}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Number of observations with diabetes (HbA1c $\geq 6.5\%$) and self-reported diabetes.\relax }}{164}{table.caption.144}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Biomarker results\relax }}{165}{table.caption.146}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Self-reported diabetes, biomarkers, diabetes severity and self-reported health and their association with labour market outcomes\relax }}{166}{table.caption.148}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Sample means for males and females, by diabetes status\relax }}{180}{table.caption.164}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Time variant and invariant predictors of diabetes self-report (denominator of stabilized weights)\relax }}{182}{table.caption.165}
-\contentsline {table}{\numberline {5.3}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models\relax }}{183}{table.caption.166}
-\contentsline {table}{\numberline {5.4}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models\relax }}{184}{table.caption.168}
-\contentsline {table}{\numberline {5.5}{\ignorespaces Summary of stabilized weights\relax }}{191}{table.caption.172}
-\contentsline {table}{\numberline {5.6}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects (duration groups)\relax }}{192}{table.caption.173}
-\contentsline {table}{\numberline {5.7}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models (duration groups)\relax }}{193}{table.caption.175}
-\contentsline {table}{\numberline {5.8}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using marginal structural models with truncated stabilized weights at 1st and 99th percentile\relax }}{194}{table.caption.179}
-\contentsline {table}{\numberline {5.9}{\ignorespaces Effect of time since diabetes diagnosis on employment status and behavioural outcomes using MSM with truncated stabilized weights (1st and 99th pct; imputed)\relax }}{195}{table.caption.181}
-\contentsline {table}{\numberline {5.10}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes only using covariate adjustment\relax }}{196}{table.caption.184}
-\contentsline {table}{\numberline {5.11}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using covariate adjustment (duration groups) (imputed)\relax }}{197}{table.caption.186}
-\contentsline {table}{\numberline {5.12}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models (no imputation)\relax }}{198}{table.caption.189}
-\contentsline {table}{\numberline {5.13}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models (non-imputed)\relax }}{199}{table.caption.191}
-\contentsline {table}{\numberline {5.14}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects (duration groups) (non-imputed)\relax }}{200}{table.caption.193}
-\contentsline {table}{\numberline {5.15}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models (duration groups) (non-imputed)\relax }}{201}{table.caption.195}
-\contentsline {table}{\numberline {5.16}{\ignorespaces Analysis of the effect of a diabetes diagnosis on overweight and obesity using FE models\relax }}{202}{table.caption.198}
-\contentsline {table}{\numberline {5.17}{\ignorespaces Analysis of the effect of time since diagnosis on overweight and obesity using FE models\relax }}{202}{table.caption.200}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Sample means for males and females, by diabetes status\relax }}{181}{table.caption.164}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Time variant and invariant predictors of diabetes self-report (denominator of stabilized weights)\relax }}{183}{table.caption.165}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models\relax }}{184}{table.caption.166}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models\relax }}{185}{table.caption.168}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Summary of stabilized weights\relax }}{192}{table.caption.172}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects (duration groups)\relax }}{193}{table.caption.173}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models (duration groups)\relax }}{194}{table.caption.175}
+\contentsline {table}{\numberline {5.8}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using marginal structural models with truncated stabilized weights at 1st and 99th percentile\relax }}{195}{table.caption.179}
+\contentsline {table}{\numberline {5.9}{\ignorespaces Effect of time since diabetes diagnosis on employment status and behavioural outcomes using MSM with truncated stabilized weights (1st and 99th pct; imputed)\relax }}{196}{table.caption.181}
+\contentsline {table}{\numberline {5.10}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes only using covariate adjustment\relax }}{197}{table.caption.184}
+\contentsline {table}{\numberline {5.11}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using covariate adjustment (duration groups) (imputed)\relax }}{198}{table.caption.186}
+\contentsline {table}{\numberline {5.12}{\ignorespaces Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models (no imputation)\relax }}{199}{table.caption.189}
+\contentsline {table}{\numberline {5.13}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models (non-imputed)\relax }}{200}{table.caption.191}
+\contentsline {table}{\numberline {5.14}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects (duration groups) (non-imputed)\relax }}{201}{table.caption.193}
+\contentsline {table}{\numberline {5.15}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models (duration groups) (non-imputed)\relax }}{202}{table.caption.195}
+\contentsline {table}{\numberline {5.16}{\ignorespaces Analysis of the effect of a diabetes diagnosis on overweight and obesity using FE models\relax }}{203}{table.caption.198}
+\contentsline {table}{\numberline {5.17}{\ignorespaces Analysis of the effect of time since diagnosis on overweight and obesity using FE models\relax }}{203}{table.caption.200}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Household surveys from low- and middle-income countries including diabetes information as of 2014}}{222}{table.6.1}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Household surveys from low- and middle-income countries including diabetes information as of 2014}}{223}{table.6.1}

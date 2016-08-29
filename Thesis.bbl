@@ -2997,61 +2997,6 @@
       \endverb
       \keyw{Class sizes,Educational production,Endogeneity,Instrumental variables}
     \endentry
-    \entry{DiCesare2013}{article}{}
-      \name{labelname}{14}{}{%
-        {{hash=aa226abfad1c4e587bdce07562b40e10}{{Di\bibnamedelimb Cesare}}{D\bibinitperiod}{Mariachiara}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=2d3747134f3a009a082d0947cafdab24}{Khang}{K\bibinitperiod}{Young\bibnamedelima Ho}{Y\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=69b9a41f672768ff6743323f78092eb0}{Asaria}{A\bibinitperiod}{Perviz}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=b157e6b79a10120f7d6606c2548e83cf}{Blakely}{B\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=4a7f42787eaf4e7267c4e314cd7cec94}{Cowan}{C\bibinitperiod}{Melanie\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=7d4179f3a6eab44913f537da3c256b33}{Farzadfar}{F\bibinitperiod}{Farshad}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=1c75291f039a205b196bc9ec26bad737}{Guerrero}{G\bibinitperiod}{Ramiro}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=d9fc16d976b1f17cf627d2df6e08a539}{Ikeda}{I\bibinitperiod}{Nayu}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=68108f9aafb3e269a6e55b82ec7e3a41}{Kyobutungi}{K\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=6381ef1480e301c4d441cf8bde018465}{Msyamboza}{M\bibinitperiod}{Kelias\bibnamedelima P.}{K\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{hash=5cfef2b76152361b6614a281cedd5cae}{Oum}{O\bibinitperiod}{Sophal}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=a49cb5108fcf60d88bf11b28eb92f5bf}{Lynch}{L\bibinitperiod}{John\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=ec1b34a8e4a8c95d23bd8777aa6800f4}{Marmot}{M\bibinitperiod}{Michael\bibnamedelima G.}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=643f9106f2c3a807434d4c568dc45af8}{Ezzati}{E\bibinitperiod}{Majid}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{14}{}{%
-        {{hash=aa226abfad1c4e587bdce07562b40e10}{{Di\bibnamedelimb Cesare}}{D\bibinitperiod}{Mariachiara}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=2d3747134f3a009a082d0947cafdab24}{Khang}{K\bibinitperiod}{Young\bibnamedelima Ho}{Y\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=69b9a41f672768ff6743323f78092eb0}{Asaria}{A\bibinitperiod}{Perviz}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=b157e6b79a10120f7d6606c2548e83cf}{Blakely}{B\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=4a7f42787eaf4e7267c4e314cd7cec94}{Cowan}{C\bibinitperiod}{Melanie\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=7d4179f3a6eab44913f537da3c256b33}{Farzadfar}{F\bibinitperiod}{Farshad}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=1c75291f039a205b196bc9ec26bad737}{Guerrero}{G\bibinitperiod}{Ramiro}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=d9fc16d976b1f17cf627d2df6e08a539}{Ikeda}{I\bibinitperiod}{Nayu}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=68108f9aafb3e269a6e55b82ec7e3a41}{Kyobutungi}{K\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=6381ef1480e301c4d441cf8bde018465}{Msyamboza}{M\bibinitperiod}{Kelias\bibnamedelima P.}{K\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{hash=5cfef2b76152361b6614a281cedd5cae}{Oum}{O\bibinitperiod}{Sophal}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=a49cb5108fcf60d88bf11b28eb92f5bf}{Lynch}{L\bibinitperiod}{John\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=ec1b34a8e4a8c95d23bd8777aa6800f4}{Marmot}{M\bibinitperiod}{Michael\bibnamedelima G.}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=643f9106f2c3a807434d4c568dc45af8}{Ezzati}{E\bibinitperiod}{Majid}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{6ebf11f1a1c0482c03f708ddd1de1d91}
-      \strng{fullhash}{0cd38676767fce8ce85e7900cf7cec8f}
-      \field{sortinit}{D}
-      \field{labelyear}{2013}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Inequalities in non-communicable diseases and effective responses}}
-      \field{abstract}{In most countries, people who have a low socioeconomic status and those who live in poor or marginalised communities have a higher risk of dying from non-communicable diseases (NCDs) than do more advantaged groups and communities. Smoking rates, blood pressure, and several other NCD risk factors are often higher in groups with low socioeconomic status than in those with high socioeconomic status; the social gradient also depends on the country's stage of economic development, cultural factors, and social and health policies. Social inequalities in risk factors account for more than half of inequalities in major NCDs, especially for cardiovascular diseases and lung cancer. People in low-income countries and those with low socioeconomic status also have worse access to health care for timely diagnosis and treatment of NCDs than do those in high-income countries or those with higher socioeconomic status. Reduction of NCDs in disadvantaged groups is necessary to achieve substantial decreases in the total NCD burden, making them mutually reinforcing priorities. Effective actions to reduce NCD inequalities include equitable early childhood development programmes and education; removal of barriers to secure employment in disadvantaged groups; comprehensive strategies for tobacco and alcohol control and for dietary salt reduction that target low socioeconomic status groups; universal, financially and physically accessible, high-quality primary care for delivery of preventive interventions and for early detection and treatment of NCDs; and universal insurance and other mechanisms to remove financial barriers to health care.}
-      \field{isbn}{0140-6736 1474-547X}
-      \field{issn}{01406736}
-      \field{journaltitle}{The Lancet}
-      \field{number}{9866}
-      \field{title}{{Inequalities in non-communicable diseases and effective responses}}
-      \field{volume}{381}
-      \field{year}{2013}
-      \field{pages}{585\bibrangedash 597}
-      \verb{doi}
-      \verb 10.1016/S0140-6736(12)61851-0
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Di Cesare et al. - 2013 - Inequalities in non-communicable diseases and effective responses.pdf:pdf
-      \endverb
-    \endentry
     \entry{DiabetesUK2012}{article}{}
       \name{labelname}{1}{}{%
         {{hash=4ddd06f378bf64f0829f4770f1c61cd6}{{Diabetes\bibnamedelimb UK}}{D\bibinitperiod}{}{}{}{}{}{}}%
@@ -4288,35 +4233,6 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Huang, Lin, Yeh - 2009 - Joint determinations of inequality and growth.pdf:pdf
       \endverb
-    \endentry
-    \entry{Huxley2006}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=63eca97ac5fecaf2e36c7d9e0329f8a6}{Huxley}{H\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=63eca97ac5fecaf2e36c7d9e0329f8a6}{Huxley}{H\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{63eca97ac5fecaf2e36c7d9e0329f8a6}
-      \strng{fullhash}{63eca97ac5fecaf2e36c7d9e0329f8a6}
-      \field{sortinit}{H}
-      \field{labelyear}{2006}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Excess risk of fatal coronary heart disease associated with diabetes in men and women: meta-analysis of 37 prospective cohort studies}}
-      \field{abstract}{OBJECTIVE: To estimate the relative risk for fatal coronary heart disease associated with diabetes in men and women. DESIGN: Meta-analysis of prospective cohort studies. DATA SOURCES: Studies published between 1966 and March 2005, identified through Embase and Medline, using a combined text word and MESH heading search strategy, in addition to studies from the Asia Pacific Cohort Studies Collaboration. REVIEW METHODS: Studies were eligible if they had reported estimates of the relative risk for fatal coronary heart disease comparing men and women with and without diabetes. Studies were excluded if the estimates were not adjusted at least for age. RESULTS: 37 studies of type 2 diabetes and fatal coronary heart disease among a total of 447,064 patients were identified. The rate of fatal coronary heart disease was higher in patients with diabetes than in those without (5.4 v 1.6{\%}). The overall summary relative risk for fatal coronary heart disease in patients with diabetes compared with no diabetes was significantly greater among women than it was among men: 3.50, 95{\%} confidence interval 2.70 to 4.53 v 2.06, 1.81 to 2.34. After exclusion of the eight studies that had adjusted only for age, the difference in risk between the sexes was substantially reduced but still highly significant. The pooled ratio of the relative risks (women: men) from the 29 studies with multiple adjusted estimates was 1.46 (1.14 to 1.88). CONCLUSIONS: The relative risk for fatal coronary heart disease associated with diabetes is 50{\%} higher in women than it is in men. This greater excess coronary risk may be explained by more adverse cardiovascular risk profiles among women with diabetes, combined with possible disparities in treatment that favour men.}
-      \field{issn}{0959-8138}
-      \field{journaltitle}{British Medical Journal}
-      \field{number}{7533}
-      \field{title}{{Excess risk of fatal coronary heart disease associated with diabetes in men and women: meta-analysis of 37 prospective cohort studies}}
-      \field{volume}{332}
-      \field{year}{2006}
-      \field{pages}{73\bibrangedash 78}
-      \verb{doi}
-      \verb 10.1136/bmj.38678.389583.7C
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Huxley, Barzi, Woodward - 2006 - Excess risk of fatal coronary heart disease associated with diabetes in men and women meta-analysis of.pdf:pdf
-      \endverb
-      \keyw{Adult,Aged,Cohort Studies,Coronary Disease,Coronary Disease: mortality,Diabetes Mellitus,Diabetic Angiopathies,Diabetic Angiopathies: mortality,Female,Humans,Male,Middle Aged,Prospective Studies,Risk Factors,Type 2,Type 2: mortality}
     \endentry
     \entry{InternationalDiabetesFederation2013}{book}{}
       \name{labelname}{1}{}{%
