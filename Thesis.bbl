@@ -291,6 +291,35 @@
       \endverb
       \keyw{IBSS,Occupational Health And Safety,download,extracted,included,newsearch,relevant,reviewed}
     \endentry
+    \entry{AmericanDiabetesAssociation2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1bf8ae30ecb7ab0eb987f5517e8f762b}{{American\bibnamedelimb Diabetes\bibnamedelimb Association}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1bf8ae30ecb7ab0eb987f5517e8f762b}{{American\bibnamedelimb Diabetes\bibnamedelimb Association}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{1bf8ae30ecb7ab0eb987f5517e8f762b}
+      \strng{fullhash}{1bf8ae30ecb7ab0eb987f5517e8f762b}
+      \field{sortinit}{A}
+      \field{labelyear}{2014}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diagnosis and Classification of Diabetes Mellitus}}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{Diabetes Care}
+      \field{month}{01}
+      \field{number}{Supplement{\_}1}
+      \field{title}{{Diagnosis and Classification of Diabetes Mellitus}}
+      \field{volume}{37}
+      \field{year}{2014}
+      \field{pages}{S81\bibrangedash S90}
+      \verb{doi}
+      \verb 10.2337/dc14-S081
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/American Diabetes Association - 2014 - Diagnosis and Classification of Diabetes Mellitus.pdf:pdf
+      \endverb
+    \endentry
     \entry{Angrist2009a}{book}{}
       \name{labelname}{2}{}{%
         {{hash=3e421ec98db8ad703f04741b6146bc94}{Angrist}{A\bibinitperiod}{J.D.}{J\bibinitperiod}{}{}{}{}}%
@@ -2161,6 +2190,35 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Chan et al. - 2007 - Cost of Type 2 Diabetes mellitus in Hong Kong Chinese.pdf:pdf
       \endverb
       \keyw{Aged,Cost of Illness,Costs and Cost Analysis,Diabe,all,download,extracted,included,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Chan2016}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6f8d85cdc72ddafaf34eb681bc07504b}{Chan}{C\bibinitperiod}{Juliana\bibnamedelimb C.\bibnamedelimi N.}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c998653b931768f64573c8cd20ace8bd}{Luk}{L\bibinitperiod}{Andrea\bibnamedelimb O.\bibnamedelimi Y.}{A\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6f8d85cdc72ddafaf34eb681bc07504b}{Chan}{C\bibinitperiod}{Juliana\bibnamedelimb C.\bibnamedelimi N.}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=c998653b931768f64573c8cd20ace8bd}{Luk}{L\bibinitperiod}{Andrea\bibnamedelimb O.\bibnamedelimi Y.}{A\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{458f4ed5cbf6d6387c55560951c8dcdd}
+      \strng{fullhash}{458f4ed5cbf6d6387c55560951c8dcdd}
+      \field{sortinit}{C}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes: A Cinderella Subject We Can't Afford to Ignore}}
+      \field{issn}{1549-1676}
+      \field{journaltitle}{PLOS Medicine}
+      \field{number}{7}
+      \field{title}{{Diabetes: A Cinderella Subject We Can't Afford to Ignore}}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{e1002068}
+      \verb{doi}
+      \verb 10.1371/journal.pmed.1002068
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Chan, Luk - 2016 - Diabetes A Cinderella Subject We Can't Afford to Ignore.PDF:PDF
+      \endverb
     \endentry
     \entry{Chan2014}{article}{}
       \name{labelname}{3}{uniquelist=2}{%
@@ -4281,6 +4339,119 @@
       \field{year}{2014}
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop//International Diabetes Federation - 2009 - IDF Diabetes Atlas.pdf:pdf
+      \endverb
+    \endentry
+    \entry{InternationalDiabetesFederation2015}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7385de445dfbe5dccb8159ecc664779a}{{International\bibnamedelimb Diabetes\bibnamedelimb Federation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7385de445dfbe5dccb8159ecc664779a}{{International\bibnamedelimb Diabetes\bibnamedelimb Federation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{7385de445dfbe5dccb8159ecc664779a}
+      \strng{fullhash}{7385de445dfbe5dccb8159ecc664779a}
+      \field{sortinit}{I}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{IDF Diabetes Atlas}}
+      \field{abstract}{IDF Diabetes Atlas – Seventh Edition}
+      \field{booktitle}{International Diabetes Federation}
+      \field{edition}{7}
+      \field{isbn}{9782930229812}
+      \field{issn}{0021-9533}
+      \field{title}{{IDF Diabetes Atlas}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1289/image.ehp.v119.i03
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/International Diabetes Federation - 2015 - IDF Diabetes Atlas.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Jamison2013}{article}{}
+      \name{labelname}{25}{}{%
+        {{hash=8168a7e9ef803af91e1f1f730c983c93}{Jamison}{J\bibinitperiod}{Dean\bibnamedelima T.}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8a7b4f64a632492a32fbd2efa2b24d82}{Summers}{S\bibinitperiod}{Lawrence\bibnamedelima H.}{L\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8009b9a5d1a996d972bf45c1ec0b1860}{Alleyne}{A\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e8e40285e9d1f55181de138f7abba482}{Arrow}{A\bibinitperiod}{Kenneth\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=518bc1105915de647c4e96b5ed691261}{Berkley}{B\bibinitperiod}{Seth}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=dcbb1f827d9f913868e897c74744761b}{Binagwaho}{B\bibinitperiod}{Agnes}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1766d9fd0962b50294d3544ab4ed6c37}{Bustreo}{B\bibinitperiod}{Flavia}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=fdf60d29316eacfbd0fdc22e786afd78}{Evans}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ee45af75f39146d96cf600e966d28413}{Feachem}{F\bibinitperiod}{Richard\bibnamedelimb G\bibnamedelima A}{R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=224ddcefbc444579219ad690ee7a25e8}{Frenk}{F\bibinitperiod}{Julio}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a1740a30f013280b8faffe01b4abd0ca}{Ghosh}{G\bibinitperiod}{Gargee}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e237cbafeed014b41291e364bc90b97e}{Goldie}{G\bibinitperiod}{Sue\bibnamedelima J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4181783396782e43a3f28267087b67}{Guo}{G\bibinitperiod}{Yan}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce4bc660ef4d4a113a844fc032764cf}{Gupta}{G\bibinitperiod}{Sanjeev}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ed7fc97f30212281ec9723ce24336e54}{Horton}{H\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=40098246221d7e2395bc78c12ded82dc}{Kruk}{K\bibinitperiod}{Margaret\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ad56ff8b1d39157c02dcf5a60ab7ef31}{Mahmoud}{M\bibinitperiod}{Adel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ab54b9b02ec331121279bbf4eb629bf6}{Mohohlo}{M\bibinitperiod}{Linah\bibnamedelima K.}{L\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=5b2f3b8c87cf8abf411af6aa55193a79}{Ncube}{N\bibinitperiod}{Mthuli}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=331898f334ce041b38e90195b4bcda85}{Pablos-Mendez}{P\bibinithyphendelim M\bibinitperiod}{Ariel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1a7172e432a7316967b333c681c2ec}{Reddy}{R\bibinitperiod}{K.\bibnamedelimi Srinath}{K\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=69e099a8ae025121683a878e48150d82}{Saxenian}{S\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7cfe5cbd32631a4aa2eeff0fc348ff40}{Soucat}{S\bibinitperiod}{Agnes}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ace2f563ee84f244c5e833b903b5713}{Ulltveit-Moe}{U\bibinithyphendelim M\bibinitperiod}{Karene\bibnamedelima H.}{K\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=631604adadcbd449445c32679c45223e}{Yamey}{Y\bibinitperiod}{Gavin}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{25}{}{%
+        {{hash=8168a7e9ef803af91e1f1f730c983c93}{Jamison}{J\bibinitperiod}{Dean\bibnamedelima T.}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8a7b4f64a632492a32fbd2efa2b24d82}{Summers}{S\bibinitperiod}{Lawrence\bibnamedelima H.}{L\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=8009b9a5d1a996d972bf45c1ec0b1860}{Alleyne}{A\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e8e40285e9d1f55181de138f7abba482}{Arrow}{A\bibinitperiod}{Kenneth\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=518bc1105915de647c4e96b5ed691261}{Berkley}{B\bibinitperiod}{Seth}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=dcbb1f827d9f913868e897c74744761b}{Binagwaho}{B\bibinitperiod}{Agnes}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1766d9fd0962b50294d3544ab4ed6c37}{Bustreo}{B\bibinitperiod}{Flavia}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=fdf60d29316eacfbd0fdc22e786afd78}{Evans}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ee45af75f39146d96cf600e966d28413}{Feachem}{F\bibinitperiod}{Richard\bibnamedelimb G\bibnamedelima A}{R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=224ddcefbc444579219ad690ee7a25e8}{Frenk}{F\bibinitperiod}{Julio}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a1740a30f013280b8faffe01b4abd0ca}{Ghosh}{G\bibinitperiod}{Gargee}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e237cbafeed014b41291e364bc90b97e}{Goldie}{G\bibinitperiod}{Sue\bibnamedelima J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4181783396782e43a3f28267087b67}{Guo}{G\bibinitperiod}{Yan}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=7ce4bc660ef4d4a113a844fc032764cf}{Gupta}{G\bibinitperiod}{Sanjeev}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ed7fc97f30212281ec9723ce24336e54}{Horton}{H\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=40098246221d7e2395bc78c12ded82dc}{Kruk}{K\bibinitperiod}{Margaret\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ad56ff8b1d39157c02dcf5a60ab7ef31}{Mahmoud}{M\bibinitperiod}{Adel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ab54b9b02ec331121279bbf4eb629bf6}{Mohohlo}{M\bibinitperiod}{Linah\bibnamedelima K.}{L\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=5b2f3b8c87cf8abf411af6aa55193a79}{Ncube}{N\bibinitperiod}{Mthuli}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=331898f334ce041b38e90195b4bcda85}{Pablos-Mendez}{P\bibinithyphendelim M\bibinitperiod}{Ariel}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1a7172e432a7316967b333c681c2ec}{Reddy}{R\bibinitperiod}{K.\bibnamedelimi Srinath}{K\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=69e099a8ae025121683a878e48150d82}{Saxenian}{S\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7cfe5cbd32631a4aa2eeff0fc348ff40}{Soucat}{S\bibinitperiod}{Agnes}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1ace2f563ee84f244c5e833b903b5713}{Ulltveit-Moe}{U\bibinithyphendelim M\bibinitperiod}{Karene\bibnamedelima H.}{K\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=631604adadcbd449445c32679c45223e}{Yamey}{Y\bibinitperiod}{Gavin}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{8ac6c9f8bcb758ceca69c3ce904f8c40}
+      \strng{fullhash}{95151f06f4f11402167ea7fd7efbc6b3}
+      \field{sortinit}{J}
+      \field{labelyear}{2013}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Global health 2035: a world converging within a generation}}
+      \field{abstract}{THE LANCET COMMISSIONS}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{0140-6736}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{month}{12}
+      \field{number}{9908}
+      \field{title}{{Global health 2035: a world converging within a generation}}
+      \field{volume}{382}
+      \field{year}{2013}
+      \field{pages}{1898\bibrangedash 1955}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(13)62105-4
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Jamison et al. - 2013 - Global health 2035 A world converging within a generation.pdf:pdf
       \endverb
     \endentry
     \entry{Javanbakht2011b}{article}{}

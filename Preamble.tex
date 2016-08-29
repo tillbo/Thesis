@@ -30,10 +30,12 @@
 \usepackage{ltablex,array} % to scale longtables
 \usepackage{lipsum}
 \usepackage[flushleft]{threeparttable}  %adds notes to tables
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+\appto\TPTnoteSettings{\footnotesize}
 \usepackage{caption}
 
 %fix problem with narrower table once using caption inside tabularx environment as suggested in last response here http://www.latex-community.org/forum/viewtopic.php?f=45&p=39951
-\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+
 \makeatletter
 \patchcmd{\TX@endtabularx}% <cmd>
   {\def\caption}% <search>

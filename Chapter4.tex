@@ -51,12 +51,53 @@ To overcome some of these limitations, this paper applies an individual level \a
 
 We use the \acf{MxFLS}, a nationally representative, longitudinal household survey, which has three waves conducted in 2002, 2005--2006 and 2009--2012. All household members aged 15 and above were interviewed, covering information on a wide range of social, demographic, economic and health characteristics of the individuals and their families \parencite{Rubalcava2013}. Apart from self-reported diabetes information that is available in all rounds, we also use information on the self-reported year of diagnosis as well as biomarker data including \ac{HbA1c} levels for a subsample of respondents.  Our main analysis uses all three waves taking advantage of the large amount of observations and the panel structure of the data. Our variable of interest is self-reported diabetes, which is based on the survey question: "Have you ever been diagnosed with diabetes?". 
 
+
+
+Because the response to this question may well suffer from measurement error due to recall bias, we investigate and try to increase the consistency of the self-reported diabetes variable, using disease information from earlier and ensuing waves to infer on the current, missing or inconsistent, diabetes status. One of the key advantages of panel data is the repeated measurement giving more than one data point for many of the individuals, thereby allowing to uncover inconsistencies for those with at least two observations. While we are not aware of any literature investigating the issue of inconsistencies in self-reported diabetes over time, a study by \textcite{Zajacova2010}, on the consistency of a self-reported cancer diagnosis over time in a USA population, found that 30\% of those who had reported a cancer diagnosis at an earlier point did report at a later point that they never had received a cancer diagnosis. They also found that a more recent diagnosis was reported with greater consistency possibly due to increasing recall problems and/or reduced salience as time since diagnosis progresses.
+
+We also find inconsistencies in the diabetes self-reports over the three waves of the \ac{MxFLS} data, with between 10--20\% of those reporting diabetes in one wave not doing so in one of the subsequent waves. In order to reduce the amount of inconsistencies, we were interested in the validity of diabetes self-reports. While we could not find a study assessing the validity of self-reported diabetes in Mexico, a study from China has shown that specificity of self-reported diabetes, i.e. those who self-report a diabetes diagnosis actually have diabetes, was very high (>98\% for China), while sensitivity, i.e. how many people with diabetes, diagnosed or undiagnosed, actually self-report the disease, was low (40\% for China) \parencite{Yuan2015}. This indicates that people who report a diabetes diagnosis are likely to indeed have the condition while many of those not reporting a diabetes diagnosis are unaware of their diabetes.
+
+We assess the validity of self-reported diabetes in our data by using \ac{HbA1c} levels and the self-reports of diabetes related medicine use from wave three. We find that 90\% of those self-reporting a diabetes diagnosis had an \ac{HbA1c} $\geq6.5$\% or did report taking diabetes medication, indicating relatively high specificity in our data as well.
+
+We used this information to infer the "true" diabetes status for those with inconsistent reports. For those with two waves, we assumed that if a diabetes diagnosis had been reported in a prior wave they also had diabetes in the ensuing wave, even if then it was not reported.
+For people where we had data from all three waves, we used that additional information to make a decision on how to deal with inconsistencies using the rules outlined in Table \ref{tab:Inconsistencies}
+
+\begin{table}[h!]
+\caption{\label{tab:Inconsistencies}Inconsistencies in diabetes self-report in MxFLS.}
+\begin{center}
+\begin{adjustbox}{max width=\linewidth} 
+\begin{tabular}{llc}
+\hline 
+Inconsistency  & Assumption  & Number of observations replaced\tabularnewline
+\hline 
+Diabetes self report in 2002, 2005 but not in 2009  & Has diabetes in 2009 as well  & 19\tabularnewline
+Diabetes self report in 2002, 2009 but not in 2005  & Has diabetes in 2005 as well  & 63\tabularnewline
+Diabetes self report only in 2002, but not in 2005 and 2009  & Has no diabetes in 2002 either  & 66\tabularnewline
+Diabetes self report only in 2005, but not in 2002 and 2009  & Has no diabetes in 2005 either  & 52\tabularnewline
+Diabetes self report in 2002, but not in 2005. Not in survey in 2009  & Has diabetes in 2005 as well  & 44\tabularnewline
+Diabetes self report in 2005, but not in 2009. Not in survey in 2002  & Has diabetes in 2009 as well  & 23\tabularnewline
+\end{tabular}
+\end{adjustbox}
+\end{center}
+\end{table}
+
+
+This approach should add more consistency to the self-reported diabetes information by using all available information. We tested if this approach was supported by the \ac{HbA1c} values provided in wave 3. Of those with inconsistencies in their diabetes elf-reports 95 were present in the biomarker sample (46 with two and 49 with one self-report of diabetes). We therefore  Using a t-test we compared the mean \ac{HbA1c} for the two groups and found a significantly (p<0.001) higher mean \ac{HbA1c} (9.7\%) for those with two self-reports compared to for those with only one self-report of diabetes (7.0\%). Further, of those with one self-report, for only 30\% the \ac{HbA1c}$\geq6.5$\% compared to 87\% of those with two self-reports. Based on these results we are reassured that the way we have dealt with the inconsistencies in the data minimizes misclassification of people into diabetes or no-diabetes and has reduced some of the measurement error in the diabetes data. Unfortunately we cannot use a similar method for dealing with inconsistencies in the self-reported year of diabetes diagnosis, as it has only been reported once. Hence, the results from duration analysis should be interpreted with care.
+
+
+ A further, and no less important, source of measurement error is the omission of those with undiagnosed diabetes. In order to investigate how this may affect estimates of the labour market impact of diabetes we use information from a subsample of the 2009-2012 wave containing over 6000 respondents (everybody aged 45+  and a random subsample of those aged 15--44 \parencite{Crimmins2015}) that have biometrically measured blood glucose values, allowing for the identification of those with undiagnosed diabetes. 
+Throughout our analysis the samples we use are restricted to the working age population (15--64). To prevent pregnant women from biasing our results due to the increased diabetes risk during pregnancy and its effects on female employment status, we have dropped all observations of women reporting to be pregnant at the time of the survey (N=764). We further exclude everybody currently in school.
+
+The detailed information in the \ac{MxFLS} allows us to consider the following outcome variables of interest: employment\footnote{Employment status is defined as having worked or carried out an activity that helped with the household expenses the last week and working for at least four hours per week. This explicitly includes those employed informally, for instance people working in a family business. The number of working hours needed to be considered as working is lower than in Chapter \ref{cha:Mex1}. We took this decision because we wanted to assess the impact of diabetes on driving people out of work completely. Any effect on working hours should be captured in the respective working hours models. We also tested if changing the definition of being employed to having worked at least ten hours per week as in Chapter \ref{cha:Mex1}. This only led to marginal changes in the coefficients and standard errors, not affecting the interpretation of the results.}, hourly wage and weekly working hours.\footnote{Hourly wage was calculated by adding up the reported monthly income from the first and second job (if any) and dividing it by the average number of weeks per month. This gave us the average earnings per week which were then divided by the weekly working hours to arrive at an hourly wage estimate. Labor income was either reported as the total amount for the whole month or more detailed containing information on the monthly wage, income from piecework, tips, extra hours, meals, housing, transport, medical benefits and other earnings. Over 80\% of respondents reported the total amount instead of a detailed amount. Respondents were also asked for their annual income and we used that information to arrive at an hourly wage if information for monthly labour income was missing. Finally, we adjusted the calculated wage for inflation from the year of the interview up to 2013 and took the log of those values. Due to a considerable number of missing or zero income reports the sample used for the wage estimation is smaller than the sample for working hours. Working hours were calculated summing up the self-reported working hours of the first and---if applicable---the second job.} For the pooled data of all three waves (Table  \ref{tab:Pooled-sample-characteristics}), diabetes was self-reported by 5\% of men and 6\% of women, respectively. This is consistent with other prevalence estimates of self-reported diabetes for this time period in Mexico.\footnote{\textcite{Barquera2013} show that the prevalence of diagnosed diabetes in Mexico was 7.5\% in 2006, only somewhat above our results, which may be the result of the slightly different age groups considered.}  About half of the respondents in the sample live in rural areas. Looking at our outcome variables, 86\% of men report some form of employment compared to 37\% of women. Interestingly, men do not report considerably higher hourly wages than women but work more hours per week. Also, men are working more often in agricultural jobs while women are more likely to be self-employed or in non-agricultural wage employment. Women also have lower educational attainment on average. 
+
 \begin{table}
 \caption{\label{tab:Pooled-sample-characteristics}Descriptive statistics for panel and biomarker sample.}
-\begin{adjustbox}{max width=0.9\textwidth, center}
+
 \begin{threeparttable}  %adds notes to tables
+
 {
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{adjustbox}{max width=1\linewidth, center}
 \begin{tabular}{l*{4}{c}}
 \toprule
                     &\multicolumn{2}{c}{Panel}&\multicolumn{2}{c}{Biomarker}\\\cmidrule(lr){2-3}\cmidrule(lr){4-5}
@@ -107,55 +148,19 @@ Higher education    &        0.11&        0.09&        0.12&        0.09\\
 Observations        &    21388&       27341&        2785&        3623\\
 \bottomrule
 \end{tabular}
+\end{adjustbox}
 \begin{tablenotes}
-\item Mean values, standard deviations in parenthesis. Results for the other variables, i.e. the Mexican states, log hourly wage and wealth, are omitted to save space.
+\item \textit{Notes} Mean values, standard deviations in parenthesis. Results for the other variables, i.e. the Mexican states, log hourly wage and wealth, are omitted to save space.
 \end{tablenotes}
 }
 \end{threeparttable}
-\end{adjustbox}
+
 \end{table}
-
-
-Because the response to this question may well suffer from measurement error due to recall bias, we investigate and try to increase the consistency of the self-reported diabetes variable, using disease information from earlier and ensuing waves to infer on the current, missing or inconsistent, diabetes status. One of the key advantages of panel data is the repeated measurement giving more than one data point for many of the individuals, thereby allowing to uncover inconsistencies for those with at least two observations. While we are not aware of any literature investigating the issue of inconsistencies in self-reported diabetes over time, a study by \textcite{Zajacova2010}, on the consistency of a self-reported cancer diagnosis over time in a USA population, found that 30\% of those who had reported a cancer diagnosis at an earlier point did report at a later point that they never had received a cancer diagnosis. They also found that a more recent diagnosis was reported with greater consistency possibly due to increasing recall problems and/or reduced salience as time since diagnosis progresses.
-
-We also find inconsistencies in the diabetes self-reports over the three waves of the \ac{MxFLS} data, with between 10--20\% of those reporting diabetes in one wave not doing so in one of the subsequent waves. In order to reduce the amount of inconsistencies, we were interested in the validity of diabetes self-reports. While we could not find a study assessing the validity of self-reported diabetes in Mexico, a study from China has shown that specificity of self-reported diabetes, i.e. those who self-report a diabetes diagnosis actually have diabetes, was very high (>98\% for China), while sensitivity, i.e. how many people with diabetes, diagnosed or undiagnosed, actually self-report the disease, was low (40\% for China) \parencite{Yuan2015}. This indicates that people who report a diabetes diagnosis are likely to indeed have the condition while many of those not reporting a diabetes diagnosis are unaware of their diabetes.
-
-We assess the validity of self-reported diabetes in our data by using \ac{HbA1c} levels and the self-reports of diabetes related medicine use from wave three. We find that 90\% of those self-reporting a diabetes diagnosis had an \ac{HbA1c} $\geq6.5$\% or did report taking diabetes medication, indicating relatively high specificity in our data as well.
-
-We used this information to infer the "true" diabetes status for those with inconsistent reports. For those with two waves, we assumed that if a diabetes diagnosis had been reported in a prior wave they also had diabetes in the ensuing wave, even if then it was not reported.
-For people where we had data from all three waves, we used that additional information to make a decision on how to deal with inconsistencies using the rules outlined in Table \ref{tab:Inconsistencies}
-
-\begin{table}[h!]
-\caption{\label{tab:Inconsistencies}Inconsistencies in diabetes self-report in MxFLS.}
-\begin{center}
-\begin{adjustbox}{max width=\linewidth} 
-\begin{tabular}{llc}
-\hline 
-Inconsistency  & Assumption  & Number of observations replaced\tabularnewline
-\hline 
-Diabetes self report in 2002, 2005 but not in 2009  & Has diabetes in 2009 as well  & 19\tabularnewline
-Diabetes self report in 2002, 2009 but not in 2005  & Has diabetes in 2005 as well  & 63\tabularnewline
-Diabetes self report only in 2002, but not in 2005 and 2009  & Has no diabetes in 2002 either  & 66\tabularnewline
-Diabetes self report only in 2005, but not in 2002 and 2009  & Has no diabetes in 2005 either  & 52\tabularnewline
-Diabetes self report in 2002, but not in 2005. Not in survey in 2009  & Has diabetes in 2005 as well  & 44\tabularnewline
-Diabetes self report in 2005, but not in 2009. Not in survey in 2002  & Has diabetes in 2009 as well  & 23\tabularnewline
-\end{tabular}
-\end{adjustbox}
-\end{center}
-\end{table}
-
-
-This approach should add more consistency to the self-reported diabetes information by using all available information. We tested if this approach was supported by the \ac{HbA1c} values provided in wave 3. Of those with inconsistencies in their diabetes elf-reports 95 were present in the biomarker sample (46 with two and 49 with one self-report of diabetes). We therefore  Using a t-test we compared the mean \ac{HbA1c} for the two groups and found a significantly (p<0.001) higher mean \ac{HbA1c} (9.7\%) for those with two self-reports compared to for those with only one self-report of diabetes (7.0\%). Further, of those with one self-report, for only 30\% the \ac{HbA1c}$\geq6.5$\% compared to 87\% of those with two self-reports. Based on these results we are reassured that the way we have dealt with the inconsistencies in the data minimizes misclassification of people into diabetes or no-diabetes and has reduced some of the measurement error in the diabetes data. Unfortunately we cannot use a similar method for dealing with inconsistencies in the self-reported year of diabetes diagnosis, as it has only been reported once. Hence, the results from duration analysis should be interpreted with care.
-
-
- A further, and no less important, source of measurement error is the omission of those with undiagnosed diabetes. In order to investigate how this may affect estimates of the labour market impact of diabetes we use information from a subsample of the 2009-2012 wave containing over 6000 respondents (everybody aged 45+  and a random subsample of those aged 15--44 \parencite{Crimmins2015}) that have biometrically measured blood glucose values, allowing for the identification of those with undiagnosed diabetes. 
-Throughout our analysis the samples we use are restricted to the working age population (15--64). To prevent pregnant women from biasing our results due to the increased diabetes risk during pregnancy and its effects on female employment status, we have dropped all observations of women reporting to be pregnant at the time of the survey (N=764). We further exclude everybody currently in school.
-
-The detailed information in the \ac{MxFLS} allows us to consider the following outcome variables of interest: employment\footnote{Employment status is defined as having worked or carried out an activity that helped with the household expenses the last week and working for at least four hours per week. This explicitly includes those employed informally, for instance people working in a family business. The number of working hours needed to be considered as working is lower than in Chapter \ref{cha:Mex1}. We took this decision because we wanted to assess the impact of diabetes on driving people out of work completely. Any effect on working hours should be captured in the respective working hours models. We also tested if changing the definition of being employed to having worked at least ten hours per week as in Chapter \ref{cha:Mex1}. This only led to marginal changes in the coefficients and standard errors, not affecting the interpretation of the results.}, hourly wage and weekly working hours.\footnote{Hourly wage was calculated by adding up the reported monthly income from the first and second job (if any) and dividing it by the average number of weeks per month. This gave us the average earnings per week which were then divided by the weekly working hours to arrive at an hourly wage estimate. Labor income was either reported as the total amount for the whole month or more detailed containing information on the monthly wage, income from piecework, tips, extra hours, meals, housing, transport, medical benefits and other earnings. Over 80\% of respondents reported the total amount instead of a detailed amount. Respondents were also asked for their annual income and we used that information to arrive at an hourly wage if information for monthly labour income was missing. Finally, we adjusted the calculated wage for inflation from the year of the interview up to 2013 and took the log of those values. Due to a considerable number of missing or zero income reports the sample used for the wage estimation is smaller than the sample for working hours. Working hours were calculated summing up the self-reported working hours of the first and---if applicable---the second job.} For the pooled data of all three waves (Table  \ref{tab:Pooled-sample-characteristics}), diabetes was self-reported by 5\% of men and 6\% of women, respectively. This is consistent with other prevalence estimates of self-reported diabetes for this time period in Mexico.\footnote{\textcite{Barquera2013} show that the prevalence of diagnosed diabetes in Mexico was 7.5\% in 2006, only somewhat above our results, which may be the result of the slightly different age groups considered.}  About half of the respondents in the sample live in rural areas. Looking at our outcome variables, 86\% of men report some form of employment compared to 37\% of women. Interestingly, men do not report considerably higher hourly wages than women but work more hours per week. Also, men are working more often in agricultural jobs while women are more likely to be self-employed or in non-agricultural wage employment. Women also have lower educational attainment on average. 
-
 
 
 Turning to the biomarker subsample of the third wave (2009-2012), respondents are somewhat older on average than in the pooled sample, as it includes everybody above the age of 44 but only a random subsample of those aged 44 or below (\cite{Crimmins2015}). Also, self-reported diabetes is higher than in the pooled sample\footnote{As well as in the full sample of wave 3.}. Regarding the other control and outcome variables, the sample is fairly similar to the pooled sample. Remarkably, a relatively large share of people have an \ac{HbA1c} indicative of diabetes, defined by the \ac{WHO} as levels above or equal 6.5\% \parencite{WorldHealthOrganization2011}\footnote{In one of the first analyses of these new biomarker data, \textcite{Frankenberg2015} show that the rates of elevated \ac{HbA1c} levels in Mexico are very high when compared to \ac{HbA1c} data from similar surveys in the USA and China.}: 18\% of males and females are unaware of their diabetes. This suggests that relying on self-reported diabetes as a measure for diabetes in Mexico might considerably understate the true extent of diabetes, potentially leading to biased estimates of its economic impact.
+
+\FloatBarrier
 
 \section{\label{sec:Estimation Strategy}Estimation strategy}
  
@@ -276,7 +281,7 @@ Table \ref{tab:Self-reported-diabetes-and} presents the estimation results of th
 \begin{table}[h]
 \caption{\label{tab:Self-reported-diabetes-and}Self-reported diabetes and labour market outcomes.}
 \begin{center}
-\begin{adjustbox}{max width=\textwidth}
+\begin{adjustbox}{max width=\linewidth}
 \begin{threeparttable}
 {
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{6}{SS}}
@@ -292,7 +297,7 @@ N               &    21388         &    27341         &    13828         &     7
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item Individual level fixed effects. Robust standard errors in parentheses. Reference category: dependent non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Reference category: dependent non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -306,7 +311,7 @@ The results in Columns 3--6 show no significant relationship between self-report
 \begin{table}[!ht]
 \caption{\label{tab:Self-reported-diabetes-interaction}Effect of self-reported diabetes on wages and working hours, by type of work.}
 \begin{center}
-\begin{adjustbox}{max width=\textwidth}
+\begin{adjustbox}{max width=\linewidth}
 \begin{threeparttable}
 {
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
@@ -331,7 +336,7 @@ N               &    13828         &     7068         &    17616         &     9
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item Individual level fixed effects. Robust standard errors in parentheses. Reference category: non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Reference category: non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -353,8 +358,8 @@ To explore whether diabetes affects the selection into certain types of work we 
 \begin{table}[h]
 \caption{\label{tab:Self-reported-diabetes-selection_LPM}Relationship between self-reported diabetes and selection into types of work.}
 \begin{center}
-%\resizebox{\textwidth}{!}{%
-\begin{adjustbox}{max width=\textwidth}
+%\resizebox{\linewidth}{!}{%
+\begin{adjustbox}{max width=\linewidth}
 \begin{threeparttable}
 {
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
@@ -372,7 +377,7 @@ N               &    20719         &    20719         &    20719         &    26
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item Individual level fixed effects. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -397,8 +402,8 @@ a first drop-off occurs right after diagnosis; thereafter no consistent pattern 
 \caption{\label{fig:Kernel-weighted-local-polynomial_empl}Kernel-weighted local
 polynomial regression of employment status on diabetes duration.}%
 \begin{center}
-\includegraphics[width=0.5\columnwidth]{Chapter4/Figures/lpoly_works_diabetesduration.eps}\\
-\footnotesize{The dotted lines around the main line show 95\% confidence intervals.}
+\includegraphics[width=0.8\columnwidth]{Chapter4/Figures/lpoly_works_diabetesduration.eps}\\
+\footnotesize{\textit{Notes} The dotted lines around the main line show 95\% confidence intervals.}
 \end{center}
 \end{figure}
 \FloatBarrier
@@ -406,8 +411,8 @@ polynomial regression of employment status on diabetes duration.}%
 \caption{\label{fig:Kernel-weighted-local-polynomial_wage}Kernel-weighted local
 polynomial regression of log hourly wages on diabetes duration.}%
 \begin{center}
-\includegraphics[width=0.5\columnwidth]{Chapter4/Figures/lpoly_wage_diabetesduration.eps}\\
-\footnotesize{The dotted lines around the main line show 95\% confidence intervals.}
+\includegraphics[width=0.8\columnwidth]{Chapter4/Figures/lpoly_wage_diabetesduration.eps}\\
+\footnotesize{\textit{Notes} The dotted lines around the main line show 95\% confidence intervals.}
 \end{center}
 \end{figure}
 
@@ -415,8 +420,8 @@ polynomial regression of log hourly wages on diabetes duration.}%
 \caption{\label{fig:Kernel-weighted-local-polynomial_workhrs}Kernel-weighted local
 polynomial regression of working hours on diabetes duration.}%
 \begin{center}
-\includegraphics[width=0.5\columnwidth]{Chapter4/Figures/lpoly_workhrs_diabetesduration.eps}\\
-\footnotesize{The dotted lines around the main line show 95\% confidence intervals.}
+\includegraphics[width=0.8\columnwidth]{Chapter4/Figures/lpoly_workhrs_diabetesduration.eps}\\
+\footnotesize{\textit{Notes} The dotted lines around the main line show 95\% confidence intervals.}
 \end{center}
 \end{figure}
 \FloatBarrier
@@ -429,8 +434,8 @@ For employment probabilities the results indicate a yearly reduction in male emp
 \begin{table}
 \caption{\label{tab:Self-reported-diabetes-duration}Relationship between self-reported years since diagnosis and labour market outcomes using continuous duration and duration splines.}
 \begin{center}
-%\resizebox{\textwidth}{!}{%
-\begin{adjustbox}{max width=\textwidth}
+%\resizebox{\linewidth}{!}{%
+\begin{adjustbox}{max width=\linewidth}
 \begin{threeparttable}
 
 {
@@ -506,7 +511,7 @@ N               &     6807         &    13579         &    13579         &     3
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item The table presents the results of three estimation methods for the three dependent variables: employment probabilities, log hourly wages and weekly working hours. Panel A presents the results of the linear specifications. Panel B presents the results of the non-linear specifications. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number children < 6, wealth, age squared and calendar year dummies. The wage and working hour models additionally control for type of work (agricultural and self employed with dependent non-agricultural wage employment as the base) and for health insurance status. The OLS and pooled OLS models additionally control for age. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \textit{Notes} The table presents the results of three estimation methods for the three dependent variables: employment probabilities, log hourly wages and weekly working hours. Panel A presents the results of the linear specifications. Panel B presents the results of the non-linear specifications. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number children < 6, wealth, age squared and calendar year dummies. The wage and working hour models additionally control for type of work (agricultural and self employed with dependent non-agricultural wage employment as the base) and for health insurance status. The OLS and pooled OLS models additionally control for age. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -534,7 +539,7 @@ We first present a cross tabulation of self-reported diabetes and the results of
 \begin{table}[h!]
 \caption{\label{tab:Biomarker_observations}Number of observations with diabetes (HbA1c $\geq 6.5\%$) and self-reported diabetes.}
 \begin{center}
-\begin{adjustbox}{max width=\textwidth}
+\begin{adjustbox}{max width=\linewidth}
 \begin{threeparttable}
 {
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
@@ -554,7 +559,7 @@ Total & 4673 & 1735 & 6408 &  \\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item The first row of each category presents absolute values, the second row row percentages and the third row column percentages.
+\item \textit{Notes} The first row of each category presents absolute values, the second row row percentages and the third row column percentages.
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -607,7 +612,7 @@ HbA1c $\geq$ 6.5&                  &                  &    -.088         &    1.
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \textit{Notes} Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -662,7 +667,7 @@ N               &     2785         &     3623         &     1803         &      
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \textit{Notes} Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
