@@ -54,28 +54,28 @@
 \contentsline {subsection}{\numberline {4.4.3}Cross-section: biomarker and self-reported data}{153}{subsection.4.4.3}
 \contentsline {section}{\numberline {4.5} Results}{155}{section.4.5}
 \contentsline {subsection}{\numberline {4.5.1}Incidence of self-reported diabetes}{155}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Duration of self-reported diabetes}{157}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.2}Duration of self-reported diabetes}{158}{subsection.4.5.2}
 \contentsline {subsection}{\numberline {4.5.3}Cross-sectional biomarker analysis}{164}{subsection.4.5.3}
 \contentsline {section}{\numberline {4.6}Conclusion}{167}{section.4.6}
 \contentsline {chapter}{\numberline {5}The effects of receiving a diabetes diagnosis on health behaviour and economic outcomes in China}{171}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction}{172}{section.5.1}
-\contentsline {section}{\numberline {5.2}Methods}{174}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Study sample}{174}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.2}Methods}{175}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Study sample}{175}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}Assessment of diabetes}{175}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Assessment of outcomes}{175}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Statistical analysis}{175}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}Results}{179}{section.5.3}
-\contentsline {section}{\numberline {5.4}Disussion}{188}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Limitations}{188}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Potential mechanisms}{189}{subsection.5.4.2}
-\contentsline {section}{\numberline {5.5}Conclusion}{191}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Duration groups results}{192}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.2.3}Assessment of outcomes}{176}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Statistical analysis}{176}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Results}{180}{section.5.3}
+\contentsline {section}{\numberline {5.4}Disussion}{189}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Limitations}{189}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Potential mechanisms}{190}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Conclusion}{192}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Duration groups results}{193}{subsection.5.5.1}
 \contentsline {chapter}{\numberline {6}Discussion and conclusions}{205}{chapter.6}
 \contentsline {section}{\numberline {6.1}Chapter overview}{206}{section.6.1}
 \contentsline {section}{\numberline {6.2}Summary of principal findings}{206}{section.6.2}
 \contentsline {section}{\numberline {6.3}The context of the findings and their implications}{210}{section.6.3}
-\contentsline {subsubsection}{\nonumberline Diabetes treatment in resource constraint settings}{212}{section*.216}
-\contentsline {subsubsection}{\nonumberline The need to account for gender differences}{215}{section*.219}
+\contentsline {subsubsection}{\nonumberline Diabetes treatment in resource constraint settings}{212}{section*.217}
+\contentsline {subsubsection}{\nonumberline The need to account for gender differences}{215}{section*.220}
 \contentsline {section}{\numberline {6.4}Reflections on the methods used in the thesis}{216}{section.6.4}
 \contentsline {section}{\numberline {6.5}Strengths and limitations}{217}{section.6.5}
 \contentsline {section}{\numberline {6.6}Suggestions for future research}{218}{section.6.6}

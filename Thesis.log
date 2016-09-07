@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  29 AUG 2016 22:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  7 SEP 2016 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1928,7 +1928,7 @@ nverted-to.pdf Review/Figures/Fig1.eps>
 (epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig1-eps-converted-to.pdf, id=921, 539.01375pt x 489.83pt>
+<Review/Figures/Fig1-eps-converted-to.pdf, id=922, 539.01375pt x 489.83pt>
 File: Review/Figures/Fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig1-eps-converted-to.pdf>
@@ -1952,7 +1952,7 @@ nverted-to.pdf Review/Figures/Fig2.eps>
 (epstopdf)             \includegraphics on input line 65.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig2-eps-converted-to.pdf, id=1124, 580.1675pt x 508.90125pt>
+<Review/Figures/Fig2-eps-converted-to.pdf, id=1125, 580.1675pt x 508.90125pt>
 File: Review/Figures/Fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig2-eps-converted-to.pdf>
@@ -2164,7 +2164,7 @@ Package epstopdf Info: Source file: <Review/Figures/Fig3.eps>
 nverted-to.pdf Review/Figures/Fig3.eps>
 (epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
- <Review/Figures/Fig3-eps-converted-to.pdf, id=1277, 722.7pt x 578.16pt>
+ <Review/Figures/Fig3-eps-converted-to.pdf, id=1278, 722.7pt x 578.16pt>
 File: Review/Figures/Fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig3-eps-converted-to.pdf>
@@ -2187,7 +2187,7 @@ nverted-to.pdf Review/Figures/Fig4.eps>
 (epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig4-eps-converted-to.pdf, id=1326, 724.7075pt x 581.17125pt>
+<Review/Figures/Fig4-eps-converted-to.pdf, id=1327, 724.7075pt x 581.17125pt>
 File: Review/Figures/Fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig4-eps-converted-to.pdf>
@@ -7615,17 +7615,17 @@ ion-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Chapter4/Figures/lpoly_wor
 ks_diabetesduration-eps-converted-to.pdf Chapter4/Figures/lpoly_works_diabetesd
 uration.eps>
-(epstopdf)             \includegraphics on input line 406.
+(epstopdf)             \includegraphics on input line 412.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=4380, 3
+<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=4381, 3
 97.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf>
 Package pdftex.def Info: Chapter4/Figures/lpoly_works_diabetesduration-eps-conv
-erted-to.pdf used on input line 406.
+erted-to.pdf used on input line 412.
 (pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
 
 
@@ -7643,17 +7643,17 @@ on-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Chapter4/Figures/lpoly_wag
 e_diabetesduration-eps-converted-to.pdf Chapter4/Figures/lpoly_wage_diabetesdur
 ation.eps>
-(epstopdf)             \includegraphics on input line 415.
+(epstopdf)             \includegraphics on input line 421.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=4386, 39
+<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=4387, 39
 7.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf Graphic
  file (type pdf)
 
 <use Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf>
 Package pdftex.def Info: Chapter4/Figures/lpoly_wage_diabetesduration-eps-conve
-rted-to.pdf used on input line 415.
+rted-to.pdf used on input line 421.
 (pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
 
 
@@ -7670,17 +7670,17 @@ ation-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=Chapter4/Figures/lpoly_wor
 khrs_diabetesduration-eps-converted-to.pdf Chapter4/Figures/lpoly_workhrs_diabe
 tesduration.eps>
-(epstopdf)             \includegraphics on input line 424.
+(epstopdf)             \includegraphics on input line 430.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=4387,
+<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=4388,
  397.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf Grap
 hic file (type pdf)
 
 <use Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf>
 Package pdftex.def Info: Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-co
-nverted-to.pdf used on input line 424.
+nverted-to.pdf used on input line 430.
 (pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
 
 
@@ -7690,12 +7690,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [160 <./Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf>]
 [161 <./Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf>]
 
-LaTeX Warning: Float too large for page by 73.55382pt on input line 521.
+LaTeX Warning: Float too large for page by 214.27344pt on input line 543.
 
 [162
 
 ] [163] [164] [165] [166]
-Overfull \hbox (0.76851pt too wide) in paragraph at lines 694--695
+Overfull \hbox (0.76851pt too wide) in paragraph at lines 716--717
 []\T1/lmr/m/n/12 Apart from pro-vid-ing unique ev-i-dence for a de-vel-op-ing c
 oun-try, the pa-per makes method-
  []
@@ -7712,41 +7712,31 @@ Package acronym Info: Label `acro:MSM' overridden on input line 122.
 \openout2 = `Chapter5.aux'.
 
  (./Chapter5.tex
-Package acronym Info: Label `acro:CHNS' overridden on input line 3.
-Package acronym Info: Label `acro:BMI' overridden on input line 3.
-Package acronym Info: Label `acro:LMIC' overridden on input line 12.
+Package acronym Info: Label `acro:CHNS' overridden on input line 4.
+Package acronym Info: Label `acro:BMI' overridden on input line 4.
+Package acronym Info: Label `acro:OLS' newly defined as it shall be overridden
+although it is yet undefined on input line 14.
  [172
 
 ]
-Overfull \hbox (1.55762pt too wide) in paragraph at lines 16--17
-\T1/lmr/m/n/12 haviours in China us-ing a quasi-experimental regression-discont
-inuity de-sign and biomarker
- []
-
-[173] [174] [175]
-Underfull \hbox (badness 1874) in paragraph at lines 52--52
+Package acronym Info: Label `acro:LMIC' overridden on input line 16.
+Package acronym Info: Label `acro:HIC' overridden on input line 18.
+ [173] [174] [175]
+Underfull \hbox (badness 1874) in paragraph at lines 58--58
 [][]|[] \T1/lmr/m/n/12 Di-rect acyclic graph (DAG) rep-re-sent-ing the re-la-ti
 ons be-tween con-
  []
 
-<Chapter5/Figures/dag.pdf, id=4587, 395.3169pt x 274.626pt>
+<Chapter5/Figures/dag.pdf, id=4601, 395.3169pt x 274.626pt>
 File: Chapter5/Figures/dag.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/dag.pdf>
-Package pdftex.def Info: Chapter5/Figures/dag.pdf used on input line 53.
+Package pdftex.def Info: Chapter5/Figures/dag.pdf used on input line 59.
 (pdftex.def)             Requested size: 395.31592pt x 274.62532pt.
- [176 <./Chapter5/Figures/dag.pdf>]
-Package acronym Info: Label `acro:OLS' newly defined as it shall be overridden
-although it is yet undefined on input line 66.
- [177]
-[178] [179] [180]
+ [176] [177 <./Chapter5/Figures/dag.pdf>]
+[178] [179] [180] [181
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[181]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -7755,27 +7745,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [182
 
+]
 
-] [183] [184] [185]
-Package epstopdf Info: Source file: <Chapter5/Figures/mi_fe.eps>
-(epstopdf)                    date: 2016-08-23 15:39:16
-(epstopdf)                    size: 44650 bytes
-(epstopdf)             Output file: <Chapter5/Figures/mi_fe-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-08-23 16:21:15
-(epstopdf)                    size: 12650 bytes
-(epstopdf)             Command: <repstopdf --outfile=Chapter5/Figures/mi_fe-eps
--converted-to.pdf Chapter5/Figures/mi_fe.eps>
-(epstopdf)             \includegraphics on input line 290.
-Package epstopdf Info: Output file is already uptodate.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter5/Figures/mi_fe-eps-converted-to.pdf, id=4731, 578.16pt x 289.08pt>
-File: Chapter5/Figures/mi_fe-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Chapter5/Figures/mi_fe-eps-converted-to.pdf>
-Package pdftex.def Info: Chapter5/Figures/mi_fe-eps-converted-to.pdf used on in
-put line 290.
-(pdftex.def)             Requested size: 578.15858pt x 289.07928pt.
+[183] [184] [185] [186]
 Package epstopdf Info: Source file: <Chapter5/Figures/mi_msm_l_all.eps>
 (epstopdf)                    date: 2016-08-22 13:56:19
 (epstopdf)                    size: 40967 bytes
@@ -7785,45 +7759,64 @@ d-to.pdf>
 (epstopdf)                    size: 11670 bytes
 (epstopdf)             Command: <repstopdf --outfile=Chapter5/Figures/mi_msm_l_
 all-eps-converted-to.pdf Chapter5/Figures/mi_msm_l_all.eps>
-(epstopdf)             \includegraphics on input line 292.
+(epstopdf)             \includegraphics on input line 295.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf, id=4732, 578.16pt x 289.08
+<Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf, id=4750, 578.16pt x 289.08
 pt>
 File: Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf Graphic file (type pdf
 )
  <use Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf>
 Package pdftex.def Info: Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf use
-d on input line 292.
+d on input line 295.
 (pdftex.def)             Requested size: 578.15858pt x 289.07928pt.
- [186
+Package epstopdf Info: Source file: <Chapter5/Figures/mi_fe.eps>
+(epstopdf)                    date: 2016-08-23 15:39:16
+(epstopdf)                    size: 44650 bytes
+(epstopdf)             Output file: <Chapter5/Figures/mi_fe-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-08-23 16:21:15
+(epstopdf)                    size: 12650 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter5/Figures/mi_fe-eps
+-converted-to.pdf Chapter5/Figures/mi_fe.eps>
+(epstopdf)             \includegraphics on input line 297.
+Package epstopdf Info: Output file is already uptodate.
 
-] [187 <./Chapter5/Figures/mi_fe-eps-converted-to.pdf> <./Chapter5/Figures/mi_m
-sm_l_all-eps-converted-to.pdf>] [188] [189] [190] [191] [192
+<Chapter5/Figures/mi_fe-eps-converted-to.pdf, id=4751, 578.16pt x 289.08pt>
+File: Chapter5/Figures/mi_fe-eps-converted-to.pdf Graphic file (type pdf)
 
-] [193] [194]
+<use Chapter5/Figures/mi_fe-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter5/Figures/mi_fe-eps-converted-to.pdf used on in
+put line 297.
+(pdftex.def)             Requested size: 578.15858pt x 289.07928pt.
+ [187
+
+] [188 <./Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf> <./Chapter5/Figur
+es/mi_fe-eps-converted-to.pdf>] [189] [190] [191] [192] [193
+
+] [194] [195]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[195] [196]
+[196] [197]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[197
+[198
 
-] [198]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+] [199]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[199
 
-] [200] [201] [202]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[200
+
+] [201] [202]
 Package epstopdf Info: Source file: <Chapter5/Figures/mi_obese_fe.eps>
 (epstopdf)                    date: 2016-08-24 11:40:55
 (epstopdf)                    size: 31261 bytes
@@ -7833,16 +7826,16 @@ Package epstopdf Info: Source file: <Chapter5/Figures/mi_obese_fe.eps>
 (epstopdf)                    size: 9440 bytes
 (epstopdf)             Command: <repstopdf --outfile=Chapter5/Figures/mi_obese_
 fe-eps-converted-to.pdf Chapter5/Figures/mi_obese_fe.eps>
-(epstopdf)             \includegraphics on input line 993.
+(epstopdf)             \includegraphics on input line 1002.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_obese_fe-eps-converted-to.pdf, id=4901, 578.16pt x 289.08p
+<Chapter5/Figures/mi_obese_fe-eps-converted-to.pdf, id=4915, 578.16pt x 289.08p
 t>
 File: Chapter5/Figures/mi_obese_fe-eps-converted-to.pdf Graphic file (type pdf)
 
  <use Chapter5/Figures/mi_obese_fe-eps-converted-to.pdf>
 Package pdftex.def Info: Chapter5/Figures/mi_obese_fe-eps-converted-to.pdf used
- on input line 993.
+ on input line 1002.
 (pdftex.def)             Requested size: 578.15858pt x 289.07928pt.
 ) [203
 
@@ -10539,20 +10532,16 @@ Package rerunfilecheck Info: File `Thesis.out' has not changed.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 29987 strings out of 493304
- 560363 string characters out of 6139871
- 2403443 words of memory out of 5000000
- 31959 multiletter control sequences out of 15000+600000
+ 29990 strings out of 493304
+ 560430 string characters out of 6139871
+ 2404069 words of memory out of 5000000
+ 31960 multiletter control sequences out of 15000+600000
  125057 words of font info for 104 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,15n,87p,16715b,1598s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -10573,10 +10562,10 @@ e1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Thesis.pdf (258 pages, 1127186 bytes).
+Output written on Thesis.pdf (258 pages, 1129014 bytes).
 PDF statistics:
- 5891 PDF objects out of 6186 (max. 8388607)
- 3855 compressed objects within 39 object streams
- 949 named destinations out of 1000 (max. 500000)
+ 5905 PDF objects out of 6186 (max. 8388607)
+ 3869 compressed objects within 39 object streams
+ 951 named destinations out of 1000 (max. 500000)
  640 words of extra memory for PDF output out of 10000 (max. 10000000)
 

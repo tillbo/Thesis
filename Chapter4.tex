@@ -182,7 +182,7 @@ The following section describes our estimation strategy for the different parts 
 \subsection{Panel data on self-reported diabetes}
 
 We investigate the relationship between self-reported diabetes and three
-labour market outcomes: employment, wages and labour supply, respectively, using a \ac{FE} model. While using individual level \ac{FE} does not allow to fully identify a causal relationship, this strategy does improve on the degree of causal inference, compared to a simple cross-sectional analysis.\footnote{Other forms of unobserved heterogeneity could also affect our estimates---for instance time-variant unobserved heterogeneity or omitted variables simultaneously driving labour outcomes and health.} In particular it does allow controlling for unobserved personal characteristics that could bias the estimates, without the drawbacks of an at least debatable \ac{IV} strategy that has been widely applied in this literature. We have also estimated random effects models but do not present them here as the Hausman test suggested the use of the \ac{FE} model throughout.\footnote{Results are available on request.}
+labour market outcomes: employment, wages and labour supply, respectively, using a \ac{FE} model. While using individual level \ac{FE} does not allow to fully identify a causal relationship, this strategy does improve on the degree of causal inference, compared to a simple cross-sectional analysis.\footnote{Other forms of unobserved heterogeneity could also affect our estimates---for instance time-variant unobserved heterogeneity or omitted variables simultaneously driving labour outcomes and health.} In particular it does allow controlling for unobserved personal characteristics that could bias the estimates, without the drawbacks of an at least debatable \ac{IV} strategy that has been widely applied in this literature. We have also estimated random effects models but do not present them here as the Hausman test suggested the use of the \ac{FE} model throughout.\footnote{see the respective table for the results of the cluster robust Hausman test}
 
 
 We estimate the following model:
@@ -294,6 +294,8 @@ Table \ref{tab:Self-reported-diabetes-and} presents the estimation results of th
 Self-reported diabetes&  -.054\sym{**} &    -.059\sym{**} &     .054         &     .081         &    -.524         &   -1.955         \\
                 &   (.025)         &   (.024)         &   (.067)         &   (.158)         &  (1.499)         &  (2.517)         \\
 \midrule
+Hausman test    &  255.260         &  388.822         & 1084.317         &   91.096         &  967.007         &  106.455         \\
+\hspace*{10mm} p-value         &     .000         &     .000         &     .000         &     .000         &     .000         &     .000         \\
 N               &    21388         &    27341         &    13828         &     7068         &    17616         &     9112         \\
 \bottomrule
 \end{tabular}
@@ -333,6 +335,8 @@ Self-reported diabetes x agricultural worker&     -.242         &    -.409      
 Self-reported diabetes x self-employed& -.105         &     .125         &     .306         &   -4.149         \\
                 &   (.192)         &   (.326)         &  (2.503)         &  (4.739)         \\
 \midrule
+Hausman test    &  280.491         &  912.537         & 4086.461         &  995.171         \\
+\hspace*{10mm} p-value         &     .000         &     .000         &     .000         &     .000         \\
 N               &    13828         &     7068         &    17616         &     9112         \\
 \bottomrule
 \end{tabular}
@@ -374,6 +378,8 @@ S}}
 Self-reported diabetes&   -.006         &    -.008         &    -.043         &    -.001         &    -.022\sym{**} &    -.029         \\
                   &   (.029)         &   (.022)         &   (.026)         &   (.018)         &   (.009)         &   (.018)         \\
 \midrule
+Hausman test    & 2196.390         & 2005.383         & 1249.080         & 1126.933         &                  &   86.400         \\
+\hspace*{10mm} p-value         &     .000         &     .000         &     .000         &     .000         &                  &     .000         \\
 N               &    20719         &    20719         &    20719         &    26577         &    26577         &    26577         \\
 \bottomrule
 \end{tabular}
@@ -453,6 +459,10 @@ S}}
 Panel A: &&&&&&\\
 Diabetes duration (linear)&   -.008\sym{***}&    -.007\sym{***}&    -.017\sym{***}&    -.005\sym{***}&    -.004\sym{***}&    -.009\sym{*}  \\
                 &   (.002)         &   (.002)         &   (.006)         &   (.002)         &   (.001)         &   (.005)         \\
+                
+\midrule
+                Hausman test    &                  &                  &  153.024         &                  &                  &  200.073         \\
+                \hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
 \midrule
 \addlinespace
 Panel B: &&&&&&\\
@@ -466,6 +476,8 @@ Diabetes duration (splines)&&&&&&\\
 \hspace*{10mm}> 20&     .011         &     .007         &    -.046\sym{*}  &    -.010\sym{*}  &    -.003         &    -.015         \\
                 &   (.016)         &   (.014)         &   (.028)         &   (.006)         &   (.003)         &   (.018)         \\
 \midrule
+Hausman test    &                  &                  &  161.953         &                  &                  &  198.692         \\
+\hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
 N               &     8217         &    16292         &    16292         &    10467         &    22407         &    22407         \\
 \midrule 
 \addlinespace
@@ -474,6 +486,9 @@ N               &     8217         &    16292         &    16292         &    10
 Panel A: &&&&&&\\
 Diabetes duration (linear)&  .001         &     .010\sym{**} &    -.019         &    -.014\sym{*}  &    -.009         &    -.073\sym{**} \\
                 &   (.006)         &   (.005)         &   (.018)         &   (.008)         &   (.008)         &   (.029)         \\
+\midrule                
+Hausman test    &                  &                  &  838.213         &                  &                  &   93.232         \\
+\hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\                
 \midrule
 \addlinespace
 Panel B: &&&&&&\\
@@ -487,6 +502,8 @@ Diabetes duration (splines)&&&&&&\\
 \hspace*{10mm}> 20&     .053         &     .014         &    -.111         &    -.007         &     .041\sym{***}&    -.204\sym{***}\\
                 &   (.054)         &   (.040)         &   (.104)         &   (.028)         &   (.015)         &   (.053)         \\
 \midrule
+Hausman test    &                  &                  & 1037.290         &                  &                  &   96.266         \\
+\hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
 N               &     5509         &    10767         &    10767         &     2874         &     5741         &     5741         \\
 \midrule
 \addlinespace
@@ -495,6 +512,9 @@ N               &     5509         &    10767         &    10767         &     2
 Panel A: &&&&&&\\
 Diabetes duration (linear)& .069         &     .048         &     .181         &    -.020         &    -.124         &     .208         \\
                 &   (.124)         &   (.102)         &   (.330)         &   (.187)         &   (.127)         &   (.652)         \\
+\midrule
+Hausman test    &                  &                  &  704.904         &                  &                  &  107.709         \\
+\hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
 \midrule
 \addlinespace
 Panel B: &&&&&&\\
@@ -508,7 +528,9 @@ Diabetes duration (splines)&&&&&&\\
 \hspace*{10mm}> 20&  -1.300         &    -.768         &     .039         &    -.499         &    -.418         &    8.117\sym{***}\\
                 &   (.944)         &   (.930)         &  (2.184)         &   (.930)         &   (.305)         &  (1.612)         \\
 \midrule
-N               &     6807         &    13579         &    13579         &     3591         &     7383         &     7383         \\
+Hausman test    &                  &                  &  724.225         &                  &                  &  112.627         \\
+\hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
+N               &     6807         &    13581         &    13581         &     3591         &     7383         &     7383         \\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}

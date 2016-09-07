@@ -5672,7 +5672,7 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Luo et al. - 2015 - Factors Influencing Self-Management in Chinese Adults with Type 2 Diabetes A Systematic Review and Meta-Analysis.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.embase.com/search/results?subaction=viewrecord%7B%5C&%7Dfrom=export%7B%5C&%7Did=L605963199$%5Cbackslash$nhttp://dx.doi.org/10.3390/ijerph120911304$%5Cbackslash$nhttp://sfx.metabib.ch/sfx%7B%5C_%7Dlocater?sid=EMBASE%7B%5C&%7Dissn=16604601%7B%5C&%7Did=doi:10.3390/ijerph120911304%7B%5C&%7Datitle=Factors+influencing+self-manag
+      \verb http://www.embase.com/search/results?subaction=viewrecord%7B%5C&%7Dfrom=export%7B%5C&%7Did=L605963199%7B%%7D5Cnhttp://dx.doi.org/10.3390/ijerph120911304%7B%%7D5Cnhttp://sfx.metabib.ch/sfx%7B%5C_%7Dlocater?sid=EMBASE%7B%5C&%7Dissn=16604601%7B%5C&%7Did=doi:10.3390/ijerph120911304%7B%5C&%7Datitle=Factors+influencing+self-manag
       \endverb
       \keyw{Chinese,adult,age,article,coping behavior,depression,disease duration,doctor patient relation,educational status,environmental factor,health belief,health care utilization,health education,health insurance,hospital admission,human,income,locus of control,marriage,medical history,non insulin dependent diabetes mellitus,patient attitude,self care,self concept,sex difference,social support,systematic review}
     \endentry
@@ -8516,6 +8516,37 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Sicree, Shaw, Zimmet - 2011 - The Global Burden Diabetes and Impaired Glucose Tolerance.pdf:pdf
       \endverb
     \endentry
+    \entry{WHOresearchpriorities2010}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=0450fc0a5aac78904b6de68bafbed0df}{Silink}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d1402986bd7fd0832c41a559655ffab4}{Tuomilehto}{T\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=217adc6343a60a1607f6c2e4afa02f96}{Mbanya}{M\bibinitperiod}{J.\bibnamedelimi C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=3d8f3afff571be81bbb946b21c020917}{Narayan}{N\bibinitperiod}{K.\bibnamedelimi M.\bibnamedelimi Venkat}{K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4e5ee8a9a824995a807ef42f31c314}{Fradkin}{F\bibinitperiod}{Judy}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2db00515b595269f6851ec8220e09be5}{Roglic}{R\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=0450fc0a5aac78904b6de68bafbed0df}{Silink}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d1402986bd7fd0832c41a559655ffab4}{Tuomilehto}{T\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=217adc6343a60a1607f6c2e4afa02f96}{Mbanya}{M\bibinitperiod}{J.\bibnamedelimi C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=3d8f3afff571be81bbb946b21c020917}{Narayan}{N\bibinitperiod}{K.\bibnamedelimi M.\bibnamedelimi Venkat}{K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=dd4e5ee8a9a824995a807ef42f31c314}{Fradkin}{F\bibinitperiod}{Judy}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2db00515b595269f6851ec8220e09be5}{Roglic}{R\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4f96f03c67c496ee10029966d808fb9a}
+      \strng{fullhash}{9d02285db370414bc3b3b4eff2c6ed6f}
+      \field{sortinit}{S}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Research priorities: Prevention and Control of Diabetes with A Focus on Low and Middle Income Countries}}
+      \field{journaltitle}{WHO Meetings on Development of A Prioritized Research Agenda for Development of Prevention and Control of Noncommunicable Disease}
+      \field{title}{{Research priorities: Prevention and Control of Diabetes with A Focus on Low and Middle Income Countries}}
+      \field{volume}{6}
+      \field{year}{2010}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/M. Silink, J. Tuomilehto, J. C. Mbanya, K. M. Venkat Narayan, Judy Fradkin - 2010 - Research priorities Prevention and Control of Diabet.pdf:pdf
+      \endverb
+    \endentry
     \entry{Simpson2003}{article}{}
       \name{labelname}{4}{}{%
         {{hash=45d06351fd7df7716e7729324e49a541}{Simpson}{S\bibinitperiod}{Scot\bibnamedelima H}{S\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -8839,39 +8870,6 @@
       \verb :home/till/Dokumente/Mendeley Desktop/I.A., O.F., O.O. - 2006 - Pharmacoeconomic evaluation of anti-diabetic therapy in a Nigerian tertiary health institution.pdf:pdf
       \endverb
       \keyw{all,download,embase,embase2,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
-    \endentry
-    \entry{Textor2011}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=6d67e4628007198f49152bd69eab37fb}{Textor}{T\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=d411e4510032b39b609bffed4e3f1590}{Hardt}{H\bibinitperiod}{Juliane}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=94d11c2ee0dfef51d6cb5d014b467e97}{Knüppel}{K\bibinitperiod}{Sven}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=6d67e4628007198f49152bd69eab37fb}{Textor}{T\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=d411e4510032b39b609bffed4e3f1590}{Hardt}{H\bibinitperiod}{Juliane}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=94d11c2ee0dfef51d6cb5d014b467e97}{Knüppel}{K\bibinitperiod}{Sven}{S\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{d1b8565ec259ba060e8357e453ecbefd}
-      \strng{fullhash}{cf29e1c7908de8c586e98902909fc0d6}
-      \field{sortinit}{T}
-      \field{labelyear}{2011}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{DAGitty: a graphical tool for analyzing causal diagrams.}}
-      \field{abstract}{Epidemiology. 2011 Sep;22(5):745. doi: 10.1097/EDE.0b013e318225c2be. Letter}
-      \field{isbn}{1044-3983}
-      \field{issn}{1531-5487}
-      \field{journaltitle}{Epidemiology}
-      \field{number}{5}
-      \field{title}{{DAGitty: a graphical tool for analyzing causal diagrams.}}
-      \field{volume}{22}
-      \field{year}{2011}
-      \field{pages}{745}
-      \verb{doi}
-      \verb 10.1097/EDE.0b013e318225c2be
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Textor, Hardt, Knüppel - 2011 - DAGitty a graphical tool for analyzing causal diagrams.pdf:pdf
-      \endverb
     \endentry
     \entry{Tharkar2010a}{article}{}
       \name{labelname}{4}{}{%

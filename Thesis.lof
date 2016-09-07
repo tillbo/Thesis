@@ -11,7 +11,7 @@
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Kernel-weighted local polynomial regression of log hourly wages on diabetes duration.\relax }}{160}{figure.caption.140}
 \contentsline {figure}{\numberline {4.3}{\ignorespaces Kernel-weighted local polynomial regression of working hours on diabetes duration.\relax }}{161}{figure.caption.141}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Direct acyclic graph (DAG) representing the relations between confounders/outcomes and a diabetes diagnosis.\relax }}{176}{figure.caption.158}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models (duration groups)\relax }}{187}{figure.caption.170}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on overweight and obesity using fixed effects (duration groups)\relax }}{204}{figure.caption.202}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Direct acyclic graph (DAG) representing the relations between confounders/outcomes and a diabetes diagnosis.\relax }}{177}{figure.caption.160}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models and fixed effects (duration groups)\relax }}{188}{figure.caption.171}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on overweight and obesity using fixed effects (duration groups)\relax }}{204}{figure.caption.203}
 \addvspace {10\p@ }
