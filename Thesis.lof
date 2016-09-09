@@ -3,15 +3,15 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces \acs *{PRISMA} flowchart.\relax }}{30}{figure.caption.37}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Number of \acs *{COI} studies, by costing approach and income group.\relax }}{35}{figure.caption.44}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces \acs *{GDP} to direct costs ratio by estimation approach.\relax }}{41}{figure.caption.52}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Direct and indirect cost relation in studies estimating total costs of type 2 diabetes.\relax }}{43}{figure.caption.56}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \acs *{GDP} to direct costs ratio by estimation approach.\relax }}{42}{figure.caption.52}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Direct and indirect cost relation in studies estimating total costs of type 2 diabetes.\relax }}{44}{figure.caption.56}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Kernel-weighted local polynomial regression of employment status on diabetes duration.\relax }}{159}{figure.caption.139}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Kernel-weighted local polynomial regression of log hourly wages on diabetes duration.\relax }}{160}{figure.caption.140}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Kernel-weighted local polynomial regression of working hours on diabetes duration.\relax }}{161}{figure.caption.141}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Kernel-weighted local polynomial regression of employment status on diabetes duration.\relax }}{174}{figure.caption.139}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Kernel-weighted local polynomial regression of log hourly wages on diabetes duration.\relax }}{175}{figure.caption.140}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Kernel-weighted local polynomial regression of working hours on diabetes duration.\relax }}{176}{figure.caption.141}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Direct acyclic graph (DAG) representing the relations between confounders/outcomes and a diabetes diagnosis.\relax }}{177}{figure.caption.160}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models and fixed effects (duration groups)\relax }}{188}{figure.caption.171}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on overweight and obesity using fixed effects (duration groups)\relax }}{204}{figure.caption.203}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Direct acyclic graph (DAG) representing the relations between confounders/outcomes and a diabetes diagnosis.\relax }}{193}{figure.caption.161}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes (duration groups)\relax }}{205}{figure.caption.172}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Analysis of the effect of time since diabetes diagnosis on overweight and obesity (duration groups)\relax }}{227}{figure.caption.199}
 \addvspace {10\p@ }

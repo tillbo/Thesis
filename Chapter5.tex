@@ -9,15 +9,18 @@ A diabetes diagnosis entails important consequences for its recipients. They obt
 
 \section{\label{sec:Introduction5}Introduction}
 
-While the risk factors for type 2 diabetes, post diagnosis blood glucose management and the resulting diabetes complications have received considerable research---including in the context of China \parencite{Pan2015,Batis2014,Zhao2012,Ma2014,Chan2014,Yang2012}---, the effects of a diabetes diagnosis itself on behavioural risk-factors for diabetes complications is less well known. This is despite research suggesting that behaviour changes after a diabetes diagnosis can have positive effects and reduce the risk of subsequent cardiovascular events\parencite{Long2014}, may help in effectively managing blood glucose levels and achieving further treatment goals \parencite{Zhou2016}. Further, such changes in behaviours may also affect the economic impact of diabetes if they cause a delay in or even prevent the onset of complications. As \textcite{Seuring2016} have shown for Mexico, a diabetes diagnosis can cause changes in labour market performance in a \ac{MIC}. Therefore, we also investigate the impact of a diabetes diagnosis on employment probabilities.
+Diabetes risk factors such as alcohol consumption, weight gain, smoking or caloric consumption are all related to the onset of diabetes as well as ensuing diabetes complications. They may further be influenced by the diabetes diagnosis itself as well as by a person's employment status. Research shows for instance that behaviour changes after a diabetes diagnosis can have positive health effects and reduce the risk of subsequent cardiovascular events\parencite{Long2014}, may help in effectively managing blood glucose levels and achieving further treatment goals \parencite{Zhou2016}. As a consequence, such changes may also affect the economic impact of diabetes if they cause a delay in or even prevent the onset of complications. Further, employment status may itself be related to diabetes risk factors, for example by affecting the time spend on physical activity or by increasing stress levels due to unemployment or due to challenges at the workplace, affect other risk behaviours such as smoking or alcohol consumption. In an effort to longitudinally investigate the impact of unemployment on health behaviours, \textcite{Colman2014} found heterogeneous effects of unemployment, with it leading to slight weight gain, a decrease in smoking and decreases in fast-food consumption. Macroeconomic evidence also indicates that job loss can lead to changes in health, especially in mental health \parencite{Charles2008}, which may have further downstream effects on health behaviours.
 
-One of the challenges faced by researchers investigating the effects of diabetes on both risk factors and economic outcomes, is establishing a causal relationship rather then associations. Firstly, unobserved variables may be biasing the estimates, in particular time-invariant causes such as poor early life conditions that could increase the probabilities to have diabetes and at the same time to be unemployed or to be smoking. Similarly, personal character trades are difficult to measure but could affect both diabetes and risk behaviours or employment outcomes. Further, it is conceivable that diabetes risk factors such as a high \ac{BMI} or smoking are causally related to both employment chances and diabetes, and are at the same time affected by a diabetes diagnosis themselves. This makes it difficult to identify the causal pathway through which diabetes affects employment chances. So far studies exploring the economic impact of diabetes have often refrained from accounting for such risk factors due to the danger of over-adjusting, as standard regression techniques such as \ac{OLS} or \ac{FE} are unable to account for the potentially bidirectional relationship. We therefore use \acp{MSM}, an estimation strategy that is able to account for time-dependent confounding across time \parencite{Robins2000} when estimating the impact of a treatment, here a diabetes diagnosis, on the outcome of interest. We further complement this strategy and test its robustness by alternatively estimating \acp{FE} models that---while unable to account for the potentially simultaneous relationships---are able to take into account any unobserved time-invariant confounding additionally to confounding due to observed variables.
+Research on the impact of diabetes on labour market outcomes has so far ignored the potentially simultaneous relationship of diabetes, employment and behavioural diabetes risk factors due to the danger of over-adjusting, as standard regression techniques such as \ac{OLS} or \ac{FE} are unable to account for multi-directional relationships. Similarly, there is a dearth of studies investigating longitudinally the impact of a diabetes diagnosis on behavioural diabetes risk factors, while taking into account the effect of employment status on both diabetes and diabetes risk factors. A further challenge faced by researchers investigating the effects of diabetes on both economic outcomes and risk factors are unobserved variables that may be biasing the estimates. In particular time-invariant ones such as poor early life conditions or time stable personal character trades, may simultaneously increase the probabilities to develop diabetes and to be unemployed or to engage in unhealthy behaviours. 
 
-More information about the effects of a diabetes diagnosis may be particularly important for \acp{LMIC} such as China, where diabetes prevalence has surged from 1\% in the early 1980s to about 10\% in recent years \autocite{Hu2011,Risk2016}. Confronting this diabetes epidemic puts a strain on healthcare systems \parencite{Seuring2015a}, increasing the need to find highly cost-effective prevention and treatment options in very resource constraint settings \parencite{WHOresearchpriorities2010}. However, to do this it is important to assess how successful people with diabetes currently are is in promoting positive health behaviours and preventing adverse economic outcomes.
+The goal of this study is therefore to assess the impact of a diabetes diagnosis on both employment probabilities and behavioural risk factors while accounting for the potentially intertwined relationships between diabetes, employment and health behaviours. This is done via the use of \acp{MSM}, an estimation strategy that is able to account for time-dependent confounding across time \parencite{Robins2000} when estimating the impact of a treatment, here a diabetes diagnosis, on the outcome of interest. This is the first time this strategy is used to estimate the impact of diabetes on employment status. We further complement this and test the robustness of \ac{MSM} to the potential violation of one of its crucial assumptions of no unmeasured confounding. Therefore, we estimate \acp{FE} models that---while unable to account for the potentially simultaneous relationships---are able to take into account any unobserved time-invariant confounding additionally to confounding due to observed variables. Very different results to the \ac{MSM} would suggest considerable unobserved confounding. To assess further how important any unmeasured confounding may be, we additionally estimate \ac{RE} models to compare the results from the \acp{MSM} and \ac{FE} models against. Apart from these methodological contributions, the study also further extends the evidence base for the impact of diabetes on employment probabilities in \acp{MIC}, where currently empirical information is only available for Mexico \parencite{Seuring2016}. At the same time the study provides first, as far as we are aware, longitudinal evidence for the effect of a diabetes diagnosis on behavioural risk factors for diabetes complications in China or any \ac{LMIC} for that matter.
 
-So far, population-level longitudinal research on the effects of health information on post-diagnosis behaviour change is scarce and has been limited to \acp{HIC}. The sole study on the effects of recently diagnosed diabetes on health behaviours found positive behaviour changes shortly after diagnosis in a USA population. However, the effects were mostly short lived and tended to dissipate over time, particularly considering weight loss \autocite{Slade2012}. Slade created an "at risk" control group without diabetes that intended to be similar to the treatment group with diabetes, apart from not having received a diagnosis. He used information on diabetes biomarkers to estimate the propensity score of those without a diabetes diagnosis to be above a specific at risk threshold, so that everybody above a certain propensity score was used to form the control group. He then estimated dynamic population averaged as well as \ac{FE} models for identification. While this allowed for the construction of a control group, the study was not able to account for the possibility of selection into treatment based on pre-treatment values of the dependent variables.
+ 
+More information about the effects of a diabetes diagnosis may be particularly important for \acp{LMIC} such as China, where diabetes prevalence has surged from 1\% in the early 1980s to about 10\% in recent years \autocite{Hu2011,Risk2016}. Confronting this diabetes epidemic puts a strain on healthcare systems \parencite{Seuring2015a}, increasing the need to find highly cost-effective prevention and treatment options in very resource constraint settings \parencite{WHOresearchpriorities2010}. However, to do this it is important to assess how successful people with diabetes currently are in preventing adverse economic effects and reducing their risk factors for diabetes complications.
 
-Another study investigated the effect of a hypertension diagnosis on nutritional behaviours in China using a regression-discontinuity design and biomarker information on blood pressure \autocite{Zhao2013a}. A crucial assumption in the study was that people above the hypertension threshold were indeed informed about that outcome while those just below the threshold were not. These two groups were then compared to isolate the particular effect of the additional health information on food consumption. The results indicated that a diagnosis leads to reductions in fat consumption of the rich at the consecutive wave. However, an important caveat of the study that the above assumption about who gets (not) informed about the outcome of the examination might not have been fully met. It remained somewhat unclear whether the participants received just the actual blood pressure measurement information and had to interpret these data themselves, or whether they were made explicitly aware of their hypertension (or also pre-hypertension) status \autocite{Zhao2013a}. Further, the results may have limited generalisability, since the measured treatment effect is a very local one, applying only to the population around the hypertension threshold. The effects might be different for people receiving their 'diagnosis' and having very severe hypertension already.
+So far, population-level longitudinal research on the effects of health information on post-diagnosis behaviour change is scarce and has been limited to \acp{HIC}. The sole study on the effects of recently diagnosed diabetes on health behaviours found positive behaviour changes shortly after diagnosis in a USA population. However, the effects were mostly short lived and tended to dissipate over time, particularly considering weight loss \autocite{Slade2012}. Slade created an "at risk" control group without diabetes that intended to be similar to the treatment group with diabetes, apart from not having received a diagnosis. He used information on diabetes biomarkers to estimate the propensity score of those without a diabetes diagnosis to be above a specific at risk threshold, so that everybody above a certain propensity score was used to form the control group. He then estimated dynamic population averaged as well as \ac{FE} models for identification. While this allowed for the construction of a control group, the study was not able to account for the bidirectional relationship between diabetes and health behaviours.
+
+Another study investigated the effect of a hypertension diagnosis on nutritional behaviours in China using a regression-discontinuity design and biomarker information on blood pressure \autocite{Zhao2013a}. A crucial assumption in the study was that people above the hypertension threshold were indeed informed about that outcome while those just below the threshold were not. These two groups were then compared to isolate the particular effect of the additional health information on food consumption. The results indicated that a diagnosis leads to reductions in fat consumption at the consecutive wave, though only for those economically better off. However, an important caveat of the study was that it was not always clear whether the participants received just the actual blood pressure measurement information and had to interpret these data themselves, or whether they were made explicitly aware of their hypertension (or also pre-hypertension) status \autocite{Zhao2013a}. Further, the results may have limited generalisability, since the measured treatment effect is a very local one, applying only to the population around the hypertension threshold. The effects may have been different for people receiving their 'diagnosis' while already having very severe hypertension.
 
 %Finally, another study on China also used diabetes biomarkers to identify those formally unaware of their diabetes, assuming that they were informed about their diabetes status by the survey team \parencite{Liu2014}. They use a difference in difference approach to identify the effect of a diagnosis on labour income in the wave after diagnosis, finding a decrease of about 16\%. They attribute this effect to the psychological consequences of the diabetes diagnosis, however, they are not able to rule out an effect of a deterioration of health on income. Further, the results only provide a short term picture, and it remains unclear if people are able to recover from the initial shock. ONLY INCLUDE IF I ALSO LOOK AT INCOME
 
@@ -36,12 +39,13 @@ Overall, between 84\% to 90\% of the survey participants are followed up in the 
 
 \subsection{Assessment of diabetes}
 
-We used self-reported information on a diabetes diagnosis to construct our diabetes indicator. We only relied on incident cases of self-reported diabetes, excluding individuals with self-reported diabetes at baseline. Given the chronic nature of diabetes, we assumed that after the initial diagnosis diabetes persisted for the rest of one's life. To construct a measure of diabetes duration for incidence cases we used self-reported information on the year of diagnosis. If we found that the year of diagnosis was reported to be before the last wave without a reported diagnosis, we used the midpoint between the last wave without diagnosis and the first wave with a diagnosis as the year of diagnosis.\footnote{The number of observations replaced at each wave was: 21 (2000), 44 (2004), 51  (2006), 78 (2009), 59 (2011). Overall it affected 43\% of the year of diabetes diagnosis self-reports.}
+We use self-reported information on a diabetes diagnosis to construct our diabetes indicator. We only rely on incident cases of self-reported diabetes, excluding individuals with self-reported diabetes at baseline. Given the chronic nature of diabetes, we assume that after the initial diagnosis diabetes persists for the rest of one's life. To construct a measure of diabetes duration for incidence cases we use self-reported information on the year of diagnosis. If we found that the year of diagnosis was reported to be before the last wave without a reported diagnosis, we used the midpoint between the last wave without diagnosis and the first wave with a diagnosis as the year of diagnosis.\footnote{The number of observations replaced at each wave was: 21 (2000), 44 (2004), 51  (2006), 78 (2009), 59 (2011). Overall it affected 43\% of the year of diabetes diagnosis self-reports.}
 
 \subsection{Assessment of outcomes}
 
-The economic outcomes we focus on is employment status, based on a self-reported measure of if the person was currently working. People who were not working because they were students were excluded. We did include those that were not working due to any other reason such as doing housework, being disabled or being retired. 
-The behavioural outcomes we estimated were current smoking status, any alcohol consumption over the last year, \ac{BMI}, waist circumference in centimetres and daily calorie consumption. Smoking status and alcohol consumption were self-reported, while \ac{BMI} and waist circumference were based on anthropometric measurements, minimizing potential reporting errors. Waist circumference is reported in centimetres. Finally, daily calorie consumption is a constructed variable available in the \ac{CHNS}, based on the average daily consumption of carbohydrates, protein and fat of every individual in the survey, measured on three consecutive days. Our economic outcomes was employment status, based on a self-reported measure of if the person was currently working. People who were not working because they were students were excluded. We did include those that were not working due to any other reason such as doing housework, being disabled or being retired.
+The economic outcome we focus on is employment status, based on a self-reported measure of if the person is currently working. People who are not working because they are students are excluded. We do include those that are not working due to any other reason such as doing housework, being disabled or being retired. 
+
+The behavioural outcomes we estimate are current smoking status, if alcohol was consumed equal to or more than three times per week, \ac{BMI}, waist circumference in centimetres and daily calorie consumption. Smoking status and alcohol consumption are self-reported, while \ac{BMI} and waist circumference are based on anthropometric measurements, minimizing potential reporting errors. Waist circumference is reported in centimetres. Finally, daily calorie consumption is a constructed variable available in the \ac{CHNS}, based on the average daily consumption of carbohydrates, protein and fat of every individual in the survey, measured on three consecutive days. We also estimate models using overweight and obesity indicators instead of a continuous weight measurements. We do, however, not include them in our primary analysis as there is considerable discussion about the correct thresholds to use for Asian populations \parencite{WHO2004,He2015,Zeng2014a}. We applied thresholds suggested by the China Obesity Task Force of a \ac{BMI} $\geq$ 24 to define overweight and a \ac{BMI} $\geq$ 28 to define obesity \parencite{group2004body}. The results are presented in the appendix.
 
 
 \subsection{Statistical analysis}
@@ -65,19 +69,19 @@ We use two statistical approaches to account for potential confounding: \acfp{MS
 
 In our context it seems possible that, for example, \ac{BMI} could affect the probability of being diagnosed with diabetes which then itself may affect subsequent \ac{BMI} levels, confounding the relationship between a diabetes diagnosis and \ac{BMI} due to non-random selection. Similarly, employment history and current employment could affect the probability of a diabetes diagnosis through their impact on lifestyle and hence diabetes risk factors such as increases weight or smoking. For example, an increase in disposable income or a reduction in leisure time as a result of a new job and the subsequent effect on risk behaviours could confound the relationship between a diabetes diagnosis and employment status. \ac{MSM} accounts for this by calculating weights based on the potential risk of a person being diagnosed at each time point. 
 
-To calculate these weights we first constructed unstabilized weights using baseline values of time-variant confounders, time-invariant confounders as well as time-variant confounders lagged by one period to predict the probability of developing diabetes at each wave. We used lagged time-variant confounders because current diabetes status as reported in the survey was determined at some point within the current and the previous wave that were determined before the current diabetes status, to prevent reverse causality. The used predictors were age and age squared to account for changes in risk with increasing age, an index of urbanization pre-constructed within the \ac{CHNS} data, ranging from 1 to 120 as the level of urbanization increases \parencite{Zhang2014d}, to account for the impact of urbanization on diabetes risk \parencite{Attard2012}. We also used secondary and university education, being married, having any medical insurance, being of Han ethnicity, living in a rural area, dummies for the different Chinese regions and the respective survey waves as predictors. Further we used inflation adjusted per-capita household income to adjust for effects of household wealth on diabetes. Finally, all outcome variables (employment status, alcohol consumption, smoking status, \ac{BMI}, waist circumference and average daily calorie consumption) were used as predictors. 
+To calculate these weights we first construct unstabilized weights using baseline values of time-variant confounders, time-invariant confounders as well as time-variant confounders lagged by one period to predict the probability of developing diabetes at each wave. We use lagged time-variant confounders because current diabetes status as reported in the survey was determined at some point within the current and the previous wave that were determined before the current diabetes status, to prevent reverse causality. The used predictors are age and age squared to account for changes in risk with increasing age, an index of urbanization pre-constructed within the \ac{CHNS} data, ranging from 1 to 120 as the level of urbanization increases \parencite{Zhang2014d}, to account for the impact of urbanization on diabetes risk \parencite{Attard2012}. We also use secondary and university education, being married, having any medical insurance, being of Han ethnicity, living in a rural area, dummies for the different Chinese regions and the respective survey waves as predictors. Further we use inflation adjusted per-capita household income to adjust for effects of household wealth on diabetes. Finally, all outcome variables (employment status, alcohol consumption, smoking status, \ac{BMI}, waist circumference and average daily calorie consumption) are used as predictors. 
 
-Because unstabilized weights can be highly variable it is recommended to stabilize the weights \parencite{Cole2008}. Using the unstabilized weights as the denominator, stabilized weights were calculated by dividing the denominator by the predicted treatment propensity from a model using only time-invariant confounders and baseline information of the time-variant confounders as predictors.  Because our analysis was stratified by males and females, we created weights separately for both groups.
+Because unstabilized weights can be highly variable it is recommended to stabilize the weights \parencite{Cole2008}. Using the unstabilized weights as the denominator, stabilized weights are calculated by dividing the denominator by the predicted treatment propensity from a model using only time-invariant confounders and baseline information of the time-variant confounders as predictors.  Because our analysis is stratified by males and females, we create weights separately for both groups.
 
-The \acp{MSM} were estimated using \ac{OLS} for the continuous and a logistic model for the binary outcomes. For the logistic model we calculated average marginal effects for greater comparability with the results of the \ac{FE} models. All models were weighted by the stabilized weights constructed beforehand while adjusting for all baseline and time-invariant covariates used in the calculation of the stabilized weights, except for the respective outcome of interest. Robust standard errors to account for intra-class correlation of repeated outcome measurements in individuals were used throughout. In our primary analysis, we present the results of the \ac{MSM} with untruncated stabilized weights, as these present unbiased estimates, albeit they likely are less efficient than truncated weights \parencite{Cole2008}. We checked the distributions of inverse probability weights for extreme values and that the mean weights were 1 (see Table \ref{tab:stabweights}).
+The \acp{MSM} are estimated using \ac{OLS} for the continuous and a logistic model for the binary outcomes. For the logistic model we calculate average marginal effects for greater comparability with the results of the \ac{FE} models. All models are weighted by the stabilized weights constructed beforehand while adjusting for all baseline and time-invariant covariates used in the calculation of the stabilized weights, except for the respective outcome of interest. Robust standard errors to account for intra-class correlation of repeated outcome measurements in individuals are used throughout. In our primary analysis, we present the results of the \ac{MSM} with untruncated stabilized weights, as these provide theoretically unbiased estimates, albeit they likely are less efficient than truncated weights \parencite{Cole2008}. The distribution of the inverse probability weights supports this decision as there are no extreme values and the mean weight is 1 (see Table \ref{tab:stabweights}).
 
 \subsubsection*{Fixed effects}
 
 While the \ac{MSM} can account for pre-treatment selection on observable and time-variant confounders, it assumes that there are no unobserved time-invariant confounders such as family background, cognitive abilities, and other personal characteristics. This is a strong assumption that may be violated. The individual level \ac{FE} model can help remedy this problem as it is able to account for both observed time-variant and invariant variables as well as time-invariant unobserved variables. It does so by demeaning the confounding variables at each time point by the overall individual mean across all observed time points. It then uses solely the within-person variation for identification, thereby accounting for any time-invariant observed or unobserved as well as observed time-variant effects. 
 
-This comes at a price: due to the demeaning, time-invariant variables such as Han ethnicity, were dropped from the model and could not be estimated. Further, because the \ac{FE} model is not able to account for any treatment effects on other time-variant confounders, only a more limited set of confounders could be included compared to the \ac{MSM}. Otherwise our estimate of the effect of a diabetes diagnosis would likely be biased due to the inclusion of 'bad controls' \parencite{Angrist2009a}. Bad controls are those that have been affected by the treatment itself---such as \ac{BMI} or smoking status after a diabetes diagnosis---and therefore likely capture part of the causal effect of diabetes on our outcome of interest, biasing the diabetes coefficient \parencite{Angrist2009a}. The \ac{FE} models thus only included controls for age, age squared, the level of urbanization, education, being married, having any medical insurance, living in a rural area, and dummies for the different Chinese regions and the respective survey waves. For the estimation of the effect of time since diagnosis, the linear age variable was dropped. In \ac{FE} models, two or more variables that change at the same rate between waves cannot be separately identified. Here this was the case with age and time-dummies, as both variables increased by one each additional year \parencite{Wooldridge2012}. To identify the effect of diabetes duration we had to rely on the presence of people without diabetes in the sample, for which diabetes duration did not increase at the same rate as time.
+This comes at a price: due to the demeaning, time-invariant variables such as Han ethnicity, are dropped from the model and cannot not be estimated. Further, because the \ac{FE} model is not able to account for any treatment effects on other time-variant confounders, only a more limited set of confounders could be included compared to the \ac{MSM}. Otherwise our estimate of the effect of a diabetes diagnosis would likely be biased due to the inclusion of 'bad controls' \parencite{Angrist2009a}. Bad controls are those that have been affected by the treatment itself---such as \ac{BMI} or smoking status after a diabetes diagnosis---and therefore likely capture part of the causal effect of diabetes on our outcome of interest, biasing the diabetes coefficient \parencite{Angrist2009a}. The \ac{FE} models thus only includes controls for age, age squared, the level of urbanization, education, being married, having any medical insurance, living in a rural area, and dummies for the different Chinese regions and the respective survey waves. For the estimation of the effect of time since diagnosis, the linear age variable is dropped. In \ac{FE} models, two or more variables that change at the same rate between waves cannot be separately identified. Here this is the case with age and time-dummies, as both variables increase by one each additional year \parencite{Wooldridge2012}. To identify the effect of diabetes duration we have to rely on the presence of people without diabetes in the sample, for which diabetes duration does not increase at the same rate as time.
 
-Because it is not possible to retrieve marginal effects from a logistic \ac{FE} model, we used a \ac{FE} linear probability model instead. It generally produces very similar estimates compared to non-linear models \parencite{Angrist2009a}.
+Because it is not possible to retrieve marginal effects from a logistic \ac{FE} model, we use a \ac{FE} linear probability model instead. It generally produces very similar estimates compared to non-linear models \parencite{Angrist2009a}.
 
 \subsubsection*{Multiple imputation}
 
@@ -89,15 +93,15 @@ Because we used lagged variables to construct the stabilized weights for the \ac
 
 \subsubsection*{Sensitivity analyses}
 
-We conducted three additional sensitivity analyses in order to test the robustness of our results to different assumptions and estimation strategies.
-First, we truncated weights at the 1\textsuperscript{st} and 99\textsuperscript{th} percentile to investigate the sensitivity of the \acp{MSM} to the most extreme weights. While untruncated weights provide unbiased estimates under the assumptions of the \ac{MSM}, they may not be the most efficient and tend to have larger standard errors \parencite{Cole2008}. Second, we estimated all models using only covariate adjustment to investigate in how far this 'naive' approach diverts from the "causal" estimates of the \ac{FE} and \acp{MSM}. Third, we estimated the \ac{FE} and \acp{MSM} using the original non-imputed data to ascertain the extent to which multiple imputation affected the results.
+We conduct three additional sensitivity analyses in order to test the robustness of our results to different assumptions and estimation strategies.
+First, we estimate all models using only covariate adjustment in a \ac{RE} model, to investigate in how far this 'naive' approach diverts from the "causal" estimates of the \ac{FE} and \acp{MSM}. These results are presented and discussed together with the \ac{MSM} and \ac{FE} results. Second, we truncate weights at the 1\textsuperscript{st} and 99\textsuperscript{th} percentile to investigate the sensitivity of the \acp{MSM} to the most extreme weights. While untruncated weights provide unbiased estimates under the assumptions of the \ac{MSM}, they may not be the most efficient and tend to have larger standard errors \parencite{Cole2008}. Third, we estimate the \ac{FE} and \acp{MSM} using the original non-imputed data to ascertain the extent to which multiple imputation affected the results.
 
 \section{\label{sec:Results5}Results}
 
 From the descriptive statistics, we can observe that people with diabetes in any wave are less likely to be employed. Looking at health behaviours, it is mainly men that smoke and report alcohol consumption while very few women do so. The prevalence of smoking and drinking was lower for men with diabetes; they also consumed fewer calories compared to men without diabetes. Further, the diabetes group has both higher \ac{BMI} and waist circumference levels. They are also older, live in more urbanized areas, are more likely to have insurance and men are somewhat better educated while women are less educated compared to their counterparts without diabetes. Both men and women report an average time since diagnosis of around 4.5 years. Looking at per capita household income, men and women with diabetes come from household with higher income levels than those without a diabetes diagnosis. Further it appears that in China it is less educated women that report a diagnosis, while men with diabetes are better educated compared to those without diabetes.
 
 \begin{landscape}
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:descriptives_diab}Sample means for males and females, by diabetes status}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth}  
@@ -135,9 +139,9 @@ Observations        &       23413&         284&       23697&       23577&       
 \end{landscape}
 \FloatBarrier
 
-Predicting the denominator for the stabilized weights we find that for men a higher baseline \ac{BMI} increases the risk of a diabetes diagnosis. Further, increases in age, waist circumference as well as urbanization levels are associated with higher chances for men to be diagnosed with diabetes throughout the survey. Interestingly becoming employed may decrease the chances of being diagnosed with diabetes slightly, justifying the use of the \ac{MSM} in our employment models as well  (Table \ref{tab:predictors}). Because these are not causal estimates, it may be that it is more likely for men with a lower risk of diabetes to be selected into employment. Interestingly, we do not find that higher household income levels are predictive of a diagnosis for men, despite what the descriptive statistics indicated. For women, higher age at baseline, increases in \ac{BMI} and waist circumference  as well as living in a non-rural environment predict a diabetes diagnosis. Further, especially living in certain provinces of the country appears to increase the likelihood to receive a diabetes diagnosis for men, but not for women.
+Predicting the denominator for the stabilized weights we find that for men a higher baseline \ac{BMI} increases the risk of a diabetes diagnosis. Further, increases in age, waist circumference as well as urbanization levels are associated with higher chances for men to be diagnosed with diabetes throughout the survey. Interestingly becoming employed may decrease the chances of being diagnosed with diabetes slightly, justifying the use of the \ac{MSM} in our employment models as well  (Table \ref{tab:predictors}). Because these are not causal estimates, it may be that it is more likely for men with a lower risk of diabetes to select into employment. Interestingly, we do not find that higher household income levels are predictive of a diagnosis for men or women, despite what the descriptive statistics indicated. For women, higher age at baseline, increases in \ac{BMI} and waist circumference  as well as living in a non-rural environment predict a diabetes diagnosis.
 
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:predictors}Time variant and invariant predictors of a diabetes diagnosis  (denominator of stabilized weights)}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth}  
@@ -148,53 +152,53 @@ Predicting the denominator for the stabilized weights we find that for men a hig
                 &\multicolumn{2}{c}{Males}&\multicolumn{2}{c}{Females}\\\cmidrule(lr){2-3}\cmidrule(lr){4-5}&\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
                 &\multicolumn{1}{c}{$\beta$}&\multicolumn{1}{c}{SE}&\multicolumn{1}{c}{$\beta$}&\multicolumn{1}{c}{SE}\\
 \midrule
-Age (bl)          &-.001 &.001         &.004\sym{**} & .002         \\
-Age squared (bl)       &.000 &.000         &-.000\sym{*} &.000         \\
-Urbanization index (bl)      &.000 &.000         &-.000 & .000         \\
-\ac{BMI} (bl)        &.001\sym{**} &.001         &.001 &.001         \\
-Waist circumference (cm) (bl)        &.000 &.000         &.000 &.000         \\
-3-Day Ave: Energy (kcal) (bl)       &-.000 &.000         &-.000 &.000         \\
-Smoking (bl)    &.001 &.002         &.002 &.007         \\
-Any alcohol (bl)        &.000 &.002         &.000 &.003         \\
-Secondary educ. (bl)    &-.002 &.004         &.002 &.004         \\
-University educ. (bl) &-.005 &.007         & -         \\
-Married (bl)      &-.003 &.004         &-.000 &.005         \\
-Any medical insurance (bl)    &.002 &.002         &-.001 &.002         \\
-Employed (bl)        &.002 &.003         &.002 &.002         \\
-Han ethnicity   &.002 &.003         &-.003 &.004         \\
+Age (bl)          &-.000 &.001         &.004\sym{**} & .002         \\
+Age squared (bl)       &.000 &.000         &-.000\sym{**} &.000         \\
+\ac{BMI} (bl)        &.001\sym{***} &.000         &.001 &.000         \\
+Waist circumference (cm) (bl)        &.000 &.000         &.000\sym{*} &.000         \\
+3-Day Ave: Energy (kcal) (bl)       &-.000 &.000         &.000 &.000         \\
+Smoking (bl)    &.001 &.002         &.003 &.006         \\
+Alcohol consumption (bl)        &.003\sym{*} &.002         &.000 &.005         \\
+Urbanization index (bl)      &-.000 &.000         &-.000 & .000         \\
+Secondary educ. (bl)    &-.001 &.003         &.003 &.003         \\
+University educ. (bl) &-.000 &.006         & -         \\
+Married (bl)      &-.002 &.004         &-.000 &.004         \\
+Any medical insurance (bl)    &.002 &.002         &-.000 &.002         \\
+Employed (bl)        &.002 &.003         &.001 &.002         \\
+Han ethnicity   &.001 &.003         &-.002 &.003         \\
 Rural      &-.001 &.002         &-.005\sym{***} &.002         \\
-Household expenditures (2011 Yuan) (bl)&-.000 &.000         &.000 &.000         \\
+Per capita household income (2011 Yuan) (bl)&-.000 &.000         &-.000 &.000         \\
 Survey year && \\
-\hspace*{10mm}2004&.003 &.003         &-.003 &.003         \\
-\hspace*{10mm}2006&.001 &.003         &-.004 &.003         \\
-\hspace*{10mm}2009&.011\sym{***} &.004         &-.001 &.004         \\
+\hspace*{10mm}2004&.002 &.002         &-.001 &.002         \\
+\hspace*{10mm}2006&.003 &.002         &-.003 &.003         \\
+\hspace*{10mm}2009&.009\sym{***} &.003         &-.001 &.004         \\
 \hspace*{10mm}2011&.001 &.003         &.001 &.004         \\
-Age           &.004\sym{**} &.002         &-.002 &.002         \\
-Age squared        &-.000\sym{***} &.000         &.000 &.000         \\
-BMI          &-.001 &.001         &.001\sym{*} &.001         \\
+Age           &.003\sym{**} &.001         &-.002 &.002         \\
+Age squared        &-.000\sym{**} &.001         &.000 &.000         \\
+BMI          &-.001 &.000        &.001\sym{**} &.000         \\
+Waist circumference (cm)         &.000 &.000         &-.000 &.000         \\
+3-Day Ave: Energy (kcal)        &-.000 &.000         &-.000 &.000         \\
+Smoking         &-.003 &.002         &.000 &.006         \\
+Alcohol consumption        &-.004\sym{**} &.002         &-.003 &.006         \\
 Urbanization index         &.000 &.000         &.000 &.000         \\
-Waist circumference (cm)         &.000\sym{*} &.000         &-.000 &.000         \\
-3-Day Ave: Energy (kcal)        &-.000 &.000         &.000 &.000         \\
-Smoking         &-.004\sym{*} &.002         &-.001 &007         \\
-Any alcohol        &-.003 &.002         &-.006 &.004         \\
-Secondary education     &.003 &.004         &.000 &.004         \\
-University education    &.003 &.007         & -         \\
-Married       &.000 &.005         &-.002 &.004         \\
-Any medical insurance     &.002 &.002         &-.000 &.002         \\
-Employed         &-.004\sym{*} &.002         &-.003 &.002         \\
-Household expenditures (2011 Yuan) &.000\sym{**} &.000         &-.000 &.000         \\
+Secondary education     &.001 &.003         &.000 &.003         \\
+University education    &.001 &.006         & -         \\
+Married       &-.000 &.004         &-.003 &.004         \\
+Any medical insurance     &.001 &.002         &-.001 &.002         \\
+Employed         &-.004\sym{**} &.002         &-.003 &.002         \\
+Per capita household income (2011 Yuan) (2011 Yuan) &.000 &.000         &-.000 &.000         \\
 \bottomrule
 \multicolumn{5}{l}{\footnotesize \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
-\multicolumn{5}{l}{\footnotesize Results for province dummies omitted to preserve space.}\\
+\multicolumn{5}{l}{\footnotesize Results for province dummies omitted to preserve space. No observations for women with university education and diabetes.}\\
 \end{tabular}
 }
 \end{adjustbox}
 \end{center}
 \end{table}
 
-The results of our regression analysis are presented in Table \ref{tab:binary}. Both the \ac{FE} model and the \ac{MSM} indicate that women with a diabetes diagnosis have reduced probabilities of being employed than their counterparts without diabetes, with a reduction of 11 percentage points in the \ac{FE} model and 12 percentage points in the \ac{MSM}. This translates into a relative reduction in employment probabilities between 16--17\%. For men no such effect is observed, even though employment was significantly related to a diabetes diagnosis as shown in Table \ref{tab:predictors}.
+The results of our regression analysis are presented in Table \ref{tab:binary}. Both the \ac{FE} model and the \ac{MSM} indicate that women with a diabetes diagnosis have reduced probabilities of being employed than their counterparts without diabetes, with a reduction of 11 percentage points in the \ac{FE} model and 12 percentage points in the \ac{MSM}. This translates into a relative reduction in employment probabilities between 16--17\%. For men no such effect is observed.
 
-\begin{table}[h]
+\begin{table}[p]
 
 \caption{\label{tab:binary}Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models}
 \begin{adjustbox}{max width=\linewidth, center}
@@ -205,31 +209,41 @@ The results of our regression analysis are presented in Table \ref{tab:binary}. 
 S}}
 \toprule
                 &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}\\
-                &\multicolumn{1}{c}{Employment}&\multicolumn{1}{c}{Smoking}&\multicolumn{1}{c}{Any alcohol}&\multicolumn{1}{c}{BMI}&\multicolumn{1}{c}{Waist (cm)}&\multicolumn{1}{c}{Calories (kcal)}\\
+                &\multicolumn{1}{c}{Employment}&\multicolumn{1}{c}{Smoking}&\multicolumn{1}{c}{Alcohol}&\multicolumn{1}{c}{BMI}&\multicolumn{1}{c}{Waist (cm)}&\multicolumn{1}{c}{Calories (kcal)}\\
                 \midrule
 &\multicolumn{6}{c}{\emph{Marginal structural model}} \\  
 \addlinespace                                   
 
 Male sample &&&&&&\\
-Diabetes&      .018         &    -.026         &    -.087\sym{***}&    -.727\sym{***}&   -2.215\sym{***}& -171.754\sym{***}\\
-                &   (.030)         &   (.032)         &   (.034)         &   (.187)         &   (.590)         & (65.287)         \\
+Diabetes&      -.009         &    -.070\sym{**} &    -.094\sym{***}&    -.735\sym{***}&   -1.887\sym{***}& -135.061\sym{**} \\
+                &   (.026)         &   (.032)         &   (.036)         &   (.180)         &   (.574)         & (58.593)         \\
 Female sample &&&&&&\\
-Diabetes     &      -.110\sym{***}&    -.027\sym{**} &    -.023         &    -.668\sym{**} &   -1.177\sym{*}  &  -62.971         \\
-                &   (.035)         &   (.013)         &   (.018)         &   (.264)         &   (.622)         & (55.960)         \\    
+Diabetes     &     -.117\sym{***}&    -.015\sym{*}  &    -.029\sym{**} &    -.388         &    -.335         &  -45.630         \\
+                &   (.029)         &   (.008)         &   (.012)         &   (.240)         &   (.631)         & (33.530)         \\    
 \midrule      
 \addlinespace 
 &\multicolumn{6}{c}{\emph{Fixed effects}} \\
 \addlinespace             
 Male sample &&&&&&\\
-Diabetes        & -.008         &    -.054\sym{*}  &    -.132\sym{***}&    -.785\sym{***}&   -1.686\sym{***}& -125.161\sym{*}  \\
-                &   (.027)         &   (.030)         &   (.034)         &   (.188)         &   (.591)         & (66.311)         \\
+Diabetes        &      .022         &    -.023         &    -.104\sym{***}&    -.715\sym{***}&   -2.217\sym{***}& -168.297\sym{***}\\
+                &   (.030)         &   (.032)         &   (.036)         &   (.183)         &   (.610)         & (62.115)         \\
 Female sample &&&&&&\\
-Diabetes        &   -.122\sym{***}&    -.017\sym{*}  &    -.076\sym{***}&    -.458\sym{*}  &    -.559         &  -60.878\sym{*}  \\
-                &   (.030)         &   (.009)         &   (.023)         &   (.251)         &   (.633)         & (34.744)         \\                
+Diabetes        &    -.112\sym{***}&    -.027\sym{**} &    -.012         &    -.644\sym{**} &   -1.251\sym{**} &  -61.175         \\
+                &   (.035)         &   (.013)         &   (.010)         &   (.263)         &   (.616)         & (47.420)         \\ 
+\midrule      
+\addlinespace                 
+&\multicolumn{6}{c}{\emph{Random effects}} \\
+\addlinespace             
+Male sample &&&&&&\\
+Diabetes        &    -.022         &    -.064\sym{**} &    -.104\sym{***}&    -.379\sym{**} &    -.756         & -172.467\sym{***}\\
+                &   (.028)         &   (.029)         &   (.029)         &   (.177)         &   (.542)         & (48.768)         \\
+Female sample &&&&&&\\
+Diabetes        &    -.152\sym{***}&    -.021\sym{**} &    -.019\sym{***}&    -.263         &     .459         &  -39.267         \\
+                &   (.027)         &   (.011)         &   (.006)         &   (.247)         &   (.570)         & (34.256)         \\                            
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Standard errors in parentheses. Other control variables: age (only MSM), age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures.  Fixed effects: N=23697 (male sample), N=23913 (female sample); MSM:  N=13231 (male sample), N=14630 (female sample).
+\item \textit{Notes} Standard errors in parentheses. Other control variables: age (only MSM), age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, per capite household income.  Fixed/random effects: N=23443 (male sample), N=23702 (female sample); MSM:  N=16047 (male sample), N=16658 (female sample).
 \item \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\))
 \end{tablenotes}
 }
@@ -240,9 +254,14 @@ Diabetes        &   -.122\sym{***}&    -.017\sym{*}  &    -.076\sym{***}&    -.4
 
 There is a more ambiguous picture for the effect of a diabetes diagnosis on behavioural outcomes. There is no consistent---and only marginally significant evidence in the \ac{MSM}---that men reduced their smoking rate, however, a diabetes diagnosis led to a reduction in alcohol consumption as according to either model, though particularly so for the \ac{MSM}. For waist circumference, \ac{BMI} and calorie consumption, the \ac{FE} and \ac{MSM} both indicate reductions in \ac{BMI} of close to 0.7, of about 2 cm in waist circumference and of up to 170 calories per day for men. Results for women look different, in that while the point estimates indicate a reduction in all outcomes, these tend to be smaller than those for men and only exhibit strong statistical significance in the \ac{FE} model for \ac{BMI}, waist circumference and alcohol consumption.
 
+The results of the \ac{RE} models appear to overestimate the impact of diabetes on female employment probabilities and to underestimate the impact of a diabetes diagnosis on reductions in \ac{BMI} and waist circumference. For the other outcomes, results are very similar to those from the \acp{MSM} and \ac{FE} models.
+
 Exploring the effect of a diabetes diagnosis over time, we first estimated a specification using time since diagnosis as a continuous variable. The results of the \ac{FE} model (Table \ref{tab:duration}) indicate a steady reduction of female employment probabilities of almost two percentage points per year and of male alcohol consumption, \ac{BMI}, waist circumference and consumed calories. The \ac{MSM} again supports the finding of the \ac{FE} model, finding very similar effects in terms of size and statistical significance. For women, the \ac{MSM} also support the finding of a reduction in employment probabilities, with the point estimate  being somewhat larger compared to the \ac{FE} model. The evidence for changes in health behaviours is less consistent across models and outcomes, with the \ac{FE} indicating a reduction in waist circumference but not in \ac{BMI}, and the \ac{MSM} suggesting the opposite. The effect sizes for changes in health behaviours in women are about half the size to those found in men. 
 
-\begin{table}[h]
+The results of the \ac{RE} models again likely overestimate the impact of diabetes on female employment probabilities and to underestimate the impact of a diabetes diagnosis on reductions in \ac{BMI} and waist circumference. 
+
+
+\begin{table}[p]
 \caption{\label{tab:duration}Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models}
 \begin{adjustbox}{max width=\linewidth} 
 \begin{threeparttable}  %adds notes to tables
@@ -256,25 +275,35 @@ Exploring the effect of a diabetes diagnosis over time, we first estimated a spe
 &\multicolumn{6}{c}{\emph{Marginal structural model}} \\
 \addlinespace                     
 Male sample &&&&&&\\
-Time since diagnosis&   -.000         &    -.004         &    -.014\sym{**} &    -.155\sym{***}&    -.542\sym{***}&  -25.595\sym{**} \\
-                &   (.008)         &   (.007)         &   (.007)         &   (.036)         &   (.111)         & (10.297)         \\
+Time since diagnosis&    -.003         &    -.010\sym{*}  &    -.014\sym{**} &    -.127\sym{***}&    -.340\sym{***}&  -21.770\sym{**} \\
+                &   (.004)         &   (.005)         &   (.007)         &   (.031)         &   (.099)         &  (9.842)         \\
 Female sample &&&&&&\\
-Time since diagnosis&   -.018\sym{**} &    -.005\sym{**} &    -.002         &    -.087         &    -.260\sym{**} &  -11.696         \\
-                &   (.007)         &   (.002)         &   (.003)         &   (.053)         &   (.122)         &  (8.946)         \\ 
+Time since diagnosis&      -.017\sym{***}&    -.002         &    -.004         &    -.066\sym{*}  &    -.072         &   -8.735         \\
+                &   (.005)         &   (.001)         &   (.003)         &   (.040)         &   (.109)         &  (5.589)         \\
 \addlinespace 
 \midrule
 &\multicolumn{6}{c}{\emph{Fixed effects}} \\               
 \addlinespace
 Male sample &&&&&&\\
-Time since diagnosis   &  -.006         &    -.011\sym{*}  &    -.021\sym{***}&    -.151\sym{***}&    -.417\sym{***}&  -28.974\sym{***}\\
-                &   (.005)         &   (.006)         &   (.006)         &   (.037)         &   (.103)         & (10.199)         \\
+Time since diagnosis   &  -.001         &    -.003         &    -.017\sym{**} &    -.150\sym{***}&    -.520\sym{***}&  -22.286\sym{**} \\
+                &   (.007)         &   (.006)         &   (.007)         &   (.037)         &   (.121)         & (11.083)         \\
 Female sample &&&&&&\\
-Time since diagnosis  & -.025\sym{***}&    -.003\sym{*}  &    -.015\sym{***}&    -.117\sym{**} &    -.166         &  -10.991\sym{*}  \\
-                &   (.006)         &   (.001)         &   (.006)         &   (.047)         &   (.124)         &  (6.338)         \\                 
+Time since diagnosis  & -.019\sym{***}&    -.003         &    -.000         &    -.102\sym{***}&    -.215\sym{*}  &   -6.747         \\
+                &   (.007)         &   (.002)         &   (.001)         &   (.039)         &   (.117)         &  (7.028)         \\                 
+\midrule      
+\addlinespace                 
+&\multicolumn{6}{c}{\emph{Random effects}} \\
+\addlinespace             
+Male sample &&&&&&\\
+Diabetes        &    -.006         &    -.009\sym{*}  &    -.015\sym{***}&    -.099\sym{***}&    -.269\sym{***}&  -24.703\sym{***}\\
+                &   (.006)         &   (.006)         &   (.005)         &   (.035)         &   (.096)         &  (8.655)         \\
+Female sample &&&&&&\\
+Diabetes        &     -.023\sym{***}&    -.002         &    -.002\sym{**} &    -.056         &     .013         &   -6.444         \\
+                &   (.006)         &   (.002)         &   (.001)         &   (.039)         &   (.114)         &  (5.670)         \\ 
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Standard errors in parentheses. Other control variables: age (only MSM), age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. Fixed effects: N=23697 (male sample), N=23913 (female sample); MSM:  N=13231 (male sample), N=14630 (female sample).
+\item \textit{Notes} Standard errors in parentheses. Other control variables: age (only MSM), age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. Fixed/random effects: N=23443 (male sample), N=23702 (female sample); MSM:  N=16047 (male sample), N=16658 (female sample)
 \item \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\))
 \end{tablenotes}
 }
@@ -289,17 +318,18 @@ In a second step we estimated a specification using year dummies to capture the 
 
 \begin{figure}
 \begin{center}
-\caption{\label{fig:duration_g_fe_mi} Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models and fixed effects (duration groups)}
+\caption{\label{fig:duration_g_fe_mi} Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes (duration groups)}
 Marginal structural models
-\includegraphics[width=\linewidth]{Chapter5/Figures/mi_msm_l_all}
+\includegraphics[width=\linewidth]{Chapter5/Figures/mi_msm_l_all1.pdf}
 Fixed effects
-\includegraphics[width=\linewidth]{Chapter5/Figures/mi_fe}
-
+\includegraphics[width=\linewidth]{Chapter5/Figures/mi_fe2.pdf}
+Random effects
+\includegraphics[width=\linewidth]{Chapter5/Figures/mi_re}
 \end{center}
 \end{figure}
 
 
-We conducted three sensitivity analyses. First, we truncated weights at the 1\textsuperscript{st} and 99\textsuperscript{th} percentile to investigate the sensitivity of the \acp{MSM} to the most extreme weights. The estimated effects are very similar to those using the untruncated weights (Table \ref{tab:truncation} and \ref{tab:duration_groups_tr}), suggesting no important loss in efficiency and supporting the decision to use untruncated weights. Second, we estimated all models using only covariate adjustment to investigate in how far this 'naive' approach diverts from the "causal" estimates of the \ac{FE} and \acp{MSM}. The results show that the bias is particularly strong for \ac{BMI} and waist circumference, where the naive regression indicates a positive association with a diabetes diagnosis (Tables \ref{tab:binary_cov} and \ref{tab:duration_groups_cov}). For the other outcomes, the results are close to or at least point into the same direction as the \ac{FE} and \acp{MSM}. This suggests that for these outcomes the risk of introducing bias while using a naive regression method may be lower. Third, we estimated the \ac{FE} and \acp{MSM} using the original non-imputed data. The results are broadly similar (Tables \ref{tab:binary_non_mi}, \ref{tab:duration_non_mi}, \ref{tab:duration_groups_non_mi_fe} and \ref{tab:duration_groups_non_mi_msm}), in particular for the \ac{FE} model, still indicating a reduction in female employment chances and male alcohol consumption, \ac{BMI} and waist circumference. The coefficients of the \ac{MSM} still point into the same direction as those using the imputed data, but the estimated effects are smaller in size and confidence intervals are relatively large.
+We conducted two sensitivity analyses. First, we truncated weights at the 1\textsuperscript{st} and 99\textsuperscript{th} percentile to investigate the sensitivity of the \acp{MSM} to the most extreme weights. The estimated effects are very similar to those using the untruncated weights (Table \ref{tab:truncation} and \ref{tab:duration_groups_tr}), suggesting no important loss in efficiency and supporting the decision to use untruncated weights. Second, we estimated the \ac{FE} and \acp{MSM} using the original non-imputed data. The results are broadly similar (Tables \ref{tab:binary_non_mi}, \ref{tab:duration_non_mi}, \ref{tab:duration_groups_non_mi_fe} and \ref{tab:duration_groups_non_mi_msm}), in particular for the \ac{FE} model, still indicating a reduction in female employment chances and male alcohol consumption, \ac{BMI} and waist circumference. The coefficients of the \ac{MSM} still point into the same direction as those using the imputed data, but the estimated effects are smaller in size and confidence intervals are relatively large.
 
 
 \FloatBarrier
@@ -307,40 +337,40 @@ We conducted three sensitivity analyses. First, we truncated weights at the 1\te
 
 \section{\label{sec:Discussion5}Disussion}
 
-Our results suggest that receiving a diabetes diagnosis in China led to a lasting reduction in male \ac{BMI} and waist circumference as well as in risk behaviours such as alcohol and calorie consumption. For females, our primary results did not find as strong indications for changes in behavioural risk factors. However, we found a reduction in female employment probabilities, suggesting that women gave up or lost their job or were less likely to get a job in the first place after a diabetes diagnosis.
+Our results suggest that receiving a diabetes diagnosis in China led to a strong and lasting reduction in female, but not male employment probabilities. Looking at the behavioural risk factor outcomes, \ac{BMI} and waist circumference as well as risk behaviours such as alcohol and calorie consumption and potentially smoking were found to be reduced for men. For females, our primary results did not find as strong indications for changes in behavioural risk factors. Accordingly, it appears that women in China have to endure stronger adverse labour market effects and at the same time are less successful then men at making risk behaviour changes to reduce their risk of diabetes complications.
 
-Medical evidence suggest that sustained reductions in weight and body fat can lead to increasing insulin sensitivity, better blood glucose levels and consequently a reduced risk for diabetes related complications \parencite{Long2014,Zhou2016}. Given our results, it appears that women in China may not have been as successful at making risk behaviour changes to reduce their risk.
-
-The \ac{FE} models and \ac{MSM} models indicate very similar results suggesting that they are robust and that time-invariant confounding factors may play a limited role over and above baseline and time varying confounding factors. The MSM results suggest that in particular high baseline BMI and waist circumference levels help explain selection into a diabetes diagnosis, and thus need to be taken into account. The robustness checks using 'naive' regression methods further indicate that---apart from weight related measures (BMI and waist circumference)---confounding may only be of limited relevance after adjusting for observable covariates.
+The \ac{MSM} models and \ac{FE} models indicated very similar results suggesting that they are robust and that time-invariant confounding factors may play a limited role over and above baseline and time varying confounding factors. The \ac{MSM} results suggest that in particular high baseline \ac{BMI} and waist circumference levels help explain selection into a diabetes diagnosis, and thus need to be taken into account. Further, becoming employed appears to decrease the risk of being diagnosed with diabetes. The robustness checks using 'naive' regression in the form of \ac{RE} models further indicated that in this setting insufficiently accounting for confounding leads to an overestimation of the impact of diabetes on employment status and an underestimation of the effects of a diagnosis on weight measures (\ac{BMI} and waist circumference). However, confounding may only be of limited relevance after adjusting for observable covariates for risk behaviours (smoking and alcohol consumption) and caloric intake.
 
 \subsection{Limitations}
 
-While we used two estimation methods to reduce the influence of selection bias due to unobserved confounding, one limitation of the used approaches is their inability to account for all forms of selection simultaneously. Therefore a causal interpretation is only possible under restrictive assumptions, namely no unobserved time-variant confounding for the \ac{FE} model and positivity, exchangeability and consistency for the \ac{MSM}. The assumption of positivity is likely to hold, given that every person should have at least a small chance of receiving a diabetes diagnosis. This is also supported by the relatively small range of stabilized weights and no zero-weights. Exchangeability, or no unmeasured confounding, is not testable and could potentially be violated if not all time-invariant or time-variant confounders are accounted for. We tested for part of this assumption by estimating a \ac{FE} model, which suggested that unobserved time-invariant confounding may be of limited relevance. Consistency would have been violated if a diabetes diagnosis had been reported but the person had actually not been diagnosed with diabetes. This is likely only violated in very rare cases of misreporting, given that specificity of diabetes self-report is very high in China \autocite{Yuan2015}. Because we were interested in the effect of a diabetes diagnosis, unobserved diabetes did not violate the consistency assumption.
+While we used two estimation methods to reduce the influence of selection bias due to unobserved confounding, one limitation of the used approaches is their inability to account for all forms of selection simultaneously. Therefore a causal interpretation is only possible under restrictive assumptions, namely no unobserved time-variant confounding for the \ac{FE} model and positivity, exchangeability and consistency for the \ac{MSM}. The assumption of positivity is likely to hold, given that every person should have at least a small chance of receiving a diabetes diagnosis. This is also supported by the relatively small range of stabilized weights and absence of zero-weights. Exchangeability, or no unmeasured confounding, is not testable and could potentially be violated if not all time-invariant or time-variant confounders were accounted for. We tested for part of this assumption by estimating a \ac{FE} model, which suggested that unobserved time-invariant confounding may be of limited relevance. Consistency would have been violated if a diabetes diagnosis had been reported but the person had actually not been diagnosed with diabetes. This is likely only violated in very rare cases of misreporting, given that specificity of diabetes self-report is very high in China \autocite{Yuan2015}. Because we were interested in the effect of a diabetes diagnosis, unobserved diabetes did not violate the consistency assumption.
 
-A limitation of the \ac{FE} model is the possibility of time-variant confounding causing selection into a diabetes diagnosis based on changes in pre-treatment values of our outcomes of interest. Further, the \ac{FE} model is unable to account for the effect of confounders that are causally related with diabetes such as \ac{BMI} or waist circumference but may also have an effect on the outcome themselves. This may lead to an over- or underestimation of the effect of diabetes if the diabetes variable captures parts of the effect of very high \ac{BMI} levels (obesity). This may be the reason for some of the, albeit small, differences in point estimates between the \ac{FE} model and \ac{MSM}. On the other hand this difference may also be due to the inability of the \ac{MSM} to account for unobserved characteristics.
+A limitation of the \ac{FE} model is the possibility of time-variant confounding causing selection into a diabetes diagnosis based on changes in pre-treatment values of our outcomes of interest. Given that the \ac{FE} estimates were close to those of the \acp{MSM}, it is likely that there was no strong confounding due to pre-treatment changes. Rather, the similarity of results suggests that it is important to account for some form of baseline values, be it via demeaning as in the \ac{FE} model or by using baseline values in the \ac{MSM}.  Further, the \ac{FE} model is unable to account for the effect of confounders that are causally related with diabetes such as \ac{BMI} or waist circumference but may also have an effect on the outcome themselves. This may lead to an over- or underestimation of the effect of diabetes if the diabetes variable captures parts of the effect of very high \ac{BMI} levels (obesity). This may be the reason for some of the, albeit small, differences in point estimates between the \ac{FE} model and \ac{MSM}.
 
-Finally, there are limitations in the measurement of our risk factor outcomes, in particular, in how smoking and alcohol consumption were assessed here. Arguably, using measures of frequency would have allowed to observe also smaller changes in risk behaviours such as 
+Finally, an important limitation is the that a diabetes diagnosis entails a variety of 'treatments' that are difficult to disentangle and may each have a distinct effect on the explored outcomes. Currently, we are only able to observe the combined effect of these treatments. Firstly, there is the provision of information at diagnosis, potentially causing increases in stress and anxiety, but may also providing an explanation for the experienced symptoms, both potentially affecting productivity. Secondly, a diagnosis also is the starting point for medical treatment, potentially alleviating symptoms and helping with weight loss, but also posing new challenges, in particular if treatment entails the exogenous provision of insulin or strict meal plans, potentially adding to the burden of diabetes in daily life. Thirdly, adherence to medical treatment may be heterogeneous across people with diabetes, with non-adherence likely leading to a further worsening of risk factors for complications, while good adherence may be able to prevent or delay debilitating complications. Fourthly, a diagnosis may also introduces lifestyle changes such as increasing exercise levels, eating healthier and reducing smoking or alcohol consumption, all potentially affecting the risk to develop further complications and to experience changes in productivity. In the current study, it is not possible to ascertain which of these factors and to what extend are affecting employment chances, but also the observed changes in weight loss. Only for the reductions in smoking and alcohol consumption, it seems reasonable to attribute them to diagnosis induced awareness to reduce these risk factors.
 
 
 \subsection{Potential mechanisms}
 
-The permanent reduction in male \ac{BMI} and waist circumference we have found has also been observed in a cohort of Danish patients \autocite{DeFineOlivarius2015}, where weight increased the years preceding diagnosis, while after diagnosis weight decreased. The exact reasons for this decrease were unknown but attributed to motivation changes as a result of the diagnosis, concluding that time around the diagnosis may represent a window of opportunity to obtain long lasting weight change. Nonetheless, reductions in weight may also be the result of treatment initiation with metformin or other diabetes drugs that have been shown to lead to weight reductions \autocite{Yang2014}. Importantly, the reduction in \ac{BMI} in our study was accompanied by a reduction in waist circumference.  Given that in China diabetes incidence has been especially attributed to a high accumulation of visceral fat and central obesity \autocite{Ma2014}, reductions in waist circumference therefore may have a particular positive effect on diabetes control and the prevention of comorbidities. This also allows for the interpretation  that the changes in \ac{BMI} are due to reductions in fat and not lean body mass\autocite{Klein2007}.
+The permanent reduction in male \ac{BMI} and waist circumference we have found has also been observed in a cohort of Danish patients \autocite{DeFineOlivarius2015}, where weight increased the years preceding diagnosis, while after diagnosis weight decreased. The exact reasons for this decrease were unknown but attributed to motivation changes as a result of the diagnosis, concluding that time around the diagnosis may represent a window of opportunity to obtain long lasting weight change. Nonetheless, reductions in weight, as already eluded to in the limitations, may also be the result of treatment initiation with metformin or other diabetes drugs that have been shown to lead to weight reductions \autocite{Yang2014}. Importantly, the reduction in \ac{BMI} in our study was accompanied by a reduction in waist circumference and energy intake.  Given that in China diabetes incidence has been especially attributed to a high accumulation of visceral fat and central obesity \autocite{Ma2014}, reductions in waist circumference therefore may have a particular positive effect on diabetes control and the prevention of comorbidities. This also allows for the interpretation  that the changes in \ac{BMI} are due to reductions in fat and not lean body mass\autocite{Klein2007}. The reduction in energy intake further suggest that the changes in weight are at least partly the result of changes in food consumption.
 
-For women, however, we did not find similar strong evidence for reductions in \ac{BMI} and waist circumference. The relatively smaller effects for women could indicate a lower ability to change behaviours supportive of weight loss. A potential mechanisms may be their lower educational attainment, which has been indicated as a factor in preventing better glucose control \autocite{Luo2015}. Lower income levels for females compared to men may also negatively affect the ability to receive adequate treatment following a diagnosis, limiting their ability to change health behaviours \autocite{Luo2015}. We found that women with diabetes lived in households with lower income levels compared to men with diabetes, however, these income levels were still higher then for those without diabetes. Nonetheless, it may still be the case that women are able to use fewer household revenues for their own healthcare. Further, there are likely biological factors that lead to worse health outcomes for women compared to men. There is some evidence that, due to different ways of fat storage between men and women, men are more likely to cross the diabetes threshold at an earlier point in time and at a comparatively healthier metabolic state then women \parencite{Peters2015,Peters2014a,Peters2014}. Women are more likely to have spend more time in a pre-diabetes stadium \parencite{Bertram2010}, and the diabetes threshold is only crossed once the metabolic state of women has significantly deteriorated, leading to a greater risk of cardiovascular disease and stroke \parencite{Peters2015}. Supporting this, a study for China found a greater prevalence of diabetes comorbidities in Chinese women than men \autocite{Liu2010}. In this light it may not be surprising that we find more conclusive evidence of worsening employment probabilities for women than for men. If women are less likely to receive proper treatment and to change their health behaviours and at the same time have a greater risk for complications then men, the long term effects of diabetes on their health are likely more severe than for men and consequently affect their employment status.
+For women, however, we did not find similar strong evidence for reductions in \ac{BMI}, waist circumference or energy intake. The relatively smaller effects for women could indicate a lower ability to change behaviours supportive of weight loss. This appears to be supported by the smaller reductions in energy intake. This could have---at least partly---contributed to a higher risk for further diabetes complications that then reduced employment probabilities. Apart from this, other explanations for the lower weight loss and larger employment penalty for women compared to men include their lower educational attainment, which has been indicated as a factor in preventing better glucose control \autocite{Luo2015} and may also affect the ability to successfully change behaviours. Lower income levels for females compared to men may also negatively affect the ability to receive adequate treatment following a diagnosis, limiting their ability to change health behaviours \autocite{Luo2015} and increasing the risk of complications. We found that women with diabetes lived in households with lower income levels compared to men with diabetes, however, these income levels were still higher then for those without diabetes. Nonetheless, it may still be the case that women are able to use fewer household revenues for their own healthcare. Further, there are likely biological factors that lead to worse health outcomes for women compared to men. There is some evidence that, due to different ways of fat storage between men and women, men tend to cross the diabetes threshold at an earlier point in time and at a comparatively healthier metabolic state then women \parencite{Peters2015,Peters2014a,Peters2014}. Women are more likely to have spend more time in a pre-diabetes stadium \parencite{Bertram2010} and to cross the threshold only once the metabolic has significantly deteriorated, leading to a greater risk of cardiovascular disease and stroke \parencite{Peters2015}. Supporting this, a study for China found a greater prevalence of diabetes comorbidities in Chinese women than men \autocite{Liu2010}. In this light it may not be surprising that we find more conclusive evidence of worsening employment probabilities for women than for men. If women are less likely to receive proper treatment and to change their health behaviours and at the same time have a greater risk for complications then men, the long term effects of diabetes on their health are likely more severe than for men and consequently affect their employment status.
 
-Compared to the only other study that used population level observational data to investigate the effect of a diabetes diagnosis on health behaviours in the USA by \textcite{Slade2012}, our results paint a somewhat different picture. While Slade finds a more lasting effect on smoking cessation and alcohol consumption, but not on overweight or obesity, our results indicate lasting effects on male alcohol consumption but not on smoking, and we find evidence for a sustained reduction in male body weight. Nonetheless, one has to keep in mind that we used continuous weight indicators in \ac{BMI} and waist circumference, Slade investigated the effect on the probability of being obese or overweight, making a direct comparison difficult. Importantly---and in concordance with our findings---he finds that simple covariate adjustment leads to estimates, indicating an increase in obesity and overweight and underlining the importance of accounting for unobserved heterogeneity and treatment selection. I ALSO DID RUN REGRESSIONS USING OBESITY AND OVERWEIGHT INDICATORS SUGGESTING THAT MEN AFTER A DIAGNOSIS HAVE A LOWER PROBABILITY OF BEING OBESE. NO EFFECT ON OVERWEIGHT. WOULD IT BE WORTHWHILE TO INCLUDE IN THE RESULTS AS WELL? HAVE NOT DONE IT NOW BECAUSE OF SMALL MISTAKE IN CALCULATING THE WEIGHTS FOR THESE OUTCOMES, SO I HAVE TO REESTIMATE THE OBESITY MODELS WHICH TAKES SOME TIME. I HAVE ADDED RESULTS FOR THE FE MODELS FOR NOW THAT SHOW ESPECIALLY ,POTENTIALLY, LASTING EFFECTS FOR MEN TO DROP OUT OF THE OBESITY CATEGORY. THIS IS THE CHINESE OBESITY AND OVERWEIGHT THRESHOLDS OF A BMI OF 28 AND 24 RESPECTIVELY. SEE END OF APPENDIX FOR THE RESULTS
+The found adverse effect of diabetes on employment is in line with other studies on the labour market impact of diabetes that find adverse effects of diabetes on women employment probabilities \parencite{Minor2010,Latif2009,Harris2009,Seuring2016}---often stronger than the effects experienced by men. Most comparable, due to the use of \ac{FE} with data for a similar time period, a study from Mexico also found significant reductions for both males and females of about 5 percentage points \parencite{Seuring2016}. Taking into account the lower overall employment rate of Mexican women compared to men, this translated into an about 16\% reduction in employment probabilities, a figure comparable to what Chinese women experienced. However, in Mexico also men experienced adverse effects, unlike to what we found for China.
 
-The found adverse effect of ff diabetes on employment is in line with other studies on the labour market impact of diabetes and in particular with a study from Mexico that, using \ac{FE} estimates for a similar time period, found significant reductions for both males and females of about 5 percentage points \parencite{Seuring2016}, with the relative impact being much stronger for women due to their lower overall employment rates.
+The found effects on changes in behavioural risk factors can partly be compared to a study by \parencite{Slade2012} that used population level observational data to investigate the effect of a diabetes diagnosis on health behaviours in the USA. Our findings are similar in some respects, as both studies suggest a response to the diabetes diagnosis 'shock' by reductions in dietary choices---Slade also found a reduction in alcohol consumption---but not to a similar extend curb smoking. In terms of the effect on weight, both studies cannot be directly compared because Slade investigated the effect to be overweight or obese, while we used continuous weight measures due to the discussed difficulties of defining cut-off values for Asian populations. Nonetheless, the results from the overweight and obesity models we estimated do---similarly to Slade---not indicate important reductions in obesity after a diabetes diagnosis. However, while Slade finds a stronger initial reduction in weight status, he also finds that people with diabetes tended to return to be obese or overweight after some time. Our results suggested that man may manage to consistently reduce their probabilities to be obese, but not overweight, at least according to the \ac{FE} model. Importantly---and in concordance with our findings---he finds that simple covariate adjustment leads to estimates indicating an increase in overweight and obesity, underlining the importance of accounting for unobserved heterogeneity.
+
+
 
 \section{Conclusion}
 
-Our results indicate changes in male health behaviours after a diabetes diagnosis in China. These findings are robust to the application of two distinct econometric techniques. Further, women likely had to bear a larger diabetes burden also affecting their economic well-being, as evidenced by their reduction in employment probabilities. Potentially, one of the causes of these adverse economic effects is the lower ability of women to successfully change their behaviour as a result of the diagnosis. Further research should try to unravel the mechanisms behind these differential outcomes for men and women. Overall, given the large prevalence of undiagnosed diabetes, our results indicate that an early diagnosis can lead to early behaviour change that may lead to more positive health outcomes for people with diabetes over time. It appears, however, that more emphasis on the adequate treatment options for women may be needed to reduce their burden of diabetes. 
+Our results indicate changes in male health behaviours after a diabetes diagnosis in China. These findings are robust to the application of two distinct, but complementary econometric techniques. Further, women likely had to bear a larger diabetes burden also affecting their economic well-being, as evidenced by their reduction in employment probabilities. Potentially, one of the causes of these adverse economic effects is the lower ability of women to successfully change their behaviour as a result of the diagnosis. Further research should try to unravel the mechanisms behind these differential outcomes for men and women. Overall, given the large prevalence of undiagnosed diabetes, our results indicate that an early diagnosis may be a good way to foster early behaviour change that could lead to more positive health and economic outcomes for people with diabetes over time. It appears, however, that more emphasis on the adequate treatment options for women may be needed to reduce their burden of diabetes. 
 
 \clearpage
 
 \subsection*{Stabilized weights}
 
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:stabweights}Summary of stabilized weights}
 \begin{adjustbox}{max width=\linewidth}  
 {
@@ -360,11 +390,11 @@ Truncated 1 and 99 percentile (women)&    .9988097&    .8323757&    1.119154\\
 
 \FloatBarrier
 
-
+\clearpage
 \subsection{Duration groups results}
 
 
-\begin{table}[hp]
+\begin{table}[p]
 \caption{\label{tab:duration_groups_msm}Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models (duration groups)}
 \begin{adjustbox}{max width=\linewidth}  
 \begin{threeparttable}
@@ -433,8 +463,9 @@ Female sample &&&&&&\\
 \end{threeparttable}
 \end{adjustbox}
 \end{table}
+\clearpage
 
-\begin{table}[hp]
+\begin{table}[p]
 \caption{\label{tab:duration_groups_fe}Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects (duration groups)}
 \begin{adjustbox}{max width=\linewidth} 
 \begin{threeparttable} 
@@ -503,10 +534,11 @@ Female sample &&&&&&\\
 \end{table}
 \FloatBarrier
 
+\clearpage
 \subsection*{Robustness checks}
 
 \subsubsection*{\acp{MSM} using truncated weights}
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:truncation}Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using marginal structural models with truncated stabilized weights at 1st and 99th percentile}
 \begin{adjustbox}{max width=\linewidth}  
 \begin{threeparttable}
@@ -521,36 +553,36 @@ S}}
 &\multicolumn{6}{c}{\emph{Diabetes}} \\
 \addlinespace    
 Male sample &&&&&& \\
-Diabetes&    -.026         &    -.053\sym{*}  &    -.132\sym{***}&    -.707\sym{***}&   -1.426\sym{**} & -200.750\sym{***}\\
-                &   (.025)         &   (.031)         &   (.034)         &   (.188)         &   (.560)         & (54.156)         \\
+Diabetes&   -.022         &    -.070\sym{**} &    -.094\sym{***}&    -.732\sym{***}&   -1.637\sym{***}& -175.662\sym{***}\\
+                &   (.023)         &   (.032)         &   (.036)         &   (.179)         &   (.532)         & (51.574)         \\
 Female sample &&&&&& \\
-Diabetes&   -.138\sym{***}&    -.017\sym{*}  &    -.076\sym{***}&    -.243         &     .058         &  -61.998\sym{*}  \\
-                &   (.029)         &   (.009)         &   (.023)         &   (.252)         &   (.640)         & (35.849)         \\    
+Diabetes&    -.132\sym{***}&    -.015\sym{*}  &    -.029\sym{**} &    -.178         &     .186         &  -47.980         \\
+                &   (.029)         &   (.008)         &   (.012)         &   (.248)         &   (.638)         & (34.319)         \\   
 \addlinespace 
 \midrule
 &\multicolumn{6}{c}{\emph{Years since diagnosis}} \\               
 \addlinespace  
 Male sample &&&&&&\\
-Time since diagnosis     & -.009\sym{*}  &    -.011\sym{*}  &    -.021\sym{***}&    -.145\sym{***}&    -.377\sym{***}&  -34.287\sym{***}\\
-                &   (.005)         &   (.006)         &   (.006)         &   (.037)         &   (.102)         &  (9.612)         \\
+Time since diagnosis     &    -.006         &    -.010\sym{**} &    -.016\sym{**} &    -.133\sym{***}&    -.326\sym{***}&  -26.261\sym{***}\\
+                &   (.004)         &   (.005)         &   (.006)         &   (.033)         &   (.095)         &  (9.160)         \\
 
 Female sample &&&&&&\\
-Time since diagnosis&    -.027\sym{***}&    -.003\sym{*}  &    -.015\sym{***}&    -.093\sym{**} &    -.086         &  -10.750\sym{*}  \\
-                &   (.007)         &   (.001)         &   (.006)         &   (.047)         &   (.128)         &  (6.455)         \\          
+Time since diagnosis&  -.019\sym{***}&    -.002         &    -.004         &    -.044         &    -.016         &   -9.096         \\
+                &   (.006)         &   (.001)         &   (.003)         &   (.042)         &   (.112)         &  (5.681)         \\          
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
 \item \textit{Notes}   Standard errors in parentheses.
-Other control variables: age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=13231 (male sample), N=14630 (female sample).
+Other control variables: age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=16047 (male sample), N=16658 (female sample).
 \end{tablenotes}
 }
 \end{threeparttable}
 \end{adjustbox}
 \end{table}
 
+\clearpage
 
-
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:duration_groups_tr}Effect of time since diabetes diagnosis on employment status and behavioural outcomes using MSM with truncated stabilized weights (1st and 99th pct; imputed)}
 \begin{adjustbox}{max width=\linewidth}  
 \begin{threeparttable}
@@ -619,126 +651,11 @@ Other control variables: age squared, region, urban, education, Han, marital sta
 \end{adjustbox}
 \end{table}
 
-
-\clearpage
-\subsubsection*{Only covariate adjustment}
-\begin{table}[h]
-\caption{\label{tab:binary_cov}Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes only using covariate adjustment}
-\begin{adjustbox}{max width=\linewidth} 
-\begin{threeparttable} 
-{
-\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
-\begin{tabular}{l*{6}{S
-S}}
-\toprule
-                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}\\
-                &\multicolumn{1}{c}{Employment}&\multicolumn{1}{c}{Smoking}&\multicolumn{1}{c}{Any alcohol}&\multicolumn{1}{c}{BMI}&\multicolumn{1}{c}{Waist (cm)}&\multicolumn{1}{c}{Calories (kcal)}\\
-\midrule
-&\multicolumn{6}{c}{\emph{Diabetes}} \\
-\addlinespace     
-Male sample &&&&&& \\
-Diabetes&     .006         &    -.074\sym{**} &    -.119\sym{***}&     .925\sym{***}&    2.964\sym{***}& -165.647\sym{***}\\
-                &   (.023)         &   (.036)         &   (.033)         &   (.289)         &   (.817)         & (50.101)         \\
-
-Female sample &&&&&& \\
-Diabetes& -.100\sym{***}&    -.007         &    -.072\sym{***}&    1.805\sym{***}&    4.619\sym{***}&  -33.807         \\
-                &   (.029)         &   (.011)         &   (.023)         &   (.354)         &   (.877)         & (33.783)         \\ 
-\addlinespace 
-\midrule
-&\multicolumn{6}{c}{\emph{Years since diagnosis}} \\               
-\addlinespace 
-Male sample &&&&&&\\
-Time since diagnosis & -.002         &    -.052\sym{*}  &    -.017\sym{**} &     .107\sym{*}  &     .318\sym{**} &  -27.700\sym{***}\\
-                &   (.005)         &   (.031)         &   (.007)         &   (.058)         &   (.161)         &  (9.297)         \\
-Female sample &&&&&&\\
-Time since diagnosis&  -.019\sym{***}&    -.030         &    -.014\sym{**} &     .245\sym{***}&     .645\sym{***}&   -4.186         \\
-                &   (.007)         &   (.079)         &   (.006)         &   (.067)         &   (.178)         &  (6.113)         \\          
-\bottomrule
-\end{tabular}
-\begin{tablenotes}
-\item \textit{Notes}   Standard errors in parentheses.
-Other control variables: Age, age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=23697 (male sample), N=23913 (female sample).
-\end{tablenotes}
-}
-\end{threeparttable}
-\end{adjustbox}
-\end{table}
-
-
-\begin{table}[h]
-\caption{\label{tab:duration_groups_cov}Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using covariate adjustment (duration groups) (imputed)}
-\begin{adjustbox}{max width=\linewidth}  
-\begin{threeparttable}
-{
-\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
-\begin{tabular}{l*{6}{S
-S}}
-\toprule
-                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}\\
-                &\multicolumn{1}{c}{Employment}&\multicolumn{1}{c}{Smoking}&\multicolumn{1}{c}{Any alcohol}&\multicolumn{1}{c}{BMI}&\multicolumn{1}{c}{Waist (cm)}&\multicolumn{1}{c}{Calories (kcal)}\\
-\midrule
-Male sample &&&&&&\\
-0               &     .067         &    -.095         &    -.045         &    1.763\sym{**} &    7.505\sym{***}&   -7.725         \\
-                &   (.060)         &   (.136)         &   (.136)         &   (.737)         &  (2.581)         &(222.633)         \\
-\addlinespace
-1-2             &     .027         &    -.087\sym{*}  &    -.104\sym{**} &    1.247\sym{***}&    3.518\sym{***}& -214.457\sym{***}\\
-                &   (.027)         &   (.049)         &   (.047)         &   (.294)         &   (.944)         & (78.407)         \\
-\addlinespace
-3-4             &     .002         &    -.019         &    -.146\sym{**} &    1.406\sym{***}&    3.208\sym{***}& -127.663         \\
-                &   (.039)         &   (.060)         &   (.058)         &   (.435)         &  (1.131)         & (86.377)         \\
-\addlinespace
-5-6             &    -.078         &    -.114         &    -.132         &     .857         &    4.054\sym{***}& -146.275         \\
-                &   (.058)         &   (.084)         &   (.084)         &   (.619)         &  (1.425)         &(101.505)         \\
-\addlinespace
-7-8             &     .075         &    -.291\sym{**} &     .001         &     .308         &    -.579         & -326.239\sym{**} \\
-                &   (.053)         &   (.126)         &   (.129)         &   (.532)         &  (2.014)         &(129.013)         \\
-\addlinespace
-9-10            &     .082         &    -.025         &    -.037         &    -.603         &   -1.740         & -144.106         \\
-                &   (.083)         &   (.138)         &   (.149)         &   (.959)         &  (2.495)         &(171.510)         \\
-\addlinespace
-11-12           &    -.151         &                  &    -.175         &   -1.601         &   -6.070         & -140.067         \\
-                &   (.230)         &                  &   (.220)         &  (1.094)         &  (4.376)         &(195.607)         \\
-\addlinespace
-13-14           &    -.246         &                  &                  &     .265         &   -1.131         &  -34.363         \\
-                &   (.152)         &                  &                  &  (2.421)         &  (4.340)         &(176.819)         \\
-\midrule
-Female sample &&&&&&\\
-0               &     .083         &     .025         &     .030         &    3.742\sym{***}&    8.177\sym{*}  &  -83.493         \\
-                &   (.115)         &   (.067)         &   (.107)         &   (.995)         &  (4.255)         &(139.371)         \\
-\addlinespace
-1-2             &    -.101\sym{**} &    -.014         &    -.056\sym{***}&    2.096\sym{***}&    5.256\sym{***}&  -23.578         \\
-                &   (.044)         &   (.009)         &   (.018)         &   (.455)         &   (.943)         & (59.415)         \\
-\addlinespace
-3-4             &    -.132\sym{**} &    -.018         &    -.059\sym{**} &    1.833\sym{***}&    5.405\sym{***}&   57.985         \\
-                &   (.066)         &   (.012)         &   (.023)         &   (.544)         &  (1.432)         & (63.186)         \\
-\addlinespace
-5-6             &    -.071         &    -.014         &    -.059\sym{*}  &    1.416\sym{***}&    3.092\sym{**} &  -77.020         \\
-                &   (.079)         &   (.015)         &   (.032)         &   (.485)         &  (1.519)         & (64.878)         \\
-\addlinespace
-7-8             &    -.132         &     .013         &                  &     .536         &    2.251         &   69.285         \\
-                &   (.125)         &   (.030)         &                  &   (.851)         &  (1.878)         &(116.795)         \\
-\addlinespace
-9-10            &    -.223         &     .012         &                  &    1.453         &    5.297\sym{*}  &  151.466         \\
-                &   (.194)         &   (.030)         &                  &  (1.357)         &  (2.988)         &(127.461)         \\
-\addlinespace
-11-12           &     .007         &                  &                  &    -.352         &   -7.653\sym{***}& -162.492         \\
-                &   (.230)         &                  &                  &  (1.479)         &  (2.436)         &(213.782)         \\        
-\bottomrule
-\end{tabular}
-\begin{tablenotes}
-\item \textit{Notes}   Standard errors in parentheses.
-Other control variables: age, age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures.  N=23661 (male sample), N=23830 (female sample).
-\end{tablenotes}
-}
-\end{threeparttable}
-\end{adjustbox}
-\end{table}
 \FloatBarrier
-
-
+\clearpage
 \subsubsection*{Results using non-imputed data}
 
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:binary_non_mi}Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models (no imputation)}
 \begin{adjustbox}{max width=\linewidth, center}
 \begin{threeparttable}
@@ -779,9 +696,9 @@ Other control variables: age (only MSM), age squared, region, urban, education, 
 \end{adjustbox}
 \end{table}
 
+\clearpage
 
-
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:duration_non_mi}Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects and marginal structural models (non-imputed)}
 \begin{adjustbox}{max width=\linewidth}  
 \begin{threeparttable}
@@ -821,10 +738,10 @@ Other control variables: age (only MSM) age squared, region, urban, education, h
 \end{adjustbox}
 \end{table}
 
+\clearpage
 
 
-
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:duration_groups_non_mi_msm}Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using marginal structural models (duration groups) (non-imputed)}
 \begin{adjustbox}{max width=\linewidth}  
 \begin{threeparttable}
@@ -865,9 +782,9 @@ Other control variables: Age, age squared, region, urban, education, han, marita
 \end{adjustbox}
 \end{table}
 
+\clearpage
 
-
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:duration_groups_non_mi_fe}Analysis of the effect of time since diabetes diagnosis on employment status and behavioural outcomes using fixed effects (duration groups) (non-imputed)}
 \begin{adjustbox}{max width=\linewidth}  
 \begin{threeparttable}
@@ -936,15 +853,15 @@ Other control variables: age squared, region, urban, education, han, marital sta
 \end{table}
 
 \FloatBarrier
+\clearpage
 
 
 
 
+\subsection*{Overweight and obesity results}
 
-\subsection*{Overweight and obesity results (only FE so far)}
-
-\begin{table}[h]
-\caption{\label{tab:obesity_FE}Analysis of the effect of a diabetes diagnosis on overweight and obesity using  FE models}
+\begin{table}[p]
+\caption{\label{tab:obesity_FE}Analysis of the effect of a diabetes diagnosis on overweight and obesity}
 \begin{adjustbox}{max width=\linewidth, center}  
 \begin{threeparttable}
 {
@@ -955,22 +872,36 @@ S}}
                 &\multicolumn{2}{c}{Males}            &\multicolumn{2}{c}{Females}          \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}
                 &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
                 &\multicolumn{1}{c}{Overweight}&\multicolumn{1}{c}{Obese}&\multicolumn{1}{c}{Overweight}&\multicolumn{1}{c}{Obese}\\
-\midrule
-Diabetes&    -.029         &    -.052\sym{**} &    -.085\sym{**} &    -.044         \\
-                &   (.035)         &   (.025)         &   (.037)         &   (.028)         \\
+                \midrule
+&\multicolumn{4}{c}{\emph{Marginal structural model}} \\               
+\addlinespace   
+Diabetes& -.000         &    -.024         &    -.031         &    -.009         \\
+                &   (.031)         &   (.015)         &   (.034)         &   (.014)         \\
+                \midrule
+&\multicolumn{4}{c}{\emph{Fixed Effects}} \\               
+\addlinespace                    
+Diabetes&   -.041         &    -.035         &    -.095\sym{***}&    -.034         \\
+                &   (.035)         &   (.025)         &   (.036)         &   (.027)         \\
+                \midrule
+&\multicolumn{4}{c}{\emph{Random Effects}} \\               
+\addlinespace                    
+Diabetes&       .014         &    -.006         &    -.070\sym{**} &     .028         \\
+                &   (.030)         &   (.023)         &   (.030)         &   (.024)         \\                
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
 \item \textit{Notes} Standard errors in parentheses.
-Other control variables: Age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures.    N=19897 (male sample), N=21592 (female sample).
+Other control variables: Age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures.  FE/RE: N=23443 (male sample), N=23702 (female sample).   MSM: N=16047 (male sample), N=16658 (female sample).
 \end{tablenotes}
 }
 \end{threeparttable}
 \end{adjustbox}
 \end{table}
 
-\begin{table}[h]
-\caption{\label{tab:obesity_dur_FE}Analysis of the effect of time since diagnosis on overweight and obesity using  FE models}
+\clearpage
+
+\begin{table}[p]
+\caption{\label{tab:obesity_dur_FE}Analysis of the effect of time since diagnosis on overweight and obesity}
 \begin{adjustbox}{max width=\linewidth, center}  
 \begin{threeparttable}
 {
@@ -981,28 +912,44 @@ S}}
                 &\multicolumn{2}{c}{Males}            &\multicolumn{2}{c}{Females}          \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}
                 &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
                 &\multicolumn{1}{c}{Overweight}&\multicolumn{1}{c}{Obese}&\multicolumn{1}{c}{Overweight}&\multicolumn{1}{c}{Obese}\\
+&\multicolumn{4}{c}{\emph{Marginal structural model}} \\               
+\addlinespace   
+Time since diagnosis&    -.001         &    -.005\sym{*}  &    -.003         &    -.003         \\
+                &   (.005)         &   (.003)         &   (.005)         &   (.002)         \\
+                \midrule
+&\multicolumn{4}{c}{\emph{Fixed Effects}} \\               
+\addlinespace                    
+Time since diagnosis&    -.006         &    -.007\sym{*}  &    -.006         &    -.009\sym{*}  \\
+                &   (.007)         &   (.004)         &   (.006)         &   (.005)         \\
 \midrule
-Diabetes&    -.009         &    -.008\sym{**} &    -.009         &    -.012\sym{**} \\
-                &   (.008)         &   (.004)         &   (.007)         &   (.006)         \\
+&\multicolumn{4}{c}{\emph{Random Effects}} \\               
+\addlinespace                    
+Time since diagnosis&.002         &    -.003         &    -.006         &    -.001         \\
+                &   (.006)         &   (.003)         &   (.005)         &   (.004)         \\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
 \item \textit{Notes} Standard errors in parentheses.
-Other control variables: Age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures.    N=23697 (male sample), N=23913 (female sample).
+Other control variables: Age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures.  FE/RE: N=23443 (male sample), N=23702 (female sample).   MSM: N=16047 (male sample), N=16658 (female sample).
 \end{tablenotes}
 }
 \end{threeparttable}
 \end{adjustbox}
 \end{table}
 
+\FloatBarrier
+\clearpage
 
 \begin{figure}
 \begin{center}
-\caption{\label{fig:duration_g_fe_mi_obese} Analysis of the effect of time since diabetes diagnosis on overweight and obesity using fixed effects (duration groups)}
-
+\caption{\label{fig:duration_g_fe_mi_obese} Analysis of the effect of time since diabetes diagnosis on overweight and obesity (duration groups)}
+Marginal structural models
+\includegraphics[width=\linewidth]{Chapter5/Figures/mi_msm_l_all_obese.pdf}
 Fixed effects
-\includegraphics[width=\linewidth]{Chapter5/Figures/mi_obese_fe}
-%Marginal structural models
-%\includegraphics[width=\linewidth]{Chapter5/Figures/mi_msm_l_all}
+\includegraphics[width=\linewidth]{Chapter5/Figures/mi_obese_fe.pdf}
+Random effects
+\includegraphics[width=\linewidth]{Chapter5/Figures/mi_obese_re.pdf}
+\footnotesize{Notes: For MSM, effects after 6 years could not be estimated due to too few observations.}
 \end{center}
 \end{figure}
+\clearpage

@@ -1027,65 +1027,20 @@
       \endverb
       \keyw{Adult,Aged,Carbohydrates,Carbohydrates: analysis,Cross-Sectional Studies,Diabetes Mellitus,Econometric,Energy Intake,Humans,Middle Aged,Models,Obesity,Obesity: epidemiology,Prevalence,Selection Bias,Type 2,Type 2: epidemiology,Young Adult}
     \endentry
-    \entry{Batis2014}{article}{}
-      \name{labelname}{5}{uniquelist=2}{%
-        {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=08cfeed641d33d8817edc5e8fd243ec2}{Mendez}{M\bibinitperiod}{Michelle\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
-        {{hash=74787ab45e89c9083ce3ac58d95a8851}{Sotres-Alvarez}{S\bibinithyphendelim A\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=7803637b4943e116f249c38cb000edc2}{Gordon-Larsen}{G\bibinithyphendelim L\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=e3705f2f361e6d6722d52a05ccd42f01}{Popkin}{P\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{5}{uniquelist=2}{%
-        {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=08cfeed641d33d8817edc5e8fd243ec2}{Mendez}{M\bibinitperiod}{Michelle\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
-        {{hash=74787ab45e89c9083ce3ac58d95a8851}{Sotres-Alvarez}{S\bibinithyphendelim A\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=7803637b4943e116f249c38cb000edc2}{Gordon-Larsen}{G\bibinithyphendelim L\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=e3705f2f361e6d6722d52a05ccd42f01}{Popkin}{P\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{47c6d3fc3a418c4d182396b8ee80c034}
-      \strng{fullhash}{9c056cbf7cfe25c3e30027ed8572acf1}
-      \field{sortinit}{B}
-      \field{labelyear}{2014}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Dietary pattern trajectories during 15 years of follow-up and HbA1c, insulin resistance and diabetes prevalence among Chinese adults.}}
-      \field{abstract}{BACKGROUND: Most research on dietary patterns and health outcomes does not include longitudinal exposure data. We used an innovative technique to capture dietary pattern trajectories and their association with haemoglobin A1c (HbA1c), homeostasis model of insulin resistance (HOMA-IR) and prevalence of newly diagnosed diabetes.$\backslash$n$\backslash$nMETHODS: We included 4096 adults with 3-6 waves of diet data (1991-2006) and biomarkers measured in 2009 from the China Health and Nutrition Survey. Diet was assessed with three 24-h recalls and a household food inventory. We used a dietary pattern previously identified with reduced rank regression that positively predicted diabetes in 2006 (high in wheat products and soy milk and low in rice, legumes, poultry, eggs and fish). We estimated a score for this dietary pattern for each subject at each wave. Using latent class trajectory analysis, we grouped subjects with similar dietary pattern score trajectories over time into five classes.$\backslash$n$\backslash$nRESULTS: Three trajectory classes were stable over time, and in two classes the diet became unhealthier over time (upward trend in dietary pattern score). Among two classes with similar scores in 2006, the one with the lower (healthier) initial score had an HbA1c 1.64{\%} lower (-1.64 (95{\%} CI -3.17 to -0.11)) and non-significantly a HOMA-IR 6.47{\%} lower (-6.47 (-17.37 to 4.42)) and lower odds of diabetes (0.86 (0.44 to 1.67)).$\backslash$n$\backslash$nCONCLUSIONS: Our findings suggest that dietary pattern trajectories with healthier scores longitudinally had a lower HbA1c compared with those with unhealthier scores, even when the trajectories had similar scores in the end point.}
-      \field{annotation}{likely good to create a control group}
-      \field{eprinttype}{arXiv}
-      \field{isbn}{1470-2738 (Electronic) 0143-005X (Linking)}
-      \field{issn}{1470-2738}
-      \field{journaltitle}{Journal of epidemiology and community health}
-      \field{number}{6}
-      \field{title}{{Dietary pattern trajectories during 15 years of follow-up and HbA1c, insulin resistance and diabetes prevalence among Chinese adults.}}
-      \field{volume}{29}
-      \field{year}{2014}
-      \field{pages}{773\bibrangedash 779}
-      \verb{doi}
-      \verb 10.1136/jech-2013-203560
-      \endverb
-      \verb{eprint}
-      \verb NIHMS150003
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Batis et al. - 2014 - Dietary pattern trajectories during 15 years of follow-up and HbA1c, insulin resistance and diabetes prevalence am.pdf:pdf
-      \endverb
-      \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/24729424
-      \endverb
-    \endentry
     \entry{Batis2016}{article}{}
-      \name{labelname}{4}{uniquelist=2}{%
+      \name{labelname}{4}{}{%
         {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
         {{hash=30872cf2a7225dcf5a6c78679796ef21}{Rivera}{R\bibinitperiod}{Juan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=35d535a2790224c6fc4d04283e448de4}{Popkin}{P\bibinitperiod}{Barry\bibnamedelima M.}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=dc02055a12486f473843bfa9ab942afb}{Taillie}{T\bibinitperiod}{Lindsey\bibnamedelima Smith}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{4}{uniquelist=2}{%
+      \name{author}{4}{}{%
         {{hash=43ae99bd8def5184b50c0c68b06ffde6}{Batis}{B\bibinitperiod}{Carolina}{C\bibinitperiod}{}{}{}{}}%
         {{hash=30872cf2a7225dcf5a6c78679796ef21}{Rivera}{R\bibinitperiod}{Juan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=35d535a2790224c6fc4d04283e448de4}{Popkin}{P\bibinitperiod}{Barry\bibnamedelima M.}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=dc02055a12486f473843bfa9ab942afb}{Taillie}{T\bibinitperiod}{Lindsey\bibnamedelima Smith}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{5844987a74d3fb11ea5e382bb6da8bf6}
+      \strng{namehash}{fd0e86e40976215c36a7dc1ea9510918}
       \strng{fullhash}{61ffe0eca9d87cc116dec8f3f2468053}
       \field{sortinit}{B}
       \field{labelyear}{2016}
@@ -2220,43 +2175,6 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Chan, Luk - 2016 - Diabetes A Cinderella Subject We Can't Afford to Ignore.PDF:PDF
       \endverb
     \endentry
-    \entry{Chan2014}{article}{}
-      \name{labelname}{3}{uniquelist=2}{%
-        {{hash=e19c136b50ef6f70651712743d6b341d}{Chan}{C\bibinitperiod}{Juliana\bibnamedelimb C\bibnamedelima N}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
-        {{hash=3e198c277b61eb94a13cf16f9b6278cc}{Zhang}{Z\bibinitperiod}{Yuying}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=05c644d809545177147cedf5f782d4d0}{Ning}{N\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{uniquelist=2}{%
-        {{hash=e19c136b50ef6f70651712743d6b341d}{Chan}{C\bibinitperiod}{Juliana\bibnamedelimb C\bibnamedelima N}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
-        {{hash=3e198c277b61eb94a13cf16f9b6278cc}{Zhang}{Z\bibinitperiod}{Yuying}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=05c644d809545177147cedf5f782d4d0}{Ning}{N\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier Ltd}%
-      }
-      \strng{namehash}{b6342eb2df8edee0ee397fb8cae5bcf4}
-      \strng{fullhash}{9eb2c003be2336832e11de144a3280d0}
-      \field{sortinit}{C}
-      \field{labelyear}{2014}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Diabetes in China: a societal solution for a personal challenge}}
-      \field{issn}{22138587}
-      \field{journaltitle}{The Lancet Diabetes {\&} Endocrinology}
-      \field{number}{12}
-      \field{title}{{Diabetes in China: a societal solution for a personal challenge}}
-      \field{volume}{2}
-      \field{year}{2014}
-      \field{pages}{969\bibrangedash 979}
-      \verb{doi}
-      \verb 10.1016/S2213-8587(14)70144-5
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Chan, Zhang, Ning - 2014 - Diabetes in China a societal solution for a personal challenge.pdf:pdf
-      \endverb
-      \verb{url}
-      \verb http://linkinghub.elsevier.com/retrieve/pii/S2213858714701445
-      \endverb
-    \endentry
     \entry{Chang2010b}{article}{}
       \name{labelname}{1}{}{%
         {{hash=c85462f91c497890082ff1fa7bb51481}{Chang}{C\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
@@ -2287,6 +2205,33 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Chang - 2010 - Comorbidities, quality of life and patients' willingness to pay for a cure for type 2 diabetes in Taiwan.pdf:pdf
       \endverb
       \keyw{Adult,Aged,Comorbidity,Cost of Illness,Cross-Secti,Cross-Sectional Studies,Diabetes Complications,Diabetes Complications: economics,Diabetes Complications: epidemiology,Diabetes Mellitus,Female,Financing,Humans,Interviews as Topic,Male,Middle Aged,Patient Acceptance of Health Care,Personal,Personal: statistics {\&} numerical data,Quality of Life,Questionnaires,Regression Analysis,Taiwan,Type 2,Type 2: economics,Type 2: therapy,WTP,all,download,extracted,included,newsearch,oldsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Charles2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=8b5cf40d2beccbe4853f1e0647c275bb}{Charles}{C\bibinitperiod}{Kerwin\bibnamedelima Kofi}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=6f88b984cd8b80010488bfa60defd06d}{Decicca}{D\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8b5cf40d2beccbe4853f1e0647c275bb}{Charles}{C\bibinitperiod}{Kerwin\bibnamedelima Kofi}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=6f88b984cd8b80010488bfa60defd06d}{Decicca}{D\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f6d200442ae26f81f3ece261636c00a9}
+      \strng{fullhash}{f6d200442ae26f81f3ece261636c00a9}
+      \field{sortinit}{C}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Local labor market fluctuations and health: Is there a connection and for whom?}}
+      \field{journaltitle}{Journal of Health Economics}
+      \field{title}{{Local labor market fluctuations and health: Is there a connection and for whom?}}
+      \field{volume}{27}
+      \field{year}{2008}
+      \field{pages}{1532\bibrangedash 1550}
+      \verb{doi}
+      \verb 10.1016/j.jhealeco.2008.06.004
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Charles, Decicca - 2008 - Local labor market fluctuations and health Is there a connection and for whom.pdf:pdf
+      \endverb
     \endentry
     \entry{Chatterjee2011c}{article}{}
       \name{labelname}{7}{}{%
@@ -2433,6 +2378,26 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop//Research, Paper - 2011 - A Practical Comparison of the Bivariate Probit and Linear IV Estimators.pdf:pdf
       \endverb
+    \endentry
+    \entry{group2004body}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e2bf71e910f573d7259ec290b4153b55}{{China\bibnamedelimb Obesity\bibnamedelimb Task\bibnamedelimb Force}}{C\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e2bf71e910f573d7259ec290b4153b55}{{China\bibnamedelimb Obesity\bibnamedelimb Task\bibnamedelimb Force}}{C\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e2bf71e910f573d7259ec290b4153b55}
+      \strng{fullhash}{e2bf71e910f573d7259ec290b4153b55}
+      \field{sortinit}{C}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Body mass index reference norm for screening overweight and obesity in Chinese children and adolescents}}
+      \field{journaltitle}{Chinese Journal of Epidemiology}
+      \field{number}{2}
+      \field{title}{{Body mass index reference norm for screening overweight and obesity in Chinese children and adolescents}}
+      \field{volume}{25}
+      \field{year}{2004}
+      \field{pages}{97\bibrangedash 102}
     \endentry
     \entry{Chodick2005a}{article}{}
       \name{labelname}{4}{}{%
@@ -2585,6 +2550,31 @@
       \verb :home/till/Dokumente/Mendeley Desktop/J.J. et al. - 2005 - The assessment of chronic health conditions on work performance, absence, and total economic impact for employer(2).pdf:pdf
       \endverb
       \keyw{*absenteeism,*allergy/dm [Disease Management],*allergy/ep [Epidemiology],*chronic disease/dm [Disease Management],*chronic disease/ep [Epidemiology],*musculoskeletal disease/dm [Disease Management],*musculoskeletal disease/ep [Epidemiology],Stanford Presenteeism Scale,Till,United States,adult,all,anxiety disorder/dm [Disease Management],anxiety disorder/ep [Epidemiology],arthralgia/dm [Disease Management],arthralgia/ep [Epidemiology],arthritis/dm [Disease Management],arthritis/ep [Epidemiology],biometry,breathing disorder/dm [Disease Management],breathing disorder/ep [Epidemiology],cardiovascular disease/dm [Disease Management],cardiovascular disease/ep [Epidemiology],compensation,cost of illness,demography,depression/dm [Disease Management],depression/ep [Epidemiology],diabetes mellitus/dm [Disease Management],diabetes mellitus/ep [Epidemiology],download,embase,embase2,excludestudy,female,gastrointestinal disease/dm [Disease Management],gastrointestinal disease/ep [Epidemiology],headache/dm [Disease Management],headache/ep [Epidemiology],health hazard,human,job performance,joint stiffness/dm [Disease Management],joint stiffness/ep [Epidemiology],major clinical study,male,migraine/dm [Disease Management],migraine/ep [Epidemiology],newsearch,other,prevalence,rating scale,relevant,review,reviewed,risk factor,selected{\_}papers,self report,smoking,spine disease/dm [Disease Management],spine disease/ep [Epidemiology],work disability,worker}
+    \endentry
+    \entry{Colman2014}{unpublished}{}
+      \name{labelname}{2}{}{%
+        {{hash=0abd8d10c4c2a86ffce973d282a1edf3}{Colman}{C\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b982fd92a26bae5457104fd4d5f4dc}{Dave}{D\bibinitperiod}{Dhaval}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0abd8d10c4c2a86ffce973d282a1edf3}{Colman}{C\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=61b982fd92a26bae5457104fd4d5f4dc}{Dave}{D\bibinitperiod}{Dhaval}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of economic research}%
+      }
+      \strng{namehash}{a2d1066effc454c98e2319f55e88b15a}
+      \strng{fullhash}{a2d1066effc454c98e2319f55e88b15a}
+      \field{sortinit}{C}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Unemployment and Health Behaviors Over the Business Cycle: a Longitudinal View}}
+      \field{series}{NBER Working Paper}
+      \field{title}{{Unemployment and Health Behaviors Over the Business Cycle: a Longitudinal View}}
+      \field{year}{2014}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Colman, Dave - 2014 - Unemployment and Health Behaviors Over the Business Cycle a Longitudinal View.pdf:pdf
+      \endverb
     \endentry
     \entry{Condliffe2014}{article}{}
       \name{labelname}{2}{}{%
@@ -6784,40 +6774,6 @@
       \verb :home/till/Dokumente/Mendeley Desktop/135910710X495366.pdf:pdf
       \endverb
     \endentry
-    \entry{Pan2015}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=366a398907c43f0d8219c0051e2f6ed6}{Pan}{P\bibinitperiod}{Xi}{X\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=366a398907c43f0d8219c0051e2f6ed6}{Pan}{P\bibinitperiod}{Xi}{X\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{366a398907c43f0d8219c0051e2f6ed6}
-      \strng{fullhash}{366a398907c43f0d8219c0051e2f6ed6}
-      \field{sortinit}{P}
-      \field{labelyear}{2015}
-      \field{labelmonth}{10}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Gender Dissimilarity in Type 2 Diabetes Risk Factors: a Chinese Study}}
-      \field{abstract}{Background Gender has been identified as a significant factor that contributes to variations on unhealthy behavior engage- ment and disparity in health outcomes; however, gender dis- similarity in type 2 diabetes-related behavioral risks has not been fully understood in a non-Western social setting. Purposes Recognizing gender-specific behavioral risks of type 2 diabetes is important in improving the disease associ- ated health outcomes and healthcare service. This study iden- tifies gender-specific behavioral factors associated with type 2 diabetes diagnoses among middle-aged and older adults in a Chinese context. Methods Data are selected from the China Health and Nutri- tion Survey (CHNS) 2009. There are 259 male cases and 280 female cases individually matchedwith their nondiabetic con- trols on age. Results Higher level of total carbohydrate intake and physical inactivity is associated with a higher risk of type 2 diabetes diagnoses in both genders (p<.001). Odds ratios of type 2 diabetes diagnoses are higher only among male cigarette smokers and heavy alcohol drinkers. Conclusions This study provides evidence regarding gender- specific behavioral risks of type 2 diabetes suggesting the need for improving type 2 diabetes related research, preven- tion, education, and healthcare services for middle-aged and older adults in China. X.}
-      \field{issn}{1070-5503}
-      \field{journaltitle}{International Journal of Behavioral Medicine}
-      \field{month}{10}
-      \field{number}{5}
-      \field{title}{{Gender Dissimilarity in Type 2 Diabetes Risk Factors: a Chinese Study}}
-      \field{volume}{22}
-      \field{year}{2015}
-      \field{pages}{614\bibrangedash 624}
-      \verb{doi}
-      \verb 10.1007/s12529-015-9474-2
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Pan - 2015 - Gender Dissimilarity in Type 2 Diabetes Risk Factors a Chinese Study.pdf:pdf
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/s12529-015-9474-2
-      \endverb
-      \keyw{behavioral risks,case,control design,gender,middle-aged and older chinese,type 2 diabetes}
-    \endentry
     \entry{Peele2002a}{article}{}
       \name{labelname}{3}{}{%
         {{hash=36981f473ecfa67f12f0fd2ea5e1052f}{Peele}{P\bibinitperiod}{Pamela\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
@@ -9610,6 +9566,28 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/27404268
       \endverb
     \endentry
+    \entry{WHO2004}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \strng{fullhash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \field{sortinit}{W}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies}}
+      \field{journaltitle}{The Lancet}
+      \field{title}{{Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies}}
+      \field{volume}{363}
+      \field{year}{2004}
+      \field{pages}{157\bibrangedash 163}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/WHO - 2004 - Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies.pdf:pdf
+      \endverb
+    \endentry
     \entry{Wilding2014}{article}{}
       \name{labelname}{1}{}{%
         {{hash=9d51b469177f21849c0c05c3c5bbedf2}{Wilding}{W\bibinitperiod}{J.\bibnamedelimi P\bibnamedelima H}{J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -10137,6 +10115,55 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Zajacova et al. - 2010 - Consistency and precision of cancer reporting in a multiwave national panel survey.pdf:pdf
       \endverb
     \endentry
+    \entry{Zeng2014a}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=cbc415fc36c599555cb13b0e962f1c25}{Zeng}{Z\bibinitperiod}{Qiang}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=bcd84142f4f61ad0c884a49e5688c6fa}{He}{H\bibinitperiod}{Yuan}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=a641d794ee743cbcd2d18e7cac663324}{Dong}{D\bibinitperiod}{Shengyong}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8f9d2c24cf55a4146e57434c00da691c}{Zhao}{Z\bibinitperiod}{Xiaolan}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=06ce777e6de1f034e6c10713a2112e0a}{Chen}{C\bibinitperiod}{Zhiheng}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=bd18219a7ffe88679a9a9954abaa38af}{Song}{S\bibinitperiod}{Zhenya}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1e76a13d3a7748a17fe21e3dd61203d9}{Chang}{C\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=63c3a1177094b8d600f6f447e134228d}{Yang}{Y\bibinitperiod}{Fang}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=11f85ec1d432e70755c7ba4ecc2783f4}{Wang}{W\bibinitperiod}{Youjuan}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=cbc415fc36c599555cb13b0e962f1c25}{Zeng}{Z\bibinitperiod}{Qiang}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=bcd84142f4f61ad0c884a49e5688c6fa}{He}{H\bibinitperiod}{Yuan}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=a641d794ee743cbcd2d18e7cac663324}{Dong}{D\bibinitperiod}{Shengyong}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8f9d2c24cf55a4146e57434c00da691c}{Zhao}{Z\bibinitperiod}{Xiaolan}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=06ce777e6de1f034e6c10713a2112e0a}{Chen}{C\bibinitperiod}{Zhiheng}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=bd18219a7ffe88679a9a9954abaa38af}{Song}{S\bibinitperiod}{Zhenya}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1e76a13d3a7748a17fe21e3dd61203d9}{Chang}{C\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=63c3a1177094b8d600f6f447e134228d}{Yang}{Y\bibinitperiod}{Fang}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=11f85ec1d432e70755c7ba4ecc2783f4}{Wang}{W\bibinitperiod}{Youjuan}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2b4a85a708144da730b65cb8bc17b6b9}
+      \strng{fullhash}{c00e90a1bc513cd88e572d72a34cfb23}
+      \field{sortinit}{Z}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Optimal cut-off values of BMI, waist circumference and waist:height ratio for defining obesity in Chinese adults.}}
+      \field{abstract}{It has not been established which specific measures of obesity might be most appropriate for predicting CVD risk in Asians. The objectives of the present study were to determine the associations of BMI, waist circumference (WC) and waist:height ratio (WHtR) with CVD risk factors and to evaluate the optimal cut-off values to define overweight or obesity in Chinese adults. Data collected from seven nationwide health examination centres during 2008 and 2009 were analysed. The BMI, WC and WHtR of 244 266 Chinese adults aged ≥ 20 years included in the study were measured. Logistic regression models were fit to evaluate the OR of each CVD risk factor according to various anthropometric indices. Receiver operating characteristic (ROC) analyses were conducted to assess the optimal cut-off values to predict the risk of diabetes, hypertension, dyslipidaemia and the metabolic syndrome. WHtR had the largest areas under the ROC curve for all CVD risk factors in both sexes, followed by WC and BMI. The optimal cut-off values were approximately 24·0 and 23·0 kg/m2 for BMI, 85·0 and 75·0 cm for WC, and 0·50 and 0·48 for WHtR for men and women, respectively. According to well-established cut-off values, BMI was found to be a more sensitive indicator of hypertension in both men and women, while WC and WHtR were found to be better indicators of diabetes and dyslipidaemia. A combination of BMI and central obesity measures was found to be associated with greater OR of CVD risk factors than either of them alone in both sexes. The present study demonstrated that WHtR and WC may be better indicators of CVD risk factors for Chinese people than BMI.}
+      \field{isbn}{1021211982}
+      \field{issn}{1475-2662}
+      \field{journaltitle}{The British journal of nutrition}
+      \field{number}{10}
+      \field{title}{{Optimal cut-off values of BMI, waist circumference and waist:height ratio for defining obesity in Chinese adults.}}
+      \field{volume}{112}
+      \field{year}{2014}
+      \field{pages}{1735\bibrangedash 44}
+      \verb{doi}
+      \verb 10.1017/S0007114514002657
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Zeng et al. - 2014 - Optimal cut-off values of BMI, waist circumference and waistheight ratio for defining obesity in Chinese adults.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/25300318
+      \endverb
+      \keyw{Adult,Aged,Anthropometry,Asian Continental Ancestry Group,Body Mass Index,Cardiovascular Diseases,Cardiovascular Diseases: etiology,China,Diabetes Mellitus,Diabetes Mellitus: etiology,Dyslipidemias,Dyslipidemias: etiology,Female,Humans,Hypertension,Hypertension: etiology,Logistic Models,Male,Metabolic Syndrome X,Metabolic Syndrome X: etiology,Middle Aged,Obesity,Obesity,Abdominal,Obesity,Abdominal: complications,Obesity,Abdominal: diagnosis,Obesity: complications,Obesity: diagnosis,ROC Curve,Reference Values,Risk Factors,Waist Circumference,Waist-Height Ratio,Young Adult}
+    \endentry
     \entry{Zhang2014d}{article}{}
       \name{labelname}{4}{uniquelist=2}{%
         {{hash=3254f17a53363f18d15ee5f7d89c3560}{Zhang}{Z\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
@@ -10292,61 +10319,6 @@
       \endverb
       \keyw{80 and over,Adolescent,Adult,Aged,China,Diet,Diet: statistics {\&} numerical data,Dietary Fats,Dietary Fats: administration {\&} dosage,Educational Status,Female,Health Behavior,Health information,Humans,Hypertension,Hypertension: diagnosis,Income,Income: statistics {\&} numerical data,Life Style,Longitudinal Studies,Male,Middle Aged,Regression discontinuity,Young Adult}
     \endentry
-    \entry{Zhao2012}{article}{}
-      \name{labelname}{11}{uniquelist=2}{%
-        {{hash=ceef9b93d4b871b9ba33683bdcb216a3}{Zhao}{Z\bibinitperiod}{Xiaolong}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=9ecbbc189a409817b73e4dc5fbe03563}{Zhu}{Z\bibinitperiod}{Xiaoming}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=9275fc3cb0a2c3c7dd629f3f8c01d02e}{Zhang}{Z\bibinitperiod}{Han-shen}{H\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
-        {{hash=aac3878e5d114b6bc36b42e9167dea46}{Zhao}{Z\bibinitperiod}{Weiwei}{W\bibinitperiod}{}{}{}{}}%
-        {{hash=31189b9f0007e044548ccd38df160c68}{Li}{L\bibinitperiod}{Jinghui}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=8e9dd5170d607ef7d573f71e7a608b7b}{Shu}{S\bibinitperiod}{Yonghui}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98243f8d34639928a5937ddec8c054fe}{Li}{L\bibinitperiod}{Songwu}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=eed4591cc87fd0f424637f308dd29cdf}{Yang}{Y\bibinitperiod}{Minghui}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=90b81ccb7f3372a9555f65b0507874bd}{Cai}{C\bibinitperiod}{Linghu}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=23245fb1f0a110e911ec39b6c4fdbdda}{Zhou}{Z\bibinitperiod}{Jiping}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=b89c360a121e2a0d7888632b57bd3e65}{Li}{L\bibinitperiod}{Yingming}{Y\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{11}{uniquelist=2}{%
-        {{hash=ceef9b93d4b871b9ba33683bdcb216a3}{Zhao}{Z\bibinitperiod}{Xiaolong}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=9ecbbc189a409817b73e4dc5fbe03563}{Zhu}{Z\bibinitperiod}{Xiaoming}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=9275fc3cb0a2c3c7dd629f3f8c01d02e}{Zhang}{Z\bibinitperiod}{Han-shen}{H\bibinithyphendelim s\bibinitperiod}{}{}{}{}}%
-        {{hash=aac3878e5d114b6bc36b42e9167dea46}{Zhao}{Z\bibinitperiod}{Weiwei}{W\bibinitperiod}{}{}{}{}}%
-        {{hash=31189b9f0007e044548ccd38df160c68}{Li}{L\bibinitperiod}{Jinghui}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=8e9dd5170d607ef7d573f71e7a608b7b}{Shu}{S\bibinitperiod}{Yonghui}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98243f8d34639928a5937ddec8c054fe}{Li}{L\bibinitperiod}{Songwu}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=eed4591cc87fd0f424637f308dd29cdf}{Yang}{Y\bibinitperiod}{Minghui}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=90b81ccb7f3372a9555f65b0507874bd}{Cai}{C\bibinitperiod}{Linghu}{L\bibinitperiod}{}{}{}{}}%
-        {{hash=23245fb1f0a110e911ec39b6c4fdbdda}{Zhou}{Z\bibinitperiod}{Jiping}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=b89c360a121e2a0d7888632b57bd3e65}{Li}{L\bibinitperiod}{Yingming}{Y\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {BMC Public Health}%
-      }
-      \strng{namehash}{8fbb6762b5c17ea884446ae8f751b867}
-      \strng{fullhash}{79cfc61ac01746f998f12dc2884dbda3}
-      \field{sortinit}{Z}
-      \field{labelyear}{2012}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Prevalence of diabetes and predictions of its risks using anthropometric measures in southwest rural areas of China}}
-      \field{abstract}{BACKGROUND: To examine the prevalence of diabetes and prediabetes in Songming county, Yunnan province, South-west China and examine influences of anthropometric indicators on diabetic risk.$\backslash$n$\backslash$nMETHODS: This study was a population based cross-sectional study of 1031 subjects in Songming County aged 30 years and older. Age-standardization was performed by using the 2010 Songming population as the standard population. After an overnight fasting, participants underwent an oral glucose tolerance test (OGTT), and venous blood glucose levels were measured to identify diabetes and prediabetes. Physicians completed questionnaires and blood pressure measurements; trained nurses measured anthropometric variables. Age-adjusted logistic regression models were used to assess the association between anthropometric variables and diabetes.$\backslash$n$\backslash$nRESULTS: Total prevalences of diabetes and prediabetes were 10.0{\%} and 11.6{\%}, respectively. In women, prevalence of diabetes and prediabetes significantly increased with body mass index (BMI),waist hip ratio (WHR), and waist-to-height ratio (WHtR). But in men, prevalence of diabetes and prediabetes only significantly increased with WHR and WHtR. Compared to 1st WHR tertile in women, there was a nearly tenfold increase in the risk of diabetes with 3rd WHR tertile (OR 10.50, 95{\%} CI 3.95-27.86). Men with 3rd BMI tertile had 4.8-fold risk of getting diabetes compared to men with 1st WHtR tertile (OR 4.79, 95{\%} CI 1.88-12.26). Only WHtR had significantly higher receiver operating characteristic (ROC) area than BMI in total men (0.668 vs. 0.561, p < 0.05). And in total women, only WHR had significantly higher ROC area than BMI (0.723 vs. 0.628, p < 0.05). In the partial correlation analysis controlling for waist circumference, only WHR had significant correlation with fasting plasma glucose (r = 0.132, p = 0.002) and 2-h plasma glucose (r = 0.162, p = 0.000) in women, and WHtR had a much stronger association with both fasting plasma glucose (r = 0.305, P = 0.000) and 2 h plasma glucose (r = 0.303, P = 0.000) than WHR in men.$\backslash$n$\backslash$nCONCLUSION: High prevalence of diabetes and prediabetes were found in this underdeveloped region. About half of total subjects with diabetes were undiagnosed. The association of obesity indices and diabetic risk factors varied with gender. The strongest predictors of diabetes were WHR for the female subgroup and WHtR for the male subgroup.}
-      \field{issn}{1471-2458}
-      \field{journaltitle}{BMC Public Health}
-      \field{number}{1}
-      \field{title}{{Prevalence of diabetes and predictions of its risks using anthropometric measures in southwest rural areas of China}}
-      \field{volume}{12}
-      \field{year}{2012}
-      \field{pages}{821}
-      \verb{doi}
-      \verb 10.1186/1471-2458-12-821
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Zhao et al. - 2012 - Prevalence of diabetes and predictions of its risks using anthropometric measures in southwest rural areas of China.pdf:pdf
-      \endverb
-      \verb{url}
-      \verb BMC%20Public%20Health
-      \endverb
-      \keyw{163,Body mass index,Diabetes type 2,Obesity,Waist hip ratio,Waist-to-height ratio,body mass index,cn,com,correspondence,diabetes type 2,edu,fudan,obesity,waist hip ratio,waist-to-height ratio,xiaolongzhao,yimingli}
-    \endentry
     \entry{Zhou2005a}{article}{}
       \name{labelname}{7}{uniquelist=2}{%
         {{hash=a566e1d6a368e3e22ba2d934aa5f7b8b}{Zhou}{Z\bibinitperiod}{Honghong}{H\bibinitperiod}{}{}{}{}}%
@@ -10438,6 +10410,7 @@
       \endverb
     \endentry
   \endsortlist
+  \missing{He2015}
 \endrefsection
 \endinput
 

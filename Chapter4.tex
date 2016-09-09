@@ -62,7 +62,7 @@ We assess the validity of self-reported diabetes in our data by using \ac{HbA1c}
 We used this information to infer the "true" diabetes status for those with inconsistent reports. For those with two waves, we assumed that if a diabetes diagnosis had been reported in a prior wave they also had diabetes in the ensuing wave, even if then it was not reported.
 For people where we had data from all three waves, we used that additional information to make a decision on how to deal with inconsistencies using the rules outlined in Table \ref{tab:Inconsistencies}
 
-\begin{table}[h!]
+\begin{table}[p]
 \caption{\label{tab:Inconsistencies}Inconsistencies in diabetes self-report in MxFLS.}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth} 
@@ -90,7 +90,7 @@ Throughout our analysis the samples we use are restricted to the working age pop
 
 The detailed information in the \ac{MxFLS} allows us to consider the following outcome variables of interest: employment\footnote{Employment status is defined as having worked or carried out an activity that helped with the household expenses the last week and working for at least four hours per week. This explicitly includes those employed informally, for instance people working in a family business. The number of working hours needed to be considered as working is lower than in Chapter \ref{cha:Mex1}. We took this decision because we wanted to assess the impact of diabetes on driving people out of work completely. Any effect on working hours should be captured in the respective working hours models. We also tested if changing the definition of being employed to having worked at least ten hours per week as in Chapter \ref{cha:Mex1}. This only led to marginal changes in the coefficients and standard errors, not affecting the interpretation of the results.}, hourly wage and weekly working hours.\footnote{Hourly wage was calculated by adding up the reported monthly income from the first and second job (if any) and dividing it by the average number of weeks per month. This gave us the average earnings per week which were then divided by the weekly working hours to arrive at an hourly wage estimate. Labor income was either reported as the total amount for the whole month or more detailed containing information on the monthly wage, income from piecework, tips, extra hours, meals, housing, transport, medical benefits and other earnings. Over 80\% of respondents reported the total amount instead of a detailed amount. Respondents were also asked for their annual income and we used that information to arrive at an hourly wage if information for monthly labour income was missing. Finally, we adjusted the calculated wage for inflation from the year of the interview up to 2013 and took the log of those values. Due to a considerable number of missing or zero income reports the sample used for the wage estimation is smaller than the sample for working hours. Working hours were calculated summing up the self-reported working hours of the first and---if applicable---the second job.} For the pooled data of all three waves (Table  \ref{tab:Pooled-sample-characteristics}), diabetes was self-reported by 5\% of men and 6\% of women, respectively. This is consistent with other prevalence estimates of self-reported diabetes for this time period in Mexico.\footnote{\textcite{Barquera2013} show that the prevalence of diagnosed diabetes in Mexico was 7.5\% in 2006, only somewhat above our results, which may be the result of the slightly different age groups considered.}  About half of the respondents in the sample live in rural areas. Looking at our outcome variables, 86\% of men report some form of employment compared to 37\% of women. Interestingly, men do not report considerably higher hourly wages than women but work more hours per week. Also, men are working more often in agricultural jobs while women are more likely to be self-employed or in non-agricultural wage employment. Women also have lower educational attainment on average. 
 
-\begin{table}
+\begin{table}[p]
 \caption{\label{tab:Pooled-sample-characteristics}Descriptive statistics for panel and biomarker sample.}
 
 \begin{threeparttable}  %adds notes to tables
@@ -279,7 +279,7 @@ For the biomarker analysis we rely on within-household variation $v_{i}$ for ide
 
 Table \ref{tab:Self-reported-diabetes-and} presents the estimation results of the \ac{FE} model using Eq. \ref{eq:employed}, which indicate significant and substantial reductions in the probability of employment for men and women with self-reported diabetes. The coefficients are similar for both sexes, showing a reduction in employment probabilities of over 5 percentage points. In relative terms---taking into account the lwoer employment rates for women compared to men---these percentage points reductions translate into a reduction of 14\% for women and of 6\% for men, suggesting a stronger impact of diabetes on female employment chances.
   
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:Self-reported-diabetes-and}Self-reported diabetes and labour market outcomes.}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth}
@@ -307,11 +307,12 @@ N               &    21388         &    27341         &    13828         &     7
 \end{adjustbox}
 \end{center}
 \end{table}
+\clearpage
 
 The results in Columns 3--6 show no significant relationship between self-reported diabetes and wages or working hours. One may expect this relationship to differ by the type of work, as those  with diabetes working in an agricultural job that requires strenuous, physical efforts may see their productivity more adversely affected than those engaged in more sedentary work. We therefore estimate a model including interaction terms between self-reported diabetes and agricultural employment and between self-reported diabetes and self-employment, respectively, using non-agricultural wage employment as the comparison group, and restricting our sample to those employed only. 
 
 
-\begin{table}[!ht]
+\begin{table}[p]
 \caption{\label{tab:Self-reported-diabetes-interaction}Effect of self-reported diabetes on wages and working hours, by type of work.}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth}
@@ -360,7 +361,7 @@ In summary, we find no evidence for an association between self-reported diabete
 
 To explore whether diabetes affects the selection into certain types of work we estimate \ac{FE} models of the probability of being in non-agricultural wage employment, agricultural employment or self-employment using three dummy variables indicating the respective type of work as the left hand side variables. The results in Table \ref{tab:Self-reported-diabetes-selection_LPM} indicate a negative association with self-employment, though the estimates are quite imprecise. For women, those who self-report diabetes are less likely to work in agriculture and potentially self-employment. This may suggest that having diabetes drives people out of self-employment and agricultural jobs, for instance because these jobs are physically more demanding and possibly also because they provide less protection in terms of insurance and employment duration. We also estimated a pooled multinomial logit model augmented  with the within-between approach \parencite{Bell2015}, based on the work of \textcite{Mundlak1978}, which allows interpreting the coefficients of all time-varying variables as within-effects by including individual means of all time-varying covariates\footnote{Several other studies in economics have used this approach recently, e.g., \textcite{Geishecker2011,Wunder2014,Boll2016}}. The results indicate a very similar pattern both in size and significance (results available on request).\footnote{Using the same methods, we also investigated the impact of diabetes on changes in the type of work for those already employed, finding no evidence that diabetes leads to changes in the type of work. These results are also available on request.}
 
-\begin{table}[h]
+\begin{table}[p]
 \caption{\label{tab:Self-reported-diabetes-selection_LPM}Relationship between self-reported diabetes and selection into types of work.}
 \begin{center}
 %\resizebox{\linewidth}{!}{%
@@ -438,7 +439,7 @@ Table \ref{tab:Self-reported-diabetes-duration} presents the results of the line
 
 For employment probabilities the results indicate a yearly reduction in male employment probability throughout. For women the coefficient shows a reduction of up to almost 1 percentage points per year, though the association is not as strong in the \ac{FE} model. The coefficients in the spline models provide some evidence for an immediate effect of diabetes, which then levels off for some time after which it becomes stronger again. Nonetheless, for males and particularly females, the coefficients are quite imprecisely measured.
 
-\begin{table}
+\begin{table}[p]
 \caption{\label{tab:Self-reported-diabetes-duration}Relationship between self-reported years since diagnosis and labour market outcomes using continuous duration and duration splines.}
 \begin{center}
 %\resizebox{\linewidth}{!}{%
@@ -559,7 +560,7 @@ third wave of the \ac{MxFLS}. As noted in section \ref{sec:Data}, these data ena
 We first present a cross tabulation of self-reported diabetes and the results of the biomarker analysis (Table  \ref{tab:Biomarker_observations}). The table indicates that 27\% of the sample have \ac{HbA1c} levels indicative of diabetes and 81\% of those self-reporting a diabetes diagnosis also have \ac{HbA1c} levels equal to or above the diabetes threshold. Overall, of the people with diabetes according to biomarker analysis, 32\% self-report a diagnosis, while 68\% do not.
 
 
-\begin{table}[h!]
+\begin{table}[p]
 \caption{\label{tab:Biomarker_observations}Number of observations with diabetes (HbA1c $\geq 6.5\%$) and self-reported diabetes.}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth}
@@ -595,7 +596,7 @@ Total & 4673 & 1735 & 6408 &  \\
 To further investigate the relationship of self-reported and biomarker tested diabetes, we estimate the models presented in section \ref{sec:Biomarker Strategy}.  
 The results in columns 1 and 2 of Table \ref{tab:Biomarker_results} show that the earlier results are robust for the biomarker sample. The coefficients in column 3 and 4 indicate that the associations with employment probabilities are much weaker when using diabetes defined by the biomarker instead of self-reported diabetes.\footnote{We also created a dummy variable that additionally to measured diabetes accounted for those with a self-reported diabetes diagnosis but biomaker levels below the diabetes threshold. This allowed us to investigate the effect for the entire diabetes population. The coefficients and their statistical significance are only marginally different to those presented in columns 3 and 4 of Table \ref{tab:Biomarker_results}, which is why we do not present them here.} In columns 5 and 6, obtained from estimating Eq. \ref{eq:diab_ud}, the coefficient for the biomarker diabetes population $Dbio_i$ now reflects the effect of undiagnosed diabetes, as the regression includes a control for self-reported diabetes, revealing that undiagnosed diabetes is not associated with any of the labour outcomes. The coefficient for self-reported diabetes is marginally bigger in size for men and somewhat smaller for women compared to column 1 and 2, respectively. However, these differences are not statistically significant (p>0.1) using a Z-test, suggesting that not accounting for undiagnosed diabetes will likely leave the estimates of self-reported diabetes unbiased.
 
-\begin{table}[h!]
+\begin{table}[p]
 \caption{\label{tab:Biomarker_results}Biomarker results}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth}
@@ -645,7 +646,7 @@ HbA1c $\geq$ 6.5&                  &                  &    -.088         &    1.
 
 As discussed earlier, differences in effects between self-reported diabetes and those undiagnosed are likely to stem from selection into the diagnosed population, for instance those in worse health or higher \ac{HbA1c} levels are more likely to go to the doctor and be diagnosed as well as to lose their job because of their diabetes. To further explore this, we first estimate models additionally controlling for self-reported health status to capture differences in subjective individual health. Secondly, we investigate in how far differences in measured \ac{HbA1c}, as a proxy for diabetes severity, may explain differences in employment effects of self-reported and undiagnosed diabetes. To this end we estimate Eq. \ref{eq:diab_ud} additionally controlling for \ac{HbA1c} levels.
 
-\begin{table}[h!]
+\begin{table}[p]
 \caption{\label{tab:Diagnosed_undiagnosed_robust}Self-reported diabetes, biomarkers, diabetes severity and self-reported health and their association with labour market outcomes}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth} 
