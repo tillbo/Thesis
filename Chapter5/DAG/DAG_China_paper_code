@@ -1,0 +1,79 @@
+
+
+
+
+*******************************************************
+****DAG MSM****
+
+Baseline%2Ftime-invariant_covariates 1 @0.461,0.472
+Diabetes_1 1 @0.503,0.690
+Diabetes_2 1 @0.605,0.692
+Diabetes_T 1 @0.706,0.691
+Time-varying_covariates_T 1 @0.750,0.591
+Time_varying_covariates_0 1 @0.462,0.593
+Time_varying_covariates_1 1 @0.553,0.594
+Time_varying_covariates_2 1 @0.653,0.591
+
+Baseline%2Ftime-invariant_covariates Diabetes_1 @0.489,0.559 Diabetes_2 @0.581,0.549 Diabetes_T @0.531,0.497 Time-varying_covariates_T @0.688,0.488 Time_varying_covariates_0 Time_varying_covariates_1 @0.495,0.508 Time_varying_covariates_2 @0.606,0.498
+Diabetes_1 Diabetes_2 Time_varying_covariates_1
+Diabetes_2 Diabetes_T Time_varying_covariates_2
+Diabetes_T Time-varying_covariates_T @0.732,0.632
+Time_varying_covariates_0 Diabetes_1 Time-varying_covariates_T @0.668,0.510 Time_varying_covariates_1 @0.510,0.593 Time_varying_covariates_2 @0.599,0.543
+Time_varying_covariates_1 Diabetes_2 Time-varying_covariates_T @0.690,0.559 Time_varying_covariates_2 @0.607,0.591
+Time_varying_covariates_2 Diabetes_T Time-varying_covariates_T		
+
+
+***DAG MSM alternative****************
+
+Baseline%2Ftime-invariant_covariates 1 @0.503,0.500
+Diabetes_1 1 @0.574,0.669
+Diabetes_2 1 @0.646,0.671
+Diabetes_T 1 @0.719,0.673
+Outcome%2Ftime_variant_covariates_0 1 @0.504,0.589
+Outcome%2Ftime_variant_covariates_1 1 @0.574,0.589
+Outcome%2Ftime_variant_covariates_2 1 @0.646,0.589
+Outcome%2Ftime_variant_covariates_T 1 @0.718,0.589
+
+Baseline%2Ftime-invariant_covariates Diabetes_1 @0.471,0.652 Diabetes_2 @0.629,0.581 Diabetes_T @0.553,0.570 Outcome%2Ftime_variant_covariates_0 Outcome%2Ftime_variant_covariates_1 @0.533,0.553 Outcome%2Ftime_variant_covariates_2 @0.606,0.498 Outcome%2Ftime_variant_covariates_T @0.657,0.484
+Diabetes_1 Diabetes_2 Outcome%2Ftime_variant_covariates_1
+Diabetes_2 Diabetes_T Outcome%2Ftime_variant_covariates_2
+Diabetes_T Outcome%2Ftime_variant_covariates_T
+Outcome%2Ftime_variant_covariates_0 Diabetes_1 Outcome%2Ftime_variant_covariates_1 Outcome%2Ftime_variant_covariates_2 @0.599,0.543 Outcome%2Ftime_variant_covariates_T @0.638,0.513
+Outcome%2Ftime_variant_covariates_1 Diabetes_2 Outcome%2Ftime_variant_covariates_2 @0.606,0.588 Outcome%2Ftime_variant_covariates_T @0.635,0.546
+Outcome%2Ftime_variant_covariates_2 Diabetes_T Outcome%2Ftime_variant_covariates_T
+*********************************************
+******DAG FE*********************************
+
+Diabetes_1 1 @0.516,0.634
+Diabetes_2 1 @0.593,0.635
+Diabetes_T 1 @0.674,0.632
+Time-invariant_unobserved_confounders U @0.593,0.316
+Time-varying_covariates_T 1 @0.673,0.473
+Time_varying_covariates_1 1 @0.516,0.477
+Time_varying_covariates_2 1 @0.593,0.474
+
+Diabetes_1 Diabetes_2 Time_varying_covariates_1
+Diabetes_2 Diabetes_T Time_varying_covariates_2
+Diabetes_T Time-varying_covariates_T @0.673,0.570
+Time-invariant_unobserved_confounders Diabetes_1 @0.545,0.484 Diabetes_2 @0.557,0.473 Diabetes_T @0.646,0.516 Time-varying_covariates_T @0.650,0.324 Time_varying_covariates_1 @0.529,0.333 Time_varying_covariates_2 @0.593,0.379
+Time_varying_covariates_1 Time-varying_covariates_T @0.581,0.381 Time_varying_covariates_2
+Time_varying_covariates_2 Time-varying_covariates_T
+
+
+
+*****DAG FE alternative************
+
+Diabetes%2Ftime_variant_covariates_1 1 @0.537,0.459
+Diabetes%2Ftime_variant_covariates_2 1 @0.599,0.458
+Diabetes%2Ftime_variant_covariates_T 1 @0.659,0.458
+Outcome_1 1 @0.537,0.625
+Outcome_2 1 @0.599,0.626
+Outcome_T 1 @0.659,0.625
+Time-invariant_unobserved_confounders U @0.599,0.315
+
+Diabetes%2Ftime_variant_covariates_1 Diabetes%2Ftime_variant_covariates_2 Diabetes%2Ftime_variant_covariates_T @0.581,0.381 Outcome_1
+Diabetes%2Ftime_variant_covariates_2 Diabetes%2Ftime_variant_covariates_T Outcome_2
+Diabetes%2Ftime_variant_covariates_T Outcome_T
+Outcome_1 Outcome_2
+Outcome_2 Outcome_T
+Time-invariant_unobserved_confounders Diabetes%2Ftime_variant_covariates_1 @0.543,0.326 Diabetes%2Ftime_variant_covariates_2 @0.599,0.378 Diabetes%2Ftime_variant_covariates_T @0.650,0.324 Outcome_1 @0.545,0.484 Outcome_2 @0.562,0.462 Outcome_T @0.646,0.516

@@ -1,8 +1,9 @@
 \input{Preamble.tex}
 
 \begin{document}
+\input{acronyms}
 % Title Page
-\comment{}
+\comment{
 \begin{titlepage}
 \centering
 \vfill
@@ -120,14 +121,16 @@ Further, the study provides additional novel evidence for the effect of self-rep
 Chapters \ref{cha:Mex1} and \ref{cha:Mex2} provided evidence of the adverse impact of self-reported diabetes on employment probabilities in Mexico. However, if this is also the case in other \acp{MIC} is unclear. The study in Chapter \ref{cha:China} intents to provide further evidence using rich panel data covering a period of rapid economic transition in China. It further intents to provide information about the current success of the Chinese healthcare system in bringing about behaviour change in those diagnosed. Studies have shown that smoking cessation and weight loss after a diagnosis can have beneficial effects on blood glucose control and the risk of complications.
 
 This study again faces the problem of the potential endogeneity of diabetes. It uses an already established approach with the \ac{FE} estimator. However, it adds a further identification strategy by making use of \acp{MSM}, a strategy widely applied in epidemiology to account for time-variant confounding, in particular selection into treatment on pre-treatment outcome variables. It is less known in economics but nicely complements the \ac{FE} method. The aim of the study was to provide information on the success of current diabetes management in the Chinese healthcare system and to identify areas where improvements are needed to curb the burden of diabetes.
-%}
+}
 \include{Chapter5}
+\comment{
 \acresetall  %resets all acronyms
 \chapter{\label{cha:Discussion}Discussion and conclusions} 
 \acresetall  %resets all acronyms
 \include{Conclusion}
 \chapter*{\label{cha:Appendix}Appendix}
 \include{Appendix}
+}
 \printbibliography
 
 \end{document}          

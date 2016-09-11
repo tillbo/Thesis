@@ -8,7 +8,13 @@
 \usepackage{latexsym}
 \usepackage{textcomp}
 \usepackage{longtable}
+%causes each table to be on seperate page
 \renewcommand\floatpagefraction{0.1}
+%causes each figure to be on seperate page
+\makeatletter
+\@fpsep\textheight
+\makeatother
+%multirow tables etc.
 \usepackage{multirow,booktabs}
 \usepackage{amsfonts,amsmath,amssymb}
 \usepackage{gensymb}  % to show special symbols like degree °

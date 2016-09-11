@@ -3882,6 +3882,54 @@
       \endverb
       \keyw{Health Production I120,IBSS,Labor Force and Employment,Size,Time Allocation and Labor Supply J220,all,and Structure J210,download,econlit,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
     \endentry
+    \entry{He2015}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=01f0db4a278a227b9e648b692c8841bc}{He}{H\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ac0d2a9c74a8b02d53414be52b6bc029}{Li}{L\bibinitperiod}{Qingqing}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=feb96ca112c179e320db2db693e022b8}{Yang}{Y\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=23a413101b2de8eec9142815f224456f}{Jiao}{J\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1f97eabe031c56e362e731ca9868ae2b}{Ma}{M\bibinitperiod}{Xiaoguang}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9d93e4d04a3fe76a4cb28c4dd358c4}{Zhou}{Z\bibinitperiod}{Yunjie}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=a8530ed0c455dca72334a300c8ede298}{Song}{S\bibinitperiod}{Aihua}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4cd274eec08be1895b75abce725f3b14}{Heymsfield}{H\bibinitperiod}{Steven\bibnamedelima B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=1d90524f11c4ed9808d220c69cd44330}{Zhang}{Z\bibinitperiod}{Shanchun}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=36986d45fd4fc5c53429a1e05c347f5f}{Zhu}{Z\bibinitperiod}{Shankuan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=01f0db4a278a227b9e648b692c8841bc}{He}{H\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ac0d2a9c74a8b02d53414be52b6bc029}{Li}{L\bibinitperiod}{Qingqing}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=feb96ca112c179e320db2db693e022b8}{Yang}{Y\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=23a413101b2de8eec9142815f224456f}{Jiao}{J\bibinitperiod}{Jingjing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1f97eabe031c56e362e731ca9868ae2b}{Ma}{M\bibinitperiod}{Xiaoguang}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=5a9d93e4d04a3fe76a4cb28c4dd358c4}{Zhou}{Z\bibinitperiod}{Yunjie}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=a8530ed0c455dca72334a300c8ede298}{Song}{S\bibinitperiod}{Aihua}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=4cd274eec08be1895b75abce725f3b14}{Heymsfield}{H\bibinitperiod}{Steven\bibnamedelima B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=1d90524f11c4ed9808d220c69cd44330}{Zhang}{Z\bibinitperiod}{Shanchun}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=36986d45fd4fc5c53429a1e05c347f5f}{Zhu}{Z\bibinitperiod}{Shankuan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d53dbf17084075bb676d38a455f4305f}
+      \strng{fullhash}{23efe1a775911d64be7a38497e7799bf}
+      \field{sortinit}{H}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Lower BMI cutoffs to define overweight and obesity in China}}
+      \field{issn}{19307381}
+      \field{journaltitle}{Obesity}
+      \field{number}{3}
+      \field{title}{{Lower BMI cutoffs to define overweight and obesity in China}}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{pages}{684\bibrangedash 691}
+      \verb{doi}
+      \verb 10.1002/oby.20995
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/He et al. - 2015 - Lower BMI cutoffs to define overweight and obesity in China.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/oby.20995
+      \endverb
+    \endentry
     \entry{Hemminki2010}{article}{}
       \name{labelname}{4}{}{%
         {{hash=4a9fabdd3bc5bf2c05801f97fe384eb3}{Hemminki}{H\bibinitperiod}{Kari}{K\bibinitperiod}{}{}{}{}}%
@@ -6034,6 +6082,7 @@
       \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
       \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
       \field{sortinit}{M}
+      \field{extrayear}{1}
       \field{labelyear}{2011}
       \field{datelabelsource}{}
       \field{labeltitle}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey.}}
@@ -6055,6 +6104,46 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey.pdf:pdf
       \endverb
       \keyw{Algorithms,Diabetes Mellitus,Employment,Employment: statistics {\&} numerical data,Female,Health Surveys,Health Surveys: instrumentation,Humans,Interviews as Topic,Salaries and Fringe Benefits,Salaries and Fringe Benefits: statistics {\&} numeric,Sick Leave,Sick Leave: statistics {\&} numerical data,Type 1,Type 2}
+    \endentry
+    \entry{Minor2010}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {P.C. Langley, University of Minnesota, Minneapolis, MN, United States}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
+      \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
+      \field{sortinit}{M}
+      \field{extrayear}{2}
+      \field{labelyear}{2011}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
+      \field{abstract}{This paper estimates the effect of diabetes on labor-force participation, hours worked, days-out-of-work due to illness, and earnings using data from the National Health Interview Survey. Findings indicate that diabetes, estimated wholly, is significantly detrimental to most labor market outcomes. However, separation of type I and II diabetes shows that much of the negative effect is due to type II diabetes. On average a female with type II diabetes can experience a wage penalty of almost 50{\%} relative to a healthy individual. Additionally, estimates of specifically type II diabetes may be subject to endogeneity bias. To account for this, I utilize whether an individual's biological mother has been diagnosed with diabetes as an instrumental variable. This instrument provides both theoretical and statistical explanatory power to separate the causal effect of type II diabetes on labor-force decisions.}
+      \field{isbn}{1098-3015}
+      \field{issn}{10579230}
+      \field{journaltitle}{Health Economics}
+      \field{month}{12}
+      \field{number}{12}
+      \field{series}{15th Annual International Meeting of the International Society for Pharmacoeconomics and Outcomes Research, ISPOR 2010 Atlanta, GA United States. Conference Start: 20100515 Conference End: 20100519}
+      \field{title}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{1468\bibrangedash 1486}
+      \verb{doi}
+      \verb 10.1002/hec.1685
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey.pdf:pdf
+      \endverb
+      \keyw{Algorithms,Diabetes Mellitus,Employment,Employment: statistics {\&} numerical data,Female,Health Surveys,Health Surveys: instrumentation,Humans,IBSS,Interviews as Topic,Salaries and Fringe Benefits,Salaries and Fringe Benefits: statistics {\&} numeric,Sick Leave,Sick Leave: statistics {\&} numerical data,Type 1,Type 2,download,duplicates,econlit,embase,excludestudy,inclusion,inpatient,look up at least,methodology,newsearch,noaccess,oldsearch,pubmed,relevant,retrieve,wtp}
     \endentry
     \entry{Minor2013}{article}{}
       \name{labelname}{1}{}{%
@@ -10410,7 +10499,6 @@
       \endverb
     \endentry
   \endsortlist
-  \missing{He2015}
 \endrefsection
 \endinput
 

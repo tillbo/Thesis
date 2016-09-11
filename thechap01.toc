@@ -1,11 +1,11 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:intro}:}{14}{section*.14}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:review}:}{14}{section*.15}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex1}:}{14}{section*.16}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex2}:}{14}{section*.17}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:China}:}{14}{section*.18}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Discussion}:}{14}{section*.19}
-\contentsline {chapter}{\numberline {1}General Introduction}{15}{chapter.1}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:intro}:}{9}{section*.13}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:review}:}{9}{section*.14}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex1}:}{9}{section*.15}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex2}:}{9}{section*.16}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:China}:}{9}{section*.17}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Discussion}:}{9}{section*.18}
+\contentsline {chapter}{\numberline {1}General Introduction}{10}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background to the thesis}{16}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Types of diabetes}{16}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Diabetes complications}{17}{subsection.1.1.2}
@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {1.1.8}Measurement of diabetes in household surveys}{21}{subsection.1.1.8}
 \contentsline {subsection}{\numberline {1.1.9}The effect of health information provided by a diabetes diagnosis}{22}{subsection.1.1.9}
 \contentsline {subsection}{\numberline {1.1.10}Thesis methods and structure}{23}{subsection.1.1.10}
-\contentsline {chapter}{\numberline {2}The Economic Costs of Type 2 Diabetes: A Global Systematic Review}{25}{chapter.2}
+\contentsline {chapter}{\numberline {2}The Economic Costs of Type 2 Diabetes: A Global Systematic Review}{11}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{27}{section.2.1}
 \contentsline {section}{\numberline {2.2}Methods}{28}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Search strategy}{28}{subsection.2.2.1}
@@ -32,7 +32,7 @@
 \contentsline {subsection}{\numberline {2.4.3}Comparison of COI and labour market studies: common themes and lessons learned}{65}{subsection.2.4.3}
 \contentsline {subsection}{\numberline {2.4.4}Limitations}{67}{subsection.2.4.4}
 \contentsline {section}{\numberline {2.5}Conclusion}{68}{section.2.5}
-\contentsline {chapter}{\numberline {3}The Impact of Diabetes on Employment in Mexico}{107}{chapter.3}
+\contentsline {chapter}{\numberline {3}The Impact of Diabetes on Employment in Mexico}{12}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{108}{section.3.1}
 \contentsline {section}{\numberline {3.2}Methodology}{111}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Dataset and descriptive statistics}{111}{subsection.3.2.1}
@@ -44,7 +44,7 @@
 \contentsline {subsection}{\numberline {3.3.4}Differences by wealth}{124}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}Differences by employment type}{126}{subsection.3.3.5}
 \contentsline {section}{\numberline {3.4}Conclusion}{128}{section.3.4}
-\contentsline {chapter}{\numberline {4}The Impact of Diabetes on Labour Market Outcomes in Mexico: a Panel Data and Biomarker Analysis}{150}{chapter.4}
+\contentsline {chapter}{\numberline {4}The Impact of Diabetes on Labour Market Outcomes in Mexico: a Panel Data and Biomarker Analysis}{13}{chapter.4}
 \contentsline {section}{\numberline {4.1}Introduction}{151}{section.4.1}
 \contentsline {section}{\numberline {4.2}Diabetes and labour outcomes---existing evidence}{153}{section.4.2}
 \contentsline {section}{\numberline {4.3}Data}{156}{section.4.3}
@@ -57,20 +57,20 @@
 \contentsline {subsection}{\numberline {4.5.2}Duration of self-reported diabetes}{173}{subsection.4.5.2}
 \contentsline {subsection}{\numberline {4.5.3}Cross-sectional biomarker analysis}{180}{subsection.4.5.3}
 \contentsline {section}{\numberline {4.6}Conclusion}{185}{section.4.6}
-\contentsline {chapter}{\numberline {5}The effects of receiving a diabetes diagnosis on health behaviour and economic outcomes in China}{188}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{189}{section.5.1}
-\contentsline {section}{\numberline {5.2}Methods}{192}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Study sample}{192}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Assessment of diabetes}{193}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Assessment of outcomes}{193}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Statistical analysis}{193}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}Results}{199}{section.5.3}
-\contentsline {section}{\numberline {5.4}Disussion}{208}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Limitations}{208}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Potential mechanisms}{210}{subsection.5.4.2}
-\contentsline {section}{\numberline {5.5}Conclusion}{212}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Duration groups results}{215}{subsection.5.5.1}
-\contentsline {chapter}{\numberline {6}Discussion and conclusions}{230}{chapter.6}
+\contentsline {chapter}{\numberline {5}The effects of receiving a diabetes diagnosis on health behaviour and economic outcomes in China}{14}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{15}{section.5.1}
+\contentsline {section}{\numberline {5.2}Methods}{18}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Study sample}{18}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Assessment of diabetes}{19}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Assessment of outcomes}{19}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Statistical analysis}{19}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Results}{25}{section.5.3}
+\contentsline {section}{\numberline {5.4}Disussion}{34}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Limitations}{34}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Potential mechanisms}{36}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Conclusion}{38}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Duration groups results}{41}{subsection.5.5.1}
+\contentsline {chapter}{\numberline {6}Discussion and conclusions}{56}{chapter.6}
 \contentsline {section}{\numberline {6.1}Chapter overview}{231}{section.6.1}
 \contentsline {section}{\numberline {6.2}Summary of principal findings}{231}{section.6.2}
 \contentsline {section}{\numberline {6.3}The context of the findings and their implications}{235}{section.6.3}
