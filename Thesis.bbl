@@ -1233,6 +1233,38 @@
       \endverb
       \keyw{Adolescent,Adult,Aftercare,Bias (Epidemiology),Cohort Studies,Diabetes,Diabetes Mellitus,Female,Gestational,Gestational: epidemiology,Gestational: etiology,Glucose Tolerance Test,Humans,Maternal Age,Middle Aged,Postnatal Care,Pregnancy,Research Design,Retrospective Studies,Risk Assessment,Risk Factors,Risk Reduction Behavior,Type 2,Type 2: diagnosis,Type 2: epidemiology,Type 2: etiology,Type 2: prevention {\&} control,Young Adult}
     \endentry
+    \entry{Beran2015}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=67b7260e3bc145ec863b6031ecfef741}{Beran}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=67b7260e3bc145ec863b6031ecfef741}{Beran}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{67b7260e3bc145ec863b6031ecfef741}
+      \strng{fullhash}{67b7260e3bc145ec863b6031ecfef741}
+      \field{sortinit}{B}
+      \field{labelyear}{2015}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The Impact of Health Systems on Diabetes Care in Low and Lower Middle Income Countries}}
+      \field{abstract}{This review will highlight the current challenges and barriers to diabetes management in low and lower middle income countries using the World Health Organization's 6 Building Blocks for Health Systems (service delivery; healthcare workforce; information; medical products, vaccines and technologies; financing; and leadership and governance). Low and lower middle income countries are characterized by low levels of income and insufficient health expenditure. These countries face a shift in disease burden from communicable to non-communicable diseases including diabetes. Many argue that health systems in these countries do not have the capacity to meet the needs of people with chronic conditions such as diabetes. A variety of barriers exist in terms of organization of health systems and care, human resources, sufficient information for decision-making, availability and affordability of medicines, policies, and alleviating the financial burden of care. These health system barriers need to be addressed, taking into account the need to have diabetes included in the global development agenda and also tailoring the response to local contexts including the needs of people with diabetes.}
+      \field{isbn}{1534-4827}
+      \field{issn}{1534-4827}
+      \field{journaltitle}{Current Diabetes Reports}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{The Impact of Health Systems on Diabetes Care in Low and Lower Middle Income Countries}}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s11892-015-0591-8
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Beran - 2015 - The Impact of Health Systems on Diabetes Care in Low and Lower Middle Income Countries.pdf:pdf
+      \endverb
+      \keyw{diabetes,health systems,low income}
+    \endentry
     \entry{Bergemann2011}{unpublished}{}
       \name{labelname}{3}{}{%
         {{hash=4ea943bc1058b57d5e58ef99a368baec}{Bergemann}{B\bibinitperiod}{Annette}{A\bibinitperiod}{}{}{}{}}%
@@ -1944,6 +1976,35 @@
       \endverb
       \keyw{Colombia,Cost of Illness,Diabetes,Diabetes Mellitus,Estimation,Health care,Health expenditure,IBSS,Latin America,Markovian processes,Patients,Public health,Sociology,Type 2,all,download,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
+    \entry{Cardenas2016}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=78aec0eedf8bfb5f3852308e1c244338}{Cardenas}{C\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=944c6726b35ce360d8fcd1f344c5b6a1}{Miranda}{M\bibinitperiod}{J\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbe3afe54f4eed27fe6d147c2e5f4b3}{Beran}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=78aec0eedf8bfb5f3852308e1c244338}{Cardenas}{C\bibinitperiod}{M\bibnamedelima K}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=944c6726b35ce360d8fcd1f344c5b6a1}{Miranda}{M\bibinitperiod}{J\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=dfbe3afe54f4eed27fe6d147c2e5f4b3}{Beran}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7908de9bee5bb1c5096300d7cbc069d5}
+      \strng{fullhash}{5ec79be3bd66c2029fcfcd1dc4cdac0c}
+      \field{sortinit}{C}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Delivery of Type 2 diabetes care in low- and middle-income countries: lessons from Lima, Peru}}
+      \field{journaltitle}{Diabetic Medicine}
+      \field{title}{{Delivery of Type 2 diabetes care in low- and middle-income countries: lessons from Lima, Peru}}
+      \field{volume}{33}
+      \field{year}{2016}
+      \field{pages}{752\bibrangedash 760}
+      \verb{doi}
+      \verb 10.1111/dme.13099
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Cardenas{\_}et{\_}al-2016-Diabetic{\_}Medicine.pdf:pdf
+      \endverb
+    \endentry
     \entry{Catalan2015}{article}{}
       \name{labelname}{9}{}{%
         {{hash=b337876dc19d42276e592828c8187cce}{Catalan}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
@@ -2437,6 +2498,38 @@
       \endverb
       \keyw{80 and over,Adolescent,Adult,Aged,Child,Costs and Cost Analysis,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: epidemiology,Female,Health Care Costs,Health Care Costs: trends,Humans,Infant,Israel,Israel: epidemiology,Male,Middle Aged,Newborn,Olia,Preschool,Young Adult,all,download,econlit,newsearch,oldsearch,pubmed,relevant,selected{\_}papers}
     \endentry
+    \entry{Choukem2013}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=b306eaf797804d1fddb89ff443cde8e9}{Choukem}{C\bibinitperiod}{Simeon-pierre}{S\bibinithyphendelim p\bibinitperiod}{}{}{}{}}%
+        {{hash=8bae06a35c8727d08e4663c6ae3283ed}{Mbanya}{M\bibinitperiod}{Jean-claude}{J\bibinithyphendelim c\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b306eaf797804d1fddb89ff443cde8e9}{Choukem}{C\bibinitperiod}{Simeon-pierre}{S\bibinithyphendelim p\bibinitperiod}{}{}{}{}}%
+        {{hash=8bae06a35c8727d08e4663c6ae3283ed}{Mbanya}{M\bibinitperiod}{Jean-claude}{J\bibinithyphendelim c\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ireland Ltd}%
+      }
+      \strng{namehash}{0ebe118e28bedbb7541f52d2a14f0171}
+      \strng{fullhash}{0ebe118e28bedbb7541f52d2a14f0171}
+      \field{sortinit}{C}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Should we still screen for type 2 diabetes after ADDITION-Cambridge? A low-income world perspective}}
+      \field{issn}{0168-8227}
+      \field{journaltitle}{Diabetes Research and Clinical Practice}
+      \field{number}{2}
+      \field{title}{{Should we still screen for type 2 diabetes after ADDITION-Cambridge? A low-income world perspective}}
+      \field{volume}{100}
+      \field{year}{2013}
+      \field{pages}{282\bibrangedash 284}
+      \verb{doi}
+      \verb 10.1016/j.diabres.2013.01.025
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Choukem, Mbanya - 2013 - Should we still screen for type 2 diabetes after ADDITION-Cambridge A low-income world perspective.pdf:pdf
+      \endverb
+    \endentry
     \entry{Colchero2016}{article}{}
       \name{labelname}{4}{}{%
         {{hash=9e54cb66d595db1166293ef5b2d4b1d4}{Colchero}{C\bibinitperiod}{M\bibnamedelima Arantxa}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -2615,6 +2708,38 @@
       \verb http://search.proquest.com/docview/1468568489?accountid=10637%20http://mlsfx.lib.uea.ac.uk:8888/sfx%7B%5C_%7Dlocal?url%7B%5C_%7Dver=Z39.88-2004%7B%5C&%7Drft%7B%5C_%7Dval%7B%5C_%7Dfmt=info:ofi/fmt:kev:mtx:journal%7B%5C&%7Dgenre=article%7B%5C&%7Dsid=ProQ:ProQ:ibssshell%7B%5C&%7Datitle=Racial+differences+in+the+effects+of+hyperten
       \endverb
       \keyw{Determinants,Diabetes,Health expenditure,IBSS{\_}11{\_}14,Obesity,Racial differentiation,Sociology,U.S.A.,all,download,econlit{\_}11{\_}14,relevant,selected{\_}papers}
+    \endentry
+    \entry{Contreras2016}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f63331e51c041b5ac0963e4c75a7e764}{Contreras}{C\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bb541fd287c887d4df666800cd920548}{Vargas-ojeda}{V\bibinithyphendelim o\bibinitperiod}{Adriana}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3a6e46a544d6b3ab1efb4e68c37818c1}{Fortmann}{F\bibinitperiod}{Addie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9c3a103e817452ae50da1002727a03b8}{Philis-tsimikas}{P\bibinithyphendelim t\bibinitperiod}{Athena}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f63331e51c041b5ac0963e4c75a7e764}{Contreras}{C\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bb541fd287c887d4df666800cd920548}{Vargas-ojeda}{V\bibinithyphendelim o\bibinitperiod}{Adriana}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3a6e46a544d6b3ab1efb4e68c37818c1}{Fortmann}{F\bibinitperiod}{Addie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9c3a103e817452ae50da1002727a03b8}{Philis-tsimikas}{P\bibinithyphendelim t\bibinitperiod}{Athena}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a1b80e95e2a172fdd5f60933a8802bdb}
+      \strng{fullhash}{adecbf6f60530bd8a11d4a0f4f2fb0c8}
+      \field{sortinit}{C}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Dulce Wireless Tijuana: A Randomized Control Trial Evaluating the Impact of Project Dulce and Short-Term Mobile Technology on Glycemic Control in a Family Medicine Clinic in Northern Mexico}}
+      \field{journaltitle}{Diabetes technology {\&} therapeutics}
+      \field{number}{4}
+      \field{title}{{Dulce Wireless Tijuana: A Randomized Control Trial Evaluating the Impact of Project Dulce and Short-Term Mobile Technology on Glycemic Control in a Family Medicine Clinic in Northern Mexico}}
+      \field{volume}{18}
+      \field{year}{2016}
+      \field{pages}{240\bibrangedash 251}
+      \verb{doi}
+      \verb 10.1089/dia.2015.0283
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Contreras et al. - 2016 - Dulce Wireless Tijuana A Randomized Control Trial Evaluating the Impact of Project Dulce and Short-Term Mobile.pdf:pdf
+      \endverb
     \endentry
     \entry{Craig2012}{article}{}
       \name{labelname}{11}{}{%
@@ -2986,6 +3111,61 @@
       \verb http://linkinghub.elsevier.com/retrieve/pii/S0927537113000468
       \endverb
       \keyw{Class sizes,Educational production,Endogeneity,Instrumental variables}
+    \endentry
+    \entry{DiCesare2013}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=aa226abfad1c4e587bdce07562b40e10}{{Di\bibnamedelimb Cesare}}{D\bibinitperiod}{Mariachiara}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2d3747134f3a009a082d0947cafdab24}{Khang}{K\bibinitperiod}{Young\bibnamedelima Ho}{Y\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=69b9a41f672768ff6743323f78092eb0}{Asaria}{A\bibinitperiod}{Perviz}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b157e6b79a10120f7d6606c2548e83cf}{Blakely}{B\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4a7f42787eaf4e7267c4e314cd7cec94}{Cowan}{C\bibinitperiod}{Melanie\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4179f3a6eab44913f537da3c256b33}{Farzadfar}{F\bibinitperiod}{Farshad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=1c75291f039a205b196bc9ec26bad737}{Guerrero}{G\bibinitperiod}{Ramiro}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=d9fc16d976b1f17cf627d2df6e08a539}{Ikeda}{I\bibinitperiod}{Nayu}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=68108f9aafb3e269a6e55b82ec7e3a41}{Kyobutungi}{K\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6381ef1480e301c4d441cf8bde018465}{Msyamboza}{M\bibinitperiod}{Kelias\bibnamedelima P.}{K\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=5cfef2b76152361b6614a281cedd5cae}{Oum}{O\bibinitperiod}{Sophal}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a49cb5108fcf60d88bf11b28eb92f5bf}{Lynch}{L\bibinitperiod}{John\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=ec1b34a8e4a8c95d23bd8777aa6800f4}{Marmot}{M\bibinitperiod}{Michael\bibnamedelima G.}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=643f9106f2c3a807434d4c568dc45af8}{Ezzati}{E\bibinitperiod}{Majid}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=aa226abfad1c4e587bdce07562b40e10}{{Di\bibnamedelimb Cesare}}{D\bibinitperiod}{Mariachiara}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2d3747134f3a009a082d0947cafdab24}{Khang}{K\bibinitperiod}{Young\bibnamedelima Ho}{Y\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=69b9a41f672768ff6743323f78092eb0}{Asaria}{A\bibinitperiod}{Perviz}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=b157e6b79a10120f7d6606c2548e83cf}{Blakely}{B\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4a7f42787eaf4e7267c4e314cd7cec94}{Cowan}{C\bibinitperiod}{Melanie\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=7d4179f3a6eab44913f537da3c256b33}{Farzadfar}{F\bibinitperiod}{Farshad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=1c75291f039a205b196bc9ec26bad737}{Guerrero}{G\bibinitperiod}{Ramiro}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=d9fc16d976b1f17cf627d2df6e08a539}{Ikeda}{I\bibinitperiod}{Nayu}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=68108f9aafb3e269a6e55b82ec7e3a41}{Kyobutungi}{K\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=6381ef1480e301c4d441cf8bde018465}{Msyamboza}{M\bibinitperiod}{Kelias\bibnamedelima P.}{K\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=5cfef2b76152361b6614a281cedd5cae}{Oum}{O\bibinitperiod}{Sophal}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a49cb5108fcf60d88bf11b28eb92f5bf}{Lynch}{L\bibinitperiod}{John\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=ec1b34a8e4a8c95d23bd8777aa6800f4}{Marmot}{M\bibinitperiod}{Michael\bibnamedelima G.}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=643f9106f2c3a807434d4c568dc45af8}{Ezzati}{E\bibinitperiod}{Majid}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6ebf11f1a1c0482c03f708ddd1de1d91}
+      \strng{fullhash}{0cd38676767fce8ce85e7900cf7cec8f}
+      \field{sortinit}{D}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Inequalities in non-communicable diseases and effective responses}}
+      \field{abstract}{In most countries, people who have a low socioeconomic status and those who live in poor or marginalised communities have a higher risk of dying from non-communicable diseases (NCDs) than do more advantaged groups and communities. Smoking rates, blood pressure, and several other NCD risk factors are often higher in groups with low socioeconomic status than in those with high socioeconomic status; the social gradient also depends on the country's stage of economic development, cultural factors, and social and health policies. Social inequalities in risk factors account for more than half of inequalities in major NCDs, especially for cardiovascular diseases and lung cancer. People in low-income countries and those with low socioeconomic status also have worse access to health care for timely diagnosis and treatment of NCDs than do those in high-income countries or those with higher socioeconomic status. Reduction of NCDs in disadvantaged groups is necessary to achieve substantial decreases in the total NCD burden, making them mutually reinforcing priorities. Effective actions to reduce NCD inequalities include equitable early childhood development programmes and education; removal of barriers to secure employment in disadvantaged groups; comprehensive strategies for tobacco and alcohol control and for dietary salt reduction that target low socioeconomic status groups; universal, financially and physically accessible, high-quality primary care for delivery of preventive interventions and for early detection and treatment of NCDs; and universal insurance and other mechanisms to remove financial barriers to health care.}
+      \field{isbn}{0140-6736 1474-547X}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{number}{9866}
+      \field{title}{{Inequalities in non-communicable diseases and effective responses}}
+      \field{volume}{381}
+      \field{year}{2013}
+      \field{pages}{585\bibrangedash 597}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(12)61851-0
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Di Cesare et al. - 2013 - Inequalities in non-communicable diseases and effective responses.pdf:pdf
+      \endverb
     \endentry
     \entry{DiabetesUK2012}{article}{}
       \name{labelname}{1}{}{%
@@ -3643,6 +3823,35 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Geishecker, Siedler - 2011 - Job Loss Fears and (Extreme) Party Identification First Evidence from Panel Data.pdf:pdf
       \endverb
       \keyw{Job insecurity,economic worries,party identifcation,prospective voting}
+    \endentry
+    \entry{Goldhaber-Fiebert2003a}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=751019a3ce656783d59f3f2e4cc77575}{Goldhaber-Fiebert}{G\bibinithyphendelim F\bibinitperiod}{J.\bibnamedelimi D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=db4f195530a4b691e37b7e01959f5c21}{Goldhaber-Fiebert}{G\bibinithyphendelim F\bibinitperiod}{S.\bibnamedelimi N}{S\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=1f02d17d4c126590cb177d08b5b2316c}{Tristán}{T\bibinitperiod}{M.\bibnamedelimi L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=1df83e96e8de039c466b9c8f1e035511}{Nathan}{N\bibinitperiod}{D.\bibnamedelimi M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=751019a3ce656783d59f3f2e4cc77575}{Goldhaber-Fiebert}{G\bibinithyphendelim F\bibinitperiod}{J.\bibnamedelimi D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=db4f195530a4b691e37b7e01959f5c21}{Goldhaber-Fiebert}{G\bibinithyphendelim F\bibinitperiod}{S.\bibnamedelimi N}{S\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=1f02d17d4c126590cb177d08b5b2316c}{Tristán}{T\bibinitperiod}{M.\bibnamedelimi L}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=1df83e96e8de039c466b9c8f1e035511}{Nathan}{N\bibinitperiod}{D.\bibnamedelimi M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bbe891a26afe0c66f10fc51aceb5dcd8}
+      \strng{fullhash}{103aa1578aa6162194dce17815ce5c2f}
+      \field{sortinit}{G}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Randomized controlled community-based nutrition and exercise intervention improves glycemia and cardiovascular risk factors in type 2 diabetic patients in rural Costa Rica}}
+      \field{journaltitle}{Diabetes Care}
+      \field{number}{1}
+      \field{title}{{Randomized controlled community-based nutrition and exercise intervention improves glycemia and cardiovascular risk factors in type 2 diabetic patients in rural Costa Rica}}
+      \field{volume}{26}
+      \field{year}{2003}
+      \field{pages}{24}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Goldhaber-Fiebert et al. - 2003 - Randomized controlled community-based nutrition and exercise intervention improves glycemia and cardio.pdf:pdf
+      \endverb
     \endentry
     \entry{Gong2015}{article}{}
       \name{labelname}{1}{}{%
@@ -4536,6 +4745,37 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Kahn - 1998 - Health and labor market performance the case of diabetes.pdf:pdf
       \endverb
     \endentry
+    \entry{Kahn2014}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1182878bcd4f15128e5523f699cd79a4}{Kahn}{K\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=00db25fd0ed999086bc40a492b3946e6}{Davidson}{D\bibinitperiod}{Mayer\bibnamedelima B.}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1182878bcd4f15128e5523f699cd79a4}{Kahn}{K\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=00db25fd0ed999086bc40a492b3946e6}{Davidson}{D\bibinitperiod}{Mayer\bibnamedelima B.}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{80a0c6087f5e87854c84cdb0474534c7}
+      \strng{fullhash}{80a0c6087f5e87854c84cdb0474534c7}
+      \field{sortinit}{K}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The reality of type 2 diabetes prevention}}
+      \field{abstract}{Efforts to reduce the burden of type 2 diabetes include attempts to prevent or delay the onset of the disease. Landmark clinical trials have shown that lifestyle modification programs focused on weight loss can delay the onset of type 2 diabetes in subjects at high risk of developing the disease. Building on this knowledge, many community-based studies have attempted to replicate the trial results and, simultaneously, payers have begun to cover diabetes prevention services. This article focuses on the evidence supporting the premise that community prevention efforts will be successful. Unfortunately, no study has shown that diabetes can be delayed or prevented in a community setting, and efforts to replicate the weight loss achieved in the trials have been mostly disappointing. Furthermore, both the clinical trials and the community-based prevention studies have not shown a beneficial effect on any diabetes-related clinical outcome. While the goal of diabetes prevention is extremely important, the absence of any persuasive evidence for the effectiveness of community programs calls into question whether the use of public funds or national prevention initiatives should be supported at this time.}
+      \field{isbn}{0149-5992, 1935-5548}
+      \field{issn}{19355548}
+      \field{journaltitle}{Diabetes Care}
+      \field{number}{4}
+      \field{title}{{The reality of type 2 diabetes prevention}}
+      \field{volume}{37}
+      \field{year}{2014}
+      \field{pages}{943\bibrangedash 949}
+      \verb{doi}
+      \verb 10.2337/dc13-1954
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Kahn, Davidson - 2014 - The reality of type 2 diabetes prevention.pdf:pdf
+      \endverb
+    \endentry
     \entry{Kapteyn2009}{unpublished}{}
       \name{labelname}{3}{}{%
         {{hash=d575e1a7f7482f9fc2e1ea0f1d6ff3fe}{Kapteyn}{K\bibinitperiod}{Arie}{A\bibinitperiod}{}{}{}{}}%
@@ -5299,8 +5539,76 @@
       \endverb
       \keyw{and anonymous referees,c13,c14,c3,christina gathmann,d12,endogeneity,frank vella,heteroscedastic errors,heteroskedasticity,i would like to,identi cation,identification,jel codes,jerry hausman,jim heckman,measurement error,model,partly linear,partly linear models,raffaella giacomini,simultaneous system,simultaneous systems,susanne schennach,thank roberto rigobon,tiemen woutersen,todd prono}
     \endentry
+    \entry{Li2008}{article}{}
+      \name{labelname}{18}{uniquelist=2}{%
+        {{hash=e1649d25afd58ac809edba752c1d98f3}{Li}{L\bibinitperiod}{Guangwei}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=28b6504d56c03d7d44c0ecca06ae0869}{Zhang}{Z\bibinitperiod}{Ping}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=13e1d63995891ce29d53499a09cfd3b6}{Wang}{W\bibinitperiod}{Jinping}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=68563201fb305772f82faa139f0f655f}{Gregg}{G\bibinitperiod}{Edward\bibnamedelima W}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a908d7fbe54a396e295ae39d0c5eecd9}{Yang}{Y\bibinitperiod}{Wenying}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ccb5c7e6e95749eefad9cca74d1637ff}{Gong}{G\bibinitperiod}{Qiuhong}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=9b1528d0b6c9bc88bfd8c569f290bcec}{Li}{L\bibinitperiod}{Hui}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=a549968ccfc4003d90c1ffd4a9ff5a05}{Li}{L\bibinitperiod}{Hongliang}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=f12ad74863b1d08156578ccef6529520}{Jiang}{J\bibinitperiod}{Yayun}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fc17fa85ec746bf5928c4de06fd4cbf8}{An}{A\bibinitperiod}{Yali}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=279869173a772487c6ebaf5fb4426a1b}{Shuai}{S\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ac36eed64badd6f195e86aeecd037a7}{Zhang}{Z\bibinitperiod}{Bo}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=e1ceec786648468461847b823cf3fdea}{Zhang}{Z\bibinitperiod}{Jingling}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bea169db5a537dfecf935ff1a7d062e7}{Thompson}{T\bibinitperiod}{Theodore\bibnamedelima J}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ae4b9d3b51a01e3c137493f099dceb08}{Gerzoff}{G\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=806bd8e2268bbc6f71a0f4a0f03d78d5}{Roglic}{R\bibinitperiod}{Gojka}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a6383d3ede620b506915e57926bb9ae}{Hu}{H\bibinitperiod}{Yinghua}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6fde02f535fb65fc3e6d07d3bc2dc1}{Bennett}{B\bibinitperiod}{Peter\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{18}{uniquelist=2}{%
+        {{hash=e1649d25afd58ac809edba752c1d98f3}{Li}{L\bibinitperiod}{Guangwei}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=28b6504d56c03d7d44c0ecca06ae0869}{Zhang}{Z\bibinitperiod}{Ping}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=13e1d63995891ce29d53499a09cfd3b6}{Wang}{W\bibinitperiod}{Jinping}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=68563201fb305772f82faa139f0f655f}{Gregg}{G\bibinitperiod}{Edward\bibnamedelima W}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a908d7fbe54a396e295ae39d0c5eecd9}{Yang}{Y\bibinitperiod}{Wenying}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ccb5c7e6e95749eefad9cca74d1637ff}{Gong}{G\bibinitperiod}{Qiuhong}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=9b1528d0b6c9bc88bfd8c569f290bcec}{Li}{L\bibinitperiod}{Hui}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=a549968ccfc4003d90c1ffd4a9ff5a05}{Li}{L\bibinitperiod}{Hongliang}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=f12ad74863b1d08156578ccef6529520}{Jiang}{J\bibinitperiod}{Yayun}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fc17fa85ec746bf5928c4de06fd4cbf8}{An}{A\bibinitperiod}{Yali}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=279869173a772487c6ebaf5fb4426a1b}{Shuai}{S\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ac36eed64badd6f195e86aeecd037a7}{Zhang}{Z\bibinitperiod}{Bo}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=e1ceec786648468461847b823cf3fdea}{Zhang}{Z\bibinitperiod}{Jingling}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=bea169db5a537dfecf935ff1a7d062e7}{Thompson}{T\bibinitperiod}{Theodore\bibnamedelima J}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=ae4b9d3b51a01e3c137493f099dceb08}{Gerzoff}{G\bibinitperiod}{Robert\bibnamedelima B}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=806bd8e2268bbc6f71a0f4a0f03d78d5}{Roglic}{R\bibinitperiod}{Gojka}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a6383d3ede620b506915e57926bb9ae}{Hu}{H\bibinitperiod}{Yinghua}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ab6fde02f535fb65fc3e6d07d3bc2dc1}{Bennett}{B\bibinitperiod}{Peter\bibnamedelima H}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{75136c8196e9cea85e81836ebbe1f737}
+      \strng{fullhash}{8cc48023d3a22828c208b04683f416e1}
+      \field{sortinit}{L}
+      \field{labelyear}{2008}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The long-term effect of lifestyle interventions to prevent diabetes in the China Da Qing Diabetes Prevention Study: a 20-year follow-up study.}}
+      \field{abstract}{BACKGROUND: Intensive lifestyle interventions can reduce the incidence of type 2 diabetes in people with impaired glucose tolerance, but how long these benefits extend beyond the period of active intervention, and whether such interventions reduce the risk of cardiovascular disease (CVD) and mortality, is unclear. We aimed to assess whether intensive lifestyle interventions have a long-term effect on the risk of diabetes, diabetes-related macrovascular and microvascular complications, and mortality. METHODS: In 1986, 577 adults with impaired glucose tolerance from 33 clinics in China were randomly assigned to either the control group or to one of three lifestyle intervention groups (diet, exercise, or diet plus exercise). Active intervention took place over 6 years until 1992. In 2006, study participants were followed-up to assess the long-term effect of the interventions. The primary outcomes were diabetes incidence, CVD incidence and mortality, and all-cause mortality. FINDINGS: Compared with control participants, those in the combined lifestyle intervention groups had a 51{\%} lower incidence of diabetes (hazard rate ratio [HRR] 0.49; 95{\%} CI 0.33-0.73) during the active intervention period and a 43{\%} lower incidence (0.57; 0.41-0.81) over the 20 year period, controlled for age and clustering by clinic. The average annual incidence of diabetes was 7{\%} for intervention participants versus 11{\%} in control participants, with 20-year cumulative incidence of 80{\%} in the intervention groups and 93{\%} in the control group. Participants in the intervention group spent an average of 3.6 fewer years with diabetes than those in the control group. There was no significant difference between the intervention and control groups in the rate of first CVD events (HRR 0.98; 95{\%} CI 0.71-1.37), CVD mortality (0.83; 0.48-1.40), and all-cause mortality (0.96; 0.65-1.41), but our study had limited statistical power to detect differences for these outcomes. INTERPRETATION: Group-based lifestyle interventions over 6 years can prevent or delay diabetes for up to 14 years after the active intervention. However, whether lifestyle intervention also leads to reduced CVD and mortality remains unclear.}
+      \field{issn}{1474-547X}
+      \field{journaltitle}{Lancet}
+      \field{month}{05}
+      \field{number}{9626}
+      \field{title}{{The long-term effect of lifestyle interventions to prevent diabetes in the China Da Qing Diabetes Prevention Study: a 20-year follow-up study.}}
+      \field{volume}{371}
+      \field{year}{2008}
+      \field{pages}{1783\bibrangedash 9}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(08)60766-7
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Li et al. - 2008 - The long-term effect of lifestyle interventions to prevent diabetes in the China Da Qing Diabetes Prevention Study a.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/18502303
+      \endverb
+      \keyw{Adult,Aged,Cardiovascular Diseases,Cardiovascular Diseases: epidemiology,Cardiovascular Diseases: mortality,China,China: epidemiology,Diabetes Mellitus,Type 2,Diabetes Mellitus,Type 2: epidemiology,Diabetes Mellitus,Type 2: mortality,Diabetes Mellitus,Type 2: prevention {\&} control,Female,Follow-Up Studies,Humans,Incidence,Life Style,Male,Middle Aged,Randomized Controlled Trials as Topic,Time Factors}
+    \endentry
     \entry{Li2010b}{article}{}
-      \name{labelname}{8}{}{%
+      \name{labelname}{8}{uniquelist=2}{%
         {{hash=bcd1557c708e01080ad5174b22132369}{Li}{L\bibinitperiod}{Yanping}{Y\bibinitperiod}{}{}{}{}}%
         {{hash=6fb2a7e74dbe41e43a3673fcca2e19c3}{He}{H\bibinitperiod}{Yuna}{Y\bibinitperiod}{}{}{}{}}%
         {{hash=db9ae9f8b01f502cd5ebe689c86bcf4b}{Qi}{Q\bibinitperiod}{Lu}{L\bibinitperiod}{}{}{}{}}%
@@ -5310,7 +5618,7 @@
         {{hash=aad7a59c7a13eb73531210d6418b2a7e}{Ma}{M\bibinitperiod}{Guansheng}{G\bibinitperiod}{}{}{}{}}%
         {{hash=cbb8bf66cca39e79bb109607032cd57e}{Hu}{H\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{8}{}{%
+      \name{author}{8}{uniquelist=2}{%
         {{hash=bcd1557c708e01080ad5174b22132369}{Li}{L\bibinitperiod}{Yanping}{Y\bibinitperiod}{}{}{}{}}%
         {{hash=6fb2a7e74dbe41e43a3673fcca2e19c3}{He}{H\bibinitperiod}{Yuna}{Y\bibinitperiod}{}{}{}{}}%
         {{hash=db9ae9f8b01f502cd5ebe689c86bcf4b}{Qi}{Q\bibinitperiod}{Lu}{L\bibinitperiod}{}{}{}{}}%
@@ -5320,7 +5628,7 @@
         {{hash=aad7a59c7a13eb73531210d6418b2a7e}{Ma}{M\bibinitperiod}{Guansheng}{G\bibinitperiod}{}{}{}{}}%
         {{hash=cbb8bf66cca39e79bb109607032cd57e}{Hu}{H\bibinitperiod}{Frank\bibnamedelima B}{F\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{e9994ead8aab1bcc7147e1e34e596dea}
+      \strng{namehash}{1de424e227d0415bc72fea7e966886fb}
       \strng{fullhash}{4b64d7936b1c66f5c0f6ba84f1a591ce}
       \field{sortinit}{L}
       \field{labelyear}{2010}
@@ -6861,6 +7169,71 @@
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/135910710X495366.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Pan1997}{article}{}
+      \name{labelname}{18}{}{%
+        {{hash=0cf34a73a481a499ef949a3283f4f316}{Pan}{P\bibinitperiod}{X.-R.}{X\bibinithyphendelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=dd9b3a8c7f78462a0ec280500f223e14}{Li}{L\bibinitperiod}{G.-W.}{G\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=e0b6130bb461584f004fcff061b5212a}{Hu}{H\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a52c651ebf2b1222aa5b791b97a67f0f}{Wang}{W\bibinitperiod}{J.-X.}{J\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=f1240771fab5e1c5185dcc6c7eabb6ef}{Yang}{Y\bibinitperiod}{W.-Y.}{W\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=1d393add2aa97f272a26fe2dbb226832}{An}{A\bibinitperiod}{Z.-X.}{Z\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=abbfbbfb911e52924526aa2e945bf222}{Hu}{H\bibinitperiod}{Z.-X.}{Z\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=a92a43d150689750972d7c5ab0cbb94b}{Juan-Lin}{J\bibinithyphendelim L\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=4b8be995b70600ba82886f1da3ca4d19}{Xiao}{X\bibinitperiod}{J.-Z.}{J\bibinithyphendelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=decfe073ebcc52445c9d092fe5a85826}{Cao}{C\bibinitperiod}{H.-B.}{H\bibinithyphendelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=18d8c1059347f2065a32d38262998f1f}{Liu}{L\bibinitperiod}{P.-A.}{P\bibinithyphendelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=25010f917e21870d9171fcbb3686aff4}{Jiang}{J\bibinitperiod}{X.-G.}{X\bibinithyphendelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=33705f37d2df548d099cc4a28087efab}{Jiang}{J\bibinitperiod}{Y.-Y.}{Y\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=905dafb1cf0528641a3e05d6226839c0}{Wang}{W\bibinitperiod}{J.-P.}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c9a5bed5a7386d2fc8432578ff5248b9}{Zheng}{Z\bibinitperiod}{Hui}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0f5b8b674eea6432492c32e093925682}{Zhang}{Z\bibinitperiod}{Hui}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=f1fd41a0f209a2844b70fc82af6ee0da}{Bennett}{B\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9297a9bf366b39ce15b18fc01af1aa29}{Howard}{H\bibinitperiod}{Barbara\bibnamedelima V.}{B\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{18}{}{%
+        {{hash=0cf34a73a481a499ef949a3283f4f316}{Pan}{P\bibinitperiod}{X.-R.}{X\bibinithyphendelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=dd9b3a8c7f78462a0ec280500f223e14}{Li}{L\bibinitperiod}{G.-W.}{G\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=e0b6130bb461584f004fcff061b5212a}{Hu}{H\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a52c651ebf2b1222aa5b791b97a67f0f}{Wang}{W\bibinitperiod}{J.-X.}{J\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=f1240771fab5e1c5185dcc6c7eabb6ef}{Yang}{Y\bibinitperiod}{W.-Y.}{W\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=1d393add2aa97f272a26fe2dbb226832}{An}{A\bibinitperiod}{Z.-X.}{Z\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=abbfbbfb911e52924526aa2e945bf222}{Hu}{H\bibinitperiod}{Z.-X.}{Z\bibinithyphendelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=a92a43d150689750972d7c5ab0cbb94b}{Juan-Lin}{J\bibinithyphendelim L\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=4b8be995b70600ba82886f1da3ca4d19}{Xiao}{X\bibinitperiod}{J.-Z.}{J\bibinithyphendelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=decfe073ebcc52445c9d092fe5a85826}{Cao}{C\bibinitperiod}{H.-B.}{H\bibinithyphendelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=18d8c1059347f2065a32d38262998f1f}{Liu}{L\bibinitperiod}{P.-A.}{P\bibinithyphendelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=25010f917e21870d9171fcbb3686aff4}{Jiang}{J\bibinitperiod}{X.-G.}{X\bibinithyphendelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=33705f37d2df548d099cc4a28087efab}{Jiang}{J\bibinitperiod}{Y.-Y.}{Y\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=905dafb1cf0528641a3e05d6226839c0}{Wang}{W\bibinitperiod}{J.-P.}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c9a5bed5a7386d2fc8432578ff5248b9}{Zheng}{Z\bibinitperiod}{Hui}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0f5b8b674eea6432492c32e093925682}{Zhang}{Z\bibinitperiod}{Hui}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=f1fd41a0f209a2844b70fc82af6ee0da}{Bennett}{B\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=9297a9bf366b39ce15b18fc01af1aa29}{Howard}{H\bibinitperiod}{Barbara\bibnamedelima V.}{B\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e94dfb3c0563b92e074fb99649496851}
+      \strng{fullhash}{bce0c3a80b9f0f9053cbd89246e479eb}
+      \field{sortinit}{P}
+      \field{labelyear}{1997}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Effects of Diet and Exercise in Preventing NIDDM in People With Impaired Glucose Tolerance: The Da Qing IGT and Diabetes Study}}
+      \field{abstract}{OBJECTIVE Individuals with impaired glucose tolerance (IGT) have a high risk of developing NIDDM. The purpose of this study was to determine whether diet and exercise interventions in those with IGT may delay the development of NIDDM, i.e., reduce the incidence of NIDDM, and thereby reduce the overall incidence of diabetic complications, such as cardiovascular, renal, and retinal disease, and the excess mortality attributable to these complications. RESEARCH DESIGN AND METHODS In 1986, 110,660 men and women from 33 health care clinics in the city of Da Qing, China, were screened for IGT and NIDDM. Of these individuals, 577 were classified (using World Health Organization criteria) as having IGT. Subjects were randomized by clinic into a clinical trial, either to a control group or to one of three active treatment groups: diet only, exercise only, or diet plus exercise. Follow-up evaluation examinations were conducted at 2-year intervals over a 6-year period to identify subjects who developed NIDDM. Cox's proportional hazard analysis was used to determine if the incidence of NIDDM varied by treatment assignment. RESULTS The cumulative incidence of diabetes at 6 years was 67.7{\%} (95{\%} CI, 59.8-75.2) in the control group compared with 43.8{\%} (95{\%} CI, 35.5-52.3) in the diet group, 41.1{\%} (95{\%} CI, 33.4-49.4) in the exercise group, and 46.0{\%} (95{\%} CI, 37.3-54.7) in the diet-plus-exercise group (P < 0.05). When analyzed by clinic, each of the active intervention groups differed significantly from the control clinics (P < 0.05). The relative decrease in rate of development of diabetes in the active treatment groups was similar when subjects were stratified as lean or overweight (BMI < or > or = 25 kg/m2). In a proportional hazards analysis adjusted for differences in baseline BMI and fasting glucose, the diet, exercise, and diet-plus-exercise interventions were associated with 31{\%} (P < 0.03), 46{\%} (P < 0.0005), and 42{\%} (P < 0.005) reductions in risk of developing diabetes, respectively. CONCLUSIONS Diet and/or exercise interventions led to a significant decrease in the incidence of diabetes over a 6-year period among those with IGT.}
+      \field{isbn}{0149-5992 (Print)$\backslash$r0149-5992 (Linking)}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{Diabetes Care}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{Effects of Diet and Exercise in Preventing NIDDM in People With Impaired Glucose Tolerance: The Da Qing IGT and Diabetes Study}}
+      \field{volume}{20}
+      \field{year}{1997}
+      \field{pages}{537\bibrangedash 544}
+      \verb{doi}
+      \verb 10.2337/diacare.20.4.537
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Pan et al. - 1997 - Effects of Diet and Exercise in Preventing NIDDM in People With Impaired Glucose Tolerance The Da Qing IGT and Diabe.pdf:pdf
       \endverb
     \endentry
     \entry{Peele2002a}{article}{}
@@ -8625,6 +8998,47 @@
       \endverb
       \keyw{*diabetes mellitus/dm [Disease Management],Alberta,Databases,Diabetes Co,Factual,Olia,adult,aged,all,article,cardiovascular disease/co [Complication],cardiovascular disease/dm [Disease Management],comorbidity,cost control,download,economic aspect,embase2,extracted,eye disease/co [Complication],eye disease/dm [Disease Management],female,health care cost,human,included,kidney disease/co [Complication],kidney disease/dm [Disease Management],major clinical study,male,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
+    \entry{Singh2016}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f9449cd0e7f42aeeb7b248f0595d2246}{Singh}{S\bibinitperiod}{Kavita}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=203d2586d4b857bc706177f3e85978f3}{Ranjani}{R\bibinitperiod}{Harish}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7f3351e90e97cd4c783896b1cf5ae3c1}{Rhodes}{R\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=860f74d7cfe9d5241827ff8b566359f6}{Weber}{W\bibinitperiod}{Mary\bibnamedelima Beth}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f9449cd0e7f42aeeb7b248f0595d2246}{Singh}{S\bibinitperiod}{Kavita}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=203d2586d4b857bc706177f3e85978f3}{Ranjani}{R\bibinitperiod}{Harish}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7f3351e90e97cd4c783896b1cf5ae3c1}{Rhodes}{R\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=860f74d7cfe9d5241827ff8b566359f6}{Weber}{W\bibinitperiod}{Mary\bibnamedelima Beth}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Current Diabetes Reports}%
+      }
+      \strng{namehash}{90faa6b14e9194da60164b84db0066d4}
+      \strng{fullhash}{282bc8cc3afab3fa436ee8023ee274a0}
+      \field{sortinit}{S}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries}}
+      \field{isbn}{1189201607689}
+      \field{issn}{1534-4827}
+      \field{journaltitle}{Current Diabetes Reports}
+      \field{number}{8}
+      \field{title}{{International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries}}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{69}
+      \verb{doi}
+      \verb 10.1007/s11892-016-0768-9
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Singh et al. - 2016 - International Models of Care that Address the Growing Diabetes Prevalence in Developing Countries.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11892-016-0768-9
+      \endverb
+      \keyw{Diabetes care models,Prevention,Diabetes managemen,diabetes,diabetes care models,electronic medical records,low- and middle-income countries,management,prevention,shifting,task}
+    \endentry
     \entry{Slade2012}{article}{}
       \name{labelname}{1}{}{%
         {{hash=caba74af469d2bce5c1914c525d98a09}{Slade}{S\bibinitperiod}{Alexander\bibnamedelima N}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
@@ -8915,6 +9329,59 @@
       \verb :home/till/Dokumente/Mendeley Desktop/I.A., O.F., O.O. - 2006 - Pharmacoeconomic evaluation of anti-diabetic therapy in a Nigerian tertiary health institution.pdf:pdf
       \endverb
       \keyw{all,download,embase,embase2,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Sun2008}{article}{}
+      \name{labelname}{14}{}{%
+        {{hash=d979f930e6532127211c3a3beb660559}{Sun}{S\bibinitperiod}{Jianqin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9caf6cf83703fd0de52b7f505cfef763}{Wang}{W\bibinitperiod}{Yanfang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=bb87a129d9e88478eebd7c3cd70c5417}{Chen}{C\bibinitperiod}{Xiafei}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=190d00b551cfeed31eac4ecd21e97ef7}{Chen}{C\bibinitperiod}{Yanqiu}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=57f29cc0da9f95931a0676813a911cfa}{Feng}{F\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=1d66e4e6094be59269047934a8327e5f}{Zhang}{Z\bibinitperiod}{Xinyi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=efc4dff56be778879c9624ba6e97ae91}{Pan}{P\bibinitperiod}{Yiru}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=dc622b981861c74fe09e4dba2fdc7387}{Hu}{H\bibinitperiod}{Ting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1b14c9d2e93cba934b325f58c36a1eeb}{Xu}{X\bibinitperiod}{Jianhua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ad9ee41177e88c3c43093fc9242ab7d6}{Du}{D\bibinitperiod}{Luyuan}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c7905d3683e86c148202145e4b6e5b7c}{Zhou}{Z\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=8ed6d79acb14473ae3f9c579395368c8}{Zhao}{Z\bibinitperiod}{Huiping}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7ad63979086844f8c7b73629020bc33d}{Riley}{R\bibinitperiod}{Rosemary\bibnamedelima E}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=92cadff0d115f88cbcb04ee67b831290}{Mustad}{M\bibinitperiod}{Vikkie\bibnamedelima a}{V\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{14}{}{%
+        {{hash=d979f930e6532127211c3a3beb660559}{Sun}{S\bibinitperiod}{Jianqin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9caf6cf83703fd0de52b7f505cfef763}{Wang}{W\bibinitperiod}{Yanfang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=bb87a129d9e88478eebd7c3cd70c5417}{Chen}{C\bibinitperiod}{Xiafei}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=190d00b551cfeed31eac4ecd21e97ef7}{Chen}{C\bibinitperiod}{Yanqiu}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=57f29cc0da9f95931a0676813a911cfa}{Feng}{F\bibinitperiod}{Ying}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=1d66e4e6094be59269047934a8327e5f}{Zhang}{Z\bibinitperiod}{Xinyi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=efc4dff56be778879c9624ba6e97ae91}{Pan}{P\bibinitperiod}{Yiru}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=dc622b981861c74fe09e4dba2fdc7387}{Hu}{H\bibinitperiod}{Ting}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1b14c9d2e93cba934b325f58c36a1eeb}{Xu}{X\bibinitperiod}{Jianhua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ad9ee41177e88c3c43093fc9242ab7d6}{Du}{D\bibinitperiod}{Luyuan}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c7905d3683e86c148202145e4b6e5b7c}{Zhou}{Z\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=8ed6d79acb14473ae3f9c579395368c8}{Zhao}{Z\bibinitperiod}{Huiping}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=7ad63979086844f8c7b73629020bc33d}{Riley}{R\bibinitperiod}{Rosemary\bibnamedelima E}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=92cadff0d115f88cbcb04ee67b831290}{Mustad}{M\bibinitperiod}{Vikkie\bibnamedelima a}{V\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b8db208b6259e9e232e5de8334577d55}
+      \strng{fullhash}{38c588004707069b7530eb714133c11f}
+      \field{sortinit}{S}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{An integrated intervention program to control diabetes in overweight Chinese women and men with type 2 diabetes.}}
+      \field{abstract}{This study evaluated a structured and integrated intervention program on diabetes management in individuals with type 2 diabetes in Shanghai, China. Men and women with type 2 diabetes and body mass index > 23 kg/m2 were randomized into a 24-week, prospective, randomized clinical trial. The Reference Group (n=50) received diabetes education including diet and physical activity instruction only; the Intervention Group (n=100) received more intensive intervention, including diabetes education with frequent blood glucose monitoring, nutritional counseling, meal plans with diabetes-specific nutritional meal replacement, and weekly progress updates with study staff. Major study assessments were obtained at baseline, and after 12 and/or 24 weeks of intervention. The Intervention Group improved fasting blood glucose, insulin, systolic and diastolic blood pressures compared to Reference Group ( p <0.05). Importantly, HbA1c was lower ( p <0.001) in the Intervention Group at 12 weeks (-0.6 +/- 0.1{\%}) and 24 weeks (-0.8 +/- 0.1{\%}). Weight loss was modest, but significant differences were observed between groups ( p <0.05). Weight change from baseline after 12 and 24 weeks was -2.8 +/- 0.2{\%} and -3.7 +/- 0.3{\%}, respectively, in the Intervention Group vs -1.8 +/- 0.4{\%} and -2.5 +/- 0.4{\%} in the Reference Group. Additionally, waist and hip circumferences and waist:hip ratio decreased in the Intervention compared to the Reference Group ( p <0.05). In conclusion, this study demonstrates that Chinese men and women with type 2 diabetes following an integrated intervention program including diabetes education, frequent blood glucose monitoring and daily use of a diabetes-specific meal replacement, can achieve significant improvements in glycemic control and markers of cardiovascular health.}
+      \field{isbn}{0964-7058 (Print)$\backslash$r0964-7058 (Linking)}
+      \field{issn}{0964-7058}
+      \field{journaltitle}{Asia Pacific journal of clinical nutrition}
+      \field{number}{3}
+      \field{title}{{An integrated intervention program to control diabetes in overweight Chinese women and men with type 2 diabetes.}}
+      \field{volume}{17}
+      \field{year}{2008}
+      \field{pages}{514\bibrangedash 24}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Sun et al. - 2008 - An integrated intervention program to control diabetes in overweight Chinese women and men with type 2 diabetes.pdf:pdf
+      \endverb
+      \keyw{diet therapy,formulated food,glycosylated hemoglobin,metabolic syndrome x,type 2 diabetes}
     \endentry
     \entry{Tharkar2010a}{article}{}
       \name{labelname}{4}{}{%
@@ -9675,6 +10142,32 @@
       \field{pages}{157\bibrangedash 163}
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/WHO - 2004 - Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies.pdf:pdf
+      \endverb
+    \endentry
+    \entry{WHO2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \strng{fullhash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \field{sortinit}{W}
+      \field{labelyear}{2014}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Global status report on noncommunicable diseases 2014}}
+      \field{abstract}{Description of the global burden of NCDs, their risk factors and determinants}
+      \field{journaltitle}{World Health}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{{Global status report on noncommunicable diseases 2014}}
+      \field{volume}{174}
+      \field{year}{2014}
+      \field{pages}{176}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/WHO - 2014 - Global status report on noncommunicable diseases 2014.pdf:pdf
       \endverb
     \endentry
     \entry{Wilding2014}{article}{}

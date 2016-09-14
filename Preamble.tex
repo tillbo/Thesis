@@ -11,9 +11,9 @@
 %causes each table to be on seperate page
 \renewcommand\floatpagefraction{0.1}
 %causes each figure to be on seperate page
-\makeatletter
-\@fpsep\textheight
-\makeatother
+%\makeatletter
+%\@fpsep\textheight
+%\makeatother
 %multirow tables etc.
 \usepackage{multirow,booktabs}
 \usepackage{amsfonts,amsmath,amssymb}
@@ -53,7 +53,7 @@
 
 
 \usepackage{graphicx}
-\usepackage[Export]{adjustbox}
+\usepackage{adjustbox}
 %\newcommand{\sym}[1]{\ensuremath{^{#1}}} % for symbols in Table
 %landscape pages
 \usepackage{pdflscape}
@@ -106,10 +106,10 @@ isbn=false]{biblatex}
 \usepackage{geometry}
 \geometry{
 letterpaper,
-left=25mm,
-right=30mm,
+left=40mm,
+right=35mm,
 top=20mm,
-bottom=30mm,
+bottom=25mm,
 }   
 %limiting tables to only float within section
 \usepackage[section]{placeins}
@@ -135,7 +135,7 @@ bottom=30mm,
 
 
 
-%For tables commands, especially tabularx
+%For table commands to change column sizeand alignment, especially tabularx
 \newcolumntype{b}{X}  %large columns http://tex.stackexchange.com/questions/84400/table-layout-with-tabularx-column-widths-502525
 \newcolumntype{m}{>{\hsize=.5\hsize}X} % medium columns
 \newcommand{\merge}[1]{\multicolumn{2}{>{\hsize=\dimexpr2\hsize+2\tabcolsep+\arrayrulewidth\relax}X}{#1}}  %allows merging of two columns in tabularx http://tex.stackexchange.com/questions/236155/tabularx-and-multicolumn

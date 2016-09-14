@@ -1,11 +1,72 @@
-\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.0.2}{Methods}{}% 2
-\BOOKMARK [2][-]{subsection.0.2.1}{Study sample}{section.0.2}% 3
-\BOOKMARK [2][-]{subsection.0.2.2}{Assessment of diabetes}{section.0.2}% 4
-\BOOKMARK [2][-]{subsection.0.2.3}{Assessment of outcomes}{section.0.2}% 5
-\BOOKMARK [2][-]{subsection.0.2.4}{Statistical analysis}{section.0.2}% 6
-\BOOKMARK [1][-]{section.0.3}{Results}{}% 7
-\BOOKMARK [1][-]{section.0.4}{Disussion}{}% 8
-\BOOKMARK [2][-]{subsection.0.4.1}{Limitations}{section.0.4}% 9
-\BOOKMARK [2][-]{subsection.0.4.2}{Potential mechanisms}{section.0.4}% 10
-\BOOKMARK [1][-]{section.0.5}{Conclusion}{}% 11
+\BOOKMARK [0][-]{chapter.1}{General Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Background to the thesis}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Types of diabetes}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Diabetes complications}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Diabetes prevention}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{The need for further economic research on diabetes}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.5}{The labour market impact of type 2 diabetes}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.6}{Identification of the causal effect of diabetes on labour market outcomes}{section.1.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.7}{Do the effects of diabetes change over time?}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.8}{Measurement of diabetes in household surveys}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.9}{The effects of a diabetes diagnosis}{section.1.1}% 11
+\BOOKMARK [2][-]{subsection.1.1.10}{Thesis methods and structure}{section.1.1}% 12
+\BOOKMARK [0][-]{chapter.2}{The Economic Costs of Type 2 Diabetes: A Global Systematic Review}{}% 13
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.2}{Methods}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.1}{Search strategy}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.2}{Inclusion and exclusion criteria}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.3}{Data extraction and analysis}{section.2.2}% 18
+\BOOKMARK [1][-]{section.2.3}{Results}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.3.1}{Cost-of-illness studies on type 2 diabetes}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.2}{The impact of diabetes on employment chances and productivity}{section.2.3}% 21
+\BOOKMARK [1][-]{section.2.4}{Discussion}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.4.1}{General findings and developments since the 2004 review of diabetes cost-of-illness studies}{section.2.4}% 23
+\BOOKMARK [2][-]{subsection.2.4.2}{Labour market studies}{section.2.4}% 24
+\BOOKMARK [2][-]{subsection.2.4.3}{Comparison of COI and labour market studies: common themes and lessons learned}{section.2.4}% 25
+\BOOKMARK [2][-]{subsection.2.4.4}{Limitations}{section.2.4}% 26
+\BOOKMARK [1][-]{section.2.5}{Conclusion}{chapter.2}% 27
+\BOOKMARK [0][-]{chapter.3}{The Impact of Diabetes on Employment in Mexico}{}% 28
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.2}{Methodology}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.2.1}{Dataset and descriptive statistics}{section.3.2}% 31
+\BOOKMARK [2][-]{subsection.3.2.2}{Econometric specification}{section.3.2}% 32
+\BOOKMARK [1][-]{section.3.3}{Results}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.1}{Probit results}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.2}{IV results}{section.3.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.3}{Differences by age groups}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.4}{Differences by wealth}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.5}{Differences by employment type}{section.3.3}% 38
+\BOOKMARK [1][-]{section.3.4}{Conclusion}{chapter.3}% 39
+\BOOKMARK [0][-]{chapter.4}{The Impact of Diabetes on Labour Market Outcomes in Mexico: a Panel Data and Biomarker Analysis}{}% 40
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 41
+\BOOKMARK [1][-]{section.4.2}{Diabetes and labour outcomes\204existing evidence}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.3}{Data}{chapter.4}% 43
+\BOOKMARK [1][-]{section.4.4}{Estimation strategy}{chapter.4}% 44
+\BOOKMARK [2][-]{subsection.4.4.1}{Panel data on self-reported diabetes}{section.4.4}% 45
+\BOOKMARK [2][-]{subsection.4.4.2}{Self-reported diabetes duration}{section.4.4}% 46
+\BOOKMARK [2][-]{subsection.4.4.3}{Cross-section: biomarker and self-reported data}{section.4.4}% 47
+\BOOKMARK [1][-]{section.4.5}{ Results}{chapter.4}% 48
+\BOOKMARK [2][-]{subsection.4.5.1}{Incidence of self-reported diabetes}{section.4.5}% 49
+\BOOKMARK [2][-]{subsection.4.5.2}{Duration of self-reported diabetes}{section.4.5}% 50
+\BOOKMARK [2][-]{subsection.4.5.3}{Cross-sectional biomarker analysis}{section.4.5}% 51
+\BOOKMARK [1][-]{section.4.6}{Conclusion}{chapter.4}% 52
+\BOOKMARK [0][-]{chapter.5}{The effects of receiving a diabetes diagnosis on health behaviour and economic outcomes in China}{}% 53
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 54
+\BOOKMARK [1][-]{section.5.2}{Methods}{chapter.5}% 55
+\BOOKMARK [2][-]{subsection.5.2.1}{Study sample}{section.5.2}% 56
+\BOOKMARK [2][-]{subsection.5.2.2}{Assessment of diabetes}{section.5.2}% 57
+\BOOKMARK [2][-]{subsection.5.2.3}{Assessment of outcomes}{section.5.2}% 58
+\BOOKMARK [2][-]{subsection.5.2.4}{Statistical analysis}{section.5.2}% 59
+\BOOKMARK [1][-]{section.5.3}{Results}{chapter.5}% 60
+\BOOKMARK [1][-]{section.5.4}{Disussion}{chapter.5}% 61
+\BOOKMARK [2][-]{subsection.5.4.1}{Limitations}{section.5.4}% 62
+\BOOKMARK [2][-]{subsection.5.4.2}{Potential mechanisms}{section.5.4}% 63
+\BOOKMARK [1][-]{section.5.5}{Conclusion}{chapter.5}% 64
+\BOOKMARK [0][-]{chapter.6}{Discussion and conclusions}{}% 65
+\BOOKMARK [1][-]{section.6.1}{Chapter overview}{chapter.6}% 66
+\BOOKMARK [1][-]{section.6.2}{Summary of principal findings}{chapter.6}% 67
+\BOOKMARK [1][-]{section.6.3}{The context of the findings and their implications}{chapter.6}% 68
+\BOOKMARK [1][-]{section.6.4}{Reflections on the methods used in the thesis}{chapter.6}% 69
+\BOOKMARK [1][-]{section.6.5}{Strengths and limitations}{chapter.6}% 70
+\BOOKMARK [1][-]{section.6.6}{Suggestions for future research}{chapter.6}% 71
+\BOOKMARK [1][-]{section.6.7}{Concluding remarks}{chapter.6}% 72

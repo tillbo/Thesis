@@ -63,17 +63,17 @@ Time_varying_covariates_2 Time-varying_covariates_T
 
 *****DAG FE alternative************
 
-Diabetes%2Ftime_variant_covariates_1 1 @0.537,0.459
+Diabetes%2Ftime_variant_covariates_1 1 @0.552,0.459
 Diabetes%2Ftime_variant_covariates_2 1 @0.599,0.458
-Diabetes%2Ftime_variant_covariates_T 1 @0.659,0.458
-Outcome_1 1 @0.537,0.625
-Outcome_2 1 @0.599,0.626
-Outcome_T 1 @0.659,0.625
+Diabetes%2Ftime_variant_covariates_T 1 @0.644,0.458
+Outcome_1 1 @0.553,0.622
+Outcome_2 1 @0.599,0.619
+Outcome_T 1 @0.644,0.619
 Time-invariant_unobserved_confounders U @0.599,0.315
 
-Diabetes%2Ftime_variant_covariates_1 Diabetes%2Ftime_variant_covariates_2 Diabetes%2Ftime_variant_covariates_T @0.581,0.381 Outcome_1
+Diabetes%2Ftime_variant_covariates_1 Diabetes%2Ftime_variant_covariates_2 Diabetes%2Ftime_variant_covariates_T @0.600,0.389 Outcome_1
 Diabetes%2Ftime_variant_covariates_2 Diabetes%2Ftime_variant_covariates_T Outcome_2
 Diabetes%2Ftime_variant_covariates_T Outcome_T
 Outcome_1 Outcome_2
 Outcome_2 Outcome_T
-Time-invariant_unobserved_confounders Diabetes%2Ftime_variant_covariates_1 @0.543,0.326 Diabetes%2Ftime_variant_covariates_2 @0.599,0.378 Diabetes%2Ftime_variant_covariates_T @0.650,0.324 Outcome_1 @0.545,0.484 Outcome_2 @0.562,0.462 Outcome_T @0.646,0.516
+Time-invariant_unobserved_confounders Diabetes%2Ftime_variant_covariates_1 @0.558,0.314 Diabetes%2Ftime_variant_covariates_2 @0.599,0.378 Diabetes%2Ftime_variant_covariates_T @0.626,0.304 Outcome_1 @0.575,0.454 Outcome_2 @0.572,0.520 Outcome_T @0.634,0.548

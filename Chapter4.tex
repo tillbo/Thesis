@@ -60,26 +60,7 @@ We also find inconsistencies in the diabetes self-reports over the three waves o
 We assess the validity of self-reported diabetes in our data by using \ac{HbA1c} levels and the self-reports of diabetes related medicine use from wave three. We find that 90\% of those self-reporting a diabetes diagnosis had an \ac{HbA1c} $\geq6.5$\% or did report taking diabetes medication, indicating relatively high specificity in our data as well.
 
 We used this information to infer the "true" diabetes status for those with inconsistent reports. For those with two waves, we assumed that if a diabetes diagnosis had been reported in a prior wave they also had diabetes in the ensuing wave, even if then it was not reported.
-For people where we had data from all three waves, we used that additional information to make a decision on how to deal with inconsistencies using the rules outlined in Table \ref{tab:Inconsistencies}
-
-\begin{table}[p]
-\caption{\label{tab:Inconsistencies}Inconsistencies in diabetes self-report in MxFLS.}
-\begin{center}
-\begin{adjustbox}{max width=\linewidth} 
-\begin{tabular}{llc}
-\hline 
-Inconsistency  & Assumption  & Number of observations replaced\tabularnewline
-\hline 
-Diabetes self report in 2002, 2005 but not in 2009  & Has diabetes in 2009 as well  & 19\tabularnewline
-Diabetes self report in 2002, 2009 but not in 2005  & Has diabetes in 2005 as well  & 63\tabularnewline
-Diabetes self report only in 2002, but not in 2005 and 2009  & Has no diabetes in 2002 either  & 66\tabularnewline
-Diabetes self report only in 2005, but not in 2002 and 2009  & Has no diabetes in 2005 either  & 52\tabularnewline
-Diabetes self report in 2002, but not in 2005. Not in survey in 2009  & Has diabetes in 2005 as well  & 44\tabularnewline
-Diabetes self report in 2005, but not in 2009. Not in survey in 2002  & Has diabetes in 2009 as well  & 23\tabularnewline
-\end{tabular}
-\end{adjustbox}
-\end{center}
-\end{table}
+For people where we had data from all three waves, we used that additional information to make a decision on how to deal with inconsistencies using the rules outlined in Table \ref{tab:Inconsistencies}.
 
 
 This approach should add more consistency to the self-reported diabetes information by using all available information. We tested if this approach was supported by the \ac{HbA1c} values provided in wave 3. Of those with inconsistencies in their diabetes elf-reports 95 were present in the biomarker sample (46 with two and 49 with one self-report of diabetes). We therefore  Using a t-test we compared the mean \ac{HbA1c} for the two groups and found a significantly (p<0.001) higher mean \ac{HbA1c} (9.7\%) for those with two self-reports compared to for those with only one self-report of diabetes (7.0\%). Further, of those with one self-report, for only 30\% the \ac{HbA1c}$\geq6.5$\% compared to 87\% of those with two self-reports. Based on these results we are reassured that the way we have dealt with the inconsistencies in the data minimizes misclassification of people into diabetes or no-diabetes and has reduced some of the measurement error in the diabetes data. Unfortunately we cannot use a similar method for dealing with inconsistencies in the self-reported year of diabetes diagnosis, as it has only been reported once. Hence, the results from duration analysis should be interpreted with care.
@@ -88,16 +69,32 @@ This approach should add more consistency to the self-reported diabetes informat
  A further, and no less important, source of measurement error is the omission of those with undiagnosed diabetes. In order to investigate how this may affect estimates of the labour market impact of diabetes we use information from a subsample of the 2009-2012 wave containing over 6000 respondents (everybody aged 45+  and a random subsample of those aged 15--44 \parencite{Crimmins2015}) that have biometrically measured blood glucose values, allowing for the identification of those with undiagnosed diabetes. 
 Throughout our analysis the samples we use are restricted to the working age population (15--64). To prevent pregnant women from biasing our results due to the increased diabetes risk during pregnancy and its effects on female employment status, we have dropped all observations of women reporting to be pregnant at the time of the survey (N=764). We further exclude everybody currently in school.
 
+
+\newpage	
+\begin{tabularx}{\linewidth}{X X Y}
+\caption{\label{tab:Inconsistencies}Inconsistencies in diabetes self-report in MxFLS}\\
+\toprule
+\multicolumn{1}{c}{Inconsistency}  & \multicolumn{1}{c}{Assumption}  & Number of observations replaced\tabularnewline
+\midrule \endhead
+Diabetes self report in 2002, 2005 but not in 2009  & Has diabetes in 2009 as well  & 19\tabularnewline
+Diabetes self report in 2002, 2009 but not in 2005  & Has diabetes in 2005 as well  & 63\tabularnewline
+Diabetes self report only in 2002, but not in 2005 and 2009  & Has no diabetes in 2002 either  & 66\tabularnewline
+Diabetes self report only in 2005, but not in 2002 and 2009  & Has no diabetes in 2005 either  & 52\tabularnewline
+Diabetes self report in 2002, but not in 2005. Not in survey in 2009  & Has diabetes in 2005 as well  & 44\tabularnewline
+Diabetes self report in 2005, but not in 2009. Not in survey in 2002  & Has diabetes in 2009 as well  & 23\tabularnewline
+\bottomrule
+\end{tabularx}
+\clearpage
+
 The detailed information in the \ac{MxFLS} allows us to consider the following outcome variables of interest: employment\footnote{Employment status is defined as having worked or carried out an activity that helped with the household expenses the last week and working for at least four hours per week. This explicitly includes those employed informally, for instance people working in a family business. The number of working hours needed to be considered as working is lower than in Chapter \ref{cha:Mex1}. We took this decision because we wanted to assess the impact of diabetes on driving people out of work completely. Any effect on working hours should be captured in the respective working hours models. We also tested if changing the definition of being employed to having worked at least ten hours per week as in Chapter \ref{cha:Mex1}. This only led to marginal changes in the coefficients and standard errors, not affecting the interpretation of the results.}, hourly wage and weekly working hours.\footnote{Hourly wage was calculated by adding up the reported monthly income from the first and second job (if any) and dividing it by the average number of weeks per month. This gave us the average earnings per week which were then divided by the weekly working hours to arrive at an hourly wage estimate. Labor income was either reported as the total amount for the whole month or more detailed containing information on the monthly wage, income from piecework, tips, extra hours, meals, housing, transport, medical benefits and other earnings. Over 80\% of respondents reported the total amount instead of a detailed amount. Respondents were also asked for their annual income and we used that information to arrive at an hourly wage if information for monthly labour income was missing. Finally, we adjusted the calculated wage for inflation from the year of the interview up to 2013 and took the log of those values. Due to a considerable number of missing or zero income reports the sample used for the wage estimation is smaller than the sample for working hours. Working hours were calculated summing up the self-reported working hours of the first and---if applicable---the second job.} For the pooled data of all three waves (Table  \ref{tab:Pooled-sample-characteristics}), diabetes was self-reported by 5\% of men and 6\% of women, respectively. This is consistent with other prevalence estimates of self-reported diabetes for this time period in Mexico.\footnote{\textcite{Barquera2013} show that the prevalence of diagnosed diabetes in Mexico was 7.5\% in 2006, only somewhat above our results, which may be the result of the slightly different age groups considered.}  About half of the respondents in the sample live in rural areas. Looking at our outcome variables, 86\% of men report some form of employment compared to 37\% of women. Interestingly, men do not report considerably higher hourly wages than women but work more hours per week. Also, men are working more often in agricultural jobs while women are more likely to be self-employed or in non-agricultural wage employment. Women also have lower educational attainment on average. 
 
 \begin{table}[p]
 \caption{\label{tab:Pooled-sample-characteristics}Descriptive statistics for panel and biomarker sample.}
 
+\begin{adjustbox}{max width=1\linewidth, center}
 \begin{threeparttable}  %adds notes to tables
-
 {
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
-\begin{adjustbox}{max width=1\linewidth, center}
 \begin{tabular}{l*{4}{c}}
 \toprule
                     &\multicolumn{2}{c}{Panel}&\multicolumn{2}{c}{Biomarker}\\\cmidrule(lr){2-3}\cmidrule(lr){4-5}
@@ -130,11 +127,11 @@ Undiagnosed diabetes&            &            &        0.18&        0.18\\
 \hspace*{10mm}\emph{Education and demographic variables} \\
 Age                 &       36.03&       36.29&       42.78&       42.79\\
                     &     (13.62)&     (13.17)&     (14.28)&     (13.94)\\
-Rural village of <2,500&        0.44&        0.43&        0.50&        0.46\\
+Rural village of < 2,500&        0.44&        0.43&        0.50&        0.46\\
                     &      (0.50)&      (0.50)&      (0.50)&      (0.50)\\
 Married             &        0.54&        0.54&        0.60&        0.56\\
                     &      (0.50)&      (0.50)&      (0.49)&      (0.50)\\
-Number of children (age<6) in household&        1.48&        1.57&        1.18&        1.22\\
+Number of children (age < 6) in household&        1.48&        1.57&        1.18&        1.22\\
                     &      (1.45)&      (1.47)&      (1.29)&      (1.32)\\
 Indigenous group    &        0.19&        0.19&        0.19&        0.18\\
                     &      (0.39)&      (0.39)&      (0.39)&      (0.39)\\
@@ -148,13 +145,12 @@ Higher education    &        0.11&        0.09&        0.12&        0.09\\
 Observations        &    21388&       27341&        2785&        3623\\
 \bottomrule
 \end{tabular}
-\end{adjustbox}
 \begin{tablenotes}
 \item \textit{Notes} Mean values, standard deviations in parenthesis. Results for the other variables, i.e. the Mexican states, log hourly wage and wealth, are omitted to save space.
 \end{tablenotes}
 }
 \end{threeparttable}
-
+\end{adjustbox}
 \end{table}
 
 
@@ -182,7 +178,7 @@ The following section describes our estimation strategy for the different parts 
 \subsection{Panel data on self-reported diabetes}
 
 We investigate the relationship between self-reported diabetes and three
-labour market outcomes: employment, wages and labour supply, respectively, using a \ac{FE} model. While using individual level \ac{FE} does not allow to fully identify a causal relationship, this strategy does improve on the degree of causal inference, compared to a simple cross-sectional analysis.\footnote{Other forms of unobserved heterogeneity could also affect our estimates---for instance time-variant unobserved heterogeneity or omitted variables simultaneously driving labour outcomes and health.} In particular it does allow controlling for unobserved personal characteristics that could bias the estimates, without the drawbacks of an at least debatable \ac{IV} strategy that has been widely applied in this literature. We have also estimated random effects models but do not present them here as the Hausman test suggested the use of the \ac{FE} model throughout.\footnote{see the respective table for the results of the cluster robust Hausman test}
+labour market outcomes: employment, wages and labour supply, respectively, using a \ac{FE} model. While using individual level \ac{FE} does not allow to fully identify a causal relationship, this strategy does improve on the degree of causal inference, compared to a simple cross-sectional analysis.\footnote{Other forms of unobserved heterogeneity could also affect our estimates---for instance time-variant unobserved heterogeneity or omitted variables simultaneously driving labour outcomes and health.} In particular it does allow controlling for unobserved personal characteristics that could bias the estimates, without the drawbacks of an at least debatable \ac{IV} strategy that has been widely applied in this literature. We have also estimated random effects models but do not present them here as the Hausman test suggested the use of the \ac{FE} model throughout.\footnote{See the respective table for the results of the cluster robust Hausman test}
 
 
 We estimate the following model:
@@ -278,7 +274,8 @@ For the biomarker analysis we rely on within-household variation $v_{i}$ for ide
 \subsection{Incidence of self-reported diabetes}
 
 Table \ref{tab:Self-reported-diabetes-and} presents the estimation results of the \ac{FE} model using Eq. \ref{eq:employed}, which indicate significant and substantial reductions in the probability of employment for men and women with self-reported diabetes. The coefficients are similar for both sexes, showing a reduction in employment probabilities of over 5 percentage points. In relative terms---taking into account the lwoer employment rates for women compared to men---these percentage points reductions translate into a reduction of 14\% for women and of 6\% for men, suggesting a stronger impact of diabetes on female employment chances.
-  
+
+\begin{landscape}
 \begin{table}[p]
 \caption{\label{tab:Self-reported-diabetes-and}Self-reported diabetes and labour market outcomes.}
 \begin{center}
@@ -307,6 +304,7 @@ N               &    21388         &    27341         &    13828         &     7
 \end{adjustbox}
 \end{center}
 \end{table}
+\end{landscape}  
 \clearpage
 
 The results in Columns 3--6 show no significant relationship between self-reported diabetes and wages or working hours. One may expect this relationship to differ by the type of work, as those  with diabetes working in an agricultural job that requires strenuous, physical efforts may see their productivity more adversely affected than those engaged in more sedentary work. We therefore estimate a model including interaction terms between self-reported diabetes and agricultural employment and between self-reported diabetes and self-employment, respectively, using non-agricultural wage employment as the comparison group, and restricting our sample to those employed only. 
@@ -331,9 +329,11 @@ Self-employed   &    .028         &    -.144\sym{*}  &   -1.452\sym{**} &   -4.7
                 &   (.043)         &   (.087)         &   (.704)         &  (1.388)         \\
 Self-reported diabetes&   .105         &     .064         &     .617         &    -.524         \\
                 &   (.076)         &   (.169)         &  (1.606)         &  (2.252)         \\
-Self-reported diabetes x agricultural worker&     -.242         &    -.409         &   -5.495\sym{*}  &   -3.535         \\
+Self-reported diabetes x&&&& \\
+ agricultural worker &  -.242         &    -.409         &   -5.495\sym{*}  &   -3.535         \\
                 &   (.188)         &   (.373)         &  (2.833)         & (22.300)         \\
-Self-reported diabetes x self-employed& -.105         &     .125         &     .306         &   -4.149         \\
+Self-reported diabetes x &&&&& \\
+self-employed & -.105         &     .125         &     .306         &   -4.149         \\
                 &   (.192)         &   (.326)         &  (2.503)         &  (4.739)         \\
 \midrule
 Hausman test    &  280.491         &  912.537         & 4086.461         &  995.171         \\
@@ -361,6 +361,7 @@ In summary, we find no evidence for an association between self-reported diabete
 
 To explore whether diabetes affects the selection into certain types of work we estimate \ac{FE} models of the probability of being in non-agricultural wage employment, agricultural employment or self-employment using three dummy variables indicating the respective type of work as the left hand side variables. The results in Table \ref{tab:Self-reported-diabetes-selection_LPM} indicate a negative association with self-employment, though the estimates are quite imprecise. For women, those who self-report diabetes are less likely to work in agriculture and potentially self-employment. This may suggest that having diabetes drives people out of self-employment and agricultural jobs, for instance because these jobs are physically more demanding and possibly also because they provide less protection in terms of insurance and employment duration. We also estimated a pooled multinomial logit model augmented  with the within-between approach \parencite{Bell2015}, based on the work of \textcite{Mundlak1978}, which allows interpreting the coefficients of all time-varying variables as within-effects by including individual means of all time-varying covariates\footnote{Several other studies in economics have used this approach recently, e.g., \textcite{Geishecker2011,Wunder2014,Boll2016}}. The results indicate a very similar pattern both in size and significance (results available on request).\footnote{Using the same methods, we also investigated the impact of diabetes on changes in the type of work for those already employed, finding no evidence that diabetes leads to changes in the type of work. These results are also available on request.}
 
+\begin{landscape}
 \begin{table}[p]
 \caption{\label{tab:Self-reported-diabetes-selection_LPM}Relationship between self-reported diabetes and selection into types of work.}
 \begin{center}
@@ -392,7 +393,7 @@ N               &    20719         &    20719         &    20719         &    26
 \end{adjustbox}
 \end{center}
 \end{table}
-
+\end{landscape}
 \FloatBarrier
 
 \subsection{\label{sec:duration}Duration of self-reported  diabetes }
@@ -439,6 +440,7 @@ Tables \ref{tab:Self-reported-diabetes-duration_employ} and  \ref{tab:Self-repor
 
 For employment probabilities (Table \ref{tab:Self-reported-diabetes-duration_employ}) the results indicate a yearly reduction in male employment probability throughout. For women the coefficient shows a reduction of up to almost 1 percentage points per year, though the association is not as strong in the \ac{FE} model. The coefficients in the spline models provide some evidence for an immediate effect of diabetes, which then levels off for some time after which it becomes stronger again. Nonetheless, for males and particularly females, the coefficients are quite imprecisely measured.
 
+
 \begin{table}[p]
 \caption{\label{tab:Self-reported-diabetes-duration_employ}Relationship between self-reported years since diagnosis and employment probabilities using continuous duration and duration splines.}
 \begin{center}
@@ -453,11 +455,12 @@ S}}
 \toprule
                 &\multicolumn{3}{c}{Males}                               &\multicolumn{3}{c}{Females}                             \\\cmidrule(lr){2-4}\cmidrule(lr){5-7}
                 &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}\\
-                &\multicolumn{1}{c}{OLS (wave 3)}&\multicolumn{1}{c}{Pooled OLS}&\multicolumn{1}{c}{FE}&\multicolumn{1}{c}{OLS (wave 3)}&\multicolumn{1}{c}{Pooled OLS}&\multicolumn{1}{c}{FE}\\
+                  &\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{FE}&\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{FE}\\
+                                &\multicolumn{1}{c}{(wave 3)}&\multicolumn{1}{c}{(pooled)}&\multicolumn{1}{c}{}&\multicolumn{1}{c}{(wave 3)}&\multicolumn{1}{c}{(pooled)}&\multicolumn{1}{c}{}\\
 \midrule
 \addlinespace
-Panel A: &&&&&&\\
-Diabetes duration (linear)&   -.008\sym{***}&    -.007\sym{***}&    -.017\sym{***}&    -.005\sym{***}&    -.004\sym{***}&    -.009\sym{*}  \\
+Panel A: linear &&&&&&\\
+Diabetes duration &   -.008\sym{***}&    -.007\sym{***}&    -.017\sym{***}&    -.005\sym{***}&    -.004\sym{***}&    -.009\sym{*}  \\
                 &   (.002)         &   (.002)         &   (.006)         &   (.002)         &   (.001)         &   (.005)         \\
                 
 \midrule
@@ -465,8 +468,8 @@ Diabetes duration (linear)&   -.008\sym{***}&    -.007\sym{***}&    -.017\sym{**
                 \hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
 \midrule
 \addlinespace
-Panel B: &&&&&&\\
-Diabetes duration (splines)&&&&&&\\
+Panel B: splines&&&&&&\\
+Diabetes duration &&&&&&\\
 \hspace*{10mm}0--4&    -.007         &    -.007         &    -.026\sym{*}  &    -.010         &    -.015\sym{**} &    -.017         \\
                 &   (.007)         &   (.006)         &   (.014)         &   (.007)         &   (.006)         &   (.016)         \\
 \hspace*{10mm}5--11&     .000         &    -.003         &    -.003         &    -.004         &     .004         &    -.003         \\
@@ -505,21 +508,22 @@ S}}
 \toprule
                 &\multicolumn{3}{c}{Males}                               &\multicolumn{3}{c}{Females}                             \\\cmidrule(lr){2-4}\cmidrule(lr){5-7}
                 &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}\\
-                &\multicolumn{1}{c}{OLS (wave 3)}&\multicolumn{1}{c}{Pooled OLS}&\multicolumn{1}{c}{FE}&\multicolumn{1}{c}{OLS (wave 3)}&\multicolumn{1}{c}{Pooled OLS}&\multicolumn{1}{c}{FE}\\
+                &\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{FE}&\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{OLS}&\multicolumn{1}{c}{FE}\\
+                 &\multicolumn{1}{c}{(wave 3)}&\multicolumn{1}{c}{(pooled)}&\multicolumn{1}{c}{}&\multicolumn{1}{c}{(wave 3)}&\multicolumn{1}{c}{(pooled)}&\multicolumn{1}{c}{}\\
 \midrule
 
-                &\multicolumn{6}{c}{\emph{Weekly working hours}}\\
+                &\multicolumn{6}{c}{\textbf{Log hourly wages}}\\
                 \addlinespace
-Panel A: &&&&&&\\
-Diabetes duration (linear)&  .001         &     .010\sym{**} &    -.019         &    -.014\sym{*}  &    -.009         &    -.073\sym{**} \\
+Panel A: linear &&&&&&\\
+Diabetes duration&  .001         &     .010\sym{**} &    -.019         &    -.014\sym{*}  &    -.009         &    -.073\sym{**} \\
                 &   (.006)         &   (.005)         &   (.018)         &   (.008)         &   (.008)         &   (.029)         \\
 \midrule                
 Hausman test    &                  &                  &  838.213         &                  &                  &   93.232         \\
 \hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\                
 \midrule
 \addlinespace
-Panel B: &&&&&&\\
-Diabetes duration (splines)&&&&&&\\
+Panel B: splines&&&&&&\\
+Diabetes duration&&&&&&\\
 \hspace*{10mm}0--4&      .034\sym{*}  &     .046\sym{***}&     .033         &     .027         &     .030         &     .015         \\
                 &   (.017)         &   (.016)         &   (.055)         &   (.031)         &   (.026)         &   (.138)         \\
 \hspace*{10mm}5--11&    -.041\sym{*}  &    -.037\sym{**} &    -.055\sym{*}  &    -.039         &    -.034         &    -.101\sym{*}  \\
@@ -532,19 +536,20 @@ Diabetes duration (splines)&&&&&&\\
 Hausman test    &                  &                  & 1037.290         &                  &                  &   96.266         \\
 \hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
 N               &     5509         &    10767         &    10767         &     2874         &     5741         &     5741         \\
+\bottomrule
 \addlinespace
-&\multicolumn{6}{c}{\emph{Weekly working hours}}\\
+&\multicolumn{6}{c}{\textbf{Weekly working hours}}\\
 \addlinespace
-Panel A: &&&&&&\\
-Diabetes duration (linear)& .069         &     .048         &     .181         &    -.020         &    -.124         &     .208         \\
+Panel A: linear &&&&&&\\
+Diabetes duration & .069         &     .048         &     .181         &    -.020         &    -.124         &     .208         \\
                 &   (.124)         &   (.102)         &   (.330)         &   (.187)         &   (.127)         &   (.652)         \\
 \midrule
 Hausman test    &                  &                  &  704.904         &                  &                  &  107.709         \\
 \hspace*{10mm} p-value         &                  &                  &     .000         &                  &                  &     .000         \\
 \midrule
 \addlinespace
-Panel B: &&&&&&\\
-Diabetes duration (splines)&&&&&&\\
+Panel B: splines &&&&&&\\
+Diabetes duration &&&&&&\\
 \hspace*{10mm}0--4&      -.033         &    -.233         &     .709         &     .739         &     .470         &    2.014         \\
                 &   (.421)         &   (.325)         &   (.938)         &   (.645)         &   (.586)         &  (2.947)         \\
 \hspace*{10mm}5--11&  .269         &     .338         &    -.218         &    -.410         &    -.479         &    -.508         \\
