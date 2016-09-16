@@ -320,6 +320,37 @@
       \verb :home/till/Dokumente/Mendeley Desktop/American Diabetes Association - 2014 - Diagnosis and Classification of Diabetes Mellitus.pdf:pdf
       \endverb
     \endentry
+    \entry{Anderson1982}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=3949e2677b3e475e7abd332d065489dc}{Anderson}{A\bibinitperiod}{T.\bibnamedelimi W.}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=62a106dad424617c612649e096a531e3}{Hsiao}{H\bibinitperiod}{Cheng}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3949e2677b3e475e7abd332d065489dc}{Anderson}{A\bibinitperiod}{T.\bibnamedelimi W.}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=62a106dad424617c612649e096a531e3}{Hsiao}{H\bibinitperiod}{Cheng}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{24a5af823acd3f61b6363db486fc251a}
+      \strng{fullhash}{24a5af823acd3f61b6363db486fc251a}
+      \field{sortinit}{A}
+      \field{labelyear}{1982}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Formulation and estimation of dynamic models using panel data}}
+      \field{abstract}{This paper presents a statistical analysis of time series regression models for longitudinal data with and without lagged dependent variables under a variety of assumptions about the initial conditions of the processes being analyzed. The analysis demonstrates how the asymptotic properties of estimators of longitudinal models are critically dependent on the manner in which samples become large: by expanding the number of observations per person, holding the number of people fixed, or by expanding the number of persons, holding the number of observations per person fixed. The paper demonstrates which parameters can and cannot be identified from data produced by different sampling plans. © 1982.}
+      \field{isbn}{0304-4076}
+      \field{issn}{03044076}
+      \field{journaltitle}{Journal of Econometrics}
+      \field{number}{1}
+      \field{title}{{Formulation and estimation of dynamic models using panel data}}
+      \field{volume}{18}
+      \field{year}{1982}
+      \field{pages}{47\bibrangedash 82}
+      \verb{doi}
+      \verb 10.1016/0304-4076(82)90095-1
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Anderson, Hsiao - 1982 - Formulation and estimation of dynamic models using panel data.pdf:pdf
+      \endverb
+    \endentry
     \entry{Angrist2009a}{book}{}
       \name{labelname}{2}{}{%
         {{hash=3e421ec98db8ad703f04741b6146bc94}{Angrist}{A\bibinitperiod}{J.D.}{J\bibinitperiod}{}{}{}{}}%
@@ -335,13 +366,13 @@
       \strng{namehash}{5c39febddf5623715169c2d4e893ee3d}
       \strng{fullhash}{5c39febddf5623715169c2d4e893ee3d}
       \field{sortinit}{A}
-      \field{labelyear}{2008}
+      \field{labelyear}{2009}
       \field{datelabelsource}{}
       \field{labeltitle}{{Mostly Harmless Econometrics: An Empiricist's Companion}}
       \field{isbn}{0691120358}
       \field{issn}{0007-666X}
       \field{title}{{Mostly Harmless Econometrics: An Empiricist's Companion}}
-      \field{year}{2008}
+      \field{year}{2009}
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Angrist, Pischke - 2008 - Mostly harmless econometrics An empiricist's companion.pdf:pdf
       \endverb
@@ -4481,6 +4512,35 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Huang, Lin, Yeh - 2009 - Joint determinations of inequality and growth.pdf:pdf
       \endverb
     \endentry
+    \entry{Imai2016}{unpublished}{}
+      \name{labelname}{2}{}{%
+        {{hash=3fb69a8c942c769b74775b484c82bbe9}{Imai}{I\bibinitperiod}{Kosuke}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=74b0189a74aec0dde63e3612b3c9dc9c}{Kim}{K\bibinitperiod}{In\bibnamedelima Song}{I\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3fb69a8c942c769b74775b484c82bbe9}{Imai}{I\bibinitperiod}{Kosuke}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=74b0189a74aec0dde63e3612b3c9dc9c}{Kim}{K\bibinitperiod}{In\bibnamedelima Song}{I\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Princeton University}%
+      }
+      \strng{namehash}{6c3d7e946a92c6d05706a281fc7307a0}
+      \strng{fullhash}{6c3d7e946a92c6d05706a281fc7307a0}
+      \field{sortinit}{I}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{When Should We Use Linear Fixed Effects Regression Models for Causal Inference with Longitudinal Data?}}
+      \field{series}{Technical Report}
+      \field{title}{{When Should We Use Linear Fixed Effects Regression Models for Causal Inference with Longitudinal Data?}}
+      \field{year}{2016}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Imai, Kim - 2016 - When Should We Use Linear Fixed Effects Regression Models for Causal Inference with Longitudinal Data.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://imai.princeton.edu/research/files/FEmatch.pdf
+      \endverb
+      \keyw{available through the comprehensive,before-and-after design,difference-in-differences design,for causal inference,implemented via the open-source,linear fixed effects estimators,matching,panel data,r,statistical software,syn-,the methods described in,thetic control method,this paper can be,weighted,weighted least squares,wfe}
+    \endentry
     \entry{InternationalDiabetesFederation2013}{book}{}
       \name{labelname}{1}{}{%
         {{hash=7385de445dfbe5dccb8159ecc664779a}{{International\bibnamedelimb Diabetes\bibnamedelimb Federation}}{I\bibinitperiod}{}{}{}{}{}{}}%
@@ -6840,6 +6900,35 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Ng, Jacobs, Johnson - 2001 - Productivity Losses Associated With Diabetes in the U.S.pdf:pdf
       \endverb
       \keyw{*diabetes mellitus/dm [Disease Management],*productivity,Age Factors,Diabetes,Diabetes Complications,adult,aged,all,article,controlled study,cost benefit analysis,demography,diabetes control,disease duration,disease severity,download,economic aspect,embase,extracted,female,health care cost,health status,human,included,major clinical study,male,newsearch,prediction,pubmed,relevant,reviewed,selected{\_}papers,work}
+    \endentry
+    \entry{Nickell1981}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=602e867f4abdc632f3f7cb4267f16254}{Nickell}{N\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=602e867f4abdc632f3f7cb4267f16254}{Nickell}{N\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{602e867f4abdc632f3f7cb4267f16254}
+      \strng{fullhash}{602e867f4abdc632f3f7cb4267f16254}
+      \field{sortinit}{N}
+      \field{labelyear}{1981}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Biases in dynamic panel models with fixed effects}}
+      \field{abstract}{It is well known from the Monte-Carlo work of Nerlove that using the standard within-group estimator for dynamic models with fixed individual effects generates estimates which are inconsistent as the number of "individuals" tends to infinity if the number of time periods is kept fixed. In this paper we present analytical expression for these inconsistencies for the first order regressive case.}
+      \field{isbn}{00129682}
+      \field{issn}{00129682}
+      \field{journaltitle}{Econometrica}
+      \field{number}{6}
+      \field{title}{{Biases in dynamic panel models with fixed effects}}
+      \field{volume}{49}
+      \field{year}{1981}
+      \field{pages}{1417\bibrangedash 1426}
+      \verb{doi}
+      \verb 10.2307/1911408
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Nickell - 1981 - Biases in dynamic panel models with fixed effects.pdf:pdf
+      \endverb
     \endentry
     \entry{Nolan2006c}{article}{}
       \name{labelname}{5}{}{%
@@ -9223,6 +9312,48 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Staiger, Stock - 1997 - Instrumental variables regression with weak instruments.pdf:pdf
       \endverb
+    \endentry
+    \entry{Steven2016}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=79207b6aa7117919aa3b48de55cba59c}{Steven}{S\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4b24d0e9e2b2f4fa8e3f8c16c280edd8}{Hollingsworth}{H\bibinitperiod}{Kieren\bibnamedelima G.}{K\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=ad4576b0bdd142de36b444cd91ab7699}{Al-Mrabeh}{A\bibinithyphendelim M\bibinitperiod}{Ahmad}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=928fe3e51a2d1ff1865588d39fa3e745}{Avery}{A\bibinitperiod}{Leah}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4344f0aef2e25af514ee0787aa6bf940}{Aribisala}{A\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6cd17b144df7250f0afb969d7df77ed1}{Caslake}{C\bibinitperiod}{Muriel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3f87b5add136c09c4c4d629a4bed2991}{Taylor}{T\bibinitperiod}{Roy}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=79207b6aa7117919aa3b48de55cba59c}{Steven}{S\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4b24d0e9e2b2f4fa8e3f8c16c280edd8}{Hollingsworth}{H\bibinitperiod}{Kieren\bibnamedelima G.}{K\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=ad4576b0bdd142de36b444cd91ab7699}{Al-Mrabeh}{A\bibinithyphendelim M\bibinitperiod}{Ahmad}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=928fe3e51a2d1ff1865588d39fa3e745}{Avery}{A\bibinitperiod}{Leah}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=4344f0aef2e25af514ee0787aa6bf940}{Aribisala}{A\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6cd17b144df7250f0afb969d7df77ed1}{Caslake}{C\bibinitperiod}{Muriel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3f87b5add136c09c4c4d629a4bed2991}{Taylor}{T\bibinitperiod}{Roy}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{45127938d9da853e7e734c9104046439}
+      \strng{fullhash}{d717350cab6a92c869fee5fc8e16c9d3}
+      \field{sortinit}{S}
+      \field{labelyear}{2016}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Very Low-Calorie Diet and 6 Months of Weight Stability in Type 2 Diabetes: Pathophysiological Changes in Responders and Nonresponders}}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{Diabetes Care}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{{Very Low-Calorie Diet and 6 Months of Weight Stability in Type 2 Diabetes: Pathophysiological Changes in Responders and Nonresponders}}
+      \field{volume}{39}
+      \field{year}{2016}
+      \field{pages}{808\bibrangedash 815}
+      \verb{doi}
+      \verb 10.2337/dc15-1942
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Steven et al. - 2016 - Very Low-Calorie Diet and 6 Months of Weight Stability in Type 2 Diabetes Pathophysiological Changes in Responder.pdf:pdf
+      \endverb
+      \keyw{behavioral,etiology,pathophysiology,type 2 diabetes,very low calorie diet,weight loss}
     \endentry
     \entry{Stevens2008}{article}{}
       \name{labelname}{8}{}{%
