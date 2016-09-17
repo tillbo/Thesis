@@ -40,7 +40,9 @@
 \usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
 \appto\TPTnoteSettings{\footnotesize}
 \usepackage{caption}
-
+\usepackage{chngcntr} %esnures running table numbers
+\counterwithout{table}{chapter}
+\counterwithout{figure}{chapter}
 %fix problem with narrower table once using caption inside tabularx environment as suggested in last response here http://www.latex-community.org/forum/viewtopic.php?f=45&p=39951
 
 \makeatletter
@@ -134,7 +136,7 @@ bottom=25mm,
         }
 
 
-
+\pagenumbering{gobble} %no page numbering
 %For table commands to change column sizeand alignment, especially tabularx
 \newcolumntype{b}{X}  %large columns http://tex.stackexchange.com/questions/84400/table-layout-with-tabularx-column-widths-502525
 \newcolumntype{m}{>{\hsize=.5\hsize}X} % medium columns

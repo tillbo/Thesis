@@ -10253,54 +10253,6 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/27404268
       \endverb
     \endentry
-    \entry{WHO2004}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \strng{namehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
-      \strng{fullhash}{9ed1e9f759b27c20c0ee8a56113c84e3}
-      \field{sortinit}{W}
-      \field{labelyear}{2004}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies}}
-      \field{journaltitle}{The Lancet}
-      \field{title}{{Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies}}
-      \field{volume}{363}
-      \field{year}{2004}
-      \field{pages}{157\bibrangedash 163}
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/WHO - 2004 - Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies.pdf:pdf
-      \endverb
-    \endentry
-    \entry{WHO2014}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{WHO}{W\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \strng{namehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
-      \strng{fullhash}{9ed1e9f759b27c20c0ee8a56113c84e3}
-      \field{sortinit}{W}
-      \field{labelyear}{2014}
-      \field{labelmonth}{07}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Global status report on noncommunicable diseases 2014}}
-      \field{abstract}{Description of the global burden of NCDs, their risk factors and determinants}
-      \field{journaltitle}{World Health}
-      \field{month}{07}
-      \field{number}{1}
-      \field{title}{{Global status report on noncommunicable diseases 2014}}
-      \field{volume}{174}
-      \field{year}{2014}
-      \field{pages}{176}
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/WHO - 2014 - Global status report on noncommunicable diseases 2014.pdf:pdf
-      \endverb
-    \endentry
     \entry{Wilding2014}{article}{}
       \name{labelname}{1}{}{%
         {{hash=9d51b469177f21849c0c05c3c5bbedf2}{Wilding}{W\bibinitperiod}{J.\bibnamedelimi P\bibnamedelima H}{J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -10491,6 +10443,28 @@
       \verb http://siteresources.worldbank.org/DATASTATISTICS/Resources/OGHIST.xls
       \endverb
     \endentry
+    \entry{WHO2004}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5d292a222024f1b13e98a059c94a9b75}{{World\bibnamedelimb Health\bibnamedelimb Organization}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5d292a222024f1b13e98a059c94a9b75}{{World\bibnamedelimb Health\bibnamedelimb Organization}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{5d292a222024f1b13e98a059c94a9b75}
+      \strng{fullhash}{5d292a222024f1b13e98a059c94a9b75}
+      \field{sortinit}{W}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies}}
+      \field{journaltitle}{The Lancet}
+      \field{title}{{Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies}}
+      \field{volume}{363}
+      \field{year}{2004}
+      \field{pages}{157\bibrangedash 163}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/WHO - 2004 - Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies.pdf:pdf
+      \endverb
+    \endentry
     \entry{WorldHealthOrganization2006}{article}{}
       \name{labelname}{1}{}{%
         {{hash=5d292a222024f1b13e98a059c94a9b75}{{World\bibnamedelimb Health\bibnamedelimb Organization}}{W\bibinitperiod}{}{}{}{}{}{}}%
@@ -10538,6 +10512,32 @@
       \field{year}{2011}
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/World Health Organization - 2011 - Use of glycated haemoglobin (HbA1c) in the diagnosis of diabetes mellitus abbreviated report of a WHO.pdf:pdf
+      \endverb
+    \endentry
+    \entry{WHO2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5d292a222024f1b13e98a059c94a9b75}{{World\bibnamedelimb Health\bibnamedelimb Organization}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5d292a222024f1b13e98a059c94a9b75}{{World\bibnamedelimb Health\bibnamedelimb Organization}}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{5d292a222024f1b13e98a059c94a9b75}
+      \strng{fullhash}{5d292a222024f1b13e98a059c94a9b75}
+      \field{sortinit}{W}
+      \field{labelyear}{2014}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Global status report on noncommunicable diseases 2014}}
+      \field{abstract}{Description of the global burden of NCDs, their risk factors and determinants}
+      \field{journaltitle}{World Health}
+      \field{month}{07}
+      \field{number}{1}
+      \field{title}{{Global status report on noncommunicable diseases 2014}}
+      \field{volume}{174}
+      \field{year}{2014}
+      \field{pages}{176}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/WHO - 2014 - Global status report on noncommunicable diseases 2014.pdf:pdf
       \endverb
     \endentry
     \entry{WorldHealthOrganization2016}{article}{}
