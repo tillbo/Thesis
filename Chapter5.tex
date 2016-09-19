@@ -57,9 +57,9 @@ The behavioural outcomes we estimate are current smoking status, if alcohol was 
 
 Our analysis focuses on two statistical approaches to account for potential confounding: \acfp{MSM} and \acf{FE}. 
 
-\subsubsection*{Marginal structural models}
+\subsubsection{Marginal structural models}
 
-\acp{MSM} apply inverse probability weights to adjust for confounding and selection bias as a result of time-varying confounders being affected by prior exposure to the treatment \autocite{Robins2000}. Under the assumption of the \ac{MSM}\autocite{Robins2000}---the reported treatment is the treatment that has actually been received (consistency), there are no unmeasured confounders (exchangeability) and every person in the sample has a non-zero chance of receiving the treatment (positivity) (see Section \ref{sec:Discussion5} for a discussion of the validity of these assumptions in our case)---the causal \ac{DAG} shown in Figure \ref{fig:DAG_msm} displays the association between confounders and outcomes and a diabetes diagnosis.
+\acp{MSM} apply inverse probability weights to adjust for confounding and selection bias as a result of time-varying confounders being affected by prior exposure to the treatment \autocite{Robins2000}. Under the assumption of the \ac{MSM}\autocite{Robins2000}---the reported treatment is the treatment that has actually been received (consistency), there are no unmeasured confounders (exchangeability) and every person in the sample has a non-zero chance of receiving the treatment (positivity) (see the Discussion section for a discussion of the validity of these assumptions in our case)---the causal \ac{DAG} shown in Figure \ref{fig:DAG_msm} displays the association between confounders and outcomes and a diabetes diagnosis.
 
 \begin{figure}
 \begin{center}
@@ -79,7 +79,7 @@ Because unstabilized weights can be highly variable it is recommended to stabili
 
 The \acp{MSM} are estimated using \ac{OLS} for the continuous and a logistic model for the binary outcomes. For the logistic model we calculate average marginal effects for greater comparability with the results of the \ac{FE} models. All models are weighted by the stabilized weights constructed beforehand while adjusting for all baseline and time-invariant covariates used in the calculation of the stabilized weights, except for the respective outcome of interest. Robust standard errors to account for intra-class correlation of repeated outcome measurements in individuals are used throughout. In our primary analysis, we present the results of the \ac{MSM} with untruncated stabilized weights, as these provide theoretically unbiased estimates, albeit they likely are less efficient than truncated weights \parencite{Cole2008}. The distribution of the inverse probability weights supports this decision as there are no extreme values and the mean weight is 1 (see Table \ref{tab:stabweights}).
 
-\subsubsection*{Fixed effects}
+\subsubsection{Fixed effects}
 
 While the \ac{MSM} can account for pre-treatment selection on observable and time-variant confounders, it assumes that there are no unobserved time-invariant confounders such as family background, cognitive abilities, and other personal characteristics. This is a strong assumption that might be violated in practice. The individual level \ac{FE} model can help remedy this problem as it is able to account for both observed time-variant and invariant variables as well as time-invariant unobserved variables as shown in the \ac{DAG} in Figure \ref{fig:DAG_fe}. It does so by demeaning all covariates at each time point with the overall individual mean across all observed time points. It then uses solely the within-person variation for identification, thereby accounting for any time-invariant observed or unobserved as well as observed time-variant effects. 
 
@@ -102,15 +102,15 @@ To discriminate between the \ac{RE} and \ac{FE} estimator, a robust Hausman test
 
 
 
-\subsubsection*{Multiple imputation}
+\subsubsection{Multiple imputation}
 
 To deal with missing data, we used chained multiple imputation to impute the missing values in Stata 13 using the user written ICE command \parencite{Royston2009}. Overall, thirty imputed datasets were created. Imputation models included all variables used in the \acp{MSM}. We imputed missing data in the same wave for which some data were recorded; we did not impute completely missing waves. Further, we did not impute missing diabetes information and instead assumed that once a diabetes diagnosis was reported, the individual had diabetes in every ensuing wave, even when the observation was missing. If diabetes was never reported in any wave, we assumed that the individual never had diabetes. We then only imputed missing values for those observations that had a non-missing diabetes status. For the calculation of the marginal effects in the \ac{MSM} logit models, Rubin's rules were applied using the user written Stata command mimrgns \parencite{Klein2014}.
 
-\subsubsection*{Numbers of observations}
+\subsubsection{Numbers of observations}
 
 Because we used lagged variables to construct the stabilized weights for the \acp{MSM}, the number of observations used in the \acp{MSM} is lower than those used in the \ac{FE} and \ac{RE} models, where we do not use lagged variables. The summary statistics shown in Table \ref{tab:descriptives_diab} are based on the observations used in the \ac{FE} models. The number of observations is stated below each table.
 
-\subsubsection*{Sensitivity analyses}
+\subsubsection{Sensitivity analyses}
 
 We conduct three additional sensitivity analyses in order to test the robustness of our results. First, we truncate weights at the 1\textsuperscript{st} and 99\textsuperscript{th} percentile to investigate the sensitivity of the \acp{MSM} to the most extreme weights. While untruncated weights provide unbiased estimates under the assumptions of the \ac{MSM}, they may not be the most efficient and tend to have larger standard errors \parencite{Cole2008}. Second, we estimate the \ac{FE} and \acp{MSM} using the original non-imputed data to ascertain the extent to which multiple imputation affected the results. Third, we report in the appendix the estimates of models using overweight and obesity instead of \ac{BMI} and waist circumference as the outcomes of interest, to investigate the effect of a diabetes diagnosis on changes in the probabilities to be overweight or obese.
 

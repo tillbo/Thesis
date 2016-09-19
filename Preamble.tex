@@ -1,5 +1,6 @@
-\documentclass[a4paper,12pt,english,abstract=on,titlepage=false]{scrreprt}
+\documentclass[12pt,english,abstract=on,titlepage=false]{scrreprt}
 \usepackage{setspace} %linespacing
+\setcounter{secnumdepth}{0} % prevents section numbering but lets them be included in TOC
 \onehalfspacing
 %\setlength{\parskip}{1em} % paragraph spacing
 \usepackage[affil-it]{authblk}
@@ -29,8 +30,10 @@
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{geometry}
-\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=4cm,rmargin=2cm}
+\usepackage[a4paper,%
+            left=4cm,right=2.5cm,top=2cm,bottom=2.5cm,%
+            footskip=.25in]{geometry}
+%\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=4cm,rmargin=2cm}
 \providecommand{\tabularnewline}{\\}
 \usepackage[printonlyused]{acronym}
 %\usepackage[nolist]{acronym}
@@ -63,12 +66,8 @@
 %\usepackage[english]{babel}% Recommended
 %\usepackage{csquotes}
 \usepackage[
-maxcitenames=2, 
-style=authoryear-comp,
-firstinits=true,
-maxbibnames=99,
+style=authoryear-icomp,maxbibnames=9,maxcitenames=2,uniquelist=false,
 backend=biber,
-uniquename=false,
 url=false,
 doi=false,
 isbn=false]{biblatex}
@@ -104,15 +103,6 @@ isbn=false]{biblatex}
 %\usepackage[authoryear]{natbib}
 
 %\nobibliography*
-% paper margins
-\usepackage{geometry}
-\geometry{
-letterpaper,
-left=40mm,
-right=35mm,
-top=20mm,
-bottom=25mm,
-}   
 %limiting tables to only float within section
 \usepackage[section]{placeins}
   
@@ -136,7 +126,7 @@ bottom=25mm,
         }
 
 
-\pagenumbering{gobble} %no page numbering
+%\pagenumbering{gobble} %no page numbering
 %For table commands to change column sizeand alignment, especially tabularx
 \newcolumntype{b}{X}  %large columns http://tex.stackexchange.com/questions/84400/table-layout-with-tabularx-column-widths-502525
 \newcolumntype{m}{>{\hsize=.5\hsize}X} % medium columns
