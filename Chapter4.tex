@@ -95,7 +95,7 @@ The detailed information in the \ac{MxFLS} allows us to consider the following o
 \begin{threeparttable}  %adds notes to tables
 {
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
-\begin{tabular}{l*{4}{c}}
+\begin{tabular}{l*{4}{SS}}
 \toprule
                     &\multicolumn{2}{c}{Panel}&\multicolumn{2}{c}{Biomarker}\\\cmidrule(lr){2-3}\cmidrule(lr){4-5}
                     &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\
@@ -297,7 +297,7 @@ N               &    21388         &    27341         &    13828         &     7
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Reference category: dependent non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)..
+\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Reference category: dependent non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -342,7 +342,7 @@ N               &    13828         &     7068         &    17616         &     9
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Reference category: non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)..
+\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Reference category: non-agricultural worker or employee. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -359,7 +359,7 @@ not reject the null of no interaction effects ($p = .15$), indicating that the e
 
 In summary, we find no evidence for an association between self-reported diabetes and wages or working hours. This lack of effects may be explained by selection: potentially, only those with "mild" or asymptomatic diabetes are still in the same job continuing to earn similar wages. Only once complications become increasingly severe would they switch activity (or drop out of the labour market), without going through a notable phase of reduced productivity and labour supply.
 
-To explore whether diabetes affects the selection into certain types of work we estimate \ac{FE} models of the probability of being in non-agricultural wage employment, agricultural employment or self-employment using three dummy variables indicating the respective type of work as the left hand side variables. The results in Table \ref{tab:Self-reported-diabetes-selection_LPM} indicate a negative association with self-employment, though the estimates are quite imprecise. For women, those who self-report diabetes are less likely to work in agriculture and potentially self-employment. This may suggest that having diabetes drives people out of self-employment and agricultural jobs, for instance because these jobs are physically more demanding and possibly also because they provide less protection in terms of insurance and employment duration. We also estimated a pooled multinomial logit model augmented  with the within-between approach \parencite{Bell2015}, based on the work of \textcite{Mundlak1978}, which allows interpreting the coefficients of all time-varying variables as within-effects by including individual means of all time-varying covariates\footnote{Several other studies in economics have used this approach recently, e.g., \textcite{Geishecker2011,Wunder2014,Boll2016}}. The results indicate a very similar pattern both in size and significance (results available on request).\footnote{Using the same methods, we also investigated the impact of diabetes on changes in the type of work for those already employed, finding no evidence that diabetes leads to changes in the type of work. These results are also available on request.}
+To explore whether diabetes affects the selection into certain types of work we estimate \ac{FE} models of the probability of being in non-agricultural wage employment, agricultural employment or self-employment using three dummy variables indicating the respective type of work as the left hand side variables. The results in Table \ref{tab:Self-reported-diabetes-selection_LPM} indicate a negative association with self-employment, though the estimates are quite imprecise. For women, those who self-report diabetes are less likely to work in agriculture and potentially self-employment. This may suggest that having diabetes drives people out of self-employment and agricultural jobs, for instance because these jobs are physically more demanding and possibly also because they provide less protection in terms of insurance and employment duration. \footnote{We also estimated a pooled multinomial logit model augmented  with the within-between approach \parencite{Bell2015}, based on the work of \textcite{Mundlak1978}, which allows interpreting the coefficients of all time-varying variables as within-effects by including individual means of all time-varying covariates. Several other studies in economics have used this approach recently, e.g., \textcite{Geishecker2011,Wunder2014,Boll2016}. The results indicate a very similar pattern both in size and significance.}\footnote{Using the same methods, we also investigated the impact of diabetes on changes in the type of work for those already employed, finding no evidence that diabetes leads to changes in the type of work.}
 
 \begin{landscape}
 \begin{table}[p]
@@ -386,7 +386,7 @@ N               &    20719         &    20719         &    20719         &    26
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)..
+\item \textit{Notes} Individual level fixed effects. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number of children < 6, wealth, health insurance status, age squared and calender year dummies. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -485,7 +485,7 @@ N               &     8217         &    16292         &    16292         &    10
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The table presents the results of three estimation methods. Panel A presents the results of the linear specifications. Panel B presents the results of the non-linear specifications. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number children < 6, wealth, age squared and calendar year dummies. The OLS and pooled OLS models additionally control for age. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)..
+\item \textit{Notes} The table presents the results of three estimation methods. Panel A presents the results of the linear specifications. Panel B presents the results of the non-linear specifications. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number children < 6, wealth, age squared and calendar year dummies. The OLS and pooled OLS models additionally control for age. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -565,7 +565,7 @@ N               &     6807         &    13581         &    13581         &     3
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The table presents the results of three estimation methods for the two dependent variables: log hourly wages and weekly working hours. Panel A presents the results of the linear specifications. Panel B presents the results of the non-linear specifications. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number children < 6, wealth, age squared, calendar year dummies, type of work (agricultural and self employed with dependent non-agricultural wage employment as the base) and health insurance status. The OLS and pooled OLS models additionally control for age. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)..
+\item \textit{Notes} The table presents the results of three estimation methods for the two dependent variables: log hourly wages and weekly working hours. Panel A presents the results of the linear specifications. Panel B presents the results of the non-linear specifications. Robust standard errors in parentheses. Other control variables: state dummies, urbanization dummies, education dummies, married dummy, number children < 6, wealth, age squared, calendar year dummies, type of work (agricultural and self employed with dependent non-agricultural wage employment as the base) and health insurance status. The OLS and pooled OLS models additionally control for age. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -577,7 +577,7 @@ N               &     6807         &    13581         &    13581         &     3
 Turning to wages (Table \ref{tab:Self-reported-diabetes-duration_wage}), the \ac{FE} model indicates a reduction in female wages of about 7\% per year with diabetes. For men we find no consistent effect. The results of the non-linear specification indicate that there may be a reduction in wages 5--11 years after the initial diagnosis. We also find associations for women with more than 20 years of diabetes, but these estimates may be spurious due to the considerably reduced number of observations in this group.\footnote{There are only 9 and 3 observations for male and female wages with more than 20 years since diagnosis in wave 3, respectively, and similarly 17 and 7 in the pooled sample, respectively. For male and female working hours there are 12 and 7 observations with more than 20 years since diagnosis in wave 3, respectively, and 20 and 12 for the pooled sample, respectively.}. There appears to be no consistent relationship between working hours and time since being diagnosed with diabetes.
    
 
-Overall these results suggest a fairly constant decrease in the probability of employment for both men and women and in earnings for women, which contrast with estimates for the USA \parencite{Minor2013}, where no such linear relationship is observed.  \textcite{Minor2013} finds a reduction in employment probabilities of 82 percentage points for females after 11 to 15 years and a reduction of 60 percentage points for males after 2-5 years, indicating very large employment penalties, in particular in comparison to our results for Mexico. However, our non-linear results are not directly comparable to these estimates as Minor used pooled cross-sectional data, constructed dummy variables instead of splines and used different duration groups.\footnote{We estimated a comparable model to that of \textcite{Minor2013} using dummy variables and find a significant reduction in employment chances throughout, regardless of whether we use our duration groups to construct the dummies or the duration groups used by \textcite{Minor2013}. For men, we find a significant reduction of about 6 to 12 percentage points, depending on the used specification, in the first 2 and 4 years after diagnosis, respectively. In the following years the effect size tends to increase somewhat. For women, we find less evidence for an immediate effect of diagnosis, but effects do emerge after about 2 years of living with the disease and also increase somewhat over time. These results are available on request.}
+Overall these results suggest a fairly constant decrease in the probability of employment for both men and women and in earnings for women, which contrast with estimates for the USA \parencite{Minor2013}, where no such linear relationship is observed.  \textcite{Minor2013} finds a reduction in employment probabilities of 82 percentage points for females after 11 to 15 years and a reduction of 60 percentage points for males after 2-5 years, indicating very large employment penalties, in particular in comparison to our results for Mexico. However, our non-linear results are not directly comparable to these estimates as Minor used pooled cross-sectional data, constructed dummy variables instead of splines and used different duration groups.\footnote{We estimated a comparable model to that of \textcite{Minor2013} using dummy variables and find a significant reduction in employment chances throughout, regardless of whether we use our duration groups to construct the dummies or the duration groups used by \textcite{Minor2013}. For men, we find a significant reduction of about 6 to 12 percentage points, depending on the used specification, in the first 2 and 4 years after diagnosis, respectively. In the following years the effect size tends to increase somewhat. For women, we find less evidence for an immediate effect of diagnosis, but effects do emerge after about 2 years of living with the disease and also increase somewhat over time.}
 \FloatBarrier
 
 \subsection{Cross-sectional biomarker analysis}
@@ -666,7 +666,7 @@ HbA1c $\geq$ 6.5&                  &                  &    -.088         &    1.
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)..
+\item \textit{Notes} Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -721,7 +721,7 @@ N               &     2785         &     3623         &     1803         &      
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)..
+\item \textit{Notes} Community level fixed effects. Robust standard errors in parentheses. Other control variables: age, age squared, state dummies, urbanization dummies, education dummies, married dummy, number children < 6 and wealth. Calender year dummies are included as data collection for the third wave was stretched out over several years. The wage and working hour models additionally control for type of work (agricultural and self employed with non-agricultural wage employment as the base) and for health insurance status. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -730,7 +730,7 @@ N               &     2785         &     3623         &     1803         &      
 \end{table}
 
 
-When additionally controlling for subjective health status, we find that for men and women the difference between self-reported diabetes and undiagnosed diabetes is reduced due to a smaller coefficient for self-reported diabetes (Table \ref{tab:Diagnosed_undiagnosed_robust}, Panel A). Especially for females, the point estimates for self-reported diabetes and undiagnosed diabetes are now virtually the same size, suggesting that differences can be almost exclusively explained by self-reported health. For men, factors not captured by self-reported health may still play a role. Additionally accounting for measures of overweight and obesity, self-reported hypertension, heart disease and depression does not further affect the interpretation of the diabetes coefficient (results available on request).
+When additionally controlling for subjective health status, we find that for men and women the difference between self-reported diabetes and undiagnosed diabetes is reduced due to a smaller coefficient for self-reported diabetes (Table \ref{tab:Diagnosed_undiagnosed_robust}, Panel A). Especially for females, the point estimates for self-reported diabetes and undiagnosed diabetes are now virtually the same size, suggesting that differences can be almost exclusively explained by self-reported health. For men, factors not captured by self-reported health may still play a role. \footnote{Additionally accounting for measures of overweight and obesity, self-reported hypertension, heart disease and depression does not further affect the interpretation of the diabetes coefficient.}
 
 Turning to Panel B, we do not find an indication that differences in \ac{HbA1c} levels are driving the different employment effects of diabetes for the aware and unaware. We therefore conclude that current diabetes severity is likely not associated with any labour outcome and does not explain the difference in effects between diagnosed and undiagnosed diabetes.
 

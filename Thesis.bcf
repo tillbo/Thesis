@@ -85,7 +85,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
-      <bcf:value>2</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -125,7 +125,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>2</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useauthor</bcf:key>
@@ -2634,10 +2634,10 @@
     <bcf:citekey order="1480">Popkin2010</bcf:citekey>
     <bcf:citekey order="1481">Steven2016</bcf:citekey>
     <bcf:citekey order="1482">Steven2016</bcf:citekey>
-    <bcf:citekey order="1483">WHO2004</bcf:citekey>
-    <bcf:citekey order="1483">He2015</bcf:citekey>
-    <bcf:citekey order="1483">Zeng2014a</bcf:citekey>
-    <bcf:citekey order="1484">group2004body</bcf:citekey>
+    <bcf:citekey order="1483">group2004body</bcf:citekey>
+    <bcf:citekey order="1484">WHO2004</bcf:citekey>
+    <bcf:citekey order="1484">He2015</bcf:citekey>
+    <bcf:citekey order="1484">Zeng2014a</bcf:citekey>
     <bcf:citekey order="1485">Robins2000</bcf:citekey>
     <bcf:citekey order="1486">Robins2000</bcf:citekey>
     <bcf:citekey order="1487">Zhang2014d</bcf:citekey>
