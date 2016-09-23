@@ -23,9 +23,9 @@
 \BOOKMARK [2][-]{section*.56}{Data extraction and analysis}{section*.52}% 23
 \BOOKMARK [1][-]{section*.60}{Results}{chapter.2}% 24
 \BOOKMARK [2][-]{section*.61}{Cost-of-illness studies on type 2 diabetes}{section*.60}% 25
-\BOOKMARK [2][-]{section*.82}{The impact of diabetes on employment chances and productivity}{section*.60}% 26
+\BOOKMARK [2][-]{section*.82}{The impact of diabetes on employment probabilities and productivity}{section*.60}% 26
 \BOOKMARK [1][-]{section*.89}{Discussion}{chapter.2}% 27
-\BOOKMARK [2][-]{section*.90}{General findings and developments since the 2004 review of diabetes cost-of-illness studies}{section*.89}% 28
+\BOOKMARK [2][-]{section*.90}{General findings and developments since the 2004 review of diabetes COI studies}{section*.89}% 28
 \BOOKMARK [2][-]{section*.91}{Labour market studies}{section*.89}% 29
 \BOOKMARK [2][-]{section*.92}{Comparison of COI and labour market studies: common themes and lessons learned}{section*.89}% 30
 \BOOKMARK [2][-]{section*.93}{Limitations}{section*.89}% 31
@@ -43,8 +43,8 @@
 \BOOKMARK [2][-]{section*.125}{Differences by employment type}{section*.110}% 43
 \BOOKMARK [1][-]{section*.128}{Conclusion}{chapter.3}% 44
 \BOOKMARK [0][-]{chapter.4}{The impact of diabetes on labour market outcomes in Mexico: a panel data and biomarker analysis}{}% 45
-\BOOKMARK [1][-]{section*.134}{Introduction}{chapter.4}% 46
-\BOOKMARK [1][-]{section*.137}{Diabetes and labour outcomes\204existing evidence}{chapter.4}% 47
+\BOOKMARK [1][-]{section*.132}{Introduction}{chapter.4}% 46
+\BOOKMARK [1][-]{section*.136}{Diabetes and labour outcomes\204existing evidence}{chapter.4}% 47
 \BOOKMARK [1][-]{section*.139}{Data}{chapter.4}% 48
 \BOOKMARK [1][-]{section*.143}{Estimation strategy}{chapter.4}% 49
 \BOOKMARK [2][-]{section*.144}{Panel data on self-reported diabetes}{section*.143}% 50
@@ -57,39 +57,28 @@
 \BOOKMARK [1][-]{section*.171}{Conclusion}{chapter.4}% 57
 \BOOKMARK [0][-]{chapter.5}{ The relationship between diabetes, employment status and behavioural risk factors: An application of marginal structural models and fixed effects to Chinese panel data}{}% 58
 \BOOKMARK [1][-]{section*.175}{Introduction}{chapter.5}% 59
-\BOOKMARK [1][-]{section*.183}{Methods}{chapter.5}% 60
-\BOOKMARK [2][-]{section*.184}{Study sample}{section*.183}% 61
-\BOOKMARK [2][-]{section*.185}{Assessment of diabetes}{section*.183}% 62
-\BOOKMARK [2][-]{section*.186}{Assessment of outcomes}{section*.183}% 63
-\BOOKMARK [2][-]{section*.188}{Statistical analysis}{section*.183}% 64
-\BOOKMARK [2][-]{section*.194}{Random effects}{section*.183}% 65
-\BOOKMARK [1][-]{section*.198}{Results}{chapter.5}% 66
-\BOOKMARK [1][-]{section*.209}{Discussion}{chapter.5}% 67
-\BOOKMARK [2][-]{section*.210}{Limitations}{section*.209}% 68
-\BOOKMARK [2][-]{section*.211}{Potential mechanisms}{section*.209}% 69
-\BOOKMARK [1][-]{section*.212}{Conclusion}{chapter.5}% 70
-\BOOKMARK [0][-]{chapter.6}{Discussion and conclusions}{}% 71
-\BOOKMARK [1][-]{section*.213}{Chapter overview}{chapter.6}% 72
-\BOOKMARK [1][-]{section*.215}{Summary of principal findings}{chapter.6}% 73
-\BOOKMARK [1][-]{section*.225}{The context of the findings and their implications}{chapter.6}% 74
-\BOOKMARK [2][-]{section*.226}{Inequities in the economic burden of diabetes}{section*.225}% 75
-\BOOKMARK [1][-]{section*.233}{Reflections on the methods used in the thesis}{chapter.6}% 76
-\BOOKMARK [1][-]{section*.234}{Strengths and limitations}{chapter.6}% 77
-\BOOKMARK [1][-]{section*.236}{Suggestions for future research}{chapter.6}% 78
-\BOOKMARK [1][-]{section*.238}{Concluding remarks}{chapter.6}% 79
-\BOOKMARK [0][-]{chapter*.239}{Appendices}{}% 80
-\BOOKMARK [1][-]{section*.240}{Appendix to Chapter 1}{chapter*.239}% 81
-\BOOKMARK [1][-]{section*.241}{Appendix to Chapter 2}{chapter*.239}% 82
-\BOOKMARK [1][-]{section*.245}{Appendix to Chapter 3}{chapter*.239}% 83
-\BOOKMARK [2][-]{section*.246}{Linear IV estimates \(1st and 2nd stage\)}{section*.245}% 84
-\BOOKMARK [2][-]{section*.249}{Results for older age groups}{section*.245}% 85
-\BOOKMARK [2][-]{section*.252}{Results for wealth quartiles}{section*.245}% 86
-\BOOKMARK [2][-]{section*.255}{Instrumental variable analysis for age groups}{section*.245}% 87
-\BOOKMARK [2][-]{section*.260}{Instrumental variable analysis for wealth groups}{section*.245}% 88
-\BOOKMARK [2][-]{section*.265}{Multinomial logit and IV results for formal and informal employment}{section*.245}% 89
-\BOOKMARK [1][-]{section*.272}{Appendix to Chapter 5}{chapter*.239}% 90
-\BOOKMARK [2][-]{section*.273}{Attrition}{section*.272}% 91
-\BOOKMARK [2][-]{section*.275}{Stabilized weights}{section*.272}% 92
-\BOOKMARK [2][-]{section*.277}{Duration groups results}{section*.272}% 93
-\BOOKMARK [2][-]{section*.284}{Robustness checks}{section*.272}% 94
-\BOOKMARK [2][-]{section*.301}{Overweight and obesity results}{section*.272}% 95
+\BOOKMARK [1][-]{section*.184}{Methods}{chapter.5}% 60
+\BOOKMARK [2][-]{section*.185}{Study sample}{section*.184}% 61
+\BOOKMARK [2][-]{section*.186}{Assessment of diabetes}{section*.184}% 62
+\BOOKMARK [2][-]{section*.187}{Assessment of outcomes}{section*.184}% 63
+\BOOKMARK [2][-]{section*.189}{Statistical analysis}{section*.184}% 64
+\BOOKMARK [1][-]{section*.199}{Results}{chapter.5}% 65
+\BOOKMARK [1][-]{section*.210}{Discussion}{chapter.5}% 66
+\BOOKMARK [2][-]{section*.211}{Limitations}{section*.210}% 67
+\BOOKMARK [2][-]{section*.212}{Potential mechanisms}{section*.210}% 68
+\BOOKMARK [1][-]{section*.213}{Conclusion}{chapter.5}% 69
+\BOOKMARK [0][-]{chapter.6}{Discussion and conclusions}{}% 70
+\BOOKMARK [1][-]{section*.214}{Chapter overview}{chapter.6}% 71
+\BOOKMARK [1][-]{section*.216}{Summary of principal findings}{chapter.6}% 72
+\BOOKMARK [1][-]{section*.230}{Implications for policy making}{chapter.6}% 73
+\BOOKMARK [2][-]{section*.231}{Inequities in the economic burden of diabetes}{section*.230}% 74
+\BOOKMARK [1][-]{section*.238}{Strengths and limitations}{chapter.6}% 75
+\BOOKMARK [1][-]{section*.240}{Suggestions for future research}{chapter.6}% 76
+\BOOKMARK [1][-]{section*.242}{Conclusion}{chapter.6}% 77
+\BOOKMARK [0][-]{chapter*.243}{References}{}% 78
+\BOOKMARK [0][-]{chapter*.244}{Appendices}{}% 79
+\BOOKMARK [0][-]{chapter.1}{Appendix to Chapter 1}{}% 80
+\BOOKMARK [0][-]{chapter.2}{Appendix to Chapter 2}{}% 81
+\BOOKMARK [0][-]{chapter.3}{Appendix to Chapter 3}{}% 82
+\BOOKMARK [0][-]{chapter.4}{Appendix to Chapter 4}{}% 83
+\BOOKMARK [0][-]{chapter.5}{Appendix to Chapter 5}{}% 84

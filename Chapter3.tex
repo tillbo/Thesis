@@ -6,7 +6,7 @@ This study explores the impact of diabetes on employment in Mexico using data fr
 
 \section{\label{sec:Introduction3}Introduction}
 
-Diabetes, similar to other conditions that have been coined ''diseases of affluence'', has traditionally been seen as mostly a problem of the developed, more affluent countries. Only in recent
+Diabetes, similar to other conditions that have been coined ``diseases of affluence'', has traditionally been seen as mostly a problem of the developed, more affluent countries. Only in recent
 years the awareness has been growing of the sheer size of the problem
 in health terms \parencite{Yach2006,Hu2011}. Mexico is one example of
 a middle-income country that has seen diabetes rates increase sharply
@@ -24,17 +24,17 @@ particular genetic predisposition of many Mexicans to develop type
 2 diabetes \parencite{Williams2013}. While many of the high-income countries
 may be in a position to cope resource-wise with the health care consequences
 of diabetes, this will be less so the case for Mexico and other \acp{LMIC}.
-The most recent "cost-of-illness" estimates put the costs of diabetes
+The most recent cost-of-illness estimates put the costs of diabetes
 to the Mexican society at more than US\$778 million in 2010, with
 a large part of these costs being paid out-of-pocket \parencite{A.2011z}.
 While the above includes some estimate of indirect costs, meant to
 capture the cost burden attributable to foregone productivity resulting
 from diabetes, there exists no rigorous, econometric assessment of
-the effect of diabetes on employment chances for Mexico, as the research
+the effect of diabetes on employment probabilities for Mexico, as the research
 has thus far focused on high-income countries \parencite{Lin2011b,Latif2009,Brown2005,Minor2011,Bastida2002,Vijan2004,Zhang2009}.
 
 There are several reasons to expect a significant adverse
-effect of diabetes on employment chances in Mexico and that this effect
+effect of diabetes on employment probabilities in Mexico and that this effect
 might be stronger than in high-income countries. In Mexico type 2
 diabetes is increasingly affecting people in their productive age,
 raising the possibility that a larger share of people with diabetes
@@ -52,7 +52,7 @@ the aim of this study is to investigate how diabetes affects employment
 probabilities in a middle-income country such as Mexico. To the best
 of our knowledge this is the first such paper on Mexico and indeed
 on any \ac{LMIC}. We also investigate if the impact of diabetes on
-employment chances differs across age groups and---again for the
+employment probabilities differs across age groups and---again for the
 first time in this field---by wealth, as well as between those formally
 and informally employed.
 
@@ -74,12 +74,11 @@ developing diabetes.
 
 \textcite{Brown2005} estimated the impact of the disease on
 employment in 1996--1997 in an older population of Mexican Americans
-in the USA close to the Mexican border, using a recursive bivariate
-probit model. They found diabetes to be endogenous for women but not
+in the USA close to the Mexican border, using an \ac{IV} strategy. They found diabetes to be endogenous for women but not
 for men. The results of the \ac{IV} estimation suggested no significant
 effect on women which, compared to the adverse effect found in the
-probit model, indicated an overestimation of the effect for women
-when endogeneity was not accounted for. For men, the probit estimates
+univariate probit model, indicated an overestimation of the effect for women
+when endogeneity was not accounted for. For men, the univariate probit estimates
 showed a significant adverse effect of about 7 percentage points.
 \textcite{Latif2009} estimated the effect of the disease on employment
 probabilities in Canada in 1998. Contrary to \textcite{Brown2005}, he
@@ -88,14 +87,14 @@ taking this into account he obtained a significant negative impact
 on the employment probabilities for women, but not for men. Because
 the simple probit model showed a significant negative effect for males,
 \textcite{Latif2009} concluded that not accounting for endogeneity resulted
-in an overestimation of the effect on male employment chances. \textcite{Minor2011}
+in an overestimation of the effect on male employment probabilities. \textcite{Minor2011}
 investigated the effect of diabetes on female employment, among other
 outcomes, in the USA in 2006. This particular study differed
 from earlier work in that it not only analysed the effects of diabetes
 in general, but also of type 1 and type 2 diabetes separately. The
 study found diabetes to be endogenous and underestimated if exogeneity
 was assumed. In the \ac{IV} estimates, type 2 diabetes had a significant
-negative effect on female employment chances. For Taiwan, \textcite{Lin2011b}
+negative effect on female employment probabilities. For Taiwan, \textcite{Lin2011b}
 found diabetes to be endogenous, with the \ac{IV} results showing
 significant changes in the employment effect of diabetes. The impact
 was found to be significantly negative for men in the \ac{IV} model
@@ -164,6 +163,17 @@ to 64 years, which represents the majority of the working population.
 To allow for heterogeneity in the coefficients across gender, the
 sample has been split to estimate the male and female groups separately. 
 
+The descriptive statistics presented in Table \ref{tab:Summary-statistics-for}
+suggest that the groups of respondents with and without diabetes differ
+significantly in various aspects. Both males and females with diabetes
+have a lower employment rate than their counterparts. This would suggest
+that diabetes has a negative impact on the employment probabilities of both
+males and females with diabetes. However, since the groups with diabetes
+are also significantly older and differ in terms of education, this
+may be a spurious relationship. As a result, only a multivariate analysis
+will provide more reliable information on how diabetes truly affects
+employment probabilities.
+
 
 \begin{landscape}
 \begin{table}[p]
@@ -181,16 +191,7 @@ females with and without diabetes}
 \end{table}
 \end{landscape}
 
-The descriptive statistics presented in Table \ref{tab:Summary-statistics-for}
-suggest that the groups of respondents with and without diabetes differ
-significantly in various aspects. Both males and females with diabetes
-have a lower employment rate than their counterparts. This would suggest
-that diabetes has a negative impact on the employment chances of both
-males and females with diabetes. However, since the groups with diabetes
-are also significantly older and differ in terms of education, this
-may be a spurious relationship. As a result, only a multivariate analysis
-will provide more reliable information on how diabetes truly affects
-employment probabilities.
+
 
 
 \subsection{Econometric specification}
@@ -199,10 +200,8 @@ We first estimate a probit model with the following specification
 
 
 \begin{equation}
-Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:employed-2}
-\end{equation}
-
-
+Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:cha3_employed-2}
+\end{equation}\\
 where diabetes is assumed to be exogenous. $Employed_{i}$
 takes the value of $1$ if person $i$ is employed and $0$ if unemployed.
 Employment status is defined as having worked or carried out an activity
@@ -233,28 +232,28 @@ Central Mexico: Federal District of Mexico, State of Mexico, Morelos,
 Puebla; Central northeast Mexico: Coahuila, Durango, Nuevo Leon; Central
 western Mexico: Guanajuato, Jalisco, Michoacan; Northwest Mexico:
 Baja California Sur, Sinaloa, Sonora.}. Apart from the more obvious effects economic differences between
-regions can have on employment chances and diabetes through their
+regions can have on employment probabilities and diabetes through their
 impact on employment opportunities and lifestyles, the dummies should
 also account for less obvious effects that macroeconomic problems,
-such as a high unemployment rate, could have on employment chances
+such as a high unemployment rate, could have on employment probabilities
 and diabetes by affecting psychological well-being and sleeping patterns
 \parencite{Antillon2014}. Because differences in economic opportunities
 and lifestyles should also be expected between rural and urban areas,
 three dummy variables are included to capture the effects these factors
-might have on employment chances and diabetes, with living in a rural
+might have on employment probabilities and diabetes, with living in a rural
 area being the reference category\footnote{Rural: < 2,500 inhabitants; Small city: 2,500 to 15,000 inhabitants;
 City: 15,000 to 100,000 inhabitants; Big city: > 100,000 inhabitants. } \parencite{Villalpando2010}. Further, to control for labour market discrimination
 and possible differences in genetic susceptibility to diabetes of
 indigenous populations \parencite{Yu2007}, a dummy for being a member
-of an indigenous group is included. We also account for for the marital
-status to control for the impact of marriage on employment chances
+of an indigenous group is included. We also account for the marital
+status to control for the impact of marriage on employment probabilities
 and lifestyle habits. Further a variable capturing the number of children
-residing in the household below the age of 15 is inlcuded, to control
-for their impact on employment chances and for the effect of childbearing
+residing in the household below the age of 15 is included, to control
+for their impact on employment probabilities and for the effect of childbearing
 and related gestational diabetes on the probabilities of women to
 develop type 2 diabetes \parencite{Bellamy2009}. 
 
-To account for the effect that household wealth might have on diabetes and employment chances,
+To account for the effect that household wealth might have on diabetes and employment probabilities,
 we use the well established method of principal component analysis
 of multiple indicators of household assets and housing conditions
 to create an indicator for household wealth \parencite{Filmer2001}. Our
@@ -278,22 +277,22 @@ simultaneously:
 
 
 \begin{equation}
-Diabetes_{i}=\delta_{0}+\delta_{1}X_{i}+\delta_{2}diabetesmother_{i}+\delta_{3}diabetesfather_{i}+\eta_{i}\label{eq:employed-1}
+Diabetes_{i}=\delta_{0}+\delta_{1}X_{i}+\delta_{2}diabetesmother_{i}+\delta_{3}diabetesfather_{i}+\eta_{i}\label{eq:cha3_employed-1}
 \end{equation}
 
 
 
 \begin{equation}
-Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:employed}
+Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:cha3_employed}
 \end{equation}
-In equation \ref{eq:employed-1}, $Diabetes_{i}$
+In Eq. \ref{eq:cha3_employed-1}, $Diabetes_{i}$
 is a dummy variable and is modelled as a function of the same socioeconomic
-and demographic factors $X_{i}$ as in equation \ref{eq:employed-2}
+and demographic factors $X_{i}$ as in Eq. \ref{eq:cha3_employed-2}
 and of the instrumental dummy variables $diabetesmother_{i}$ and
 $diabetesfather_{i}$, indicating if the father or the mother had
 been diagnosed with diabetes. The error term is denoted as $\eta_{i}$.
-Equation \ref{eq:employed} is identical to the probit specification
-(equation \ref{eq:employed-2}) and estimates the effect of diabetes
+Eq. \ref{eq:cha3_employed} is identical to the probit specification
+(Eq. \ref{eq:cha3_employed-2}) and estimates the effect of diabetes
 on employment, now taking into account the possible endogeneity of
 diabetes. Diabetes is exogenous if the error terms of both equations
 are independent of each other ($Cov(u_{i}\eta_{i})=0$). Endogeneity
@@ -301,7 +300,7 @@ is tested using a likelihood ratio test based on the idea that if
 $Cov(u_{i}\eta_{i})=0$, the log-likelihood for the bivariate probit
 will be equal to the sum of the log-likelihoods from the two univariate
 probit models \parencite{Knapp1998}. If $u_{i}$ 
- and $\eta_{i}$ are correlated, the estimation of equation \ref{eq:employed-2}
+ and $\eta_{i}$ are correlated, the estimation of Eq. \ref{eq:cha3_employed-2}
 using a probit model will not provide consistent estimates of the
 impact of diabetes on employment. In this case the simultaneous estimation
 of both equations using the bivariate probit should be preferred.
@@ -310,7 +309,7 @@ $u_{i}$
  and $\eta_{i}$ are distributed randomly and bivariate normal. To
 test the assumption of normality, we use Murphey's goodness-of-fit
 score test with the null-hypothesis of bivariate normally distributed
-errors, as suggested by \textcite{Chiburis2012}.\footnote{Murphey's score test ''\ldots{}embeds the bivariate normal distribution
+errors, as suggested by \textcite{Chiburis2012}.\footnote{Murphey's score test ``\ldots{}embeds the bivariate normal distribution
 within a larger family of distributions by adding more parameters
 to the model and checks whether the additional parameters are all
 zeros using the score for the additional parameters at the bivariate
@@ -352,7 +351,7 @@ household, while if their adopted parents had the disease, they had
 no elevated risk. 
 
 Nonetheless, there might still be the chance that parental
-diabetes decreases the offspring's employment chances. The additional
+diabetes decreases the offspring's employment probabilities. The additional
 financial burden of diabetes or an early death due to diabetes could
 have prevented the parents from investing in their children's education
 the way they would have liked to or it could have led to the child
@@ -378,23 +377,23 @@ test.
 
 We also estimate the linear \ac{IV} model
 as it is consistent even under non-normality \parencite{Angrist2009a}.
-The linear \ac{IV} model takes the following form of a first (Equation
-\ref{eq:employed-1-1}) and a second stage (Equation \ref{eq:employed-3}).
+The linear \ac{IV} model takes the following form of a first (Eq.
+\ref{eq:cha3_employed-1-1}) and a second stage (Eq. \ref{eq:cha3_employed-3}).
 
 
 \begin{equation}
-Diabetes_{i}=\pi_{0}+\pi_{1}X_{i}+\pi_{2}diabetesmother_{i}+\pi_{3}diabetesfather_{i}+\eta_{i}\label{eq:employed-1-1}
+Diabetes_{i}=\pi_{0}+\pi_{1}X_{i}+\pi_{2}diabetesmother_{i}+\pi_{3}diabetesfather_{i}+\eta_{i}\label{eq:cha3_employed-1-1}
 \end{equation}
 
 
 
 \begin{equation}
-Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:employed-3}
+Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:cha3_employed-3}
 \end{equation}
 In the second stage, the potentially endogenous actual diabetes values
 are replaced with the predicted values from the first stage. The covariates
-are the same as in the bivariate probit case described in equations
-\ref{eq:employed-1} and \ref{eq:employed}. In the linear \ac{IV}
+are the same as in the bivariate probit case described in Eq.
+\ref{eq:cha3_employed-1} and Eq. \ref{eq:cha3_employed}. In the linear \ac{IV}
 model the Hausman test is used to identify endogeneity. Validity of
 the instruments is tested using first stage diagnostics of the linear
 \ac{IV} model, as similar tests are not available for the bivariate
@@ -422,7 +421,7 @@ probabilities (probit) }
 \bottomrule 
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects; robust standard errors in parentheses. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -446,9 +445,9 @@ points (p<0.1).
 The other covariates largely show the expected relationships.
 Employability increases with age and is highest for the 35--44 years
 age group. Especially for women, living in a more urban environment
-increases employment chances compared to women living in rural areas.
+increases employment probabilities compared to women living in rural areas.
 Also, women seem to benefit substantially from higher education in
-terms of employment chances. For men the effects of education are
+terms of employment probabilities. For men the effects of education are
 also positive, though, not as marked as for women. Perhaps surprisingly,
 being part of an indigenous population does not affect employment
 probabilities, neither for males or females. 
@@ -469,10 +468,10 @@ probabilities (bivariate probit)}
 \begin{center}
 \begin{adjustbox}{max width=\linewidth, center}
 \begin{threeparttable}
-{ \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{2}{S S}} \toprule           &\multicolumn{2}{c}{(1)}     &\multicolumn{2}{c}{(2)}     \\           &\multicolumn{2}{c}{Males}   &\multicolumn{2}{c}{Females} \\ \midrule Age 25--34&     .125\sym{***}&   (.012)&     .109\sym{***}&   (.015)\\ Age 35--44&     .134\sym{***}&   (.012)&     .207\sym{***}&   (.016)\\ Age 45--54&     .089\sym{***}&   (.016)&     .149\sym{***}&   (.021)\\ Age 55--64&    -.025         &   (.025)&     .032         &   (.029)\\ Small city&    -.014         &   (.017)&     .039\sym{**} &   (.018)\\ City      &    -.035\sym{**} &   (.018)&     .038\sym{**} &   (.019)\\ Big city  &     .030\sym{**} &   (.013)&     .093\sym{***}&   (.013)\\ Central   &     .027         &   (.018)&    -.030\sym{*}  &   (.015)\\ Westcentral&     .019         &   (.018)&    -.007         &   (.016)\\ Northeastcentral&     .002         &   (.018)&    -.049\sym{***}&   (.017)\\ Northwestcentral&    -.038\sym{**} &   (.017)&    -.091\sym{***}&   (.015)\\ Primary   &     .057\sym{***}&   (.020)&    -.006         &   (.021)\\ Secondary &     .052\sym{**} &   (.023)&     .052\sym{**} &   (.022)\\ Highschool&     .040         &   (.025)&     .113\sym{***}&   (.027)\\ College or university&     .046\sym{*}  &   (.025)&     .273\sym{***}&   (.032)\\ Indigenous&     .006         &   (.017)&    -.005         &   (.016)\\ Married   &     .093\sym{***}&   (.012)&    -.215\sym{***}&   (.011)\\ Children (under 15)&     .010\sym{**} &   (.004)&    -.016\sym{***}&   (.004)\\ Wealth    &     .002         &   (.006)&     .033\sym{***}&   (.007)\\ Parental education&    -.006         &   (.013)&     .000         &   (.012)\\ Diabetes  &    -.185         &   (.143)&    -.021         &   (.108)\\ \midrule Instruments  & & & & \\ \hspace{10 mm} Diabetes father  & .048\sym{***} &(.011) & .041\sym{***} & (.010) \\ \hspace{10 mm} Diabetes mother & .037\sym{***} & (.008) & .054\sym{***} & (.008) \\ \midrule Log likelihood&-3737.766         &         &-5939.588         &         \\ Score goodness-of-fit (H0=normality of errors) &   12.32       &         &    8.85    &     \\
-\hspace{10 mm}p value & .196      &         & .451        & \\  Endogeneity (H0: Diabetes exogeneous) &         .443       &         &.039            &    \\  \hspace{10 mm}p value&     .506         &              &  .844            & \\ N         &     6286         &         &     8243         &         \\ \bottomrule  \end{tabular} 
+{ \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{2}{S S}} \toprule           &\multicolumn{2}{c}{(1)}     &\multicolumn{2}{c}{(2)}     \\           &\multicolumn{2}{c}{Males}   &\multicolumn{2}{c}{Females} \\ \midrule Age 25--34&     .125\sym{***}&   (.012)&     .109\sym{***}&   (.015)\\ Age 35--44&     .134\sym{***}&   (.012)&     .207\sym{***}&   (.016)\\ Age 45--54&     .089\sym{***}&   (.016)&     .149\sym{***}&   (.021)\\ Age 55--64&    -.025         &   (.025)&     .032         &   (.029)\\ Small city&    -.014         &   (.017)&     .039\sym{**} &   (.018)\\ City      &    -.035\sym{**} &   (.018)&     .038\sym{**} &   (.019)\\ Big city  &     .030\sym{**} &   (.013)&     .093\sym{***}&   (.013)\\ Central   &     .027         &   (.018)&    -.030\sym{*}  &   (.015)\\ Westcentral&     .019         &   (.018)&    -.007         &   (.016)\\ Northeastcentral&     .002         &   (.018)&    -.049\sym{***}&   (.017)\\ Northwestcentral&    -.038\sym{**} &   (.017)&    -.091\sym{***}&   (.015)\\ Primary   &     .057\sym{***}&   (.020)&    -.006         &   (.021)\\ Secondary &     .052\sym{**} &   (.023)&     .052\sym{**} &   (.022)\\ Highschool&     .040         &   (.025)&     .113\sym{***}&   (.027)\\ College or university&     .046\sym{*}  &   (.025)&     .273\sym{***}&   (.032)\\ Indigenous&     .006         &   (.017)&    -.005         &   (.016)\\ Married   &     .093\sym{***}&   (.012)&    -.215\sym{***}&   (.011)\\ Children (under 15)&     .010\sym{**} &   (.004)&    -.016\sym{***}&   (.004)\\ Wealth    &     .002         &   (.006)&     .033\sym{***}&   (.007)\\ Parental education&    -.006         &   (.013)&     .000         &   (.012)\\ Diabetes  &    -.185         &   (.143)&    -.021         &   (.108)\\ \midrule Instruments  & & & & \\ \hspace{10 mm} Diabetes father  & .048\sym{***} &(.011) & .041\sym{***} & (.010) \\ \hspace{10 mm} Diabetes mother & .037\sym{***} & (.008) & .054\sym{***} & (.008) \\ \midrule Log likelihood&-3737.766         &         &-5939.588         &         \\ Score goodness-of-fit &&&& \\ (H0=normality of errors) & 12.32       &         &    8.85    &     \\
+\hspace{10 mm}p value & .196      &         & .451        & \\  Endogeneity &&&& \\ (H0: Diabetes exogeneous) &         .443       &         &.039            &    \\  \hspace{10 mm}p value&     .506         &              &  .844            & \\ N         &     6286         &         &     8243         &         \\ \bottomrule  \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects; robust standard errors in parentheses. The presented coefficients and standard errors for the instruments result from the estimation of the model specified in Equation II, indicating the effect of parental diabetes on a person's diabetes risk.
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. The presented coefficients and standard errors for the instruments result from the estimation of the model specified in Eq. \ref{eq:cha3_employed-1}, indicating the effect of parental diabetes on a person's diabetes risk.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -486,12 +485,14 @@ but also remains negative. However, standard errors increase in both
 models and the results turn insignificant, suggesting considerable
 loss of efficiency (see Table \ref{tab:Bivariate-probit-model}).
 The likelihood-ratio test does not reject the null hypothesis of no
-correlation between the disturbance terms of equations \ref{eq:employed-1}
-and \ref{eq:employed} for males and females, suggesting exogeneity
+correlation between the disturbance terms of Eq. \ref{eq:cha3_employed-1}
+and Eq. \ref{eq:cha3_employed} for males and females, suggesting exogeneity
 of diabetes. The test for normality of the error term does not reject
 the null hypothesis of normality for the male and the female model,
 increasing our confidence in the estimates. Nonetheless we also consider
-the results of the linear \ac{IV} model: the test statistics indicate
+the results of the linear \ac{IV} model (see Table \ref{tab:Linear-IV-and} displaying the main results and
+Table \ref{tab:Linear-IV-estimates-1st-2nd-stage} in the Appendix
+presenting the complete first and second stage estimates): the test statistics indicate
 sufficiently strong and valid instruments, as shown by the Kleibergen-Paap
 Wald F statistic for weak instruments of 20.48 for men and 27.71 for
 women, being above the critical value of 19.93 for ten\% \ac{IV}
@@ -501,10 +502,7 @@ Sargan test does not reject the null hypothesis of instruments uncorrelated
 with the error term and instruments correctly excluded from the estimated
 equation. The coefficients of the linear \ac{IV} model are very different
 from the bivariate probit model, turning positive for males and females,
-but also very imprecise as indicated by the large standard errors
-(see Table \ref{tab:Linear-IV-and} displaying the main results and
-Table \ref{tab:Linear-IV-estimates-1st-2nd-stage}
-presenting the complete first and second stage estimates). As mentioned
+but also very imprecise as indicated by the large standard errors. As mentioned
 before, \textcite{Chiburis2012} show that the estimates of the linear
 \ac{IV} model are likely to be imprecise when low treatment probabilities
 exist and can differ substantially from the bivariate probit model,
@@ -521,11 +519,8 @@ chances in Mexico and should therefore be used for inference.
 
 
 \begin{table}[p]
-\protect\caption{\label{tab:Linear-IV-and}Impact of diabetes on employment probabilities
+\caption{\label{tab:Linear-IV-and}Impact of diabetes on employment probabilities
 (linear IV)}
-
-
-\begin{center}
 \begin{adjustbox}{max width=\linewidth, center} 
 \begin{threeparttable}
 
@@ -533,19 +528,18 @@ chances in Mexico and should therefore be used for inference.
      &  (.215)      &   (.214)\\ \midrule R2        &     .067          &     .120        \\ F stat (H0: weak instruments)&   20.483 &   27.706         \\ Sargan test (H0: valid instruments)&     .862       &     .295    \\ \hspace{10 mm}p value&     .353  &     .587  \\ Endogeneity (H0: Diabetes exogenous)&     .864       &    1.796        \\ \hspace{10 mm}p value&     .353    &     .180     \\ N         &     6286         &     8243         \\ \bottomrule 
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes} Robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father. Other control variables: age, region, urban, education, indigenous, marital status, children, wealth, parental education. Critical values for weak identification test F statistic: 10\% maximal IV size 19.93, 15\% maximal IV size 11.59, 20\% maximal IV size 8.75, 25\% maximal IV size 7.25.
+\item \footnotesize \textit{Notes} Robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father. Other control variables: age, region, urban, education, indigenous, marital status, children, wealth, parental education. Critical values for weak identification test F statistic: 10\% maximal IV size 19.93, 15\% maximal IV size 11.59, 20\% maximal IV size 8.75, 25\% maximal IV size 7.25.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
 \end{adjustbox}
-\end{center}
 \end{table}
 
 
 The next section investigates the effects of diabetes for
 two different age groups, 15--44 and 45--64, to explore whether, and
-if so, how the effect of diabetes on employment chances differs between
+if so, how the effect of diabetes on employment probabilities differs between
 older and younger people. There might be reason to believe that diabetes
 has a more adverse effect in older age groups, when those suffering
 from diabetes are likely to have accumulated more years lived with
@@ -559,7 +553,7 @@ cut-off point of 45 years, the negative effect of diabetes is mainly
 found in the older age group, for males and females alike (see Table
 \ref{tab:age groups probit}), where 12.5\% report having diabetes,
 compared to only 1.7\% in the younger age group. The probability
-of being employed is reduced by about 10 percentage points for men
+of being employed is reduced by 11 percentage points for men
 between 45 and 64 years at the 1\% significance level, while
 there is no significant effect on younger men. For women, the employment
 probability is reduced by about 6 percentage points, with the effect
@@ -567,14 +561,14 @@ being significant at the 5\% level. Similar to men, there
 is no effect of diabetes on younger women. To investigate in more
 detail for which age group the effect is strongest, we run separate
 regressions for both age groups above 44 years. The results (Table
-\ref{tab:Impact-of-diabetes-age-groups-1}) show that
+\ref{tab:Impact-of-diabetes-age-groups-1} in the Appendix) show that
 for men the strongest effect appears in the oldest age group (i.e.
-55--64 years), where employment chances are reduced by almost 13 percentage
+55--64 years), where employment probabilities are reduced by almost 13 percentage
 points. For females, a significant effect is found solely for those
-between 45 and 54 years, where employment chances are reduced by 7.6
+between 45 and 54 years, where employment probabilities are reduced by 7.6
 percentage points. Hence, there appear to be relevant differences
 between males and females in the age at which the biggest adverse
-effect of diabetes on employment chances occurs. 
+effect of diabetes on employment probabilities occurs. 
 
 
 \begin{table}[p]
@@ -585,7 +579,7 @@ by age group (probit)}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{15-44}            &\multicolumn{2}{c}{45-64}            \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &    -.009         &    -.004         &    -.110\sym{***}&    -.057\sym{**} \\           &   (.062)         &   (.042)         &   (.034)         &   (.025)         \\ \midrule Log likelihood&-1987.285         &-3354.003         &-925.409         &-1167.491         \\ N         &     4415         &     5997         &     1871         &     2246         \\ \bottomrule 
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects; robust standard errors in parentheses. For the younger age group, the model contains the age categories 25--34 and 35--44 with 15--24 as the reference category. For the older age group, the model contains the age category 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. For the younger age group, the model contains the age categories 25--34 and 35--44 with 15--24 as the reference category. For the older age group, the model contains the age category 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -599,13 +593,12 @@ is compromised due to a reduction in instrument power, sample size
 and particularly treatment probabilities. Especially for the younger
 age group, where treatment probabilities are close to zero, a meaningful
 interpretation of the \ac{IV} results is difficult. Further, because
-no endogeneity was found in the pooled samples for males and females
-presented in section \ref{sub:Bivariate-probit}, we would not expect
+no endogeneity was found in the pooled samples for males and females, we would not expect
 endogeneity of diabetes in the age stratified samples. We nonetheless
 test for the possibility of diabetes being endogenous using the bivariate
 probit model and an approach suggested by \textcite{Lewbel2012}, to
 improve instrument strength (see Table
-\ref{tab:IV-estimates-forYOUNG} and Table \ref{tab:IV-estimates-forOLDAGE}).
+\ref{tab:IV-estimates-forYOUNG} and Table \ref{tab:IV-estimates-forOLDAGE} in the Appendix).
 
 
 \FloatBarrier
@@ -621,18 +614,18 @@ wealth index.
 
 We run separate regressions for both groups stratified by gender,
 finding the strongest negative effect for less wealthy males, where
-employment chances are reduced by 15 percentage points, and a smaller
+employment probabilities are reduced by 15 percentage points, and a smaller
 and less significant effect for less wealthy females (see Table \ref{tab:Effect-of-diabetes-wealth}).
 Whereas the coefficients for wealthier males and females have a negative
 sign, they are not significant at the 10\% significance level.
 This indicates that mainly the less wealthy experience an adverse
 effect from diabetes. To further explore this, we stratified the sample
-into wealth quartiles (see Table \ref{tab:Impact-of-diabetes-wealth-quartile}), finding that significant adverse effects for males
-appear in the first and second wealth quartile, where employment chances
+into wealth quartiles (see Table \ref{tab:Impact-of-diabetes-wealth-quartile} in the Appendix), finding that significant adverse effects for males
+appear in the first and second wealth quartile, where employment probabilities
 are reduced by about 14 percentage points. For females a highly significant
 and strong effect is only found in the poorest quartile, were employment
 chances are reduced by 10 percentage points. Together these results
-indicate that the impact of diabetes on employment chances varies
+indicate that the impact of diabetes on employment probabilities varies
 with wealth, with men and women being more affected when being in
 the lower wealth quartiles.
 
@@ -645,7 +638,7 @@ probabilities by wealth group (probit)}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{Poor}             &\multicolumn{2}{c}{Rich}             \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &    -.150\sym{***}&    -.047\sym{*}  &    -.060  &    -.038         \\           &   (.047)         &   (.027)         &   (.038)         &   (.035)         \\ \midrule Log likelihood&-1459.235         &-2040.517         &-1408.746         &-2421.910         \\ N         &     3140         &     4091         &     3106         &     4117         \\ \bottomrule 
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -656,7 +649,7 @@ To consider the possible endogeneity of diabetes in the upper and
 lower wealth half, we again present the results of the \ac{IV} models.
 The stratification into wealth groups significantly reduces instrument
 power as well as sample size. For none of the wealth groups the bivariate
-probit model indicates endogeneity (see Table \ref{tab:Impact-of-diabetes-wealth-IV}). This does not change even when
+probit model indicates endogeneity (see Table \ref{tab:Impact-of-diabetes-wealth-IV} in the Appendix). This does not change even when
 using the Lewbel approach to increase instrument strength and we therefore
 rely on the probit results for inference. 
 
@@ -666,7 +659,7 @@ rely on the probit results for inference.
 
 
 
-To investigate the effect of diabetes on the employment chances in
+To investigate the effect of diabetes on the employment probabilities in
 the formal and informal labour market, respectively, we estimate separate
 models with being employed in the formal and informal sector as the
 respective dependent variables. We define formal employment on the
@@ -683,7 +676,7 @@ on employment probabilities by employment status (probit)}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{Males}            &\multicolumn{2}{c}{Females}          \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Informal}&\multicolumn{1}{c}{Formal}&\multicolumn{1}{c}{Informal}&\multicolumn{1}{c}{Formal}\\ \midrule Diabetes  &    -.063\sym{**} &    -.041         &    -.051\sym{**} &     .019         \\           &   (.031)         &   (.043)         &   (.022)         &   (.022)         \\ \midrule Log likelihood&-1780.023         &-1021.771         &-3818.588         &-1859.048         \\ N         &     4604         &     2204         &     6983         &     5652         \\ \bottomrule
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -720,8 +713,8 @@ the choice of being either unemployed, employed in the informal or
 employed in the formal labour market \parencite{Wooldridge2002}. Being
 unemployed is used as the reference category.
 
-All estimated models (see Tables \ref{tab:Effect-of-diabetes-formal-informal-probit}
-and \ref{tab:Effect-of-diabetes-formal-informal-Mlogit}), regardless
+All estimated models (see Table \ref{tab:Effect-of-diabetes-formal-informal-probit}
+and Table \ref{tab:Effect-of-diabetes-formal-informal-Mlogit} in the Appendix), regardless
 of the estimation approach,  indicate that diabetes significantly
 reduces the chances of being in informal employment, while it has
 no effect on formal employment.\footnote{Please note, however, that the coefficients of the multinomial logit
@@ -736,7 +729,7 @@ with diabetes are less likely to be working in the informal labour
 market relative to being unemployed, while there is no difference
 for those working in the formal labour market. We further find no
 indication of endogeneity (see Tables \ref{tab:Impact-of-diabetes-informal-IV}
-and \ref{tab:Impact-of-diabetes-formal-IV}). Overall,
+and \ref{tab:Impact-of-diabetes-formal-IV} in the Appendix). Overall,
 there seem to be strong differences in terms of the impact of diabetes
 on people in formal and informal employment, with diabetes having
 a stronger negative effect for those without a written contract.
@@ -748,14 +741,14 @@ a stronger negative effect for those without a written contract.
 The contribution of this paper has been to analyse---for
 the first time for a \ac{LMIC}---the impact of diabetes on employment
 in Mexico, taking into account the potential endogeneity in the relationship
-between diabetes and employment chances. The presented results add
+between diabetes and employment probabilities. The presented results add
 to the growing literature on the adverse economic effects of diabetes.
 They indicate that having diabetes substantially reduces the chances
 to work for men and likely also for women. Hence, diabetes may contribute
 to a reduction in the pool of the productive workforce available to
 the Mexican economy. 
 
-We have also shown that diabetes reduces employment chances
+We have also shown that diabetes reduces employment probabilities
 particularly in older people, likely because in this age group people
 are more common to already have developed diabetes-related complications
 which reduce their productivity and eventually force them into unemployment.
@@ -765,7 +758,7 @@ half of the population. While there might be some self-selection into
 the poorer group by those who lost their job due to diabetes and as
 a result descended into the lower wealth group, this finding is indicative
 of potentially substantial adverse equity impacts. This is also in
-line with our finding that diabetes reduces employment chances particularly
+line with our finding that diabetes reduces employment probabilities particularly
 for the informally employed, whereas those in formal employment seem
 to be less affected. Nonetheless, in order to establish causality
 more research in this area will be needed. 
@@ -775,20 +768,20 @@ to be exogenous only for either males or females \parencite{Brown2005,Latif2009}
 our study found diabetes to be exogenous using the samples stratified
 into males and females, allowing the use of the more efficient probit
 model to arrive at a consistent estimate of the effect of diabetes
-on employment chances. Further, we found no endogeneity of diabetes
+on employment probabilities. Further, we found no endogeneity of diabetes
 for the sample comprised of the age group above the age of 44,  for
 the samples stratified into an upper and lower wealth half and for
 the samples stratified by employment type. For the younger age group
 the bivariate probit model only indicated exogeneity of diabetes for
-males, while for females diabetes was shown to be endogenous and showing
+males, while for females diabetes was shown to be endogenous and having
 a significant positive effect of diabetes on employment. This result
 is rather counterintuitive because there is no obvious reason why
-diabetes should increase employment chances. Because all samples stratified
+diabetes should increase employment probabilities. Because all samples stratified
 into age, wealth and employment groups suffered from reduced instrument
 strength which could cause biased \ac{IV} estimates, we used a method
 proposed by \textcite{Lewbel2012} to create additional instruments and
 increase instrument power. Using this method we no longer found a
-significant positive effect of diabetes on female employment chances
+significant positive effect of diabetes on female employment probabilities
 in the younger age group and could not reject the assumption of exogeneity
 of diabetes in this sample. Also, for all other wealth, age and employment
 samples, the Lewbel \ac{IV} method did not reject the assumption
@@ -824,7 +817,7 @@ systems and very different populations, such as \textcite{Latif2009}
 for Canada and \textcite{Minor2011} for women in the US, our results
 differ in that they do find effects for men and potentially also women. 
 
-While the results for women in the main analysis do not reach the levels of statistical significance that those for men do, the negative impact on women is supported by the subgroup analysis. When we take into account the lower overall female employment rates (31\%) compared to men (80\%), the absolute reduction in employment chances in women translates into a an even larger decrease in absolute levels of over 16\% compared to 12.5\% for men. This suggests that diabetes affects employment chances of both sexes were considerable.
+While the results for women in the main analysis do not reach the levels of statistical significance that those for men do, the negative impact on women is supported by the subgroup analysis. When we take into account the lower overall female employment rates (31\%) compared to men (80\%), the absolute reduction in employment probabilities in women translates into a an even larger relative decrease of over 16\% for women compared to 12.5\% for men. This suggests that diabetes has a considerable impact on employment probabilities of both men and women.
 
 A limitation of this study is the use of cross-sectional
 data, which does not allow for the use of fixed effects and hence
@@ -837,7 +830,7 @@ of the public health insurance scheme called Seguro Popular. This
 should be taken into account when interpreting our results as the
 effects might be different today, where most Mexicans have access
 to some sort of health insurance \parencite{Knaul2012}. The presented
-results rather show the effects of diabetes on employment chances
+results rather show the effects of diabetes on employment probabilities
 in 2005 in an environment were insufficient healthcare coverage was
 common for parts of the Mexican population. We nonetheless deliberately chose
 this particular data as it provided us with a sensible instrument
@@ -845,11 +838,11 @@ in parental diabetes as well as an array of other socioeconomic information
 which---as far as we have been able to ascertain---is not provided
 by any other dataset in \acp{LMIC}. Finally, due to data limitations,
 we were not able to investigate the relationship between diabetes
-duration and employment chances and how long it takes for an employment
+duration and employment probabilities and how long it takes for an employment
 penalty to develop. Recent research by \textcite{Minor2013} on the US
-has shown that the effect of diabetes on employment chances changes
-with the duration of diabetes and is strongest in the first five years
-after diagnosis for males, whereas for females a strong effect appears
+has shown that the effect of diabetes on employment probabilities changes
+with the duration of diabetes and is biggest in the first five years
+after diagnosis for males, whereas for females a effects appear
 only about 11--15 years after diagnosis.
 
 Looking ahead, it would evidently be worthwhile to investigate
@@ -859,16 +852,12 @@ Popular---which increased its coverage from about 10 million people
 in 2005 to over 50 million in 2012 and now provides almost all previously
 uninsured Mexicans with access to healthcare \parencite{Knaul2012}---the results of this paper might be used as a baseline to judge the
 success of Seguro Popular in reducing the adverse effects of diabetes
-on employment. In addition, the reasons for the differences between
-males and females in the estimated effects remain a matter of speculation
-and more research is needed to explore the underlying pathways. This
-information would be valuable in the design of more effective measures
-to reduce the negative effects of diabetes for both males and females.
+on employment.
 
 In conclusion, this paper shows that diabetes represents
 a large burden for people in Mexico and likely in other \acp{LMIC},
 not only due to the associated disease and medical cost burden but
-also because of its effect on employment chances. This is particularly
+also because of its effect on employment probabilities. This is particularly
 a problem for the poor who are more adversely affected by diabetes
 than the more affluent. To alleviate some of the negative effects
 of diabetes, Seguro Popular may provide an opportunity to further improve

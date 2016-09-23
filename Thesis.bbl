@@ -322,23 +322,25 @@
     \endentry
     \entry{Anderson1982}{article}{}
       \name{labelname}{2}{}{%
-        {{hash=3949e2677b3e475e7abd332d065489dc}{Anderson}{A\bibinitperiod}{T.\bibnamedelimi W.}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=ee25c64404dd6c49442acfae62165415}{Anderson}{A\bibinitperiod}{T.W.}{T\bibinitperiod}{}{}{}{}}%
         {{hash=62a106dad424617c612649e096a531e3}{Hsiao}{H\bibinitperiod}{Cheng}{C\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{hash=3949e2677b3e475e7abd332d065489dc}{Anderson}{A\bibinitperiod}{T.\bibnamedelimi W.}{T\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=ee25c64404dd6c49442acfae62165415}{Anderson}{A\bibinitperiod}{T.W.}{T\bibinitperiod}{}{}{}{}}%
         {{hash=62a106dad424617c612649e096a531e3}{Hsiao}{H\bibinitperiod}{Cheng}{C\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{1b77036ae58be2017eab1e650cd7fba4}
-      \strng{fullhash}{24a5af823acd3f61b6363db486fc251a}
+      \strng{namehash}{cd54ea395f1aca9f6071feca3c0c6737}
+      \strng{fullhash}{d2d49ab57daeeb1816530b716671268c}
       \field{sortinit}{A}
       \field{labelyear}{1982}
+      \field{labelmonth}{01}
       \field{datelabelsource}{}
       \field{labeltitle}{{Formulation and estimation of dynamic models using panel data}}
       \field{abstract}{This paper presents a statistical analysis of time series regression models for longitudinal data with and without lagged dependent variables under a variety of assumptions about the initial conditions of the processes being analyzed. The analysis demonstrates how the asymptotic properties of estimators of longitudinal models are critically dependent on the manner in which samples become large: by expanding the number of observations per person, holding the number of people fixed, or by expanding the number of persons, holding the number of observations per person fixed. The paper demonstrates which parameters can and cannot be identified from data produced by different sampling plans. © 1982.}
       \field{isbn}{0304-4076}
       \field{issn}{03044076}
       \field{journaltitle}{Journal of Econometrics}
+      \field{month}{01}
       \field{number}{1}
       \field{title}{{Formulation and estimation of dynamic models using panel data}}
       \field{volume}{18}
@@ -349,6 +351,9 @@
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Anderson, Hsiao - 1982 - Formulation and estimation of dynamic models using panel data.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/0304407682900951
       \endverb
     \endentry
     \entry{Angrist2009a}{book}{}
@@ -648,6 +653,51 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Arredondo, Zúñiga - 2004 - Economic consequences of epidemiological changes in diabetes in middle-income countries the Mexican case.pdf:pdf
       \endverb
       \keyw{*diabetes mellitus/dm [Disease Management],*diabetes mellitus/ep [Epidemiology],Costs and Cost Analysis,Diabetes Mellitus,Humans,I,Mexico,all,article,comparative study,cost benefit analysis,cost of illness,developing country,download,economic aspect,embase,evaluation,extracted,health care cost,health care management,health care system,health service,human,included,middle income country,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Asche2011}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=0a28c025d2a65fd62e94e8b7e74998b0}{Asche}{A\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9ea03aac1916349c25bf5820ede8c2e0}{LaFleur}{L\bibinitperiod}{Joanne}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=729cbf5ee80b4b025c8cd01ed6cc111a}{Conner}{C\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0a28c025d2a65fd62e94e8b7e74998b0}{Asche}{A\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9ea03aac1916349c25bf5820ede8c2e0}{LaFleur}{L\bibinitperiod}{Joanne}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=729cbf5ee80b4b025c8cd01ed6cc111a}{Conner}{C\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {C. Asche, Department of Pharmacotherapy, 421 Wakara Way, Suite 208, Salt Lake City, UT 84108, United States. E-mail: carl.asche@pharm.utah.edu}%
+      }
+      \list{publisher}{1}{%
+        {Excerpta Medica Inc. (105 Raider Blvd, Suite 101, Hillsborough NJ 08844, United States)}%
+      }
+      \strng{namehash}{4e8669b3ecbe9eab3e2f7193ed2eb430}
+      \strng{fullhash}{b8d0d71078f58620f59211e9b47757ad}
+      \field{sortinit}{A}
+      \field{labelyear}{2011}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{A Review of Diabetes Treatment Adherence and the Association with Clinical and Economic Outcomes}}
+      \field{abstract}{Background: The benefits of drug therapy to diabetic patients in terms of glycemic control, microvascular complications, cardiovascular event risk, mortality, and quality of life have been well established by clinical trial data. However, it has been a challenge to quantify the relationship between adherence and outcomes such as glycemic control, disease-related events, hospitalizations, cost, and quality of life. Objective: This article provides a comprehensive summary of empirical studies that examine the associations between adherence and glycemic control, health care utilization, quality of life, and mortality in patients with diabetes. It is intended to provide a framework for researchers interested in conducting studies to improve their understanding of the value of medication adherence for patients with diabetes. Methods: Relevant published articles were identified through searches of the National Center for Biotechnology PubMed database. Medical subject heading (MESH) terms diabetes mellitus, hypoglycemic agents, and insulin, were each combined with the MESH term medication adherence and with the subheadings economics, prevention and control, psychology, statistics and numerical data, therapy, adverse effects, therapeutic use, and administration and dosage, where available. Studies were included if they met the following criteria: (1) analyzed empirical data on some measure of patient adherence to diabetes pharmacotherapy; (2) described methods for measuring patient adherence; (3) evaluated economic, clinical, or humanistic outcomes related to diabetes; and (4) had as a goal of the research to evaluate the link between patient adherence and outcomes (as a primary or secondary objective). The data from the articles meeting these criteria were then abstracted, including mention of the specific interventions being compared, specific methods for measuring adherence, outcomes compared between adherent and nonadherent patients and how these outcomes were measured, and information on variables that were adjusted for in predictive and causal multivariable models. Results: A total of 37 articles that met all 4 criteria in this review underwent data extraction. Of these studies, 22 (59{\%}) used objective measures to assess adherence, with 1 study using pill counts to assess adherence and 21 using either pharmacy claims or similar refill records to assess refill behavior. The remaining 15 (41{\%}) studies used a wide variety of subjective patient-reported adherence assessments. The majority (13/23 [57{\%}]) of the glycemic control studies reported that improved adherence was associated with better glycemic control. The ability to draw a distinction between adherence and glycemic control tended to occur more frequently [7/9 (78{\%})] among studies that characterized adherence in terms of prescription refills compared with studies that used various constructs for patient-reported adherence measures. Conclusions: Based on the literature, better adherence was found to be associated with improved glycemic control and decreased health care resource utilization. There was no consistent association between improved adherence and decreased health care costs. Little data were available on the association between adherence and quality of life. 2011 Elsevier HS Journals, Inc.}
+      \field{isbn}{0149-2918}
+      \field{issn}{01492918}
+      \field{journaltitle}{Clinical Therapeutics}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{A Review of Diabetes Treatment Adherence and the Association with Clinical and Economic Outcomes}}
+      \field{volume}{33}
+      \field{year}{2011}
+      \field{pages}{74\bibrangedash 109}
+      \verb{doi}
+      \verb 10.1016/j.clinthera.2011.01.019
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/1-s2.0-S014929181100066X-main.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/21397776%20http://ovidsp.ovid.com/ovidweb.cgi?T=JS%7B%5C&%7DPAGE=reference%7B%5C&%7DD=emed10%7B%5C&%7DNEWS=N%7B%5C&%7DAN=2011142727%20http://linkinghub.elsevier.com/retrieve/pii/S014929181100066X
+      \endverb
+      \keyw{NC,embase2,excludestudy,newsearch,pubmed}
     \endentry
     \entry{Attard2012}{article}{}
       \name{labelname}{6}{}{%
@@ -6921,22 +6971,27 @@
       \strng{fullhash}{602e867f4abdc632f3f7cb4267f16254}
       \field{sortinit}{N}
       \field{labelyear}{1981}
+      \field{labelmonth}{11}
       \field{datelabelsource}{}
-      \field{labeltitle}{{Biases in dynamic panel models with fixed effects}}
+      \field{labeltitle}{{Biases in Dynamic Models with Fixed Effects}}
       \field{abstract}{It is well known from the Monte-Carlo work of Nerlove that using the standard within-group estimator for dynamic models with fixed individual effects generates estimates which are inconsistent as the number of "individuals" tends to infinity if the number of time periods is kept fixed. In this paper we present analytical expression for these inconsistencies for the first order regressive case.}
       \field{isbn}{00129682}
       \field{issn}{00129682}
       \field{journaltitle}{Econometrica}
+      \field{month}{11}
       \field{number}{6}
-      \field{title}{{Biases in dynamic panel models with fixed effects}}
+      \field{title}{{Biases in Dynamic Models with Fixed Effects}}
       \field{volume}{49}
       \field{year}{1981}
-      \field{pages}{1417\bibrangedash 1426}
+      \field{pages}{1417}
       \verb{doi}
       \verb 10.2307/1911408
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Nickell - 1981 - Biases in dynamic panel models with fixed effects.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1911408?origin=crossref
       \endverb
     \endentry
     \entry{Nolan2006c}{article}{}
@@ -7334,6 +7389,42 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Pan et al. - 1997 - Effects of Diet and Exercise in Preventing NIDDM in People With Impaired Glucose Tolerance The Da Qing IGT and Diabe.pdf:pdf
       \endverb
     \endentry
+    \entry{Peel2004}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=c6d1e15c21db3d7ec9dc46447b7aef69}{Peel}{P\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=31d104f87103ec13bc9ac2fd4fd32f44}{Parry}{P\bibinitperiod}{Odette}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=b57740543cfcacd4f7d05b6e7629c5d9}{Douglas}{D\bibinitperiod}{Margaret}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0228f68b4229dcfd97d533c6637b6299}{Lawton}{L\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=c6d1e15c21db3d7ec9dc46447b7aef69}{Peel}{P\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=31d104f87103ec13bc9ac2fd4fd32f44}{Parry}{P\bibinitperiod}{Odette}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=b57740543cfcacd4f7d05b6e7629c5d9}{Douglas}{D\bibinitperiod}{Margaret}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0228f68b4229dcfd97d533c6637b6299}{Lawton}{L\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d4b7e97bf8d78518eaed3db6cf2e35ab}
+      \strng{fullhash}{17a3094e744ceed40695ed18ba0b6d69}
+      \field{sortinit}{P}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diagnosis of type 2 diabetes: A qualitative analysis of patients' emotional reactions and views about information provision}}
+      \field{abstract}{Research about diagnosis of chronic illness indicates this is an emotional time for patients. Information provision is especially salient for diabetes management. Yet current orthodoxy suggests that too much information at the time of diagnosis is unhelpful for patients. In this study, we used in-depth interviews with 40 newly diagnosed type 2 diabetic (T2DM) patients in Scotland, to explore their emotional reactions about diagnosis, and their views about information provision at the time of diagnosis. Data were analysed using a thematic approach. Our results showed three main 'routes' to diagnosis: 'suspected diabetes' route; 'illness' route; and 'routine' route. Those within the 'routine' route described the most varied emotional reactions to their diagnosis. We found that most patients, irrespective of their route to diagnosis, wanted more information about diabetes management at the time of diagnosis. We suggest that practitioners would benefit from being sensitive to the route patients follow to diagnosis, and prompt, simple but detailed advice about T2DM management would be helpful for newly diagnosed patients. © 2004 Elsevier Ireland Ltd. All rights reserved.}
+      \field{isbn}{0738-3991}
+      \field{issn}{07383991}
+      \field{journaltitle}{Patient Education and Counseling}
+      \field{number}{3}
+      \field{title}{{Diagnosis of type 2 diabetes: A qualitative analysis of patients' emotional reactions and views about information provision}}
+      \field{volume}{53}
+      \field{year}{2004}
+      \field{pages}{269\bibrangedash 275}
+      \verb{doi}
+      \verb 10.1016/j.pec.2003.07.010
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Peel et al. - 2004 - Diagnosis of type 2 diabetes A qualitative analysis of patients' emotional reactions and views about information pr.pdf:pdf
+      \endverb
+      \keyw{Diagnosis,Emotion,General practitioner,Information,Primary care,Type 2 diabetes}
+    \endentry
     \entry{Peele2002a}{article}{}
       \name{labelname}{3}{}{%
         {{hash=36981f473ecfa67f12f0fd2ea5e1052f}{Peele}{P\bibinitperiod}{Pamela\bibnamedelima B}{P\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
@@ -7551,6 +7642,36 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Peters, Huxley, Woodward - 2014 - Diabetes as risk factor for incident coronary heart disease in women compared with men A systematic re.pdf:pdf
       \endverb
       \keyw{Coronary heart disease,Diabetes,Meta-analysis,Risk factors,Sex differences,Systematic review}
+    \endentry
+    \entry{Pibernik-Okanovic1996}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=8ba2b05b80ac4fd7efd4bd0f726f1f6b}{Pibernik-Okanović}{P\bibinithyphendelim O\bibinitperiod}{Mirjana}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f42e9ffd8cd7648253e812eb5299a8b4}{Roglić}{R\bibinitperiod}{Gojka}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6b7723760b8e882f1e1abbfc59b4efb6}{Prasek}{P\bibinitperiod}{Manja}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=61340f6861e3aa9160c11665b70406bd}{Metelko}{M\bibinitperiod}{Zeljko}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=8ba2b05b80ac4fd7efd4bd0f726f1f6b}{Pibernik-Okanović}{P\bibinithyphendelim O\bibinitperiod}{Mirjana}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f42e9ffd8cd7648253e812eb5299a8b4}{Roglić}{R\bibinitperiod}{Gojka}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=6b7723760b8e882f1e1abbfc59b4efb6}{Prasek}{P\bibinitperiod}{Manja}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=61340f6861e3aa9160c11665b70406bd}{Metelko}{M\bibinitperiod}{Zeljko}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3651b28991ae94bf6ae82606203d4a38}
+      \strng{fullhash}{ea0fdd4ad084c540a95ea35f9e635f78}
+      \field{sortinit}{P}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Emotional adjustment and metabolic control in newly diagnosed diabetic persons}}
+      \field{journaltitle}{Diabetes Research and Clinical Practice}
+      \field{number}{2}
+      \field{title}{{Emotional adjustment and metabolic control in newly diagnosed diabetic persons}}
+      \field{volume}{34}
+      \field{year}{1996}
+      \field{pages}{99\bibrangedash 105}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Pibernik-Okanović et al. - 1996 - Emotional adjustment and metabolic control in newly diagnosed diabetic persons.pdf:pdf
+      \endverb
+      \keyw{emotional adjustment,glycemic control,non-insulin-dependent}
     \endentry
     \entry{Pohar2007a}{article}{}
       \name{labelname}{2}{}{%
@@ -9995,6 +10116,50 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Vijan, Hayward, Langa - 2001 - The Impact of Diabetes on Workforce Participation Results from a National Household Sample.pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Vijan, Hayward, Langa - 2004 - The impact of diabetes on workforce participation results from a national household sample.pdf:pdf
       \endverb
       \keyw{Chronic Disease,Cohort Studies,Cost of Illness,Cross-Sectional Studies,Diabetes Mellitus,Diabetes Mellitus: economics,Diabetes Mellitus: physiopathology,Disabled Persons,Efficiency,Employment,Female,Health Services Research,Health Status Indicators,Humans,Longitudinal Studies,Male,Middle Aged,United States,United States: epidemiology,all,download,duplicates,econlit,embase,embase2,extracted,included,newsearch,oldsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{vijan2005}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=739d59233823c466a32fff7ca625e739}{Vijan}{V\bibinitperiod}{Sandeep}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7a6f12c75da111d4470102313b0dfc2a}{Hayward}{H\bibinitperiod}{Rodney\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ff9d6f3ef388a56379747fd5a3d2f55f}{Ronis}{R\bibinitperiod}{David\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6a1de6ae6b60b3818870e9dfef874970}{Hofer}{H\bibinitperiod}{Timothy\bibnamedelima P}{T\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=739d59233823c466a32fff7ca625e739}{Vijan}{V\bibinitperiod}{Sandeep}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7a6f12c75da111d4470102313b0dfc2a}{Hayward}{H\bibinitperiod}{Rodney\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ff9d6f3ef388a56379747fd5a3d2f55f}{Ronis}{R\bibinitperiod}{David\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=6a1de6ae6b60b3818870e9dfef874970}{Hofer}{H\bibinitperiod}{Timothy\bibnamedelima P}{T\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{01bbdbb528140f70c208e650d9a7b716}
+      \strng{fullhash}{9d6489b2acbc93f908baf2fb214b02cb}
+      \field{sortinit}{V}
+      \field{labelyear}{2005}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{BRIEF REPORT: The burden of diabetes therapy}}
+      \field{abstract}{BACKGROUND: Management of diabetes, and in particular blood glucose, can be complex and burdensome.$\backslash$n$\backslash$nOBJECTIVE: To evaluate patient views of the burdens of therapy and its impact on self-management.$\backslash$n$\backslash$nPATIENTS: Veteran patients with type 2 diabetes.$\backslash$n$\backslash$nDESIGN: Mailed survey.$\backslash$n$\backslash$nMEASUREMENTS: Patients described their views of the burden of diabetes treatments, adherence, and clinical and demographic status. Factors associated with ratings of burden and adherence to therapy were examined using multivariate regression methods.$\backslash$n$\backslash$nRESULTS: The response rate was 67{\%} (n=1,653). Patients viewed pills as the least burdensome treatment and insulin as the most burdensome. Ratings of the burden of insulin were lower if a patient had prior experience with therapy. Adherence to prescribed therapy varied substantially; for example, patients followed medication recommendations more closely than other areas of self-management. Multivariate analyses showed that the main predictor of adherence was patients' ratings of the burden of therapy.$\backslash$n$\backslash$nCONCLUSIONS: Injected insulin regimens are viewed as highly burdensome by patients, although this burden is attenuated by experience. Adherence to self-management is strongly and independently correlated with views of treatment burden. The burden of diabetes-related treatments may be a source of suboptimal glucose control seen in many care settings. Providers should consider the burden of treatment for a particular patient and its impact on adherence as part of a decision-making process to design effective treatment regimens.}
+      \field{isbn}{0884-8734}
+      \field{issn}{0884-8734}
+      \field{journaltitle}{Journal of General Internal Medicine}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{{BRIEF REPORT: The burden of diabetes therapy}}
+      \field{volume}{20}
+      \field{year}{2005}
+      \field{pages}{479\bibrangedash 482}
+      \verb{doi}
+      \verb 10.1111/j.1525-1497.2005.0117.x
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Vijan et al. - 2005 - BRIEF REPORT The burden of diabetes therapy.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1490106%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract%20http://link.springer.com/10.1111/j.1525-1497.2005.0117.x
+      \endverb
+      \keyw{Aged,Diabetes Mellitus,Female,Health Care Surveys,Humans,Male,Middle Aged,Multivariate Analysis,Patient Compliance,Patient Compliance: statistics {\&} numerical data,Self Care,Self Care: statistics {\&} numerical data,Type 2,Type 2: psychology,Type 2: therapy,United States,Veterans}
     \endentry
     \entry{Villalpando2010}{article}{}
       \name{labelname}{8}{}{%

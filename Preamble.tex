@@ -41,11 +41,12 @@
 \usepackage{lipsum}
 \usepackage[flushleft]{threeparttable}  %adds notes to tables
 \usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
-\appto\TPTnoteSettings{\footnotesize}
+%\appto\TPTnoteSettings{\footnotesize}
 \usepackage{caption}
 \usepackage{chngcntr} %esnures running table numbers
 \counterwithout{table}{chapter}
 \counterwithout{figure}{chapter}
+\counterwithout{equation}{chapter}
 %fix problem with narrower table once using caption inside tabularx environment as suggested in last response here http://www.latex-community.org/forum/viewtopic.php?f=45&p=39951
 
 \makeatletter
@@ -71,6 +72,7 @@ backend=biber, uniquename=false, firstinits=true,
 url=false,
 doi=false,
 isbn=false]{biblatex}
+
 \DeclareNameAlias{sortname}{last-first}
 \DeclareFieldFormat{pages}{#1}%
 \renewcommand*{\nameyeardelim}{\addcomma\space} %adds comma between name and years in citations
@@ -100,7 +102,10 @@ isbn=false]{biblatex}
   {\usebibmacro{postnote}}
 \addbibresource{/home/till/Dokumente/BibTex/Second_Mexico_paper-Article.bib}
 \addbibresource{/home/till/Dokumente/BibTex/Thesis.bib}
-%\usepackage[authoryear]{natbib}
+
+%have it say References instead of Bibliography in TOC
+\DefineBibliographyStrings{english}{bibliography = {References},
+}
 
 %\nobibliography*
 %limiting tables to only float within section

@@ -1,6 +1,6 @@
 
 
-\section{Appendix to Chapter \ref{cha:intro}}
+\chapter{Appendix to Chapter \ref{cha:intro}}
 
 \begin{landscape}
 \footnotesize{
@@ -43,10 +43,10 @@ Russia Longitudinal Monitoring Survey (RLMS) & Russia & Panel & 15 & 1994-2011 &
 \end{landscape}
 
 
-\section{Appendix to Chapter \ref{cha:review}}
+\chapter{Appendix to Chapter \ref{cha:review}}
 
 
-\section*{What is endogeneity?}
+\section*{\label{sec:appendix_endogeneity}What is endogeneity?}
 Endogeneity is a statistical problem that occurs in regression models if the assumptions about the flow or direction of causality are incorrect. If endogeneity is ignored, it could be that claims about causality between two variables or the magnitude of the effect are false. In general, one can only be certain about a causal relationship of the effect of x on y if the following three conditions are met \parencite{Antonakis2012}:
 
 \begin{itemize}
@@ -59,11 +59,11 @@ There are three major causes of endogeneity that violate the conditions above.
 
 \begin{enumerate}
 
-\item 	Omitted variables
-When a regression is run to determine the causal effect of variable x on variable y, but there are unobserved variables that affect variables x or x and y simultaneously, the estimated effect of x on y will be biased. For the case of type 2 diabetes and employment chances, there is the danger that, e.g., personal traits like ambition, which are hard to observe, could influence the probability of developing type 2 diabetes through their effect on a person's lifestyle, but they could also simultaneously affect the chances of employment through their influence on a person's determination to find work or to perform well at work. If we are not able to control for this, then our estimate of the effect of diabetes on employment chances might, at least partially, represent the effect of personal traits on employment chances. As a result, our estimate of the effect of diabetes is biased and does not represent the true size of the relationship between the two variables.
-\item 	Simultaneity
-Simultaneity is present if our outcome variable y and our variable of interest x influence each other simultaneously, so that y not only is affected by x but x is also affected by y. In the case of type 2 diabetes and labour market outcomes, not only diabetes could influence employment chances or work related income, but also resulting changes in lifestyle due to employment or an increase in income could affect the probabilities of developing diabetes. Due to an increase in income people could change their diet or change towards a less active lifestyle which in turn would make them more likely to develop type 2 diabetes.
-\item 	Measurement error
+\item \textbf{Omitted variables}
+When a regression is run to determine the causal effect of variable x on variable y, but there are unobserved variables that affect variables x or x and y simultaneously, the estimated effect of x on y will be biased. For the case of type 2 diabetes and employment probabilities, there is the danger that, e.g., personal traits like ambition, which are hard to observe, could influence the probability of developing type 2 diabetes through their effect on a person's lifestyle, but they could also simultaneously affect the chances of employment through their influence on a person's determination to find work or to perform well at work. If we are not able to control for this, then our estimate of the effect of diabetes on employment probabilities might, at least partially, represent the effect of personal traits on employment probabilities. As a result, our estimate of the effect of diabetes is biased and does not represent the true size of the relationship between the two variables.
+\item \textbf{Simultaneity}
+Simultaneity is present if our outcome variable y and our variable of interest x influence each other simultaneously, so that y not only is affected by x but x is also affected by y. In the case of type 2 diabetes and labour market outcomes, not only diabetes could influence employment probabilities or work related income, but also resulting changes in lifestyle due to employment or an increase in income could affect the probabilities of developing diabetes. Due to an increase in income people could change their diet or change towards a less active lifestyle which in turn would make them more likely to develop type 2 diabetes.
+\item \textbf{Measurement error}
 Measurement errors occur when the independent variable x is imprecisely measured. Here this would be the case if people in a survey did not remember if they have been diagnosed with type 2 diabetes and gave a wrong answer.
 \end{enumerate}
 
@@ -74,7 +74,7 @@ There are several solutions to the problem of endogeneity, but only using \ac{IV
 \end{itemize}
 This instrument is then used in a first regression to obtain predicted values of the problematic endogenous regressor. Because the instrument is not correlated with the error term, these predicted values of the endogenous variable will be uncorrelated as well and can then be used in a second regression to predict the dependent variable y. The estimated coefficients of this second stage can then be regarded as consistent estimates.
 
-In the case of type 2 diabetes and labour market outcomes, an instrument has to predict the development of diabetes without being otherwise causally related to any of the labour market outcomes, be it employment chances, wages or some other measure of productivity. The instrument of choice so far has been the family history of diabetes. It has been shown that a considerable part of the risk of developing type 2 diabetes is hereditary \parencite{Herder2011,Hemminki2010,TheInteractConsortium2013}. This fact is exploited when the instrument is used and it is assumed that this is the only pathway through which a family history of diabetes affects a person's diabetes risk, and also that, e.g., parental diabetes does not affect the person's labour market outcomes directly.
+In the case of type 2 diabetes and labour market outcomes, an instrument has to predict the development of diabetes without being otherwise causally related to any of the labour market outcomes, be it employment probabilities, wages or some other measure of productivity. The instrument of choice so far has been the family history of diabetes. It has been shown that a considerable part of the risk of developing type 2 diabetes is hereditary \parencite{Herder2011,Hemminki2010,TheInteractConsortium2013}. This fact is exploited when the instrument is used and it is assumed that this is the only pathway through which a family history of diabetes affects a person's diabetes risk, and also that, e.g., parental diabetes does not affect the person's labour market outcomes directly.
 
 The most common estimation techniques for the estimation of \ac{IV} regressions are the linear \ac{IV} model and the bivariate probit model. The latter is often deemed more apt for models where both the outcome as well as the instrumental variable are binary, so either 0 or 1, which is the case for employment as an outcome variable as well as diabetes family history as an instrument. Nonetheless, there is some discussion in the econometrics literature regarding the best method to estimate these cases, as it also has been argued that because the linear \ac{IV} technique does not depend on the assumption of normality of the error terms, in contrast to the bivariate probit model, its results are more reliable in the case of non-normality, but can sometimes lead to imprecise estimators which can no longer be interpreted meaningfully \parencite{Chiburis2012}. Both methods can be found in the reviewed papers.
 
@@ -252,7 +252,7 @@ Ref. & Horizon & Country & Sample size & Population & Perspective & Approach & L
 \textcite{Barcelo2003} & 2000 & VEN & 610800 & General pop. & Societal & SAM & VEF & 4820 & 317 & 4503\textsuperscript{b} & 342\textsuperscript{a} & 518\textsuperscript{a} & 2100\textsuperscript{a} & 7373\textsuperscript{a} \\
 \textcite{Kirigia2009} & 2005 & WHO African region & 7020000 & General pop. & societal & SAM & USD & 28610 & 9090 & 19520 & 876 & 983 & 10556 & 11845\\
 \bottomrule
-\multicolumn{15}{l}{\tiny DM Diabetes Mellitus Healthc. System Healthcare system LCU Local currency unit Pop. Population Prev. Prevalence Ref. Reference RB/M regression based/matching SAM Sum-all medical SDS}\\
+\multicolumn{15}{l}{\tiny \textit{T2D} type 2 diabetes \textit{DM} Diabetes Mellitus \textit{Healthc. System} Healthcare system \textit{LCU} Local currency unit \textit{Pop.} Population \textit{Prev.} Prevalence \textit{Ref.} Reference \textit{RB/M} regression based/matching \textit{SAM} Sum-all medical \textit{SDS}}\\
 \multicolumn{15}{l}{\tiny Sum-diagnosis specific.}\\
 \multicolumn{15}{l}{\tiny \textsuperscript{b}  \textsuperscript{a} Own calculation dividing presented aggregate cost estimate by number of people with diabetes in study. Total and direct cost estimates were presented in paper and indirect costs calculated,}\\
 \multicolumn{15}{l}{\tiny  but not explicitly stated. We calculated indirect costs by deducting the presented direct costs estimate from the presented total costs estimate to arrive at an indirect costs estimate.}\\
@@ -344,16 +344,16 @@ Ref.     & Country (year of cost data) & Hospital Visits                        
 \textcite{Ramsey2002a} & USA (1998)                  & x                                                                                  & x                 & x                & x     & x          & x         &             & x           & Inpatient, outpatient                                                                           \\
 \textcite{Buescher2010} & USA (1998)                  & x                                                                                  & x                 & x                & x     & x          & x         & x           & x           & Physician visits, hospital                                                                      \\
 \textcite{Dall2003a} & USA (1998-2000)             & x                                                                                  & x                 & x                & x     & x          & x         &             &             & Institutional care (nursing home stays, hospital), outpatient care                              \\
-\textcite{Druss2001} & USA (1996)                  & \multicolumn{9}{c}{No breakdown of costs provided. Only self reported healthcare cost estimate. }\\
+\textcite{Druss2001} & USA (1996)                  & \multicolumn{9}{c}{No breakdown of costs provided. Only self-reported healthcare cost estimate. }\\
 \textcite{Durden2009b} & USA (2000, 2005)            & x                                                                                  & x                 & x                & x     & x          & x         &             &             & Hospital, outpatient services                                                                   \\
-\textcite{Trogdon2008a} & USA (2000-2004)             & \multicolumn{9}{c}{No breakdown of costs provided. Only self reported healthcare cost estimate. }\\
+\textcite{Trogdon2008a} & USA (2000-2004)             & \multicolumn{9}{c}{No breakdown of costs provided. Only self-reported healthcare cost estimate. }\\
 \textcite{Brandle2003d} & USA (2000-2001)             & x                                                                                  & x                 &                  & x     & x          &           &             &             & No exact information on share in expenditures is available                                      \\
 \textcite{Oconnell2012} & USA (2004-2005)             & x                                                                                  & x                 & x                &       &            &           &             &             & Hospital, medication                                                                            \\
 \textcite{Peele2002a} & USA (1996)                  & x                                                                                  & x                 & x                &       & x          &           &             &             & No exact information on share in expenditures available                                         \\
 \textcite{Rodbard2010b} & USA (2006)                  &\multicolumn{9}{c}{No breakdown of costs provided.} \\
 \textcite{Honeycutt2009a} & USA (1998-2003)             & x                                                                                  & x                 & x                & x     & x          & x         &             &             & No exact information on share in expenditures available                                         \\
 \textcite{Maciejewski2004} & USA (1998)                  & x                                                                                  & x                 &                  &       &            &           &             &             & Hospital                                                                                        \\
-\textcite{Birnbaum2003c} & USA (1997-1998)             & \multicolumn{9}{c}{No breakdown of costs provided. Only self reported healthcare cost estimate. }\\
+\textcite{Birnbaum2003c} & USA (1997-1998)             & \multicolumn{9}{c}{No breakdown of costs provided. Only self-reported healthcare cost estimate. }\\
 \textcite{Zhou2005a} & USA (2000)                  & x                                                                                  & x                 & x                & x     & x          & x         &             &             & No exact information on share in expenditures available                                         \\
 \textcite{AmericalDiabetesAssociation2008} & USA (2006)                  & x                                                                                  & x                 & x                &       &            &           &             &             & Hospital, medication                                                                            \\
 \textcite{Tunceli2010c} & USA (2006-2007)             & x                                                                                  & x                 & x                &       &            &           &             &             & Hospital, medication                                                                            \\
@@ -367,10 +367,10 @@ Ref.     & Country (year of cost data) & Hospital Visits                        
 
 
 
-\section{Appendix to Chapter \ref{cha:Mex1}}
+\chapter{Appendix to Chapter \ref{cha:Mex1}}
 
 
-\subsection{\label{sec:Lewbel-and-linear}Linear IV estimates (1st and 2nd stage)}
+\subsection*{\label{sec:Lewbel-and-linear}Linear IV estimates (1st and 2nd stage)}
 
 
 \begin{landscape}
@@ -385,7 +385,7 @@ employment probabilities (linear IV, 1st and 2nd stage)}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{4}{c}{linear IV male}                       &\multicolumn{4}{c}{linear IV female}                     \\\cmidrule(lr){2-5}\cmidrule(lr){6-9}           &\multicolumn{2}{c}{(1)}     &\multicolumn{2}{c}{(2)}     &\multicolumn{2}{c}{(3)}     &\multicolumn{2}{c}{(4)}     \\           &\multicolumn{2}{c}{Diabetes}&\multicolumn{2}{c}{Employed}&\multicolumn{2}{c}{Diabetes}&\multicolumn{2}{c}{Employed}\\ \midrule Age 25--34&    -.001         &   (.005)&     .151\sym{***}&   (.015)&     .003         &   (.005)&     .111\sym{***}&   (.015)\\ Age 35--44&     .016\sym{*}  &   (.009)&     .154\sym{***}&   (.019)&     .032\sym{***}&   (.008)&     .198\sym{***}&   (.017)\\ Age 45--54&     .081\sym{***}&   (.014)&     .098\sym{***}&   (.028)&     .108\sym{***}&   (.014)&     .122\sym{***}&   (.028)\\ Age 55--64&     .101\sym{***}&   (.016)&    -.052         &   (.039)&     .198\sym{***}&   (.021)&     .001         &   (.040)\\ Small city&     .001         &   (.010)&    -.010         &   (.019)&    -.005         &   (.011)&     .034\sym{**} &   (.017)\\ City      &     .014         &   (.014)&    -.041\sym{**} &   (.020)&    -.009         &   (.013)&     .032\sym{*}  &   (.019)\\ Big city  &     .008         &   (.008)&     .027\sym{*}  &   (.014)&    -.004         &   (.009)&     .093\sym{***}&   (.013)\\ Central   &     .011         &   (.011)&     .024         &   (.017)&     .015         &   (.011)&    -.035\sym{**} &   (.017)\\ Westcentral&    -.002         &   (.010)&     .021         &   (.017)&    -.002         &   (.010)&    -.006         &   (.018)\\ Northeastcentral&     .007         &   (.012)&     .005         &   (.017)&     .009         &   (.012)&    -.051\sym{***}&   (.017)\\ Northwestcentral&    -.006         &   (.009)&    -.033\sym{**} &   (.017)&     .007         &   (.011)&    -.095\sym{***}&   (.017)\\ Primary   &    -.009         &   (.020)&     .060\sym{**} &   (.027)&     .017         &   (.018)&    -.011         &   (.019)\\ Secondary &    -.003         &   (.020)&     .056\sym{*}  &   (.030)&    -.005         &   (.018)&     .052\sym{**} &   (.021)\\ Highschool&    -.027         &   (.020)&     .045         &   (.031)&    -.008         &   (.020)&     .117\sym{***}&   (.026)\\ College or university&    -.018         &   (.023)&     .057\sym{*}  &   (.032)&    -.028         &   (.020)&     .291\sym{***}&   (.025)\\ Indigenous&     .009         &   (.010)&     .005         &   (.017)&     .012         &   (.013)&    -.006         &   (.018)\\ Married   &     .015\sym{**} &   (.007)&     .086\sym{***}&   (.012)&    -.002         &   (.007)&    -.216\sym{***}&   (.011)\\ Children (under 15)&    -.005\sym{**} &   (.002)&     .010\sym{**} &   (.004)&     .003         &   (.002)&    -.016\sym{***}&   (.004)\\ Wealth    &     .003         &   (.004)&    -.001         &   (.007)&     .003         &   (.004)&     .030\sym{***}&   (.006)\\ Parental education&     .019\sym{**} &   (.009)&    -.010         &   (.013)&     .014         &   (.009)&    -.001         &   (.011)\\ Diabetes father&     .068\sym{***}&   (.020)&                  &         &     .035\sym{**} &   (.014)&                  &         \\ Diabetes mother&     .043\sym{***}&   (.016)&                  &         &     .055\sym{***}&   (.013)&                  &         \\ Diabetes  &                  &         &     .098         &   (.215)&                  &         &     .239         &   (.214)\\ Constant  &    -.015         &   (.022)&     .607\sym{***}&   (.036)&    -.020         &   (.021)&     .289\sym{***}&   (.027)\\ \midrule R2        &     .075         &         &     .067         &         &     .090         &         &     .120         &         \\ F stat (H0: weak instruements)&                  &         &   20.483         &         &                  &         &   27.706         &         \\ Sargan test (H0: valid instruments)&              &         &     .862         &         &            &         &     .295         &         \\ \hspace{10 mm}p value&                  &         &     .353         &         &                  &         &     .587         &         \\ Endogeneity (H0: Diabetes exogenous)&                  &         &     .864         &         &                  &         &    1.796         &         \\ \hspace{10 mm}p value&                  &         &     .353         &         &                  &         &     .180         &         \\ N         &     6228         &         &     6286         &         &     8186         &         &     8243         &         \\ \bottomrule
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes} Robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father. Other control variables: age, region, urban, education, indigenous marital status, children, wealth, parental education.
+\item \footnotesize \textit{Notes} Robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father. Other control variables: age, region, urban, education, indigenous marital status, children, wealth, parental education.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -397,7 +397,7 @@ employment probabilities (linear IV, 1st and 2nd stage)}
 \clearpage
 
 
-\subsection{Results for older age groups}
+\subsection*{Results for older age groups}
 
 
 \begin{table}[p]
@@ -410,7 +410,7 @@ employment probabilities by age groups older than 44 (probit)}
 
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{45-54}            &\multicolumn{2}{c}{55-64}            \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &    -.083\sym{*}  &    -.076\sym{**} &    -.128\sym{**} &    -.033         \\           &   (.048)         &   (.034)         &   (.056)         &   (.039)         \\ \midrule Log likelihood& -451.544         & -764.722         & -458.632         & -392.174         \\ N         &     1101         &     1399         &      770         &      847         \\ \bottomrule \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -423,31 +423,7 @@ employment probabilities by age groups older than 44 (probit)}
 \clearpage
 
 
-\subsection{Results for wealth quartiles}
-\begin{landscape}
-\begin{table}[p]
-\protect\caption{\label{tab:Impact-of-diabetes-wealth-quartile}Impact of diabetes
-on employment probabilities by wealth quartile (probit)}
-\begin{center}
-\begin{adjustbox}{max width=\linewidth, center}
-\begin{threeparttable}
-
-{ \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{8}{S S}} \toprule           &\multicolumn{2}{c}{1st}              &\multicolumn{2}{c}{2nd}              &\multicolumn{2}{c}{3rd}              &\multicolumn{2}{c}{4th}              \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(lr){8-9}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}&\multicolumn{1}{c}{(7)}&\multicolumn{1}{c}{(8)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &    -.142\sym{*} &    -.101\sym{***}&    -.144\sym{**}&     .028         &    -.082  &    -.026         &    -.040         &    -.053         \\           &   (.077)         &   (.029)         &   (.060)         &   (.048)         &   (.053)         &   (.044)         &   (.046)         &   (.048)         \\ \midrule Log likelihood& -776.619         & -937.144         & -672.633         &-1092.280         & -689.910         &-1266.304         & -703.495         &-1144.588         \\ N         &     1577         &     2039         &     1563         &     2052         &     1516         &     2143         &     1590         &     1974         \\ \bottomrule \end{tabular} 
-\begin{tablenotes}
-\item \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
-\sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
-\end{tablenotes}
-}
-\end{threeparttable} 
-\end{adjustbox}
-\end{center}
-\end{table}
-\end{landscape}
-
-\clearpage
-
-
-\subsection{Instrumental variable analysis for age groups}
+\subsection*{Instrumental variable analysis for age groups}
 
 
 The results of the bivariate probit models do not indicate
@@ -455,10 +431,10 @@ endogeneity for the older age group and for males in the younger age
 group (see Tables \ref{tab:IV-estimates-forYOUNG} and \ref{tab:IV-estimates-forOLDAGE}),
 suggesting that particularly for males the results of the more efficient
 probit model (Table \ref{tab:age groups probit}) show the true effect
-of diabetes on employment chances. Only for females in the younger
+of diabetes on employment probabilities. Only for females in the younger
 age group the test for endogeneity rejects the assumption of exogeneity
 and the diabetes coefficient---surprisingly---shows a strong positive
-effect of diabetes on female employment chances. Instrument strength,
+effect of diabetes on female employment probabilities. Instrument strength,
 however, is reduced significantly, which together with the very low
 treatment probabilities questions the validity of the \ac{IV} results
 for the sample of the younger age group, as weak instruments possibly
@@ -480,7 +456,7 @@ in the younger age group and the overidentification test indicates
 validity of the instruments. The results of the linear \ac{IV} model
 with the additional instruments show exogeneity of diabetes for males
 and females and do not indicate a significant positive effect of diabetes
-on employment chances.
+on employment probabilities.
 
 Apart from the results of the \citeauthor{Lewbel2012} approach, we
 also think that there are theoretical reasons why diabetes is likely
@@ -527,7 +503,7 @@ on our probit estimates for inference.
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{BP}                       &\multicolumn{2}{c}{Lewbel IV}        \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &      .171\sym{***}            &     .496\sym{***}   &             .007         &     .051         \\           &     (.046)             &   (.080)               &   (.053)         &   (.071)         \\ \midrule R2        &                  &                  &     .093         &     .143          \\ Score goodness-of-fit (H0=normality of errors)&   9.56            &   14.25           &             &         \\ \hspace{10 mm}p value&   0.387               &   0.114           &              &           \\F stat (H0: weak instruments)&         4.288$^a$         &   10.835$^a$         &  366.480         &   65.872         \\ Sargan test (H0: valid instruments)&  .008$^a$         &     .044$^a$         &    1.817         &    3.487         \\ \hspace{10 mm}p value&    .930$^a$         &     .834$^a$         &     .611         &     .322         \\ Endogeneity (H0: Diabetes exogenous)&      1.422            &      12.948                 &    1.065         &    1.429         \\ \hspace{10 mm}p value&    .233          &      .000      &     .302         &     .232         \\ N         &     4415         &     5997        &     4415         &     5997         \\ \bottomrule 
  \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 25--34 and 35--44 with 15--24 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here.
+\item \footnotesize \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 25--34 and 35--44 with 15--24 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -551,7 +527,7 @@ on our probit estimates for inference.
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{BP}                     &\multicolumn{2}{c}{Lewbel IV}        \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &    -.022              &    -.112        &    -.178         &    -.042         \\           &      (.138)            &     (.111)                &   (.160)         &   (.104)         \\ \midrule R2        &                  &                       &     .058         &     .118      \\ Score goodness-of-fit (H0=normality of errors)&     7.00          &  11.10            &             &         \\ \hspace{10 mm}p value&  0.637                &   0.269           &              &           \\ F stat. (H0: weak instruments)&  15.408$^a$         &   18.305$^a$         &   12.534         &   18.897         \\ Sargan test (H0: valid instruments)&    2.717$^a$         &     .482$^a$         &    4.397         &    1.688         \\ \hspace{10 mm}p value&    .067$^a$         &     .487$^a$         &     .111         &     .430         \\ Endogeneity (H0: Diabetes exogenous)& .688                &      .574       &     .082         &     .024         \\ \hspace{10 mm}p value&         .407             &      0.449     &     .774         &     .876         \\ N         &     1871         &     2246              &     1871         &     2246         \\ \bottomrule 
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here.
+\item \footnotesize \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -560,11 +536,35 @@ on our probit estimates for inference.
 \end{center}
 \end{table}
 
+\clearpage
+\subsection*{Results for wealth quartiles}
+\begin{landscape}
+\begin{table}[p]
+\protect\caption{\label{tab:Impact-of-diabetes-wealth-quartile}Impact of diabetes
+on employment probabilities by wealth quartile (probit)}
+\begin{center}
+\begin{adjustbox}{max width=\linewidth, center}
+\begin{threeparttable}
+
+{ \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{8}{S S}} \toprule           &\multicolumn{2}{c}{1st}              &\multicolumn{2}{c}{2nd}              &\multicolumn{2}{c}{3rd}              &\multicolumn{2}{c}{4th}              \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(lr){8-9}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}&\multicolumn{1}{c}{(7)}&\multicolumn{1}{c}{(8)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &    -.142\sym{*} &    -.101\sym{***}&    -.144\sym{**}&     .028         &    -.082  &    -.026         &    -.040         &    -.053         \\           &   (.077)         &   (.029)         &   (.060)         &   (.048)         &   (.053)         &   (.044)         &   (.046)         &   (.048)         \\ \midrule Log likelihood& -776.619         & -937.144         & -672.633         &-1092.280         & -689.910         &-1266.304         & -703.495         &-1144.588         \\ N         &     1577         &     2039         &     1563         &     2052         &     1516         &     2143         &     1590         &     1974         \\ \bottomrule \end{tabular} 
+\begin{tablenotes}
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
+\sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\end{tablenotes}
+}
+\end{threeparttable} 
+\end{adjustbox}
+\end{center}
+\end{table}
+\end{landscape}
+
+
+
+
 
 \clearpage
 
-
-\subsection{Instrumental variable analysis for wealth groups}
+\subsection*{Instrumental variable analysis for wealth groups}
 
 
 To consider the possible endogeneity of diabetes in the upper and
@@ -590,7 +590,7 @@ half}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{BP}                    &\multicolumn{2}{c}{Lewbel IV}        \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &   -.354               &     -.064            &    -.142\sym{***}&    -.054\sym{*}  \\          &    (.241)              &       (.139)                   &   (.050)         &   (.032)         \\ \midrule R2        &                  &                      &     .071         &     .099         \\  Score goodness-of-fit (H0=normality of errors)&   NA$^a$            &  7.41            &             &         \\ \hspace{10 mm}p value&      NA$^a$           &  0.594            &              &      \\  F stat (H0: weak instruments)&    6.322$^b$         &   15.420$^b$         & 2589.091         & 1311.647         \\ Sargan test (H0: valid instruments)&                 .342$^b$         &    1.106$^b$         &    4.169         &    2.804         \\ \hspace{10 mm}p value& .558$^b$         &     .293$^b$         &     .525         &     .730         \\ Endogeneity (H0: Diabetes exogenous)&   1.190               &     .016        &     .005         &     .156         \\ \hspace{10 mm}p value&     0.275             &    0.901              &     .941         &     .693         \\ N         &     3169         &     4111        &     3169         &     4111         \\ \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here. The command SCOREGOF failed to produce the test statistic for this subsample.
+\item \footnotesize \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here. The command SCOREGOF failed to produce the test statistic for this subsample.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -614,7 +614,7 @@ half}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule &\multicolumn{2}{c}{BP}          &\multicolumn{2}{c}{Lewbel IV}        \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}          &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Females}\\ \midrule Diabetes  &  -.142           &      .103    &    -.057         &    -.000         \\           &  (.199)            &       (.203)          &   (.037)         &   (.039)         \\ \midrule R2        &                  &                  &     .089         &     .142        \\ Score goodness-of-fit (H0=normality of errors)&  11.40             &  12.92            &             &         \\ \hspace{10 mm}p value&      0.249            &      0.166        &              &         \\  F stat (H0: weak instruments)&        14.003$^a$         &   13.215$^a$         &28673.088         & 1225.456         \\ Sargan test (H0: valid instruments)&   .848$^a$         &     .019$^a$         &   10.180         &    5.787         \\ \hspace{10 mm}p value&        .357$^a$         &     .889$^a$         &     .070         &     .327         \\ Endogeneity (H0: Diabetes exogenous)&   .238               &    .730                    &     .955         &    1.807         \\ \hspace{10 mm}p value&   0.626               &      0.393            &     .329         &     .179         \\ N         &     3117         &     4132          &     3117         &     4132         \\ \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here.
+\item \footnotesize \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -627,7 +627,7 @@ half}
 \clearpage
 
 
-\subsection{Multinomial logit and IV results for formal and informal employment}
+\subsection*{Multinomial logit and IV results for formal and informal employment}
 
 
 \begin{table}[p]
@@ -642,7 +642,7 @@ on employment probabilities by employment status (multinomial logit)}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{Males}            &\multicolumn{2}{c}{Females}          \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Informal}&\multicolumn{1}{c}{Formal}&\multicolumn{1}{c}{Informal}&\multicolumn{1}{c}{Formal}\\ \midrule Diabetes  &    -.073\sym{**}&    0.031&    -.044\sym{**} &     .008  \\           &   (.031)         &   (.026)         &   (.019)         &   (.018)         \\ \midrule Log likelihood&-4997.064         &-4997.064         &-6267.941         &-6267.941         \\ N         &     6286         &     6286         &     8243         &     8243         \\ \bottomrule 
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes} Average marginal effects. Base category is being unemployed. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
+\item \footnotesize \textit{Notes} Average marginal effects. Base category is being unemployed. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -676,7 +676,7 @@ employment}
 
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{BP}               &\multicolumn{2}{c}{Lewbel IV}        \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Male}&\multicolumn{1}{c}{Female}&\multicolumn{1}{c}{Male}&\multicolumn{1}{c}{Female}\\ \midrule Diabetes  &    -.046              &      .069            &    -.048         &    -.037         \\           &      (.123)            &     (.130)             &   (.030)         &   (.025)         \\ \midrule R2        &                  &                  &     .103         &     .088        \\ Score goodness-of-fit (H0=normality of errors)& 13.84 & 17.37 & &  \\ \hspace{10 mm}p value& 0.128  & 0.043 & &   \\ F stat (H0: weak instruments)&   13.565$^a$         &   25.123$^a$         & 5349.118         & 2536.362     \\ Sargan test (H0: valid instruments)&      .551$^a$         &    1.684$^a$        &    4.067         &    4.063         \\ \hspace{10 mm}p value&   .458$^a$         &     .194$^a$             &     .540         &     .540         \\ Endogeneity (H0: Diabetes exogenous)&    .025              &   1.152       &    1.128         &     .722         \\ \hspace{10 mm}p value&    0.873              &     0.283      &     .288         &     .395         \\ N         &     4604         &     6983         &     4604         &     6983         \\     \\ \bottomrule  \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here. Base category is being unemployed.
+\item \footnotesize \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here. Base category is being unemployed.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -699,7 +699,7 @@ employment}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{4}{S S}} \toprule           &\multicolumn{2}{c}{BP}               &\multicolumn{2}{c}{Lewbel IV}        \\\cmidrule(lr){2-3}\cmidrule(lr){4-5}           &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\           &\multicolumn{1}{c}{Male}&\multicolumn{1}{c}{Female}&\multicolumn{1}{c}{Male}&\multicolumn{1}{c}{Female}\\ \midrule Diabetes  & .098                 &     -.103             &    -.022         &     .003         \\           &   (.195)               &      (.069)            &   (.049)         &   (.021)         \\ \midrule R2        &                  &                  &     .256         &     .262        \\ Score goodness-of-fit (H0=normality of errors)& 12.95 & 8.03 & &  \\ \hspace{10 mm}p value& 0.165 & 0.531  & &  \\ F stat (H0: weak instruments)&     8.518$^a$             &      19.996$^a$            & 2764.273         & 1647.887         \\ Sargan test (H0: valid instruments)&   1.111$^a$               &        1.075$^a$          &    9.286         &    6.741         \\ \hspace{10 mm}p value&    .292$^a$         &     .300$^a$      &     .098         &     .241         \\ Endogeneity (H0: Diabetes exogenous)&      .516            &       1.833           &    1.602         &     .318         \\ \hspace{10 mm}p value&   0.473               &       0.176           &     .206         &     .573         \\ N         &     2204         &     5652         &     2204         &     5652         \\ \bottomrule 
 \end{tabular} 
 \begin{tablenotes}
-\item \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here. Base category is being unemployed.
+\item \footnotesize \textit{Notes}  Average marginal effects for bivariate probit (BP); robust standard errors in parentheses. Instruments: diabetes of mother, diabetes of father; for Lewbel additionally created age groups instruments. The models contain the age categories 55--64 with 45--54 as the reference category. Other control variables: region, urban, education, indigenous, marital status, children, wealth, parental education. $^a$ The test statistics are taken from the linear IV model not presented here. Base category is being unemployed.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -709,12 +709,46 @@ employment}
 \end{table}
 
 
+\chapter{Appendix to Chapter \ref{cha:Mex2}}
+
+\subsection*{\label{appendix_cha4_inconsist}Strategies to deal with inconsistent self-reporting over time}
+
+One of the key advantages of panel data is the repeated measurement giving more than one data point for many of the individuals, thereby allowing to uncover inconsistencies for those with at least two observations. While we are not aware of any literature investigating the issue of inconsistencies in self-reported diabetes over time, a study by \textcite{Zajacova2010}, on the consistency of a self-reported cancer diagnosis over time in a USA population, found that 30\% of those who had reported a cancer diagnosis at an earlier point did report at a later point that they never had received a cancer diagnosis. They also found that a more recent diagnosis was reported with greater consistency possibly due to increasing recall problems and/or reduced salience as time since diagnosis progresses.
+
+We also find inconsistencies in the diabetes self-reports over the three waves of the \ac{MxFLS} data, with between 10\%--20\% of those reporting diabetes in one wave not doing so in one of the subsequent waves. In order to reduce the amount of inconsistencies, we were interested in the validity of diabetes self-reports. While we could not find a study assessing the validity of self-reported diabetes in Mexico, a study from China has shown that specificity of self-reported diabetes, i.e. those who self-report a diabetes diagnosis actually have diabetes, was very high (>98\% for China), while sensitivity, i.e. how many people with diabetes, diagnosed or undiagnosed, actually self-report the disease, was low (40\% for China) \parencite{Yuan2015}. This indicates that people who report a diabetes diagnosis are likely to indeed have the condition while many of those not reporting a diabetes diagnosis are unaware of their diabetes.
+
+We assess the validity of self-reported diabetes in our data by using \ac{HbA1c} levels and the self-reports of diabetes related medicine use from wave three. We find that 90\% of those self-reporting a diabetes diagnosis had an \ac{HbA1c} $\geq6.5$\% or did report taking diabetes medication, indicating relatively high specificity in our data as well.
+
+We used this information to infer the ``true'' diabetes status for those with inconsistent reports. For those with two waves, we assumed that if a diabetes diagnosis had been reported in a prior wave they also had diabetes in the ensuing wave, even if then it was not reported.
+For people where we had data from all three waves, we used that additional information to make a decision on how to deal with inconsistencies using the rules outlined in Table \ref{tab:Inconsistencies}.
 
 
-\section{Appendix to Chapter \ref{cha:China}}
+This approach should add more consistency to the self-reported diabetes information by using all available information. We tested if this approach was supported by the \ac{HbA1c} values provided in wave 3. Of those with inconsistencies in their diabetes self-reports 95 were present in the biomarker sample (46 with two and 49 with one self-report of diabetes). Using a t-test we compared the mean \ac{HbA1c} for the two groups and found a significantly (p<0.001) higher mean \ac{HbA1c} (9.7) for those with two self-reports compared to for those with only one self-report of diabetes (7.0). Further, of those with one self-report, for only 30\% the \ac{HbA1c} $\geq 6.5$ compared to 87\% of those with two self-reports. Based on these results we are reassured that the way we have dealt with the inconsistencies in the data minimizes misclassification of people into diabetes or no-diabetes and has reduced some of the measurement error in the diabetes data. Unfortunately we cannot use a similar method for dealing with inconsistencies in the self-reported year of diabetes diagnosis, as it has only been reported once. Hence, the results from duration analysis should be interpreted with care.
 
 
-\subsection{Attrition}
+\newpage	
+\begin{tabularx}{\linewidth}{Y Y Y X Y}
+\caption{\label{tab:Inconsistencies}Inconsistencies in diabetes self-report in MxFLS}\\
+\toprule
+\multicolumn{3}{c}{Diabetes self-report}  & \multicolumn{1}{c}{Assumption}  & Number of observations replaced \\
+\multicolumn{1}{c}{2002}  & \multicolumn{1}{c}{2005}  & \multicolumn{1}{c}{2009} & & \\
+\midrule \endhead
+Yes & Yes  & No & Has diabetes in 2009 as well  & 19\tabularnewline
+Yes & No  & Yes & Has diabetes in 2005 as well  & 63\tabularnewline
+Yes & No  & No &  Has no diabetes in 2002 either  & 66\tabularnewline
+No & Yes  & No &  Has no diabetes in 2005 either  & 52\tabularnewline
+Yes & No  & NA & Has diabetes in 2005 as well  & 44\tabularnewline
+NA & Yes  & No &  Has diabetes in 2009 as well  & 23\tabularnewline
+\bottomrule
+\end{tabularx}
+\clearpage
+ 
+
+
+\chapter{Appendix to Chapter \ref{cha:China}}
+
+
+\subsection*{Attrition}
 
 \begin{table}[!ht]
 \caption{\label{tab:attrition}Attrition between waves} 
@@ -738,7 +772,7 @@ Total       &       10.6\%\\
 \end{table}
 
 \clearpage
-\subsection{Stabilized weights}
+\subsection*{Stabilized weights}
 
 \begin{table}[!ht]
 \caption{\label{tab:stabweights}Summary of stabilized weights}
@@ -768,7 +802,7 @@ Truncated 1 and 99 percentile (women)&    .999782&    .932321&    1.077095\\
 \clearpage
 
 
-\subsection{Duration groups results}
+\subsection*{Duration groups results}
 
 
 \begin{table}[!ht]
@@ -836,7 +870,7 @@ Female sample &&&&&&\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Other control variables: baseline values of age, age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures, alcohol consumption, smoking status, BMI, waist circumference and calorie consumption. N=16047 (male sample), N=16658 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \footnotesize \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Other control variables: baseline values of age, age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures, alcohol consumption, smoking status, BMI, waist circumference and calorie consumption. N=16047 (male sample), N=16658 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -906,7 +940,7 @@ Female sample &&&&&&\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} All estimates are beta coefficients from linear regression models. Other control variables: age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=23443 (male sample), N=23702 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***}. \(p<0.01\)
+\item \footnotesize \textit{Notes} All estimates are beta coefficients from linear regression models. Other control variables: age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=23443 (male sample), N=23702 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***}. \(p<0.01\)
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -975,7 +1009,7 @@ Female sample &&&&&&\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} All outcomes are beta coefficients from linear regression models.Other control variables: age, age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=23443 (male sample), N=23702 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
+\item \footnotesize \textit{Notes} All outcomes are beta coefficients from linear regression models.Other control variables: age, age squared, region, urban, education, han, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=23443 (male sample), N=23702 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
 \end{threeparttable}
@@ -984,9 +1018,9 @@ Female sample &&&&&&\\
 \FloatBarrier
 
 \clearpage
-\subsection{Robustness checks}
+\subsection*{Robustness checks}
 
-\subsubsection{\acp{MSM} using truncated weights}
+\subsubsection*{\acp{MSM} using truncated weights}
 \begin{table}[!ht]
 \caption{\label{tab:truncation}Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using marginal structural models with truncated stabilized weights at 1st and 99th percentile}
 \begin{adjustbox}{max width=\linewidth}  
@@ -1021,7 +1055,7 @@ Time since diagnosis&  -.019\sym{***}&    -.002         &    -.004         &    
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
 Other control variables: baseline values of age, age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures, alcohol consumption, smoking status, BMI, waist circumference and calorie consumption. N=16047 (male sample), N=16658 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1095,7 +1129,7 @@ Female sample &&&&&&\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models.  Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models.  Robust standard errors in parentheses.
 Other control variables: baseline values of age, age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures, alcohol consumption, smoking status, BMI, waist circumference and calorie consumption. N=16047 (male sample), N=16658 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1105,7 +1139,7 @@ Other control variables: baseline values of age, age squared, region, urban, edu
 
 \FloatBarrier
 \clearpage
-\subsubsection{Results using non-imputed data}
+\subsubsection*{Results using non-imputed data}
 
 \begin{table}[!ht]
 \caption{\label{tab:binary_non_mi}Analysis of the effect of a diabetes diagnosis on employment status and behavioural outcomes using MSM, FE and RE (no imputation)}
@@ -1158,7 +1192,7 @@ p-value         &     <.001         &     <.001         &     .017         &    
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients of the MSM for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models.  Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} The coefficients of the MSM for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models.  Robust standard errors in parentheses.
 Other control variables for FE/RE: age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures. RE additionally controls for age. MSM controls for baseline values of the same variables as the FE/RE models additionally to baseline values of age, alcohol consumption, smoking status, BMI, waist circumference and calorie consumption. FE/RE:  N=22135 (male sample), N=23143 (female sample), MSM: N=10006 (male sample), N=11471 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1210,7 +1244,7 @@ Time since diagnosis&   -.026\sym{***}&    -.002         &    -.003\sym{***}&   
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients of the MSM for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models.  Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} The coefficients of the MSM for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models.  Robust standard errors in parentheses.
 Other control variables for FE/RE: age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures. RE additionally controls for age. MSM controls for baseline values of the same variables as the FE/RE models additionally to baseline values of age, alcohol consumption, smoking status, BMI, waist circumference and calorie consumption. FE/RE:  N=22117 (male sample), N=23130 (female sample), MSM: N=10028 (male sample), N=11465 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1254,7 +1288,7 @@ Female sample &&&&&&\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
 Other control variables: baseline values of age, age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures, alcohol consumption, smoking status, BMI, waist circumference and calorie consumption. N=10028 (male sample), N=11465 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1327,7 +1361,7 @@ Female sample &&&&&&\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} Linear regression coefficients.  Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} Linear regression coefficients.  Robust standard errors in parentheses.
 Other control variables: age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=22117 (male sample), N=23130 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1399,7 +1433,7 @@ Female sample &&&&&&\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes}  Linear regression coefficients. Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes}  Linear regression coefficients. Robust standard errors in parentheses.
 Other control variables: age, age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures. N=22117 (male sample), N=23130 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1414,7 +1448,7 @@ Other control variables: age, age squared, region, urban, education, Han ethnici
 
 
 
-\subsection{Overweight and obesity results}
+\subsection*{Overweight and obesity results}
 
 \begin{table}[!ht]
 \caption{\label{tab:obesity_binary}Analysis of the effect of a diabetes diagnosis on overweight and obesity using MSM, FE and RE}
@@ -1446,7 +1480,7 @@ Diabetes&       .014         &    -.006         &    -.070\sym{**} &     .028   
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
 Other control variables for FE/RE: age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures. RE additionally controls for age. MSM controls for baseline values of the same variables as the FE/RE models additionally to baseline values of age, alcohol consumption, smoking status, overweight status, obesity status and calorie consumption. FE/RE: N=23443 (male sample), N=23702 (female sample).   MSM: N=16047 (male sample), N=16658 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -1485,7 +1519,7 @@ Time since diagnosis&.002         &    -.003         &    -.006         &    -.0
 \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
+\item \footnotesize \textit{Notes} The coefficients for outcomes 1--3 represent average marginal effects based on logistic regression models. All other coefficients are from linear regression models. Robust standard errors in parentheses.
 Other control variables for FE/RE: age squared, region, urban, education, Han ethnicity, marital status, urbanization index, time dummies, health insurance status, household expenditures. RE additionally controls for age. MSM controls for baseline values of the same variables as the FE/RE models additionally to baseline values of age, alcohol consumption, smoking status, overweight status, obesity status and calorie consumption.  FE/RE: N=23443 (male sample), N=23702 (female sample).   MSM: N=16047 (male sample), N=16658 (female sample). \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }

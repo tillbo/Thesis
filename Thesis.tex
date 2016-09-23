@@ -77,7 +77,7 @@ others as follows:
 
 
 \paragraph{Chapter \ref{cha:Mex2}:} Till Seuring was the lead author of a working paper published as: 
-Seuring T., Serneels P., M. Surcke, 2016, The impact of diabetes on labour market outcomes in Mexico: a panel and biomarker data analysis. It has appeared as IZA Discussion Paper 10123, and York University Centre for Health Economics Research Paper 134, and has been submitted for publication.
+Seuring T., Serneels P., Surcke, M. (2016), ``The impact of diabetes on labour market outcomes in Mexico: a panel and biomarker data analysis.'' It has appeared as \textit{IZA Discussion Paper} 10123, and \textit{York University Centre for Health Economics Research Paper 134}, and has been submitted for publication.
 
 Till Seuring, Pieter Serneels and Marc Suhrcke designed the study. Till Seuring analysed the data. Till Seuring drafted the original manuscript which was critically reviewed by Pieter Serneels and Marc Suhrcke.
 
@@ -117,9 +117,9 @@ This study will use cross-sectional data from a large household survey in Mexico
 \chapter{\label{cha:Mex2}The impact of diabetes on labour market outcomes in Mexico: a panel data and biomarker analysis}
 \section*{Pre-amble}
 
-This study builds on the results of the preceding chapter. Instead of using an \ac{IV} approach to address the issue of endogeneity, it takes advantage of the recently released third wave of the \ac{MxFLS} to allow the construction of a longitudinal data set containing three waves. This enables the use of panel data methods to arrive at a causal interpretation of the estimates, without having to rely on the untestable assumptions underlying the \ac{IV} approach.
+This study builds on the results of the preceding chapter. Instead of using an \ac{IV} approach to address the issue of endogeneity, it takes advantage of the recently released third wave of the \ac{MxFLS} to allow the construction of a longitudinal data set containing three waves. This enables the use of panel data methods to arrive at a potentially causal interpretation of the estimates, without having to rely on an \ac{IV} approach.
 
-Further, the study provides additional novel evidence for the effect of self-reported diabetes on wages and working hours in a developing country. Finally it addresses another area identified by the systematic review in Chapter \ref{cha:review} investigating in how far self-reported diabetes can be used to draw conclusions about the entire diabetes population, including those unaware of the condition using biomarker information. This area has hitherto received little research but is of great importance due to the large unaware diabetes population in \acp{HIC} and \acp{LMIC}. Using biomarker data it investigates in how far self-reported diabetes identifies the entire diabetes population and if findings based on self-reports can be extended to those unaware of the condition. This should help to better interpret estimates using self-reported diabetes as provided in Chapter \ref{cha:Mex1}.
+Further, the study provides additional evidence for the effect of self-reported diabetes on wages and working hours in a developing country. Finally, it addresses another area identified by the systematic review in Chapter \ref{cha:review}. Using biomarker data it investigates in how diabetes effects the labour market outcomes of the large undiagnosed population, also providing information about whether findings based on self-reported diabetes can be used to infer on the entire diabetes population. This should help to better interpret estimates using self-reported diabetes as provided in Chapter \ref{cha:Mex1}.
 
 \include{Chapter4}
 \acresetall  %resets all acronyms
@@ -132,18 +132,23 @@ This method is widely applied in epidemiology and able to account for confoundin
 
 
 %}
+\acresetall  %resets all acronyms
 \include{Chapter5}
 %\comment{
 \acresetall  %resets all acronyms
 \chapter{\label{cha:Discussion}Discussion and conclusions} 
 \acresetall  %resets all acronyms
 \include{Conclusion}
+\printbibliography[heading=bibintoc]
 \chapter*{\label{cha:Appendix}Appendices}
 \addcontentsline{toc}{chapter}{\nameref{cha:Appendix}}
+\renewcommand{\thechapter}{{\Roman{chapter}}} 
+\renewcommand{\thetable}{A\arabic{table}} %changes chapter number to roman
+\renewcommand{\thefigure}{A\arabic{figure}} %changes chapter number to roman
+\setcounter{chapter}{0}  % sets chapter counter to zero to start numbering again for appendices with roman numbering
+\setcounter{table}{0}
+\setcounter{figure}{0}
 \include{Appendix}
 %}
 \cleardoublepage
-
-\printbibliography
-
 \end{document}          
