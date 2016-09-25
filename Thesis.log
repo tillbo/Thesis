@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  25 SEP 2016 14:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  26 SEP 2016 00:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1178,9 +1178,6 @@ File: biblatex.cfg
 )))
 Package biblatex Info: Redefining '\fullcite' on input line 95.
 
-(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
-Package: placeins 2005/04/18  v 2.2
-)
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
@@ -1937,7 +1934,7 @@ nverted-to.pdf Review/Figures/Fig1.eps>
 (epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig1-eps-converted-to.pdf, id=1043, 539.01375pt x 489.83pt>
+<Review/Figures/Fig1-eps-converted-to.pdf, id=1047, 539.01375pt x 489.83pt>
 File: Review/Figures/Fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig1-eps-converted-to.pdf>
@@ -1961,7 +1958,7 @@ nverted-to.pdf Review/Figures/Fig2.eps>
 (epstopdf)             \includegraphics on input line 71.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig2-eps-converted-to.pdf, id=1255, 580.1675pt x 508.90125pt>
+<Review/Figures/Fig2-eps-converted-to.pdf, id=1259, 580.1675pt x 508.90125pt>
 File: Review/Figures/Fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig2-eps-converted-to.pdf>
@@ -2197,6 +2194,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--144
 \T1/lmr/m/n/12 sur-
  []
 
+[41] [42]
 Package epstopdf Info: Source file: <Review/Figures/Fig3.eps>
 (epstopdf)                    date: 2014-12-08 22:23:10
 (epstopdf)                    size: 72974 bytes
@@ -2207,14 +2205,14 @@ Package epstopdf Info: Source file: <Review/Figures/Fig3.eps>
 nverted-to.pdf Review/Figures/Fig3.eps>
 (epstopdf)             \includegraphics on input line 168.
 Package epstopdf Info: Output file is already uptodate.
-<Review/Figures/Fig3-eps-converted-to.pdf, id=1385, 722.7pt x 578.16pt>
+
+<Review/Figures/Fig3-eps-converted-to.pdf, id=1399, 722.7pt x 578.16pt>
 File: Review/Figures/Fig3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig3-eps-converted-to.pdf>
 Package pdftex.def Info: Review/Figures/Fig3-eps-converted-to.pdf used on input
  line 168.
 (pdftex.def)             Requested size: 412.56497pt x 330.04865pt.
- [41] [42]
 Package epstopdf Info: Source file: <Review/Figures/Fig4.eps>
 (epstopdf)                    date: 2014-12-08 22:28:44
 (epstopdf)                    size: 25485 bytes
@@ -2226,7 +2224,7 @@ nverted-to.pdf Review/Figures/Fig4.eps>
 (epstopdf)             \includegraphics on input line 233.
 Package epstopdf Info: Output file is already uptodate.
 
-<Review/Figures/Fig4-eps-converted-to.pdf, id=1408, 724.7075pt x 581.17125pt>
+<Review/Figures/Fig4-eps-converted-to.pdf, id=1412, 724.7075pt x 581.17125pt>
 File: Review/Figures/Fig4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Review/Figures/Fig4-eps-converted-to.pdf>
@@ -2819,11 +2817,11 @@ LaTeX Warning: Float too large for page by 22.50327pt on input line 191.
 ] [78]
 Package acronym Info: Label `acro:BMI' overridden on input line 343.
  [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
-[91] [92] [93] [94] [95])
+[91] [92] [93])
 Chapter 4.
 Package acronym Info: Label `acro:IV' overridden on input line 135.
 Package acronym Info: Label `acro:MxFLS' overridden on input line 135.
-[96
+[94
 
 
 
@@ -2833,28 +2831,28 @@ Package acronym Info: Label `acro:MxFLS' overridden on input line 135.
  (./Chapter4.tex
 Package acronym Info: Label `acro:MIC' overridden on input line 10.
 Package acronym Info: Label `acro:HIC' overridden on input line 10.
- [97
+ [95
 
-] [98]
+] [96]
 Package acronym Info: Label `acro:FE' overridden on input line 21.
 Package acronym Info: Label `acro:HbA1c' overridden on input line 32.
- [99]
+ [97]
 Package acronym Info: Label `acro:LMIC' overridden on input line 38.
- [100] [101] [102]
+ [98] [99] [100]
 Package acronym Info: Label `acro:WHO' newly defined as it shall be overridden
 although it is yet undefined on input line 128.
- [103] [104] [105]
-[106] [107]
+ [101] [102] [103] [104]
+[105]
 Package acronym Info: Label `acro:LPM' newly defined as it shall be overridden
 although it is yet undefined on input line 201.
- [108] [109] [110] [111] [112] [113] [114] [115]
+ [106] [107] [108] [109] [110] [111] [112] [113]
 Package acronym Info: Label `acro:OLS' overridden on input line 383.
- [116
+ [114
 
 
 
 
-] [117]
+] [115]
 Package epstopdf Info: Source file: <Chapter4/Figures/lpoly_works_diabetesdurat
 ion.eps>
 (epstopdf)                    date: 2016-05-09 18:44:41
@@ -2869,7 +2867,7 @@ uration.eps>
 (epstopdf)             \includegraphics on input line 398.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=3079, 3
+<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=3075, 3
 97.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf Graphi
 c file (type pdf)
@@ -2879,7 +2877,7 @@ Package pdftex.def Info: Chapter4/Figures/lpoly_works_diabetesduration-eps-conv
 erted-to.pdf used on input line 398.
 (pdftex.def)             Requested size: 412.56497pt x 300.05826pt.
 
-[118 <./Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf>]
+[116 <./Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Chapter4/Figures/lpoly_wage_diabetesdurati
 on.eps>
 (epstopdf)                    date: 2016-05-09 18:44:42
@@ -2894,7 +2892,7 @@ ation.eps>
 (epstopdf)             \includegraphics on input line 408.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=3089, 39
+<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=3085, 39
 7.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -2904,7 +2902,7 @@ Package pdftex.def Info: Chapter4/Figures/lpoly_wage_diabetesduration-eps-conve
 rted-to.pdf used on input line 408.
 (pdftex.def)             Requested size: 412.56497pt x 300.05826pt.
 
-[119 <./Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf>]
+[117 <./Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Chapter4/Figures/lpoly_workhrs_diabetesdur
 ation.eps>
 (epstopdf)                    date: 2016-05-09 18:44:10
@@ -2919,7 +2917,7 @@ tesduration.eps>
 (epstopdf)             \includegraphics on input line 418.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=3099,
+<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=3095,
  397.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf Grap
 hic file (type pdf)
@@ -2929,11 +2927,10 @@ Package pdftex.def Info: Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-co
 nverted-to.pdf used on input line 418.
 (pdftex.def)             Requested size: 412.56497pt x 300.05826pt.
 
-[120 <./Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf>]
-[121] [122] [123
+[118 <./Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf>]
+[119
 
-
-] [124] [125] [126] [127] [128]
+] [120] [121] [122] [123] [124] [125] [126]
 Package acronym Info: Label `acro:LMICs' newly defined as it shall be overridde
 n
 although it is yet undefined on input line 746.
@@ -2944,57 +2941,57 @@ Package acronym Warning: Acronym `LMICs' is not defined on input line 746.
 
 Package acronym Warning: Acronym `LMICs' is not defined on input line 746.
 
-[129]) [130]
+[127]) [128]
 Chapter 5.
 Package acronym Info: Label `acro:MIC' overridden on input line 144.
-[131
+[129
 
 
-] [132]
+] [130]
 \openout2 = `Chapter5.aux'.
 
  (./Chapter5.tex
 Package acronym Info: Label `acro:CHNS' overridden on input line 4.
 Package acronym Info: Label `acro:MIC' overridden on input line 12.
 Package acronym Info: Label `acro:HIC' overridden on input line 12.
- [133
+ [131
 
 ]
 Package acronym Info: Label `acro:OLS' overridden on input line 16.
 Package acronym Info: Label `acro:FE' overridden on input line 16.
 Package acronym Info: Label `acro:MSM' overridden on input line 18.
 Package acronym Info: Label `acro:RE' overridden on input line 18.
- [134]
+ [132]
 Package acronym Info: Label `acro:LMIC' overridden on input line 21.
 Package acronym Info: Label `acro:IV' overridden on input line 27.
- [135] [136] [137]
+ [133] [134] [135]
 Package acronym Info: Label `acro:BMI' overridden on input line 52.
- [138]
+ [136]
 Package acronym Info: Label `acro:DAG' newly defined as it shall be overridden
 although it is yet undefined on input line 62.
- [139]
-<Chapter5/DAG/dag_msm_alt.pdf, id=3350, 694.595pt x 448.67625pt>
+ [137]
+<Chapter5/DAG/dag_msm_alt.pdf, id=3345, 694.595pt x 448.67625pt>
 File: Chapter5/DAG/dag_msm_alt.pdf Graphic file (type pdf)
 
 <use Chapter5/DAG/dag_msm_alt.pdf>
 Package pdftex.def Info: Chapter5/DAG/dag_msm_alt.pdf used on input line 72.
 (pdftex.def)             Requested size: 412.56497pt x 266.50356pt.
- [140] [141 <./Chapter5/DAG/dag_msm_alt.pdf>] <Chapter5/DAG/dag_fe_alt.pdf, id=
-3391, 694.595pt x 448.67625pt>
+ [138] [139 <./Chapter5/DAG/dag_msm_alt.pdf>] <Chapter5/DAG/dag_fe_alt.pdf, id=
+3387, 694.595pt x 448.67625pt>
 File: Chapter5/DAG/dag_fe_alt.pdf Graphic file (type pdf)
 
 <use Chapter5/DAG/dag_fe_alt.pdf>
 Package pdftex.def Info: Chapter5/DAG/dag_fe_alt.pdf used on input line 96.
 (pdftex.def)             Requested size: 412.56497pt x 266.50356pt.
- [142] [143] [144 <./Chapter5/DAG/dag_fe_alt.pdf>] [145] [146]
+ [140] [141] [142 <./Chapter5/DAG/dag_fe_alt.pdf>] [143] [144]
 Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
-[147
+[145
 
 
-] [148] [149] [150] [151]
+] [146] [147] [148] [149]
 Package epstopdf Info: Source file: <Chapter5/Figures/mi_msm_l_all.eps>
 (epstopdf)                    date: 2016-09-11 11:07:51
 (epstopdf)                    size: 42584 bytes
@@ -3007,7 +3004,7 @@ all-eps-converted-to.pdf Chapter5/Figures/mi_msm_l_all.eps>
 (epstopdf)             \includegraphics on input line 348.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf, id=3546, 578.16pt x 289.08
+<Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf, id=3541, 578.16pt x 289.08
 pt>
 File: Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -3027,7 +3024,7 @@ f>
 (epstopdf)             \includegraphics on input line 354.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_fe-eps-converted-to.pdf, id=3547, 578.16pt x 289.08pt>
+<Chapter5/Figures/mi_fe-eps-converted-to.pdf, id=3542, 578.16pt x 289.08pt>
 File: Chapter5/Figures/mi_fe-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_fe-eps-converted-to.pdf>
@@ -3046,27 +3043,27 @@ f>
 (epstopdf)             \includegraphics on input line 360.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_re-eps-converted-to.pdf, id=3548, 578.16pt x 289.08pt>
+<Chapter5/Figures/mi_re-eps-converted-to.pdf, id=3543, 578.16pt x 289.08pt>
 File: Chapter5/Figures/mi_re-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_re-eps-converted-to.pdf>
 Package pdftex.def Info: Chapter5/Figures/mi_re-eps-converted-to.pdf used on in
 put line 360.
 (pdftex.def)             Requested size: 717.00946pt x 358.52165pt.
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.40}
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.41}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.361 ...\textit{Notes} 95\% confidence intervals}
-                                                   [152 <./Chapter5/Figures/mi_
-msm_l_all-eps-converted-to.pdf>] [153 <./Chapter5/Figures/mi_fe-eps-converted-t
-o.pdf>] [154 <./Chapter5/Figures/mi_re-eps-converted-to.pdf>] [155
+                                                   [150 <./Chapter5/Figures/mi_
+msm_l_all-eps-converted-to.pdf>] [151 <./Chapter5/Figures/mi_fe-eps-converted-t
+o.pdf>] [152 <./Chapter5/Figures/mi_re-eps-converted-to.pdf>] [153
 
 
-] [156]
-[157] [158] [159])
+] [154]
+[155] [156] [157])
 Chapter 6.
-[160
+[158
 
 
 
@@ -3078,32 +3075,32 @@ Package acronym Info: Label `acro:MIC' overridden on input line 2.
 Package acronym Info: Label `acro:COI' overridden on input line 10.
 Package acronym Info: Label `acro:LMIC' overridden on input line 10.
 Package acronym Info: Label `acro:HIC' overridden on input line 12.
- [161
+ [159
 
 ]
 Package acronym Info: Label `acro:IV' overridden on input line 14.
- [162]
+ [160]
 Package acronym Info: Label `acro:FE' overridden on input line 28.
- [163]
+ [161]
 Package acronym Info: Label `acro:HbA1c' overridden on input line 32.
 Package acronym Info: Label `acro:MSM' overridden on input line 35.
 Package acronym Info: Label `acro:CHNS' overridden on input line 35.
 Package acronym Info: Label `acro:BMI' overridden on input line 37.
- [164]
+ [162]
 Package acronym Info: Label `acro:OOP' overridden on input line 47.
- [165] [166] [167]
+ [163] [164] [165]
 Package acronym Info: Label `acro:LIC' overridden on input line 65.
- [168]
-[169] [170] [171] [172]
+ [166]
+[167] [168] [169] [170]
 Package acronym Info: Label `acro:NCD' overridden on input line 103.
- [173]
+ [171]
 Package acronym Info: Label `acro:CHARLS' newly defined as it shall be overridd
 en
 although it is yet undefined on input line 115.
- [174] [175] [176]) [177] [178
+ [172] [173] [174]) [175] [176
 
 
-] [179]
+] [177]
 Overfull \hbox (17.10063pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Barquera, S., Campos-Nonato, I., Aguilar-Salinas, C., Lopez-
 Ridaura, R., Arredondo,
@@ -3115,19 +3112,19 @@ Overfull \hbox (2.82166pt too wide) in paragraph at lines 157--157
 it/12 Jour-nal of Nu-tri-tion \T1/lmr/m/n/12 138 (12),
  []
 
-[180]
+[178]
 Overfull \hbox (19.97063pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 women: Car-dio-vas-cu-lar dis-ease, di-a-betes, and stress uri-n
 ary in-con-ti-nence.'' \T1/lmr/m/it/12 Women's
  []
 
-[181]
+[179]
 Overfull \hbox (7.63742pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Cameron, A., Ewen, M., Ross-Degnan, D., Ball, D., and Laing,
  R. (2009). ``Medicine
  []
 
-[182] [183] [184]
+[180] [181] [182]
 Overfull \hbox (7.6974pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Esteghamati, A., Khalilzadeh, O., An-vari, M., Meysamie, A.,
  Ab-basi, M., Forouzan-
@@ -3139,44 +3136,32 @@ Overfull \hbox (1.01161pt too wide) in paragraph at lines 157--157
 a-betes: a population-
  []
 
-[185] [186] [187] [188] [189] [190]
-Overfull \hbox (8.0984pt too wide) in paragraph at lines 157--157
-\T1/lmr/m/n/12 ARNO ob-ser-va-tory.'' \T1/lmr/m/it/12 Nu-tri-tion, metabolism, 
-and car-dio-vas-cu-lar dis-eases : NMCD
- []
-
-[191]
-Overfull \hbox (4.62935pt too wide) in paragraph at lines 157--157
-\T1/lmr/m/n/12 ``The cost of treat-ing type 2 di-a-betes (CODEIRE).'' \T1/lmr/m
-/it/12 Irish med-i-cal jour-nal \T1/lmr/m/n/12 99 (10),
- []
-
-[192] [193]
+[183] [184] [185] [186] [187] [188] [189] [190] [191]
 Overfull \hbox (8.27231pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 and Mor-tal-ity for Cana-dian Ur-ban and Ru-ral Pa-tients with D
 i-a-betes: Population-
  []
 
-[194]
+[192]
 Overfull \hbox (7.45226pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 ``Re-source use and costs of type 2 di-a-betes in Swe-den - es-t
 i-mates from population-
  []
 
-[195]
+[193]
 Overfull \hbox (0.80174pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 (2004). ``Di-rect med-i-cal costs of type 2 di-a-betes and its c
 om-pli-ca-tions in Switzer-
  []
 
-[196] [197] [198] [199] [200]
+[194] [195] [196] [197] [198]
 Overfull \hbox (26.56421pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 and Nu-tri-tion Sur-vey, 1989-2011.'' \T1/lmr/m/it/12 Obe-sity R
 e-views \T1/lmr/m/n/12 15 (S1), 2^^U7. arXiv: []$\T1/lmtt/m/n/12 NIHMS150003$[]
 \T1/lmr/m/n/12 . 
  []
 
-[201] [202
+[199] [200
 
 ]
 \openout2 = `Appendix.aux'.
@@ -3188,7 +3173,7 @@ me{chapter.1}) has been already used, duplicate ignored
 l.3 \chapter{Appendix to Chapter \ref{cha:intro}}
                                                  
 Chapter {I}.
-[203
+[201
 
 
 ]
@@ -5307,22 +5292,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 \T1/lmtt/m/n/10 projects /
  []
 
-[204
+[202
 
-] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
-[216]pdfTeX warning (ext4): destination with the same identifier (name{chapter.
+] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213]
+[214]pdfTeX warning (ext4): destination with the same identifier (name{chapter.
 2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46 ...pter{Appendix to Chapter \ref{cha:review}}
                                                   
 Chapter {II}.
-[217
+[215
 
 
-] [218] [219] [220
+] [216] [217] [218
 
-] [221]
+] [219]
 Overfull \hbox (6.3964pt too wide) in paragraph at lines 268--268
 []|\T1/lmr/m/n/8 Perspective| 
  []
@@ -6814,7 +6799,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--268
 
 
 Overfull \hbox (5.96407pt too wide) in paragraph at lines 268--268
-[]\T1/lmr/m/n/8 Lesniowska 
+[]\T1/lmr/m/n/8 Le±niowska 
  []
 
 
@@ -7632,11 +7617,11 @@ as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.268 \end{tabularx}
-                     [222
+                     [220
 
-] [223] [224] [225] [226] [227] [228] [229] [230]
-[231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242]
-[243] [244] [245] [246]
+] [221] [222] [223] [224] [225] [226] [227] [228]
+[229] [230] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240]
+[241] [242] [243] [244]
 Underfull \hbox (badness 10000) in paragraph at lines 362--362
 []|\T1/lmr/m/n/8 Country
  []
@@ -7731,43 +7716,43 @@ as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.362 \end{tabularx}
-                     [247
+                     [245
 
 
-] [248] [249] [250] [251] [252] [253]pdfTeX warning (ext4): destination with th
+] [246] [247] [248] [249] [250] [251]pdfTeX warning (ext4): destination with th
 e same identifier (name{chapter.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.370 \chapter{Appendix to Chapter \ref{cha:Mex1}}
                                                   
 Chapter {III}.
-[254
+[252
 
 
 ]
 
 LaTeX Warning: Float too large for page by 22.50867pt on input line 395.
 
-[255] [256
+[253] [254
 
 
 
-] [257] [258
+] [255] [256
 
-] [259] [260] [261] [262
-
-
-] [263] [264
+] [257] [258] [259] [260
 
 
-
-] [265] [266]
-[267
+] [261] [262
 
 
-] [268] [269
 
-] [270] [271]pdfTeX warning (ext4): destination with the same identifier (name{
+] [263] [264]
+[265
+
+
+] [266] [267
+
+] [268] [269]pdfTeX warning (ext4): destination with the same identifier (name{
 chapter.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -7775,10 +7760,10 @@ l.712 \chapter{Appendix to Chapter \ref{cha:Mex2}}
                                                   
 Chapter {IV}.
 Package acronym Info: Label `acro:MxFLS' overridden on input line 718.
-[272
+[270
 
 
-] [273]
+] [271]
 Underfull \hbox (badness 1769) in paragraph at lines 743--743
 []|\T1/lmr/m/n/12 Has di-a-betes
  []
@@ -7828,14 +7813,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 743--743
 \T1/lmr/m/n/12 in 2009 as
  []
 
-[274]pdfTeX warning (ext4): destination with the same identifier (name{chapter.
+[272]pdfTeX warning (ext4): destination with the same identifier (name{chapter.
 5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.748 ...pter{Appendix to Chapter \ref{cha:China}}
                                                   
 Chapter {V}.
-[275
+[273
 
 
 ]
@@ -7848,25 +7833,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 781--798
 
  []
 
-[276
+[274
 
-] [277
+] [275
 
-] [278] [279] [280
+] [276] [277] [278
 
-] [281] [282
+] [279] [280
 
 
-
-] [283] [284] [285] [286] [287
-
+] [281] [282] [283] [284] [285
 
 
 
 
 ]
-[288]
-<Chapter5/Figures/mi_msm_l_all_obese.pdf, id=6026, 576.62233pt x 239.8749pt>
+[286]
+<Chapter5/Figures/mi_msm_l_all_obese.pdf, id=6021, 576.62233pt x 239.8749pt>
 File: Chapter5/Figures/mi_msm_l_all_obese.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_msm_l_all_obese.pdf>
@@ -7874,7 +7857,7 @@ Package pdftex.def Info: Chapter5/Figures/mi_msm_l_all_obese.pdf used on input
 line 1537.
 (pdftex.def)             Requested size: 412.56497pt x 171.63368pt.
 
-<Chapter5/Figures/mi_obese_fe.pdf, id=6027, 575.85353pt x 242.95021pt>
+<Chapter5/Figures/mi_obese_fe.pdf, id=6022, 575.85353pt x 242.95021pt>
 File: Chapter5/Figures/mi_obese_fe.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_obese_fe.pdf>
@@ -7882,19 +7865,19 @@ Package pdftex.def Info: Chapter5/Figures/mi_obese_fe.pdf used on input line 15
 39.
 (pdftex.def)             Requested size: 412.56497pt x 174.06026pt.
 
-<Chapter5/Figures/mi_obese_re.pdf, id=6028, 578.16pt x 289.08pt>
+<Chapter5/Figures/mi_obese_re.pdf, id=6023, 578.16pt x 289.08pt>
 File: Chapter5/Figures/mi_obese_re.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_obese_re.pdf>
 Package pdftex.def Info: Chapter5/Figures/mi_obese_re.pdf used on input line 15
 41.
 (pdftex.def)             Requested size: 412.56497pt x 206.2804pt.
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.40}
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.41}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1542 ...textit{Notes} 95\% confidence intervals}
-                                                   [289 <./Chapter5/Figures/mi_
+                                                   [287 <./Chapter5/Figures/mi_
 msm_l_all_obese.pdf> <./Chapter5/Figures/mi_obese_fe.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./Chapter5/Figures/mi_obese_fe.pdf): PD
@@ -7922,10 +7905,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
- 30262 strings out of 493304
- 565049 string characters out of 6139871
- 2461483 words of memory out of 5000000
- 32149 multiletter control sequences out of 15000+600000
+ 30244 strings out of 493304
+ 564696 string characters out of 6139871
+ 2486539 words of memory out of 5000000
+ 32135 multiletter control sequences out of 15000+600000
  129325 words of font info for 105 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  50i,15n,87p,16715b,1624s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -7947,10 +7930,10 @@ share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Thesis.pdf (289 pages, 1525148 bytes).
+Output written on Thesis.pdf (287 pages, 1523973 bytes).
 PDF statistics:
- 6358 PDF objects out of 7423 (max. 8388607)
- 4224 compressed objects within 43 object streams
+ 6351 PDF objects out of 7423 (max. 8388607)
+ 4219 compressed objects within 43 object streams
  1028 named destinations out of 1200 (max. 500000)
  748 words of extra memory for PDF output out of 10000 (max. 10000000)
 
