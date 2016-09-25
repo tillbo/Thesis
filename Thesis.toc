@@ -10,111 +10,111 @@
 \contentsline {paragraph}{\nonumberline Chapter \ref {cha:China}:}{12}{section*.15}
 \contentsline {paragraph}{\nonumberline Chapter \ref {cha:Discussion}:}{12}{section*.16}
 \contentsline {chapter}{\nameref {acknowledgements}}{13}{section*.16}
-\contentsline {chapter}{\nameref {abbreviations}}{14}{chapter*.17}
-\contentsline {chapter}{\numberline {1}General introduction}{16}{chapter.1}
-\contentsline {section}{\nonumberline Background to the thesis}{17}{section*.19}
-\contentsline {subsection}{\nonumberline Types of diabetes}{18}{section*.24}
-\contentsline {subsection}{\nonumberline Diabetes complications}{19}{section*.26}
-\contentsline {subsection}{\nonumberline Diabetes prevention}{19}{section*.27}
-\contentsline {subsection}{\nonumberline The need for further economic research on diabetes}{20}{section*.28}
-\contentsline {section}{\nonumberline Objectives of the thesis}{20}{section*.30}
-\contentsline {subsection}{\nonumberline The global economic burden of diabetes}{21}{section*.31}
-\contentsline {subsection}{\nonumberline The labour market impact of type 2 diabetes}{21}{section*.32}
-\contentsline {subsubsection}{\nonumberline Identification of the causal effect of diabetes on labour market outcomes}{22}{section*.36}
-\contentsline {subsubsection}{\nonumberline Do the effects of diabetes change over time?}{23}{section*.39}
-\contentsline {subsubsection}{\nonumberline Measurement of diabetes in household surveys}{23}{section*.40}
-\contentsline {subsection}{\nonumberline Diabetes, behavioural risk factors and employment status}{24}{section*.42}
-\contentsline {section}{\nonumberline Thesis methods and structure}{26}{section*.46}
-\contentsline {chapter}{\numberline {2}The economic costs of type 2 diabetes: a global systematic review}{27}{chapter.2}
-\contentsline {section}{\nonumberline Introduction}{29}{section*.51}
-\contentsline {section}{\nonumberline Methods}{30}{section*.52}
-\contentsline {subsection}{\nonumberline Search strategy}{30}{section*.54}
-\contentsline {subsection}{\nonumberline Inclusion and exclusion criteria}{31}{section*.55}
-\contentsline {subsection}{\nonumberline Data extraction and analysis}{31}{section*.56}
-\contentsline {section}{\nonumberline Results}{34}{section*.60}
-\contentsline {subsection}{\nonumberline Cost-of-illness studies on type 2 diabetes}{34}{section*.61}
-\contentsline {subsubsection}{\nonumberline Number of studies}{34}{section*.62}
-\contentsline {subsubsection}{\nonumberline Regional distribution}{34}{section*.63}
-\contentsline {subsubsection}{\nonumberline Data sources}{35}{section*.64}
-\contentsline {subsubsection}{\nonumberline Variation in costing approaches}{35}{section*.65}
-\contentsline {subsubsection}{\nonumberline Study perspective}{36}{section*.68}
-\contentsline {subsubsection}{\nonumberline Costing components}{39}{section*.70}
-\contentsline {subsubsection}{\nonumberline Cost estimates of diabetes using a prevalence approach}{39}{section*.71}
-\contentsline {subsubsection}{\nonumberline Direct and indirect costs of diabetes}{42}{section*.77}
-\contentsline {subsubsection}{\nonumberline Studies using the incidence approach}{42}{section*.79}
-\contentsline {subsubsection}{\nonumberline Country level costs prediction studies}{49}{section*.80}
-\contentsline {subsection}{\nonumberline The impact of diabetes on employment probabilities and productivity}{49}{section*.82}
-\contentsline {subsubsection}{\nonumberline Employment probabilities}{49}{section*.83}
-\contentsline {subsubsection}{\nonumberline Productivity}{57}{section*.87}
-\contentsline {section}{\nonumberline Discussion}{63}{section*.89}
-\contentsline {subsection}{\nonumberline General findings and developments since the 2004 review of diabetes COI studies}{63}{section*.90}
-\contentsline {subsection}{\nonumberline Labour market studies}{65}{section*.91}
-\contentsline {subsection}{\nonumberline Comparison of COI and labour market studies: common themes and lessons learned}{66}{section*.92}
-\contentsline {subsection}{\nonumberline Limitations}{68}{section*.93}
-\contentsline {section}{\nonumberline Conclusion}{69}{section*.94}
-\contentsline {chapter}{\numberline {3}The impact of diabetes on employment in Mexico}{70}{chapter.3}
-\contentsline {section}{\nonumberline Introduction}{71}{section*.100}
-\contentsline {section}{\nonumberline Methodology}{74}{section*.103}
-\contentsline {subsection}{\nonumberline Dataset and descriptive statistics}{74}{section*.104}
-\contentsline {subsection}{\nonumberline Econometric specification}{76}{section*.108}
-\contentsline {section}{\nonumberline Results}{80}{section*.110}
-\contentsline {subsection}{\nonumberline Probit results}{80}{section*.111}
-\contentsline {subsection}{\nonumberline IV results}{82}{section*.114}
-\contentsline {subsection}{\nonumberline Differences by age groups}{85}{section*.119}
-\contentsline {subsection}{\nonumberline Differences by wealth}{87}{section*.122}
-\contentsline {subsection}{\nonumberline Differences by employment type}{89}{section*.125}
-\contentsline {section}{\nonumberline Conclusion}{91}{section*.128}
-\contentsline {chapter}{\numberline {4}The impact of diabetes on labour market outcomes in Mexico: a panel data and biomarker analysis}{95}{chapter.4}
-\contentsline {section}{\nonumberline Introduction}{96}{section*.132}
-\contentsline {section}{\nonumberline Diabetes and labour market outcomes---existing evidence}{98}{section*.136}
-\contentsline {section}{\nonumberline Data}{101}{section*.139}
-\contentsline {section}{\nonumberline Estimation strategy}{104}{section*.143}
-\contentsline {subsection}{\nonumberline Panel data on self-reported diabetes}{105}{section*.144}
-\contentsline {subsection}{\nonumberline Self-reported diabetes duration}{106}{section*.145}
-\contentsline {subsection}{\nonumberline Cross-section: biomarker and self-reported data}{107}{section*.147}
-\contentsline {section}{\nonumberline Results}{110}{section*.148}
-\contentsline {subsection}{\nonumberline Incidence of self-reported diabetes}{110}{section*.149}
-\contentsline {subsection}{\nonumberline Duration of self-reported diabetes}{115}{section*.156}
-\contentsline {subsection}{\nonumberline Cross-sectional biomarker analysis}{122}{section*.165}
-\contentsline {section}{\nonumberline Conclusion}{127}{section*.172}
-\contentsline {chapter}{\numberline {5} The relationship between diabetes, employment status and behavioural risk factors: An application of marginal structural models and fixed effects to Chinese panel data}{130}{chapter.5}
-\contentsline {section}{\nonumberline Introduction}{132}{section*.177}
-\contentsline {section}{\nonumberline Methods}{136}{section*.186}
-\contentsline {subsection}{\nonumberline Study sample}{136}{section*.187}
-\contentsline {subsection}{\nonumberline Assessment of diabetes}{137}{section*.188}
-\contentsline {subsection}{\nonumberline Assessment of outcomes}{137}{section*.189}
-\contentsline {subsection}{\nonumberline Statistical analysis}{138}{section*.191}
-\contentsline {subsubsection}{\nonumberline Marginal structural models}{138}{section*.192}
-\contentsline {subsubsection}{\nonumberline Fixed effects}{141}{section*.195}
-\contentsline {subsubsection}{\nonumberline Random effects}{142}{section*.197}
-\contentsline {subsubsection}{\nonumberline Multiple imputation}{142}{section*.198}
-\contentsline {subsubsection}{\nonumberline Numbers of observations}{142}{section*.199}
-\contentsline {subsubsection}{\nonumberline Sensitivity analyses}{144}{section*.200}
-\contentsline {section}{\nonumberline Results}{144}{section*.201}
-\contentsline {section}{\nonumberline Discussion}{154}{section*.212}
-\contentsline {subsection}{\nonumberline Limitations}{154}{section*.213}
-\contentsline {subsection}{\nonumberline Potential mechanisms}{155}{section*.214}
-\contentsline {section}{\nonumberline Conclusion}{158}{section*.215}
-\contentsline {chapter}{\numberline {6}Discussion and conclusions}{159}{chapter.6}
-\contentsline {section}{\nonumberline Chapter overview}{160}{section*.216}
-\contentsline {section}{\nonumberline Summary of principal findings}{160}{section*.218}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:review}}{160}{section*.219}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex1}}{162}{section*.224}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex2}}{162}{section*.225}
-\contentsline {paragraph}{\nonumberline Chapter \ref {cha:China}}{163}{section*.228}
-\contentsline {section}{\nonumberline Implications for policy making}{164}{section*.232}
-\contentsline {subsection}{\nonumberline Inequities in the economic burden of diabetes}{164}{section*.233}
-\contentsline {subsubsection}{\nonumberline Gender}{165}{section*.235}
-\contentsline {subsubsection}{\nonumberline Prevention}{166}{section*.236}
-\contentsline {subsubsection}{\nonumberline Diagnosis}{168}{section*.238}
-\contentsline {subsubsection}{\nonumberline Treatment}{169}{section*.239}
-\contentsline {section}{\nonumberline Strengths and limitations}{171}{section*.240}
-\contentsline {section}{\nonumberline Suggestions for future research}{173}{section*.242}
-\contentsline {section}{\nonumberline Conclusion}{175}{section*.244}
-\contentsline {chapter}{\nonumberline References}{177}{chapter*.245}
-\contentsline {chapter}{\nameref {cha:Appendix}}{201}{chapter*.246}
-\contentsline {chapter}{\numberline {{I}}Appendix to Chapter \ref {cha:intro}}{202}{chapter.1}
-\contentsline {chapter}{\numberline {{II}}Appendix to Chapter \ref {cha:review}}{216}{chapter.2}
-\contentsline {chapter}{\numberline {{III}}Appendix to Chapter \ref {cha:Mex1}}{253}{chapter.3}
-\contentsline {chapter}{\numberline {{IV}}Appendix to Chapter \ref {cha:Mex2}}{271}{chapter.4}
-\contentsline {chapter}{\numberline {{V}}Appendix to Chapter \ref {cha:China}}{274}{chapter.5}
+\contentsline {chapter}{\nameref {abbreviations}}{15}{chapter*.17}
+\contentsline {chapter}{\numberline {1}General introduction}{17}{chapter.1}
+\contentsline {section}{\nonumberline Background to the thesis}{18}{section*.19}
+\contentsline {subsection}{\nonumberline Types of diabetes}{19}{section*.24}
+\contentsline {subsection}{\nonumberline Diabetes complications}{20}{section*.26}
+\contentsline {subsection}{\nonumberline Diabetes prevention}{20}{section*.27}
+\contentsline {subsection}{\nonumberline The need for further economic research on diabetes}{21}{section*.28}
+\contentsline {section}{\nonumberline Objectives of the thesis}{21}{section*.30}
+\contentsline {subsection}{\nonumberline The global economic burden of diabetes}{22}{section*.31}
+\contentsline {subsection}{\nonumberline The labour market impact of type 2 diabetes}{22}{section*.32}
+\contentsline {subsubsection}{\nonumberline Identification of the causal effect of diabetes on labour market outcomes}{23}{section*.36}
+\contentsline {subsubsection}{\nonumberline Do the effects of diabetes change over time?}{24}{section*.39}
+\contentsline {subsubsection}{\nonumberline Measurement of diabetes in household surveys}{24}{section*.40}
+\contentsline {subsection}{\nonumberline Diabetes, behavioural risk factors and employment status}{25}{section*.42}
+\contentsline {section}{\nonumberline Thesis methods and structure}{27}{section*.46}
+\contentsline {chapter}{\numberline {2}The economic costs of type 2 diabetes: a global systematic review}{28}{chapter.2}
+\contentsline {section}{\nonumberline Introduction}{30}{section*.51}
+\contentsline {section}{\nonumberline Methods}{31}{section*.52}
+\contentsline {subsection}{\nonumberline Search strategy}{31}{section*.54}
+\contentsline {subsection}{\nonumberline Inclusion and exclusion criteria}{32}{section*.55}
+\contentsline {subsection}{\nonumberline Data extraction and analysis}{32}{section*.56}
+\contentsline {section}{\nonumberline Results}{35}{section*.60}
+\contentsline {subsection}{\nonumberline Cost-of-illness studies on type 2 diabetes}{35}{section*.61}
+\contentsline {subsubsection}{\nonumberline Number of studies}{35}{section*.62}
+\contentsline {subsubsection}{\nonumberline Regional distribution}{35}{section*.63}
+\contentsline {subsubsection}{\nonumberline Data sources}{36}{section*.64}
+\contentsline {subsubsection}{\nonumberline Variation in costing approaches}{36}{section*.65}
+\contentsline {subsubsection}{\nonumberline Study perspective}{37}{section*.68}
+\contentsline {subsubsection}{\nonumberline Costing components}{40}{section*.70}
+\contentsline {subsubsection}{\nonumberline Cost estimates of diabetes using a prevalence approach}{40}{section*.71}
+\contentsline {subsubsection}{\nonumberline Direct and indirect costs of diabetes}{43}{section*.77}
+\contentsline {subsubsection}{\nonumberline Studies using the incidence approach}{43}{section*.79}
+\contentsline {subsubsection}{\nonumberline Country level costs prediction studies}{50}{section*.80}
+\contentsline {subsection}{\nonumberline The impact of diabetes on employment probabilities and productivity}{50}{section*.82}
+\contentsline {subsubsection}{\nonumberline Employment probabilities}{50}{section*.83}
+\contentsline {subsubsection}{\nonumberline Productivity}{58}{section*.87}
+\contentsline {section}{\nonumberline Discussion}{64}{section*.89}
+\contentsline {subsection}{\nonumberline General findings and developments since the 2004 review of diabetes COI studies}{64}{section*.90}
+\contentsline {subsection}{\nonumberline Labour market studies}{66}{section*.91}
+\contentsline {subsection}{\nonumberline Comparison of COI and labour market studies: common themes and lessons learned}{67}{section*.92}
+\contentsline {subsection}{\nonumberline Limitations}{69}{section*.93}
+\contentsline {section}{\nonumberline Conclusion}{70}{section*.94}
+\contentsline {chapter}{\numberline {3}The impact of diabetes on employment in Mexico}{71}{chapter.3}
+\contentsline {section}{\nonumberline Introduction}{72}{section*.100}
+\contentsline {section}{\nonumberline Methodology}{75}{section*.103}
+\contentsline {subsection}{\nonumberline Dataset and descriptive statistics}{75}{section*.104}
+\contentsline {subsection}{\nonumberline Econometric specification}{77}{section*.108}
+\contentsline {section}{\nonumberline Results}{81}{section*.110}
+\contentsline {subsection}{\nonumberline Probit results}{81}{section*.111}
+\contentsline {subsection}{\nonumberline IV results}{83}{section*.114}
+\contentsline {subsection}{\nonumberline Differences by age groups}{86}{section*.119}
+\contentsline {subsection}{\nonumberline Differences by wealth}{88}{section*.122}
+\contentsline {subsection}{\nonumberline Differences by employment type}{90}{section*.125}
+\contentsline {section}{\nonumberline Conclusion}{92}{section*.128}
+\contentsline {chapter}{\numberline {4}The impact of diabetes on labour market outcomes in Mexico: a panel data and biomarker analysis}{96}{chapter.4}
+\contentsline {section}{\nonumberline Introduction}{97}{section*.132}
+\contentsline {section}{\nonumberline Diabetes and labour market outcomes---existing evidence}{99}{section*.136}
+\contentsline {section}{\nonumberline Data}{102}{section*.139}
+\contentsline {section}{\nonumberline Estimation strategy}{105}{section*.143}
+\contentsline {subsection}{\nonumberline Panel data on self-reported diabetes}{106}{section*.144}
+\contentsline {subsection}{\nonumberline Self-reported diabetes duration}{107}{section*.145}
+\contentsline {subsection}{\nonumberline Cross-section: biomarker and self-reported data}{108}{section*.147}
+\contentsline {section}{\nonumberline Results}{111}{section*.148}
+\contentsline {subsection}{\nonumberline Incidence of self-reported diabetes}{111}{section*.149}
+\contentsline {subsection}{\nonumberline Duration of self-reported diabetes}{116}{section*.156}
+\contentsline {subsection}{\nonumberline Cross-sectional biomarker analysis}{123}{section*.165}
+\contentsline {section}{\nonumberline Conclusion}{128}{section*.172}
+\contentsline {chapter}{\numberline {5} The relationship between diabetes, employment status and behavioural risk factors: An application of marginal structural models and fixed effects to Chinese panel data}{131}{chapter.5}
+\contentsline {section}{\nonumberline Introduction}{133}{section*.177}
+\contentsline {section}{\nonumberline Methods}{137}{section*.186}
+\contentsline {subsection}{\nonumberline Study sample}{137}{section*.187}
+\contentsline {subsection}{\nonumberline Assessment of diabetes}{138}{section*.188}
+\contentsline {subsection}{\nonumberline Assessment of outcomes}{138}{section*.189}
+\contentsline {subsection}{\nonumberline Statistical analysis}{139}{section*.191}
+\contentsline {subsubsection}{\nonumberline Marginal structural models}{139}{section*.192}
+\contentsline {subsubsection}{\nonumberline Fixed effects}{142}{section*.195}
+\contentsline {subsubsection}{\nonumberline Random effects}{143}{section*.197}
+\contentsline {subsubsection}{\nonumberline Multiple imputation}{143}{section*.198}
+\contentsline {subsubsection}{\nonumberline Numbers of observations}{143}{section*.199}
+\contentsline {subsubsection}{\nonumberline Sensitivity analyses}{145}{section*.200}
+\contentsline {section}{\nonumberline Results}{145}{section*.201}
+\contentsline {section}{\nonumberline Discussion}{155}{section*.212}
+\contentsline {subsection}{\nonumberline Limitations}{155}{section*.213}
+\contentsline {subsection}{\nonumberline Potential mechanisms}{156}{section*.214}
+\contentsline {section}{\nonumberline Conclusion}{159}{section*.215}
+\contentsline {chapter}{\numberline {6}Discussion and conclusions}{160}{chapter.6}
+\contentsline {section}{\nonumberline Chapter overview}{161}{section*.216}
+\contentsline {section}{\nonumberline Summary of principal findings}{161}{section*.218}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:review}}{161}{section*.219}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex1}}{163}{section*.224}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:Mex2}}{163}{section*.225}
+\contentsline {paragraph}{\nonumberline Chapter \ref {cha:China}}{164}{section*.228}
+\contentsline {section}{\nonumberline Implications for policy making}{165}{section*.232}
+\contentsline {subsection}{\nonumberline Inequities in the economic burden of diabetes}{165}{section*.233}
+\contentsline {subsubsection}{\nonumberline Gender}{166}{section*.235}
+\contentsline {subsubsection}{\nonumberline Prevention}{167}{section*.236}
+\contentsline {subsubsection}{\nonumberline Diagnosis}{169}{section*.238}
+\contentsline {subsubsection}{\nonumberline Treatment}{170}{section*.239}
+\contentsline {section}{\nonumberline Strengths and limitations}{172}{section*.240}
+\contentsline {section}{\nonumberline Suggestions for future research}{174}{section*.242}
+\contentsline {section}{\nonumberline Conclusion}{176}{section*.244}
+\contentsline {chapter}{\nonumberline References}{178}{chapter*.245}
+\contentsline {chapter}{\nameref {cha:Appendix}}{202}{chapter*.246}
+\contentsline {chapter}{\numberline {{I}}Appendix to Chapter \ref {cha:intro}}{203}{chapter.1}
+\contentsline {chapter}{\numberline {{II}}Appendix to Chapter \ref {cha:review}}{217}{chapter.2}
+\contentsline {chapter}{\numberline {{III}}Appendix to Chapter \ref {cha:Mex1}}{254}{chapter.3}
+\contentsline {chapter}{\numberline {{IV}}Appendix to Chapter \ref {cha:Mex2}}{272}{chapter.4}
+\contentsline {chapter}{\numberline {{V}}Appendix to Chapter \ref {cha:China}}{275}{chapter.5}
