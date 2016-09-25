@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  24 SEP 2016 18:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  25 SEP 2016 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2790,9 +2790,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--360
 
 ] [65] [66] [67] [68] [69] [70])
 Chapter 3.
-Package acronym Info: Label `acro:HIC' overridden on input line 120.
-Package acronym Info: Label `acro:IV' overridden on input line 122.
-Package acronym Info: Label `acro:MIC' overridden on input line 122.
+Package acronym Info: Label `acro:HIC' overridden on input line 127.
+Package acronym Info: Label `acro:IV' overridden on input line 129.
+Package acronym Info: Label `acro:MIC' overridden on input line 129.
 [71
 
 
@@ -2821,8 +2821,8 @@ Package acronym Info: Label `acro:BMI' overridden on input line 343.
  [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
 [91] [92] [93] [94] [95])
 Chapter 4.
-Package acronym Info: Label `acro:IV' overridden on input line 128.
-Package acronym Info: Label `acro:MxFLS' overridden on input line 128.
+Package acronym Info: Label `acro:IV' overridden on input line 135.
+Package acronym Info: Label `acro:MxFLS' overridden on input line 135.
 [96
 
 
@@ -2946,7 +2946,7 @@ Package acronym Warning: Acronym `LMICs' is not defined on input line 746.
 
 [129]) [130]
 Chapter 5.
-Package acronym Info: Label `acro:MIC' overridden on input line 137.
+Package acronym Info: Label `acro:MIC' overridden on input line 144.
 [131
 
 
@@ -3104,73 +3104,73 @@ although it is yet undefined on input line 115.
 
 
 ] [179]
-Overfull \hbox (17.10063pt too wide) in paragraph at lines 150--150
+Overfull \hbox (17.10063pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Barquera, S., Campos-Nonato, I., Aguilar-Salinas, C., Lopez-
 Ridaura, R., Arredondo,
  []
 
 
-Overfull \hbox (2.82166pt too wide) in paragraph at lines 150--150
+Overfull \hbox (2.82166pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 creas-ing among Mex-i-can Ado-les-cents and Adults.'' \T1/lmr/m/
 it/12 Jour-nal of Nu-tri-tion \T1/lmr/m/n/12 138 (12),
  []
 
 [180]
-Overfull \hbox (19.97063pt too wide) in paragraph at lines 150--150
+Overfull \hbox (19.97063pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 women: Car-dio-vas-cu-lar dis-ease, di-a-betes, and stress uri-n
 ary in-con-ti-nence.'' \T1/lmr/m/it/12 Women's
  []
 
 [181]
-Overfull \hbox (7.63742pt too wide) in paragraph at lines 150--150
+Overfull \hbox (7.63742pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Cameron, A., Ewen, M., Ross-Degnan, D., Ball, D., and Laing,
  R. (2009). ``Medicine
  []
 
 [182] [183] [184]
-Overfull \hbox (7.6974pt too wide) in paragraph at lines 150--150
+Overfull \hbox (7.6974pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Esteghamati, A., Khalilzadeh, O., An-vari, M., Meysamie, A.,
  Ab-basi, M., Forouzan-
  []
 
 
-Overfull \hbox (1.01161pt too wide) in paragraph at lines 150--150
+Overfull \hbox (1.01161pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 far, M., and Alaed-dini, F. (2009). ``The eco-nomic costs of di-
 a-betes: a population-
  []
 
 [185] [186] [187] [188] [189] [190]
-Overfull \hbox (8.0984pt too wide) in paragraph at lines 150--150
+Overfull \hbox (8.0984pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 ARNO ob-ser-va-tory.'' \T1/lmr/m/it/12 Nu-tri-tion, metabolism, 
 and car-dio-vas-cu-lar dis-eases : NMCD
  []
 
 [191]
-Overfull \hbox (4.62935pt too wide) in paragraph at lines 150--150
+Overfull \hbox (4.62935pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 ``The cost of treat-ing type 2 di-a-betes (CODEIRE).'' \T1/lmr/m
 /it/12 Irish med-i-cal jour-nal \T1/lmr/m/n/12 99 (10),
  []
 
 [192] [193]
-Overfull \hbox (8.27231pt too wide) in paragraph at lines 150--150
+Overfull \hbox (8.27231pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 and Mor-tal-ity for Cana-dian Ur-ban and Ru-ral Pa-tients with D
 i-a-betes: Population-
  []
 
 [194]
-Overfull \hbox (7.45226pt too wide) in paragraph at lines 150--150
+Overfull \hbox (7.45226pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 ``Re-source use and costs of type 2 di-a-betes in Swe-den - es-t
 i-mates from population-
  []
 
 [195]
-Overfull \hbox (0.80174pt too wide) in paragraph at lines 150--150
+Overfull \hbox (0.80174pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 (2004). ``Di-rect med-i-cal costs of type 2 di-a-betes and its c
 om-pli-ca-tions in Switzer-
  []
 
 [196] [197] [198] [199] [200]
-Overfull \hbox (26.56421pt too wide) in paragraph at lines 150--150
+Overfull \hbox (26.56421pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 and Nu-tri-tion Sur-vey, 1989-2011.'' \T1/lmr/m/it/12 Obe-sity R
 e-views \T1/lmr/m/n/12 15 (S1), 2^^U7. arXiv: []$\T1/lmtt/m/n/12 NIHMS150003$[]
 \T1/lmr/m/n/12 . 
@@ -7904,12 +7904,12 @@ F inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /usr/bin/pdflatex (file ./Chapter5/Figures/mi_obese_re.pdf): PD
 F inclusion: multiple pdfs with page group included in a single page
 >])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
  (./Thesis.aux (./Introduction.aux) (./Chapter2.aux) (./Chapter3.aux)
 (./Chapter4.aux) (./Chapter5.aux) (./Conclusion.aux) (./Appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: FE8935A227B1977765267ED71F1BFB69;6131.
 
@@ -7919,12 +7919,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
  30262 strings out of 493304
- 565057 string characters out of 6139871
- 2462483 words of memory out of 5000000
+ 565049 string characters out of 6139871
+ 2461483 words of memory out of 5000000
  32149 multiletter control sequences out of 15000+600000
  129325 words of font info for 105 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -7947,7 +7947,7 @@ share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Thesis.pdf (289 pages, 1522034 bytes).
+Output written on Thesis.pdf (289 pages, 1525148 bytes).
 PDF statistics:
  6358 PDF objects out of 7423 (max. 8388607)
  4224 compressed objects within 43 object streams
