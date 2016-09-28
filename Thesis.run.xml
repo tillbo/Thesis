@@ -82,7 +82,6 @@
       <file>Thesis.bcf</file>
     </requires>
     <requires type="editable">
-      <file>/home/till/Dokumente/BibTex/Second_Mexico_paper-Article.bib</file>
       <file>/home/till/Dokumente/BibTex/Thesis.bib</file>
     </requires>
   </external>

@@ -73,6 +73,7 @@ url=false,
 doi=false,
 isbn=false]{biblatex}
 
+
 \DeclareNameAlias{sortname}{last-first}
 \DeclareFieldFormat{pages}{#1}%
 \renewcommand*{\nameyeardelim}{\addcomma\space} %adds comma between name and years in citations
@@ -100,13 +101,14 @@ isbn=false]{biblatex}
      {\thefield{entrytype}}.}
   {\multicitedelim}
   {\usebibmacro{postnote}}
-\addbibresource{/home/till/Dokumente/BibTex/Second_Mexico_paper-Article.bib}
 \addbibresource{/home/till/Dokumente/BibTex/Thesis.bib}
 
 %have it say References instead of Bibliography in TOC
 \DefineBibliographyStrings{english}{bibliography = {References},
 }
 
+
+\usepackage{afterpage}
 %\nobibliography*
 %limiting tables to only float within section
 %\usepackage[chapter]{placeins}

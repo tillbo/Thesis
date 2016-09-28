@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  26 SEP 2016 00:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  26 SEP 2016 15:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1176,8 +1176,14 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )))
-Package biblatex Info: Redefining '\fullcite' on input line 95.
+Package biblatex Info: Redefining '\fullcite' on input line 96.
 
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks30
+\AP@partial=\box36
+\AP@footins=\box37
+)
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
@@ -1275,15 +1281,15 @@ Package: l3fp 2014/01/04 v4642 L3 Floating points
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
 Package: l3box 2013/07/28 v4581 L3 Experimental boxes
-\c_empty_box=\box36
-\l_tmpa_box=\box37
-\l_tmpb_box=\box38
-\g_tmpa_box=\box39
-\g_tmpb_box=\box40
+\c_empty_box=\box38
+\l_tmpa_box=\box39
+\l_tmpb_box=\box40
+\g_tmpa_box=\box41
+\g_tmpb_box=\box42
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
 Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
-\l__coffin_internal_box=\box41
+\l__coffin_internal_box=\box43
 \l__coffin_internal_dim=\dimen171
 \l__coffin_offset_x_dim=\dimen172
 \l__coffin_offset_y_dim=\dimen173
@@ -1291,14 +1297,14 @@ Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
 \l__coffin_y_dim=\dimen175
 \l__coffin_x_prime_dim=\dimen176
 \l__coffin_y_prime_dim=\dimen177
-\c_empty_coffin=\box42
-\l__coffin_aligned_coffin=\box43
-\l__coffin_aligned_internal_coffin=\box44
-\l_tmpa_coffin=\box45
-\l_tmpb_coffin=\box46
-\l__coffin_display_coffin=\box47
-\l__coffin_display_coord_coffin=\box48
-\l__coffin_display_pole_coffin=\box49
+\c_empty_coffin=\box44
+\l__coffin_aligned_coffin=\box45
+\l__coffin_aligned_internal_coffin=\box46
+\l_tmpa_coffin=\box47
+\l_tmpb_coffin=\box48
+\l__coffin_display_coffin=\box49
+\l__coffin_display_coord_coffin=\box50
+\l__coffin_display_pole_coffin=\box51
 \l__coffin_display_offset_dim=\dimen178
 \l__coffin_display_x_dim=\dimen179
 \l__coffin_display_y_dim=\dimen180
@@ -1321,7 +1327,7 @@ Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
 \l__box_bottom_new_dim=\dimen186
 \l__box_left_new_dim=\dimen187
 \l__box_right_new_dim=\dimen188
-\l__box_internal_box=\box50
+\l__box_internal_box=\box52
 \l__coffin_bounding_shift_dim=\dimen189
 \l__coffin_left_corner_dim=\dimen190
 \l__coffin_right_corner_dim=\dimen191
@@ -1344,7 +1350,7 @@ Package: siunitx 2013/07/31 v2.5s A comprehensive (SI) units package
 Package: l3keys2e 2013/12/31 v4634 LaTeX2e option processing using LaTeX3 keys
 )
 Variant \tl_if_blank:VTF already defined; not changing it on line 50
-\l__siunitx_tmp_box=\box51
+\l__siunitx_tmp_box=\box53
 \l__siunitx_tmp_dim=\dimen196
 \l__siunitx_tmp_int=\count326
 Variant \prop_get:NVNT already defined; not changing it on line 371
@@ -1359,8 +1365,8 @@ Variant \prop_get:NVNTF already defined; not changing it on line 373
 \l__siunitx_process_integer_min_int=\count333
 \l__siunitx_process_precision_int=\count334
 \l__siunitx_group_min_int=\count335
-\l__siunitx_angle_marker_box=\box52
-\l__siunitx_angle_unit_box=\box53
+\l__siunitx_angle_marker_box=\box54
+\l__siunitx_angle_unit_box=\box55
 \l__siunitx_angle_marker_dim=\dimen197
 \l__siunitx_angle_unit_dim=\dimen198
 \l__siunitx_unit_int=\count336
@@ -1382,10 +1388,10 @@ Normal \dimen register pool exhausted, switching to extended pool.
 \l__siunitx_table_fill_pre_dim=\dimen259
 \l__siunitx_table_fill_post_dim=\dimen260
 \l__siunitx_table_fill_mid_dim=\dimen261
-\l__siunitx_table_pre_box=\box54
-\l__siunitx_table_post_box=\box55
-\l__siunitx_table_mantissa_box=\box56
-\l__siunitx_table_result_box=\box57
+\l__siunitx_table_pre_box=\box56
+\l__siunitx_table_post_box=\box57
+\l__siunitx_table_mantissa_box=\box58
+\l__siunitx_table_result_box=\box59
 \l__siunitx_table_number_align_skip=\skip77
 \l__siunitx_table_text_align_skip=\skip78
 .................................................
@@ -1581,15 +1587,15 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count345
 \scratchdimen=\dimen262
-\scratchbox=\box58
+\scratchbox=\box60
 \nofMPsegments=\count346
 \nofMParguments=\count347
-\everyMPshowfont=\toks30
+\everyMPshowfont=\toks31
 \MPscratchCnt=\count348
 \MPscratchDim=\dimen263
 \MPnumerator=\count349
 \makeMPintoPDFobject=\count350
-\everyMPtoPDFconversion=\toks31
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1616,7 +1622,7 @@ erthousand on input line 3.
 LaTeX Info: Redefining \ohm on input line 3.
 Package gensymb Info: Using \textohm for \ohm on input line 3.
 Package gensymb Info: Using \textmu for \micro on input line 3.
-\AtBeginShipoutBox=\box59
+\AtBeginShipoutBox=\box61
 Package hyperref Info: Link coloring OFF on input line 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -2816,12 +2822,18 @@ LaTeX Warning: Float too large for page by 22.50327pt on input line 191.
 
 ] [78]
 Package acronym Info: Label `acro:BMI' overridden on input line 343.
- [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
-[91] [92] [93])
+ [79] [80] [81] [82] [83] [84] [85] [86] [87
+
+] [88] [89
+
+] [90]
+[91
+
+] [92] [93] [94])
 Chapter 4.
 Package acronym Info: Label `acro:IV' overridden on input line 135.
 Package acronym Info: Label `acro:MxFLS' overridden on input line 135.
-[94
+[95
 
 
 
@@ -2831,28 +2843,28 @@ Package acronym Info: Label `acro:MxFLS' overridden on input line 135.
  (./Chapter4.tex
 Package acronym Info: Label `acro:MIC' overridden on input line 10.
 Package acronym Info: Label `acro:HIC' overridden on input line 10.
- [95
+ [96
 
-] [96]
+] [97]
 Package acronym Info: Label `acro:FE' overridden on input line 21.
 Package acronym Info: Label `acro:HbA1c' overridden on input line 32.
- [97]
+ [98]
 Package acronym Info: Label `acro:LMIC' overridden on input line 38.
- [98] [99] [100]
+ [99] [100] [101]
 Package acronym Info: Label `acro:WHO' newly defined as it shall be overridden
 although it is yet undefined on input line 128.
- [101] [102] [103] [104]
-[105]
+ [102] [103] [104] [105]
+[106]
 Package acronym Info: Label `acro:LPM' newly defined as it shall be overridden
 although it is yet undefined on input line 201.
- [106] [107] [108] [109] [110] [111] [112] [113]
+ [107] [108] [109] [110] [111] [112] [113] [114]
 Package acronym Info: Label `acro:OLS' overridden on input line 383.
- [114
+ [115
 
 
 
 
-] [115]
+] [116]
 Package epstopdf Info: Source file: <Chapter4/Figures/lpoly_works_diabetesdurat
 ion.eps>
 (epstopdf)                    date: 2016-05-09 18:44:41
@@ -2867,7 +2879,7 @@ uration.eps>
 (epstopdf)             \includegraphics on input line 398.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=3075, 3
+<Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf, id=3079, 3
 97.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf Graphi
 c file (type pdf)
@@ -2877,7 +2889,7 @@ Package pdftex.def Info: Chapter4/Figures/lpoly_works_diabetesduration-eps-conv
 erted-to.pdf used on input line 398.
 (pdftex.def)             Requested size: 412.56497pt x 300.05826pt.
 
-[116 <./Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf>]
+[117 <./Chapter4/Figures/lpoly_works_diabetesduration-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Chapter4/Figures/lpoly_wage_diabetesdurati
 on.eps>
 (epstopdf)                    date: 2016-05-09 18:44:42
@@ -2892,7 +2904,7 @@ ation.eps>
 (epstopdf)             \includegraphics on input line 408.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=3085, 39
+<Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf, id=3089, 39
 7.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -2902,7 +2914,7 @@ Package pdftex.def Info: Chapter4/Figures/lpoly_wage_diabetesduration-eps-conve
 rted-to.pdf used on input line 408.
 (pdftex.def)             Requested size: 412.56497pt x 300.05826pt.
 
-[117 <./Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf>]
+[118 <./Chapter4/Figures/lpoly_wage_diabetesduration-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Chapter4/Figures/lpoly_workhrs_diabetesdur
 ation.eps>
 (epstopdf)                    date: 2016-05-09 18:44:10
@@ -2917,7 +2929,7 @@ tesduration.eps>
 (epstopdf)             \includegraphics on input line 418.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=3095,
+<Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf, id=3099,
  397.485pt x 289.08pt>
 File: Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf Grap
 hic file (type pdf)
@@ -2927,71 +2939,60 @@ Package pdftex.def Info: Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-co
 nverted-to.pdf used on input line 418.
 (pdftex.def)             Requested size: 412.56497pt x 300.05826pt.
 
-[118 <./Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf>]
-[119
+[119 <./Chapter4/Figures/lpoly_workhrs_diabetesduration-eps-converted-to.pdf>]
+[120
 
-] [120] [121] [122] [123] [124] [125] [126]
-Package acronym Info: Label `acro:LMICs' newly defined as it shall be overridde
-n
-although it is yet undefined on input line 746.
-
-
-Package acronym Warning: Acronym `LMICs' is not defined on input line 746.
-
-
-Package acronym Warning: Acronym `LMICs' is not defined on input line 746.
-
-[127]) [128]
+] [121] [122] [123] [124] [125] [126] [127] [128]) [129]
 Chapter 5.
 Package acronym Info: Label `acro:MIC' overridden on input line 144.
-[129
+[130
 
 
-] [130]
+] [131]
 \openout2 = `Chapter5.aux'.
 
  (./Chapter5.tex
 Package acronym Info: Label `acro:CHNS' overridden on input line 4.
 Package acronym Info: Label `acro:MIC' overridden on input line 12.
 Package acronym Info: Label `acro:HIC' overridden on input line 12.
- [131
+ [132
 
 ]
 Package acronym Info: Label `acro:OLS' overridden on input line 16.
 Package acronym Info: Label `acro:FE' overridden on input line 16.
 Package acronym Info: Label `acro:MSM' overridden on input line 18.
 Package acronym Info: Label `acro:RE' overridden on input line 18.
- [132]
-Package acronym Info: Label `acro:LMIC' overridden on input line 21.
+Package acronym Info: Label `acro:LMIC' overridden on input line 18.
+ [133]
 Package acronym Info: Label `acro:IV' overridden on input line 27.
- [133] [134] [135]
+ [134] [135] [136]
 Package acronym Info: Label `acro:BMI' overridden on input line 52.
- [136]
+ [137]
 Package acronym Info: Label `acro:DAG' newly defined as it shall be overridden
 although it is yet undefined on input line 62.
- [137]
-<Chapter5/DAG/dag_msm_alt.pdf, id=3345, 694.595pt x 448.67625pt>
+ [138]
+<Chapter5/DAG/dag_msm_alt.pdf, id=3353, 694.595pt x 448.67625pt>
 File: Chapter5/DAG/dag_msm_alt.pdf Graphic file (type pdf)
 
 <use Chapter5/DAG/dag_msm_alt.pdf>
 Package pdftex.def Info: Chapter5/DAG/dag_msm_alt.pdf used on input line 72.
 (pdftex.def)             Requested size: 412.56497pt x 266.50356pt.
- [138] [139 <./Chapter5/DAG/dag_msm_alt.pdf>] <Chapter5/DAG/dag_fe_alt.pdf, id=
-3387, 694.595pt x 448.67625pt>
+ [139] [140 <./Chapter5/DAG/dag_msm_alt.pdf>] <Chapter5/DAG/dag_fe_alt.pdf, id=
+3398, 694.595pt x 448.67625pt>
 File: Chapter5/DAG/dag_fe_alt.pdf Graphic file (type pdf)
 
 <use Chapter5/DAG/dag_fe_alt.pdf>
 Package pdftex.def Info: Chapter5/DAG/dag_fe_alt.pdf used on input line 96.
 (pdftex.def)             Requested size: 412.56497pt x 266.50356pt.
- [140] [141] [142 <./Chapter5/DAG/dag_fe_alt.pdf>] [143] [144]
+ [141] [142] [143 <./Chapter5/DAG/dag_fe_alt.pdf>] [144] [145]
 Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
-[145
+[146
 
 
-] [146] [147] [148] [149]
+] [147] [148] [149] [150]
 Package epstopdf Info: Source file: <Chapter5/Figures/mi_msm_l_all.eps>
 (epstopdf)                    date: 2016-09-11 11:07:51
 (epstopdf)                    size: 42584 bytes
@@ -3004,7 +3005,7 @@ all-eps-converted-to.pdf Chapter5/Figures/mi_msm_l_all.eps>
 (epstopdf)             \includegraphics on input line 348.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf, id=3541, 578.16pt x 289.08
+<Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf, id=3555, 578.16pt x 289.08
 pt>
 File: Chapter5/Figures/mi_msm_l_all-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -3024,7 +3025,7 @@ f>
 (epstopdf)             \includegraphics on input line 354.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_fe-eps-converted-to.pdf, id=3542, 578.16pt x 289.08pt>
+<Chapter5/Figures/mi_fe-eps-converted-to.pdf, id=3556, 578.16pt x 289.08pt>
 File: Chapter5/Figures/mi_fe-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_fe-eps-converted-to.pdf>
@@ -3043,27 +3044,27 @@ f>
 (epstopdf)             \includegraphics on input line 360.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chapter5/Figures/mi_re-eps-converted-to.pdf, id=3543, 578.16pt x 289.08pt>
+<Chapter5/Figures/mi_re-eps-converted-to.pdf, id=3557, 578.16pt x 289.08pt>
 File: Chapter5/Figures/mi_re-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_re-eps-converted-to.pdf>
 Package pdftex.def Info: Chapter5/Figures/mi_re-eps-converted-to.pdf used on in
 put line 360.
 (pdftex.def)             Requested size: 717.00946pt x 358.52165pt.
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.41}
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.43}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.361 ...\textit{Notes} 95\% confidence intervals}
-                                                   [150 <./Chapter5/Figures/mi_
-msm_l_all-eps-converted-to.pdf>] [151 <./Chapter5/Figures/mi_fe-eps-converted-t
-o.pdf>] [152 <./Chapter5/Figures/mi_re-eps-converted-to.pdf>] [153
+                                                   [151 <./Chapter5/Figures/mi_
+msm_l_all-eps-converted-to.pdf>] [152 <./Chapter5/Figures/mi_fe-eps-converted-t
+o.pdf>] [153 <./Chapter5/Figures/mi_re-eps-converted-to.pdf>] [154
 
 
-] [154]
-[155] [156] [157])
+] [155]
+[156] [157] [158])
 Chapter 6.
-[158
+[159
 
 
 
@@ -3075,32 +3076,32 @@ Package acronym Info: Label `acro:MIC' overridden on input line 2.
 Package acronym Info: Label `acro:COI' overridden on input line 10.
 Package acronym Info: Label `acro:LMIC' overridden on input line 10.
 Package acronym Info: Label `acro:HIC' overridden on input line 12.
- [159
+ [160
 
 ]
 Package acronym Info: Label `acro:IV' overridden on input line 14.
- [160]
-Package acronym Info: Label `acro:FE' overridden on input line 28.
  [161]
+Package acronym Info: Label `acro:FE' overridden on input line 28.
+ [162]
 Package acronym Info: Label `acro:HbA1c' overridden on input line 32.
 Package acronym Info: Label `acro:MSM' overridden on input line 35.
 Package acronym Info: Label `acro:CHNS' overridden on input line 35.
 Package acronym Info: Label `acro:BMI' overridden on input line 37.
- [162]
+ [163]
 Package acronym Info: Label `acro:OOP' overridden on input line 47.
- [163] [164] [165]
+ [164] [165] [166]
 Package acronym Info: Label `acro:LIC' overridden on input line 65.
- [166]
-[167] [168] [169] [170]
+ [167]
+[168] [169] [170] [171]
 Package acronym Info: Label `acro:NCD' overridden on input line 103.
- [171]
+ [172]
 Package acronym Info: Label `acro:CHARLS' newly defined as it shall be overridd
 en
 although it is yet undefined on input line 115.
- [172] [173] [174]) [175] [176
+ [173] [174] [175]) [176] [177
 
 
-] [177]
+] [178]
 Overfull \hbox (17.10063pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Barquera, S., Campos-Nonato, I., Aguilar-Salinas, C., Lopez-
 Ridaura, R., Arredondo,
@@ -3112,19 +3113,19 @@ Overfull \hbox (2.82166pt too wide) in paragraph at lines 157--157
 it/12 Jour-nal of Nu-tri-tion \T1/lmr/m/n/12 138 (12),
  []
 
-[178]
+[179]
 Overfull \hbox (19.97063pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 women: Car-dio-vas-cu-lar dis-ease, di-a-betes, and stress uri-n
 ary in-con-ti-nence.'' \T1/lmr/m/it/12 Women's
  []
 
-[179]
+[180]
 Overfull \hbox (7.63742pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Cameron, A., Ewen, M., Ross-Degnan, D., Ball, D., and Laing,
  R. (2009). ``Medicine
  []
 
-[180] [181] [182]
+[181] [182] [183]
 Overfull \hbox (7.6974pt too wide) in paragraph at lines 157--157
 [][]\T1/lmr/m/n/12 Esteghamati, A., Khalilzadeh, O., An-vari, M., Meysamie, A.,
  Ab-basi, M., Forouzan-
@@ -3136,32 +3137,25 @@ Overfull \hbox (1.01161pt too wide) in paragraph at lines 157--157
 a-betes: a population-
  []
 
-[183] [184] [185] [186] [187] [188] [189] [190] [191]
+[184] [185] [186] [187] [188] [189] [190] [191] [192]
 Overfull \hbox (8.27231pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 and Mor-tal-ity for Cana-dian Ur-ban and Ru-ral Pa-tients with D
 i-a-betes: Population-
  []
 
-[192]
+[193]
 Overfull \hbox (7.45226pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 ``Re-source use and costs of type 2 di-a-betes in Swe-den - es-t
 i-mates from population-
  []
 
-[193]
+[194]
 Overfull \hbox (0.80174pt too wide) in paragraph at lines 157--157
 \T1/lmr/m/n/12 (2004). ``Di-rect med-i-cal costs of type 2 di-a-betes and its c
 om-pli-ca-tions in Switzer-
  []
 
-[194] [195] [196] [197] [198]
-Overfull \hbox (26.56421pt too wide) in paragraph at lines 157--157
-\T1/lmr/m/n/12 and Nu-tri-tion Sur-vey, 1989-2011.'' \T1/lmr/m/it/12 Obe-sity R
-e-views \T1/lmr/m/n/12 15 (S1), 2^^U7. arXiv: []$\T1/lmtt/m/n/12 NIHMS150003$[]
-\T1/lmr/m/n/12 . 
- []
-
-[199] [200
+[195] [196] [197] [198] [199] [200] [201
 
 ]
 \openout2 = `Appendix.aux'.
@@ -3173,7 +3167,7 @@ me{chapter.1}) has been already used, duplicate ignored
 l.3 \chapter{Appendix to Chapter \ref{cha:intro}}
                                                  
 Chapter {I}.
-[201
+[202
 
 
 ]
@@ -5292,2422 +5286,2437 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 \T1/lmtt/m/n/10 projects /
  []
 
-[202
+[203
 
-] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213]
-[214]pdfTeX warning (ext4): destination with the same identifier (name{chapter.
+] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214]
+[215]pdfTeX warning (ext4): destination with the same identifier (name{chapter.
 2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46 ...pter{Appendix to Chapter \ref{cha:review}}
                                                   
 Chapter {II}.
-[215
+[216
 
 
-] [216] [217] [218
+] [217] [218] [219
 
-] [219]
-Overfull \hbox (6.3964pt too wide) in paragraph at lines 268--268
+] [220]
+Overfull \hbox (6.3964pt too wide) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Perspective| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Direct
  []
 
 
-Overfull \hbox (6.3964pt too wide) in paragraph at lines 268--268
+Overfull \hbox (7.29715pt too wide) in alignment at lines 269--269
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.3964pt too wide) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Perspective| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Direct
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Overfull \hbox (7.29715pt too wide) in alignment at lines 269--269
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2002--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3 at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 157 at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3.40 at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 178 at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Various
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Arab
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 UDD
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2000--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1514
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2282
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3496$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3379$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 268--268
+Underfull \hbox (badness 1708) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Not pos-
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 268--268
+Underfull \hbox (badness 3930) in paragraph at lines 269--269
 \T1/lmr/m/n/8 si-ble be-
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 268--268
+Underfull \hbox (badness 2443) in paragraph at lines 269--269
 \T1/lmr/m/n/8 cause no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 coun-try
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 spe-cific
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2008--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 5934
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2007);
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 20032
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1993--
  []
 
 
-Overfull \hbox (15.4838pt too wide) in paragraph at lines 268--268
+Overfull \hbox (15.4838pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Saskatchewan 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 large
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ur-ban:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3563
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1993),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3454
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2001),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 small
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ur-ban:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3321
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1993),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3427
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2001),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ru-ral:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3368
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1993),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3289
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 large
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ur-ban:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2665
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1993),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3591
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2001),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 small
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ur-ban:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3453
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1993),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3563
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2001),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ru-ral:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3502
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1993),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3420
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Excess
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 costs:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 In-di-ans
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2227,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Gen-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 pop.
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 268--268
+Underfull \hbox (badness 4416) in paragraph at lines 269--269
 \T1/lmr/m/n/8 tal costs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 with di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 a-betes:
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 268--268
+Underfull \hbox (badness 6876) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3622 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 In-di-ans/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3253 in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 gen-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 pop.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 con-trols:
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 268--268
+Underfull \hbox (badness 1436) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1,395 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 In-di-ans/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 875 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 gen-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Excess
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 costs:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 In-di-ans
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2316,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Gen-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 pop.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2473:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ( to-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 costs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 with di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 a-betes:
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 268--268
+Underfull \hbox (badness 6876) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3766 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3382 in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 gen-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 pop.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 con-trols:
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 268--268
+Underfull \hbox (badness 6876) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1450 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 In-di-ans
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 gen-eral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4564
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (me-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 dian),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 7926
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1246
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (me-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 dian),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2164
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2007
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (pro-jec-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 72916
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2007),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 132472
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 67946
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2007),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 123187
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4982
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2007),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 9058
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2009--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4135
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (3.38
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 times
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 greater
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 than
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1136
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (3.38
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 times
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 greater
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 than
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4800
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (me-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 dian),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 10164
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1412
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (me-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 dian),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2991
  []
 
 
-Overfull \hbox (4.57507pt too wide) in paragraph at lines 268--268
+Overfull \hbox (4.57507pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Columbian 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Overfull \hbox (2.48885pt too wide) in paragraph at lines 268--268
+Overfull \hbox (2.48885pt too wide) in paragraph at lines 269--269
 []\T1/lmr/m/n/8 Honkasalo 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2005--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1998,
  []
 
 
-Overfull \hbox (3.39311pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.39311pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Metropoli- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2784
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1998),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3268
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1529
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1998),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1655
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2107
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1998),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2241
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Excess:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 19364
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (to-tal:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Excess
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2507
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (to-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Excess:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3329
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (to-tal:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2000--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 17299
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 25614
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2400
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2605
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3493
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2007),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3218
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1995--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2000--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 21230
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 26226
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2779
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2611
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3471
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3261
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1998,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Median
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 val-ues:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 10000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (ur-ban),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 6260
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Median
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 val-ues:
  []
 
 
-Underfull \hbox (badness 7740) in paragraph at lines 268--268
+Underfull \hbox (badness 7740) in paragraph at lines 269--269
 \T1/lmr/m/n/8 773 (ur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 25391
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1557
  []
 
 
-Overfull \hbox (1.50568pt too wide) in paragraph at lines 268--268
+Overfull \hbox (1.50568pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 teghamati 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2004,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 401
  []
 
 
-Overfull \hbox (3.16568pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.16568pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (Teheran);
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2117$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 327
  []
 
 
-Overfull \hbox (3.16568pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.16568pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (Teheran);
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1727$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 74
  []
 
 
-Overfull \hbox (3.16568pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.16568pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (Teheran),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 390$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 876622
  []
 
 
-Overfull \hbox (0.80452pt too wide) in paragraph at lines 268--268
+Overfull \hbox (0.80452pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (Teheran)| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 443
  []
 
 
-Overfull \hbox (0.80452pt too wide) in paragraph at lines 268--268
+Overfull \hbox (0.80452pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (Teheran)| 
  []
 
 
-Overfull \hbox (0.80452pt too wide) in paragraph at lines 268--268
+Overfull \hbox (0.80452pt too wide) in paragraph at lines 269--269
  \T1/lmr/m/n/8 (Teheran)| 
  []
 
 
-Overfull \hbox (0.80452pt too wide) in paragraph at lines 268--268
+Overfull \hbox (0.80452pt too wide) in paragraph at lines 269--269
  \T1/lmr/m/n/8 (Teheran)| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 6002
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2001),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3926
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1950
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2001),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1275
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2003--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2465
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (3361
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (di-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 betes),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 896 (no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3328
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (4537
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (di-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 betes),
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 268--268
+Underfull \hbox (badness 1762) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1210 (no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2001--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1990--
  []
 
 
-Overfull \hbox (10.71394pt too wide) in paragraph at lines 268--268
+Overfull \hbox (10.71394pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Community- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 189060
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (di-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 betes),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 99900
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (non-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 a-betes),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 884 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (non-
  []
 
 
-Overfull \hbox (2.69315pt too wide) in paragraph at lines 268--268
+Overfull \hbox (2.69315pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Caribbean|  
  []
 
 
-Overfull \hbox (3.63637pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.63637pt too wide) in paragraph at lines 269--269
 []\T1/lmr/m/n/8 Arredondo 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2004,
  []
 
 
-Overfull \hbox (3.63637pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.63637pt too wide) in paragraph at lines 269--269
 []\T1/lmr/m/n/8 Arredondo 
  []
 
 
-Overfull \hbox (3.63637pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.63637pt too wide) in paragraph at lines 269--269
 []\T1/lmr/m/n/8 Arredondo 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ex-pen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 di-tures
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (52% of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 over-all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ex-pen-di-
  []
 
 
-Overfull \hbox (3.63637pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.63637pt too wide) in paragraph at lines 269--269
 []\T1/lmr/m/n/8 Arredondo 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2003,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 532
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 235
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 297
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1467$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 263$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2002,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 661
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 35622$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4672$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2000--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 571
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1063
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 974
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1283
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1259
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1658
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 July
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2003--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 June
  []
 
 
-Overfull \hbox (5.96407pt too wide) in paragraph at lines 268--268
+Overfull \hbox (5.96407pt too wide) in paragraph at lines 269--269
 []\T1/lmr/m/n/8 Le±niowska 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 prev.)--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 prev.)--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 prev.)--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 5563) in paragraph at lines 268--268
+Underfull \hbox (badness 5563) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Pts (pre
  []
 
 
-Overfull \hbox (3.56235pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.56235pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Eliadarous 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 499
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1987),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1045
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 223
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1987),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 383
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 276
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1987),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 662
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 12102
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1987),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 12287
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1484
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1987),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 1507
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Overfull \hbox (4.80286pt too wide) in paragraph at lines 268--268
+Overfull \hbox (4.80286pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Koopmann 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1998--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 62617
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1998),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 60775
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3499
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (1998),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 3396
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2006--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Overfull \hbox (2.69315pt too wide) in paragraph at lines 268--268
+Overfull \hbox (2.69315pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Caribbean|  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 268--268
+Underfull \hbox (badness 7777) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 no com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 pli-ca-tion:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 5906,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 com-pli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ca-tions:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 20774,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 over-all:
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 268--268
+Underfull \hbox (badness 7777) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 no com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 pli-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 tions:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 2047,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 com-pli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ca-tions:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 7199,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 over-all:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2000,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 7365
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 7327
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 8349
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (2000),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 8306
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 2000--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 3715
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4747
  []
 
 
-Overfull \hbox (1.50551pt too wide) in paragraph at lines 268--268
+Overfull \hbox (1.50551pt too wide) in paragraph at lines 269--269
 []\T1/lmr/m/n/8 O'Connell 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4430
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (17.9%
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 6039
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (17.9%
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1998--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 268--268
+Underfull \hbox (badness 1308) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 SDS and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 61958
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (re-gres-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 sion),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 43452
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (at-
  []
 
 
-Overfull \hbox (1.04051pt too wide) in paragraph at lines 268--268
+Overfull \hbox (1.04051pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 tributable
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 gres-sion),
  []
 
 
-Overfull \hbox (1.04051pt too wide) in paragraph at lines 268--268
+Overfull \hbox (1.04051pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 tributable
  []
 
 
-Overfull \hbox (26.64233pt too wide) in paragraph at lines 268--268
+Overfull \hbox (26.64233pt too wide) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 4966(regression),
  []
 
 
-Overfull \hbox (1.04051pt too wide) in paragraph at lines 268--268
+Overfull \hbox (1.04051pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 tributable
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 1997--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 268--268
+Underfull \hbox (badness 1436) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 5.500 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 women
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 268--268
+Underfull \hbox (badness 6094) in paragraph at lines 269--269
 \T1/lmr/m/n/8 <age 65
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 women
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 >= age
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 65 per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 year,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 233000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 life-time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 6680$[]$or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 women
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 268--268
+Underfull \hbox (badness 6094) in paragraph at lines 269--269
 \T1/lmr/m/n/8 <age 65
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 women
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 >= age
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 65 per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 year,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 282973
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 life-time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 10 year
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 7100
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (undis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 counted
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 268--268
+Underfull \hbox (badness 5302) in paragraph at lines 269--269
 \T1/lmr/m/n/8 per year
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 over 10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 year
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 9072
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (undis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 counted
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 268--268
+Underfull \hbox (badness 5302) in paragraph at lines 269--269
 \T1/lmr/m/n/8 per year
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 over 10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 year
  []
 
 
-Overfull \hbox (24.22049pt too wide) in paragraph at lines 268--268
+Overfull \hbox (24.22049pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 institutionalized 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 268--268
+Underfull \hbox (badness 1308) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 SDS and
  []
 
 
-Overfull \hbox (1.49739pt too wide) in paragraph at lines 268--268
+Overfull \hbox (1.49739pt too wide) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Matching:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 4217,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Dis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ease at-
  []
 
 
-Overfull \hbox (3.40167pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.40167pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 tributable:
  []
 
 
-Overfull \hbox (1.49739pt too wide) in paragraph at lines 268--268
+Overfull \hbox (1.49739pt too wide) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Matching:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 4500,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Dis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 ease at-
  []
 
 
-Overfull \hbox (3.40167pt too wide) in paragraph at lines 268--268
+Overfull \hbox (3.40167pt too wide) in paragraph at lines 269--269
 \T1/lmr/m/n/8 tributable:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 Healthc.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 6616
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (6887 if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 white,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 6162 if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 African
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Amer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 i-can,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 5647 if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 8453
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 (8799 if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 white,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 7873 if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 African
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 Amer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 i-can,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 7215 if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 []|\T1/lmr/m/n/8 WHO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
 \T1/lmr/m/n/8 African
+ []
+
+
+Overfull \hbox (7.29715pt too wide) in alignment at lines 269--269
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.2.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.268 \end{tabularx}
-                     [220
+l.269 \end{tabularx}
+                     [221
 
-] [221] [222] [223] [224] [225] [226] [227] [228]
-[229] [230] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240]
-[241] [242] [243] [244]
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+] [222] [223] [224] [225] [226] [227] [228] [229]
+[230] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241]
+[242] [243] [244] [245]
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 Country
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 \T1/lmr/m/n/8 (year of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 Country
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 \T1/lmr/m/n/8 (year of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|[][]
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 362--362
+Underfull \hbox (badness 2326) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 FIN (2005-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 FRA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 IRN
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 362--362
+Underfull \hbox (badness 2980) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 IRL (1999-
  []
 
 
-Underfull \hbox (badness 4341) in paragraph at lines 362--362
+Underfull \hbox (badness 4341) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 ISR (1999-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 ITA (Au-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 \T1/lmr/m/n/8 gust 2003-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 ITA (Jan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 \T1/lmr/m/n/8 2001-Aug
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 362--362
+Underfull \hbox (badness 2529) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 ITA (1997-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 TWN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 TWN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
 []|\T1/lmr/m/n/8 CARICOM
  []
 
@@ -7715,29 +7724,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.2.4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.362 \end{tabularx}
-                     [245
+l.363 \end{tabularx}
+                     [246
 
 
-] [246] [247] [248] [249] [250] [251]pdfTeX warning (ext4): destination with th
+] [247] [248] [249] [250] [251] [252]pdfTeX warning (ext4): destination with th
 e same identifier (name{chapter.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.370 \chapter{Appendix to Chapter \ref{cha:Mex1}}
+l.371 \chapter{Appendix to Chapter \ref{cha:Mex1}}
                                                   
 Chapter {III}.
-[252
+[253
 
 
 ]
 
-LaTeX Warning: Float too large for page by 22.50867pt on input line 395.
+LaTeX Warning: Float too large for page by 22.50867pt on input line 396.
 
-[253] [254
+[254] [255
 
 
 
-] [255] [256
+] [256
 
 ] [257] [258] [259] [260
 
@@ -7746,70 +7755,70 @@ LaTeX Warning: Float too large for page by 22.50867pt on input line 395.
 
 
 
-] [263] [264]
-[265
+] [263] [264] [265
 
 
-] [266] [267
+]
+[266] [267
 
 ] [268] [269]pdfTeX warning (ext4): destination with the same identifier (name{
 chapter.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.712 \chapter{Appendix to Chapter \ref{cha:Mex2}}
+l.713 \chapter{Appendix to Chapter \ref{cha:Mex2}}
                                                   
 Chapter {IV}.
-Package acronym Info: Label `acro:MxFLS' overridden on input line 718.
+Package acronym Info: Label `acro:MxFLS' overridden on input line 719.
 [270
 
 
 ] [271]
-Underfull \hbox (badness 1769) in paragraph at lines 743--743
+Underfull \hbox (badness 1769) in paragraph at lines 744--744
 []|\T1/lmr/m/n/12 Has di-a-betes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 743--743
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
 \T1/lmr/m/n/12 in 2009 as
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 743--743
+Underfull \hbox (badness 1769) in paragraph at lines 744--744
 []|\T1/lmr/m/n/12 Has di-a-betes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 743--743
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
 \T1/lmr/m/n/12 in 2005 as
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 743--743
+Underfull \hbox (badness 2443) in paragraph at lines 744--744
 []|\T1/lmr/m/n/12 Has no di-a-
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 743--743
+Underfull \hbox (badness 2443) in paragraph at lines 744--744
 []|\T1/lmr/m/n/12 Has no di-a-
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 743--743
+Underfull \hbox (badness 1769) in paragraph at lines 744--744
 []|\T1/lmr/m/n/12 Has di-a-betes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 743--743
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
 \T1/lmr/m/n/12 in 2005 as
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 743--743
+Underfull \hbox (badness 1769) in paragraph at lines 744--744
 []|\T1/lmr/m/n/12 Has di-a-betes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 743--743
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
 \T1/lmr/m/n/12 in 2009 as
  []
 
@@ -7817,19 +7826,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 743--743
 5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.748 ...pter{Appendix to Chapter \ref{cha:China}}
+l.749 ...pter{Appendix to Chapter \ref{cha:China}}
                                                   
 Chapter {V}.
 [273
 
 
 ]
-Overfull \hbox (59.7396pt too wide) in paragraph at lines 781--798
+Overfull \hbox (59.7396pt too wide) in paragraph at lines 782--799
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 781--798
+Underfull \hbox (badness 10000) in paragraph at lines 782--799
 
  []
 
@@ -7849,7 +7858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 781--798
 
 ]
 [286]
-<Chapter5/Figures/mi_msm_l_all_obese.pdf, id=6021, 576.62233pt x 239.8749pt>
+<Chapter5/Figures/mi_msm_l_all_obese.pdf, id=6151, 576.62233pt x 239.8749pt>
 File: Chapter5/Figures/mi_msm_l_all_obese.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_msm_l_all_obese.pdf>
@@ -7857,7 +7866,7 @@ Package pdftex.def Info: Chapter5/Figures/mi_msm_l_all_obese.pdf used on input
 line 1537.
 (pdftex.def)             Requested size: 412.56497pt x 171.63368pt.
 
-<Chapter5/Figures/mi_obese_fe.pdf, id=6022, 575.85353pt x 242.95021pt>
+<Chapter5/Figures/mi_obese_fe.pdf, id=6152, 575.85353pt x 242.95021pt>
 File: Chapter5/Figures/mi_obese_fe.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_obese_fe.pdf>
@@ -7865,18 +7874,18 @@ Package pdftex.def Info: Chapter5/Figures/mi_obese_fe.pdf used on input line 15
 39.
 (pdftex.def)             Requested size: 412.56497pt x 174.06026pt.
 
-<Chapter5/Figures/mi_obese_re.pdf, id=6023, 578.16pt x 289.08pt>
+<Chapter5/Figures/mi_obese_re.pdf, id=6153, 578.16pt x 289.08pt>
 File: Chapter5/Figures/mi_obese_re.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/mi_obese_re.pdf>
 Package pdftex.def Info: Chapter5/Figures/mi_obese_re.pdf used on input line 15
 41.
 (pdftex.def)             Requested size: 412.56497pt x 206.2804pt.
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.41}
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.43}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1542 ...textit{Notes} 95\% confidence intervals}
+l.1542 ...ons for estimation for the later groups}
                                                    [287 <./Chapter5/Figures/mi_
 msm_l_all_obese.pdf> <./Chapter5/Figures/mi_obese_fe.pdf
 
@@ -7894,7 +7903,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: FE8935A227B1977765267ED71F1BFB69;6131.
+(rerunfilecheck)             Checksum: 9697099F8976504B6502314A3AEF8572;6130.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -7905,35 +7914,35 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
- 30244 strings out of 493304
- 564696 string characters out of 6139871
- 2486539 words of memory out of 5000000
- 32135 multiletter control sequences out of 15000+600000
- 129325 words of font info for 105 fonts, out of 8000000 for 9000
+ 30263 strings out of 493304
+ 564930 string characters out of 6139871
+ 2486686 words of memory out of 5000000
+ 32150 multiletter control sequences out of 15000+600000
+ 128048 words of font info for 105 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 50i,15n,87p,16715b,1624s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,15n,87p,16715b,1626s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
 -ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/f
 onts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></usr/
+pfb></usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/l
+m/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Thesis.pdf (287 pages, 1523973 bytes).
+Output written on Thesis.pdf (287 pages, 1532440 bytes).
 PDF statistics:
- 6351 PDF objects out of 7423 (max. 8388607)
- 4219 compressed objects within 43 object streams
- 1028 named destinations out of 1200 (max. 500000)
+ 6481 PDF objects out of 7423 (max. 8388607)
+ 4228 compressed objects within 43 object streams
+ 1029 named destinations out of 1200 (max. 500000)
  748 words of extra memory for PDF output out of 10000 (max. 10000000)
 

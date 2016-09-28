@@ -1143,9 +1143,6 @@
         {{hash=a8a679b6ba32f96ec2459131f18a04bc}{Hills}{H\bibinitperiod}{Nancy}{N\bibinitperiod}{}{}{}{}}%
         {{hash=cbbe6604698427fe0d85b2baaf65beb6}{Lustig}{L\bibinitperiod}{Robert\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=64c97d1e20b856b5dd65476b6d18557b}{Wagner}{W\bibinitperiod}{Bridget}{B\bibinitperiod}{}{}{}{}}%
-      }
       \strng{namehash}{754151ce937f5a5ef069ed5387ed34fe}
       \strng{fullhash}{62bcb6dc426ea7d0f19d7ca2651b753e}
       \field{sortinit}{B}
@@ -1245,9 +1242,6 @@
         {{hash=7a5d9a0f0a1cce7d2792bd6b289b3162}{Boer}{B\bibinitperiod}{Anthonius}{A\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
         {{hash=691393d8b77a89bf373c99ed8457a4d8}{Leufkens}{L\bibinitperiod}{Hubert\bibnamedelimb G\bibnamedelima M}{H\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=ab2784b35428ac6eb42c4e42c1aeed0d}{Mantel-Teeuwisse}{M\bibinithyphendelim T\bibinitperiod}{Aukje\bibnamedelima K.}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=0d927d51eed164157beaa524a7c7ce35}{Catapano}{C\bibinitperiod}{Alberico}{A\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{443cebdb3c128198f48a60d9ead14e04}
       \strng{fullhash}{c33d4b62e9baebaa648538de599f6f62}
@@ -2296,7 +2290,6 @@
       \field{datelabelsource}{}
       \field{labeltitle}{{The medical care costs of obesity: An instrumental variables approach}}
       \field{abstract}{This paper is the first to use the method of instrumental variables (IV) to estimate the impact of obesity on medical costs in order to address the endogeneity of weight and to reduce the bias from reporting error in weight. Models are estimated using restricted-use data from the Medical Expenditure Panel Survey for 2000-2005. The IV model, which exploits genetic variation in weight as a natural experiment, yields estimates of the impact of obesity on medical costs that are considerably higher than the estimates reported in the previous literature. For example, obesity is associated with {\$}656 higher annual medical care costs, but the IV results indicate that obesity raises annual medical costs by {\$}2741 (in 2005 dollars). These results imply that the previous literature has underestimated the medical costs of obesity, resulting in underestimates of the economic rationale for government intervention to reduce obesity-related externalities. ?? 2011 Elsevier B.V.}
-      \field{eprinttype}{arXiv}
       \field{isbn}{1879-1646 (Electronic)$\backslash$r0167-6296 (Linking)}
       \field{issn}{01676296}
       \field{journaltitle}{Journal of Health Economics}
@@ -2307,9 +2300,6 @@
       \field{pages}{219\bibrangedash 230}
       \verb{doi}
       \verb 10.1016/j.jhealeco.2011.10.003
-      \endverb
-      \verb{eprint}
-      \verb arXiv:1011.1669v3
       \endverb
       \keyw{Externalities,Insurance,Medical care costs,Obesity}
     \endentry
@@ -2349,7 +2339,7 @@
       \field{abstract}{The International Diabetes Federation estimates that 415 million adults world-wide now have diabetes and 318 million have impaired glucose tolerance. These numbers are expected to increase to 642 million and 482 million, respectively, by 2040. This burgeoning pandemic places an enormous burden on countries worldwide, particularly resource-poor regions. Numerous landmark trials evalu-ating both intensive lifestyle modification and pharmacological interventions have persuasively demonstrated that type 2 diabetes can be prevented or its onset can be delayed in high-risk individuals with impaired glucose tolerance. However, key challenges remain, including how to scale up such approaches for widespread translation and implementation, how to select appropriately from various interventions and tailor them for different populations and settings, and how to ensure that preventive interventions yield clinically meaningful, cost-effective outcomes. In June 2015, a Diabetes Care Editors' Expert Forum convened to discuss these issues. This article, an outgrowth of the forum, begins with a summary of seminal prevention trials, followed by a discussion of considerations for selecting appropriate populations for intervention and the clinical implications of the various diagnostic criteria for prediabetes. The authors outline knowledge gaps in need of elucidation and explore a possible new avenue for securing reg-ulatory approval of a prevention-related indication for metformin, as well as specific considerations for future pharmacological interventions to delay the on-set of type 2 diabetes. They conclude with descriptions of some innovative, prag-matic translational initiatives already under way around the world. According to the latest International Diabetes Federation (IDF) calculations, an estimated 415 million adults worldwide (8.8{\%} of the global population) have dia-betesda number that is projected to increase to 642 million (10.4{\%}) by 2040. The vast majority of diabetes cases are attributable to type 2 diabetes. Furthermore, an estimated 318 million adults have impaired glucose tolerance (IGT). That number is expected to climb to 482 million in the next 25 years (1). In the U.S. alone, an estimated 86 million adults have prediabetes (2). The toll of diabetes and its complications on patients' health and quality of life is enormous. The burgeoning diabetes pandemic also places a great burden on coun-tries throughout the world, particularly in resource-poor regions. The IDF estimates that global spending to treat diabetes ranged between {\$}673 billion and {\$}1.2 trillion 1}
       \field{issn}{0149-5992}
       \field{journaltitle}{Diabetes Care}
-      \field{number}{July}
+      \field{number}{6}
       \field{title}{{Update and Next Steps for Real- World Translation of Interventions for Type 2 Diabetes Prevention: Reflections From a Diabetes Care Editors' Expert Forum}}
       \field{volume}{39}
       \field{year}{2016}
@@ -3916,6 +3906,41 @@
       \endverb
       \keyw{Adolescents,Children,Global trends,Incidence,Methodology,Prevalence,Systematic review,Type 2 diabetes}
     \endentry
+    \entry{Fewell2004}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=3ce0debc699aa578bf2cc228e8fcbe2f}{Fewell}{F\bibinitperiod}{Zoe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=ce0109bff4b201a75fd0f0ada78847b6}{Wolfe}{W\bibinitperiod}{Frederick}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9acf6e42854b93f19d018931ae318cc0}{Choi}{C\bibinitperiod}{Hyon}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=dac539839ec665149f5a3f05aee0cbe2}{Hernán}{H\bibinitperiod}{Miguel\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=eaf724cf7492eaa29d9da56868ad5f31}{Tilling}{T\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=5e2e47dc10a56d7f43c9123f6117f67b}{Sterne}{S\bibinitperiod}{Jonathan\bibnamedelima AC}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=3ce0debc699aa578bf2cc228e8fcbe2f}{Fewell}{F\bibinitperiod}{Zoe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=ce0109bff4b201a75fd0f0ada78847b6}{Wolfe}{W\bibinitperiod}{Frederick}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9acf6e42854b93f19d018931ae318cc0}{Choi}{C\bibinitperiod}{Hyon}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=dac539839ec665149f5a3f05aee0cbe2}{Hernán}{H\bibinitperiod}{Miguel\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=eaf724cf7492eaa29d9da56868ad5f31}{Tilling}{T\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=5e2e47dc10a56d7f43c9123f6117f67b}{Sterne}{S\bibinitperiod}{Jonathan\bibnamedelima AC}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2841f6d81d0272c2d840d5fc5c121187}
+      \strng{fullhash}{a4b5addb1003a35654c535419c16e132}
+      \field{sortinit}{F}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Controlling for time-dependent confounding using marginal structural models}}
+      \field{abstract}{Longitudinal studies in which exposures, confounders, and outcomes are measured repeatedly over time have the potential to allow causal inferences about the effects of exposure on outcome. There is particular interest in estimating the causal effects of medical treatments (or other interventions) in circumstances in which a randomized controlled trial is difficult or impossible. However, standard methods for estimating exposure effects in longitudinal studies are biased in the presence of time-dependent confounders affected by prior treatment. This article describes the use of marginal structural models (described by Robins, Hern´ an, and Brumback [2000]) to estimate exposure or treatment effects in the presence of time-dependent confounders affected by prior treatment. The method is based on deriving inverse-probability-of-treatment weights, which are then used in a pooled logistic regression model to estimate the causal effect of treatment on outcome. We demonstrate the use of marginal structural models to estimate the effect of methotrexate on mortality in persons suffering from rheuma- toid arthritis.}
+      \field{journaltitle}{The Stata Journal}
+      \field{number}{4}
+      \field{title}{{Controlling for time-dependent confounding using marginal structural models}}
+      \field{volume}{4}
+      \field{year}{2004}
+      \field{pages}{402\bibrangedash 420}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Fewell et al. - 2004 - Controlling for time-dependent confounding using marginal structural models.pdf:pdf
+      \endverb
+      \keyw{causal models,confounding,logistic regression,marginal structural models,st0075,survival analysis,weighted regression}
+    \endentry
     \entry{Filmer2001}{article}{}
       \name{labelname}{2}{}{%
         {{hash=1375397d7e52b76818bfb8287309c495}{Filmer}{F\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
@@ -4830,9 +4855,6 @@
         {{hash=d896e4392248d9e6a5d960424c197402}{Kharazmi}{K\bibinitperiod}{Erfan}{E\bibinitperiod}{}{}{}{}}%
         {{hash=511b5540bf506905ab8c67a367ed0770}{Sadeghi}{S\bibinitperiod}{Aboozar}{A\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=9146862b1a2f78c7edfe598d68174687}{Song}{S\bibinitperiod}{Yiqing}{Y\bibinitperiod}{}{}{}{}}%
-      }
       \strng{namehash}{4db126f3d988db50beafd4fc7e5ae1dc}
       \strng{fullhash}{ab24d580adff465ccf906256ffb59b54}
       \field{sortinit}{J}
@@ -5697,16 +5719,13 @@
       \strng{fullhash}{c6261324494ce0e8939d61955f95b1a9}
       \field{sortinit}{L}
       \field{labelyear}{2014}
-      \field{labelmonth}{07}
       \field{datelabelsource}{}
       \field{labeltitle}{{Costs of diabetes and its complications in Poland}}
       \field{abstract}{OBJECTIVE: Diabetes mellitus (DM) is a major health problem with severe complications and a significant impact on quality of life. It constitutes an enormous burden of disease due to high prevalence, severe co-morbidities and high costs for society. This study is the first comprehensive study on the direct and indirect costs of DM (type 1 and type 2) and associated complications in Poland. METHODS: In order to estimate the direct medical costs of DM and its complications, including the costs of medical consultation, hospitalisation, rehabilitation, drugs and medical equipment, data from the National Health Fund were used. Indirect costs on loss of productivity due to diabetes and its complications were based on data obtained from the ZUS (Social Insurance Institution) and from GUS (Poland's Central Statistical Office). Attributable risk methodology was used to assess the burden of DM complications. RESULTS: A continuous increase of the direct costs of diabetes has been observed since the year 2005. In the analysed time period (2005-2009) the direct costs of medical services for both types of DM doubled. DM is a cause of significant sickness absence and incapacity for work and therefore is associated with a growing productivity decline in Poland. The highest direct costs and indirect costs are associated with treatment of diabetes-related complications. Direct costs of hospital complication treatment were EUR 332 million, which exceeded by more than five times the direct costs of hospital treatment of diabetes per se, which in the same year amounted to EUR 58.5 million. The indirect costs of diabetes-related complications were higher by 41{\%} compared with indirect costs related to DM itself. Total costs of health care services for DM and its complications amounted to EUR 654 million, which constitutes a 2.8{\%} of total health care costs in Poland. Total DM cost in Poland in 2009 amounted EURO 1.5 billion. CONCLUSIONS: DM is causing a growing economic burden on the health care system and on Polish society in terms of health care and productivity losses. Most of the total cost of diabetes are indirect costs caused by productivity losses. Both direct and indirect costs are driven by the cost of diabetes complications.}
       \field{isbn}{1098-3015}
       \field{issn}{1618-7598}
       \field{journaltitle}{The European Journal of Health Economics}
-      \field{month}{07}
       \field{number}{6}
-      \field{series}{ISPOR 14th Annual European Congress Madrid Spain. Conference Start: 20111105 Conference End: 20111108}
       \field{title}{{Costs of diabetes and its complications in Poland}}
       \field{volume}{15}
       \field{year}{2014}
@@ -6623,7 +6642,6 @@
       \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
       \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
       \field{sortinit}{M}
-      \field{extrayear}{1}
       \field{labelyear}{2011}
       \field{labelmonth}{12}
       \field{datelabelsource}{}
@@ -6635,7 +6653,6 @@
       \field{journaltitle}{Health Economics}
       \field{month}{12}
       \field{number}{12}
-      \field{series}{15th Annual International Meeting of the International Society for Pharmacoeconomics and Outcomes Research, ISPOR 2010 Atlanta, GA United States. Conference Start: 20100515 Conference End: 20100519}
       \field{title}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
       \field{volume}{20}
       \field{year}{2011}
@@ -6650,46 +6667,6 @@
       \verb http://doi.wiley.com/10.1002/hec.1685
       \endverb
       \keyw{Algorithms,Diabetes Mellitus,Employment,Employment: statistics {\&} numerical data,Female,Health Surveys,Health Surveys: instrumentation,Humans,Interviews as Topic,Salaries and Fringe Benefits,Salaries and Fringe Benefits: statistics {\&} numeric,Sick Leave,Sick Leave: statistics {\&} numerical data,Type 1,Type 2}
-    \endentry
-    \entry{Minor2010}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {P.C. Langley, University of Minnesota, Minneapolis, MN, United States}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier Ltd}%
-      }
-      \strng{namehash}{66a6d7c669e47575f8c2fc182053aff3}
-      \strng{fullhash}{66a6d7c669e47575f8c2fc182053aff3}
-      \field{sortinit}{M}
-      \field{extrayear}{2}
-      \field{labelyear}{2011}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
-      \field{abstract}{This paper estimates the effect of diabetes on labor-force participation, hours worked, days-out-of-work due to illness, and earnings using data from the National Health Interview Survey. Findings indicate that diabetes, estimated wholly, is significantly detrimental to most labor market outcomes. However, separation of type I and II diabetes shows that much of the negative effect is due to type II diabetes. On average a female with type II diabetes can experience a wage penalty of almost 50{\%} relative to a healthy individual. Additionally, estimates of specifically type II diabetes may be subject to endogeneity bias. To account for this, I utilize whether an individual's biological mother has been diagnosed with diabetes as an instrumental variable. This instrument provides both theoretical and statistical explanatory power to separate the causal effect of type II diabetes on labor-force decisions.}
-      \field{isbn}{1098-3015}
-      \field{issn}{10579230}
-      \field{journaltitle}{Health Economics}
-      \field{month}{12}
-      \field{number}{12}
-      \field{series}{15th Annual International Meeting of the International Society for Pharmacoeconomics and Outcomes Research, ISPOR 2010 Atlanta, GA United States. Conference Start: 20100515 Conference End: 20100519}
-      \field{title}{{The effect of diabetes on female labor force decisions: new evidence from the National Health Interview Survey}}
-      \field{volume}{20}
-      \field{year}{2011}
-      \field{pages}{1468\bibrangedash 1486}
-      \verb{doi}
-      \verb 10.1002/hec.1685
-      \endverb
-      \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop/Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey.pdf:pdf
-      \endverb
-      \keyw{Algorithms,Diabetes Mellitus,Employment,Employment: statistics {\&} numerical data,Female,Health Surveys,Health Surveys: instrumentation,Humans,IBSS,Interviews as Topic,Salaries and Fringe Benefits,Salaries and Fringe Benefits: statistics {\&} numeric,Sick Leave,Sick Leave: statistics {\&} numerical data,Type 1,Type 2,download,duplicates,econlit,embase,excludestudy,inclusion,inpatient,look up at least,methodology,newsearch,noaccess,oldsearch,pubmed,relevant,retrieve,wtp}
     \endentry
     \entry{Minor2013}{article}{}
       \name{labelname}{1}{}{%
@@ -8034,8 +8011,6 @@
       \field{datelabelsource}{}
       \field{labeltitle}{{Diabetes in Asia}}
       \field{abstract}{Prevalence of type 2 diabetes has rapidly increased in native and migrant Asian populations. Diabetes develops at a younger age in Asian populations than in white populations, hence the morbidity and mortality associated with the disease and its complications are also common in young Asian people. The young age of these populations and the high rates of cardiovascular risk factors seen in Asian people substantially increase lifetime risk of cardiovascular disease. Several distinctive features are apparent in pathogenetic factors for diabetes and their thresholds in Asian populations. The economic burden due to diabetes at personal, societal, and national levels is huge. National strategies to raise public awareness about the disease and to improve standard of care and implementation of programmes for primary prevention are urgently needed. ?? 2010 Elsevier Ltd. All rights reserved.}
-      \field{eprintclass}{10.1001}
-      \field{eprinttype}{arXiv}
       \field{isbn}{1474-547X (Electronic)$\backslash$r0140-6736 (Linking)}
       \field{issn}{01406736}
       \field{journaltitle}{The Lancet}
@@ -8046,9 +8021,6 @@
       \field{pages}{408\bibrangedash 418}
       \verb{doi}
       \verb 10.1016/S0140-6736(09)60937-5
-      \endverb
-      \verb{eprint}
-      \verb jama.2009.726
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Ramachandran, Wan Ma, Snehalatha - 2010 - Diabetes in Asia.pdf:pdf
@@ -8526,24 +8498,22 @@
       \keyw{Adult,Aged,Diabetes Mellitus,Female,Financ,Type 2,all,download,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
     \entry{RodriguezBolanos2010a}{article}{}
-      \name{labelname}{6}{}{%
+      \name{labelname}{5}{}{%
         {{hash=b8577897984dcad6a7b20adc2743f0a1}{{Rodríguez\bibnamedelimb Bolaños}}{R\bibinitperiod}{Rosibel\bibnamedelimb de\bibnamedelimb Los\bibnamedelima Ángeles}{R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim Á\bibinitperiod}{}{}{}{}}%
         {{hash=b85d3ef57c402cf515aedfceb1abbaec}{{Reynales\bibnamedelimb Shigematsu}}{R\bibinitperiod}{Luz\bibnamedelima Myriam}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=28192f52990561534b64f2b22ced0147}{{Jiménez\bibnamedelimb Ruíz}}{J\bibinitperiod}{Jorge\bibnamedelima Alberto}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=573a240f48c0686dd1772d5870532d3d}{{Juárez\bibnamedelimb Márquezy}}{J\bibinitperiod}{Sergio\bibnamedelima Arturo}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=557e5f17e06d524d6c506c2f554f100f}{{Hernández\bibnamedelimb Ávila}}{H\bibinitperiod}{Mauricio}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=156a3efc2229c922f1f2ceff929dcb57}{R.}{R\bibinitperiod}{De\bibnamedelima los\bibnamedelimb Angeles\bibnamedelimb Rodriguez\bibnamedelima Bolanos}{D\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{6}{}{%
+      \name{author}{5}{}{%
         {{hash=b8577897984dcad6a7b20adc2743f0a1}{{Rodríguez\bibnamedelimb Bolaños}}{R\bibinitperiod}{Rosibel\bibnamedelimb de\bibnamedelimb Los\bibnamedelima Ángeles}{R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim Á\bibinitperiod}{}{}{}{}}%
         {{hash=b85d3ef57c402cf515aedfceb1abbaec}{{Reynales\bibnamedelimb Shigematsu}}{R\bibinitperiod}{Luz\bibnamedelima Myriam}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=28192f52990561534b64f2b22ced0147}{{Jiménez\bibnamedelimb Ruíz}}{J\bibinitperiod}{Jorge\bibnamedelima Alberto}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=573a240f48c0686dd1772d5870532d3d}{{Juárez\bibnamedelimb Márquezy}}{J\bibinitperiod}{Sergio\bibnamedelima Arturo}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{hash=557e5f17e06d524d6c506c2f554f100f}{{Hernández\bibnamedelimb Ávila}}{H\bibinitperiod}{Mauricio}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=156a3efc2229c922f1f2ceff929dcb57}{R.}{R\bibinitperiod}{De\bibnamedelima los\bibnamedelimb Angeles\bibnamedelimb Rodriguez\bibnamedelima Bolanos}{D\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{8dc6b145cbb89356c8852c0a8f3bea89}
-      \strng{fullhash}{b1bcf122c128bc8ea616c1549d0ee53a}
+      \strng{fullhash}{1f519dfa2dd0580b67c74b4c4c822f4e}
       \field{sortinit}{R}
       \field{labelyear}{2010}
       \field{datelabelsource}{}
@@ -8737,13 +8707,10 @@
       \strng{fullhash}{a5a56d67b44e2e7ee1f7b062f7433f65}
       \field{sortinit}{S}
       \field{labelyear}{2012}
-      \field{labelmonth}{03}
       \field{datelabelsource}{}
       \field{labeltitle}{{Intervention strategies to reduce the burden of non-communicable diseases in Mexico: cost effectiveness analysis}}
       \field{issn}{0959-8138}
       \field{journaltitle}{BMJ}
-      \field{month}{03}
-      \field{number}{mar02 1}
       \field{title}{{Intervention strategies to reduce the burden of non-communicable diseases in Mexico: cost effectiveness analysis}}
       \field{volume}{344}
       \field{year}{2012}
@@ -9618,7 +9585,7 @@
       \field{labeltitle}{{Explaining High Health Care Spending in the United States: An International Comparison of Supply, Utilization, Prices, and Quality}}
       \field{abstract}{This analysis uses data from the Organization for Economic Cooperation and Development and other sources to compare health care spending, supply, utilization, prices, and quality in 13 industrialized countries: Australia, Canada, Denmark, France, Germany, Japan, the Netherlands, New Zealand, Norway, Sweden, Switzerland, the United Kingdom, and the United States. The U.S. spends far more on health care than any other country. However this high spending cannot be attributed to higher income, an older population, or greater supply or utilization of hospitals and doctors. Instead, the findings suggest the higher spending is more likely due to higher prices and perhaps more readily accessible technology and greater obesity. Health care quality in the U.S. varies and is not notably superior to the far less expensive systems in the other study countries. Of the countries studied, Japan has the lowest health spending, which it achieves primarily through aggressive price regulation.}
       \field{journaltitle}{Issues in International Health Policy}
-      \field{number}{May}
+      \field{number}{5}
       \field{title}{{Explaining High Health Care Spending in the United States: An International Comparison of Supply, Utilization, Prices, and Quality}}
       \field{volume}{10}
       \field{year}{2012}
@@ -10094,19 +10061,16 @@
       \strng{fullhash}{3bddf839b7b0d8208e34cdcc4696ac62}
       \field{sortinit}{T}
       \field{labelyear}{2015}
-      \field{labelmonth}{01}
       \field{datelabelsource}{}
       \field{labeltitle}{{Type 2 diabetes and cancer: umbrella review of meta-analyses of observational studies}}
       \field{abstract}{To summarise the evidence and evaluate the validity of the associations between type 2 diabetes and the risk of developing or dying from cancer. An umbrella review of the evidence across meta-analyses of observational studies of type 2 diabetes with risk of developing or dying from any cancer. PubMed, Embase, Cochrane database of systematic reviews, and manual screening of references. Meta-analyses or systematic reviews of observational studies in humans that examined the association between type 2 diabetes and risk of developing or dying from cancer. Eligible meta-analyses assessed associations between type 2 diabetes and risk of developing cancer in 20 sites and mortality for seven cancer sites. The summary random effects estimates were significant at P=0.05 in 20 meta-analyses (74{\%}); and all reported increased risks of developing cancer for participants with versus without diabetes. Of the 27 meta-analyses, eventually only seven (26{\%}) compiled evidence on more than 1000 cases, had significant summary associations at P ≤ 0.001 for both random and fixed effects calculations, and had neither evidence of small study effects nor evidence for excess significance. Of those, only six (22{\%}) did not have substantial heterogeneity (I(2)>75{\%}), pertaining to associations between type 2 diabetes and risk of developing breast, cholangiocarcinoma (both intrahepatic and extrahepatic), colorectal, endometrial, and gallbladder cancer. The 95{\%} prediction intervals excluded the null value for four of these associations (breast, intrahepatic cholangiocarcinoma, colorectal, and endometrial cancer). Though type 2 diabetes has been extensively studied in relation to risk of developing cancer and cancer mortality and strong claims of significance exist for most of the studied associations, only a minority of these associations have robust supporting evidence without hints of bias.}
       \field{isbn}{1756-1833 (Electronic)$\backslash$r0959-535X (Linking)}
       \field{issn}{1756-1833}
       \field{journaltitle}{BMJ}
-      \field{month}{01}
-      \field{number}{jan02 1}
       \field{title}{{Type 2 diabetes and cancer: umbrella review of meta-analyses of observational studies}}
       \field{volume}{350}
       \field{year}{2015}
-      \field{pages}{g7607\bibrangedash g7607}
+      \field{pages}{g7607}
       \verb{doi}
       \verb 10.1136/bmj.g7607
       \endverb
@@ -11412,9 +11376,6 @@
         {{hash=293c31f46eb012efc4b2449215c92484}{Chen}{C\bibinitperiod}{Gang}{G\bibinitperiod}{}{}{}{}}%
         {{hash=b4ff48d1a8718e2cfc2ee17af7be51ce}{Brown}{B\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=0d927d51eed164157beaa524a7c7ce35}{Catapano}{C\bibinitperiod}{Alberico}{A\bibinitperiod}{}{}{}{}}%
-      }
       \strng{namehash}{9654adde93317957f37c672e6919677a}
       \strng{fullhash}{090b7defbced6dfde612dc0810aae2dd}
       \field{sortinit}{Y}
@@ -11615,7 +11576,6 @@
       \field{datelabelsource}{}
       \field{labeltitle}{{The China Health and Nutrition Survey, 1989-2011}}
       \field{abstract}{The China Health and Nutrition Survey (CHNS) began in 1989 with the goal of creating a multilevel method of data collection from individuals and households and their communities to understand how the wide-ranging social and economic changes in China affect a wide array of nutrition and health-related outcomes. Initiated with a partial sample in 1989, the full survey runs from 1991 to 2011, and this issue documents the CHNS history. The CHNS cohort includes new household formation and replacement communities and households; all household members are studied. Furthermore, in-depth community data are collected. The sample began with eight provinces and added a ninth, Heilongjiang, in 1997 and three autonomous cities, Beijing, Shanghai, and Chongqing, in 2011. The in-depth community contextual measures have allowed us to create a unique measure of urbanicity that captures major dimensions of modernization across all 288 communities currently in the CHNS sample. The standardized, validated urbanicity measure captures the changes in 12 dimensions: population density; economic activity; traditional markets; modern markets; transportation infrastructure; sanitation; communications; housing; education; diversity; health infrastructure; and social services. Each is based on numerous measures applicable to each dimension. They are used jointly and separately in hundreds of studies.}
-      \field{eprinttype}{arXiv}
       \field{isbn}{1467-789X (Electronic) 1467-7881 (Linking)}
       \field{issn}{14677881}
       \field{journaltitle}{Obesity Reviews}
@@ -11626,9 +11586,6 @@
       \field{pages}{2\bibrangedash 7}
       \verb{doi}
       \verb 10.1111/obr.12119
-      \endverb
-      \verb{eprint}
-      \verb NIHMS150003
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Zhang et al. - 2014 - The China Health and Nutrition Survey, 1989-2011.pdf:pdf
@@ -11817,19 +11774,14 @@
         {{hash=aa8ab45699e62933d0fdce16a5fd5a0f}{Zhang}{Z\bibinitperiod}{Danyi}{D\bibinitperiod}{}{}{}{}}%
         {{hash=0bb2aa57da391b62fcbf5d5a55252c6c}{Hu}{H\bibinitperiod}{Dayi}{D\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=1072972541dcbe32a0b98ec012a30e0a}{Devaney}{D\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
-      }
       \strng{namehash}{d91086ca0be9590b34770c465757b869}
       \strng{fullhash}{af5cedacde37a196cfef9eb39725ab77}
       \field{sortinit}{Z}
       \field{labelyear}{2016}
-      \field{labelmonth}{01}
       \field{datelabelsource}{}
       \field{labeltitle}{{Prevalence of Obesity and Its Influence on Achievement of Cardiometabolic Therapeutic Goals in Chinese Type 2 Diabetes Patients: An Analysis of the Nationwide, Cross-Sectional 3B Study}}
       \field{issn}{1932-6203}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{01}
       \field{number}{1}
       \field{title}{{Prevalence of Obesity and Its Influence on Achievement of Cardiometabolic Therapeutic Goals in Chinese Type 2 Diabetes Patients: An Analysis of the Nationwide, Cross-Sectional 3B Study}}
       \field{volume}{11}
