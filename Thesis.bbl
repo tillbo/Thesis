@@ -1601,6 +1601,38 @@
       \endverb
       \keyw{CE,Cost of Illness,Cost-Benefit Analysis,Diabetes Mel,all,download,econlit,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
     \endentry
+    \entry{Bodner2008}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c2f10ec5cc954308be041d0ffa6167b2}{Bodner}{B\bibinitperiod}{Todd\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c2f10ec5cc954308be041d0ffa6167b2}{Bodner}{B\bibinitperiod}{Todd\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c2f10ec5cc954308be041d0ffa6167b2}
+      \strng{fullhash}{c2f10ec5cc954308be041d0ffa6167b2}
+      \field{sortinit}{B}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{What Improves with Increased Missing Data Imputations?}}
+      \field{abstract}{http://www.informaworld.com/10.1080/10705510802339072$\backslash$nWhen using multiple imputation in the analysis of incomplete data, a prominent guideline suggests$\backslash$nthat more than 10 imputed data values are seldom needed. This article calls into question the$\backslash$noptimism of this guideline and illustrates that important quantities (e.g., p values, confidence$\backslash$ninterval half-widths, and estimated fractions of missing information) suffer from substantial$\backslash$nimprecision with a small number of imputations. Substantively, a researcher can draw categorically$\backslash$ndifferent conclusions about null hypothesis rejection, estimation precision, and missing information$\backslash$nin distinct multiple imputation runs for the same data and analysis with few imputations. This$\backslash$narticle explores the factors associated with this imprecision, demonstrates that precision improves$\backslash$nby increasing the number of imputations, and provides practical guidelines for choosing a reasonable$\backslash$nnumber of imputations to reduce imprecision for each of these quantities.}
+      \field{isbn}{1070-5511}
+      \field{issn}{1070-5511}
+      \field{journaltitle}{Structural Equation Modeling: A Multidisciplinary Journal}
+      \field{number}{February}
+      \field{title}{{What Improves with Increased Missing Data Imputations?}}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{651\bibrangedash 675}
+      \verb{doi}
+      \verb 10.1080/10705510802339072
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Bodner - 2008 - What Improves with Increased Missing Data Imputations.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/10705510802339072
+      \endverb
+    \endentry
     \entry{Bolin2009d}{article}{}
       \name{labelname}{4}{}{%
         {{hash=621262b73525f3f96b2c353790f7c17a}{Bolin}{B\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
@@ -2054,6 +2086,37 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Buescher, Whitmire, Pullen-Smith - 2010 - Medical care costs for diabetes associated with health disparities among adult Medicaid enroll.pdf:pdf
       \endverb
       \keyw{*diabetes mellitus/ep [Epidemiology],*health care cost,*health care disparity,*medicaid,Diabetes Mellitus,Hea,Health Care Costs,United States/ep [Epidemiology],adult,aged,all,article,download,economics,embase,ethnology,extracted,human,included,middle aged,newsearch,prevalence,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Bygbjerg2012}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6e4aafed9a781f250f9aa0c336340049}{Bygbjerg}{B\bibinitperiod}{I.\bibnamedelimi C.}{I\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6e4aafed9a781f250f9aa0c336340049}{Bygbjerg}{B\bibinitperiod}{I.\bibnamedelimi C.}{I\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6e4aafed9a781f250f9aa0c336340049}
+      \strng{fullhash}{6e4aafed9a781f250f9aa0c336340049}
+      \field{sortinit}{B}
+      \field{labelyear}{2012}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Double Burden of Noncommunicable and Infectious Diseases in Developing Countries}}
+      \field{abstract}{On top of the unfinished agenda of infectious diseases in low- and middle-income countries, development, industrialization, urbanization, investment, and aging are drivers of an epidemic of noncommunicable diseases (NCDs). Malnutrition and infection in early life increase the risk of chronic NCDs in later life, and in adult life, combinations of major NCDs and infections, such as diabetes and tuberculosis, can interact adversely. Because intervention against either health problem will affect the other, intervening jointly against noncommunicable and infectious diseases, rather than competing for limited funds, is an important policy consideration requiring new thinking and approaches.}
+      \field{isbn}{1095-9203 (Electronic) 0036-8075 (Linking)}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{09}
+      \field{number}{6101}
+      \field{title}{{Double Burden of Noncommunicable and Infectious Diseases in Developing Countries}}
+      \field{volume}{337}
+      \field{year}{2012}
+      \field{pages}{1499\bibrangedash 1501}
+      \verb{doi}
+      \verb 10.1126/science.1223466
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Double{\_}Burden{\_}of{\_}Noncommunicable{\_}and{\_}Infectious{\_}Diseases.pdf:pdf
+      \endverb
     \endentry
     \entry{Cameron2009g}{article}{}
       \name{labelname}{5}{}{%
@@ -2546,14 +2609,14 @@
       \field{labelyear}{2011}
       \field{labelmonth}{11}
       \field{datelabelsource}{}
-      \field{labeltitle}{{The worldwide epidemiology of type 2 diabetes mellitus—present and future perspectives}}
+      \field{labeltitle}{{The worldwide epidemiology of type 2 diabetes mellitus---present and future perspectives}}
       \field{abstract}{Over the past three decades, the number of people with diabetes mellitus has more than doubled globally, making it one of the most important public health challenges to all nations. Type 2 diabetes mellitus (T2DM) and prediabetes are increasingly observed among children, adolescents and younger adults. The causes of the epidemic of T2DM are embedded in a very complex group of genetic and epigenetic systems interacting within an equally complex societal framework that determines behavior and environmental influences. This complexity is reflected in the diverse topics discussed in this Review. In the past few years considerable emphasis has been placed on the effect of the intrauterine environment in the epidemic of T2DM, particularly in the early onset of T2DM and obesity. Prevention of T2DM is a 'whole-of-life' task and requires an integrated approach operating from the origin of the disease. Future research is necessary to better understand the potential role of remaining factors, such as genetic predisposition and maternal environment, to help shape prevention programs. The potential effect on global diabetes surveillance of using HbA(1c) rather than glucose values in the diagnosis of T2DM is also discussed.}
       \field{isbn}{1759-5029}
       \field{issn}{1759-5029}
       \field{journaltitle}{Nature Reviews Endocrinology}
       \field{month}{11}
       \field{number}{4}
-      \field{title}{{The worldwide epidemiology of type 2 diabetes mellitus—present and future perspectives}}
+      \field{title}{{The worldwide epidemiology of type 2 diabetes mellitus---present and future perspectives}}
       \field{volume}{8}
       \field{year}{2011}
       \field{pages}{228\bibrangedash 236}
@@ -2563,10 +2626,39 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Chen, Magliano, Zimmet - 2012 - The worldwide epidemiology of type 2 diabetes mellitus--present and future perspectives.pdf:pdf
       \endverb
-      \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/22064493%20http://www.nature.com/doifinder/10.1038/nrendo.2011.183
-      \endverb
       \keyw{Animals,Diabetes Mellitus,Forecasting,Global Health,Global Health: trends,Humans,Prediabetic State,Prediabetic State: diagnosis,Prediabetic State: epidemiology,Prediabetic State: therapy,Risk Factors,Type 2,Type 2: diagnosis,Type 2: epidemiology,Type 2: therapy}
+    \endentry
+    \entry{Cheung2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=03c865176e05fe965d34c9d74351ae04}{Cheung}{C\bibinitperiod}{Bernard\bibnamedelimb M\bibnamedelima Y}{B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad699cc0ff44aa8ef2a872dab8e20175}{Li}{L\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=03c865176e05fe965d34c9d74351ae04}{Cheung}{C\bibinitperiod}{Bernard\bibnamedelimb M\bibnamedelima Y}{B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad699cc0ff44aa8ef2a872dab8e20175}{Li}{L\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e02c115009263ba75cfe429fddf98b75}
+      \strng{fullhash}{678bacb13aa980b2095108bc4befebe2}
+      \field{sortinit}{C}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes and hypertension: Is there a common metabolic pathway?}}
+      \field{abstract}{Diabetes and hypertension frequently occur together. There is substantial overlap between diabetes and hypertension in etiology and disease mechanisms. Obesity, inflammation, oxidative stress, and insulin resistance are thought to be the common pathways. Recent advances in the understanding of these pathways have provided new insights and perspectives. Physical activity plays an important protective role in the two diseases. Knowing the common causes and disease mechanisms allows a more effective and proactive approach in their prevention and treatment.}
+      \field{isbn}{1534-6242 (Electronic) 1523-3804 (Linking)}
+      \field{issn}{15233804}
+      \field{journaltitle}{Current Atherosclerosis Reports}
+      \field{number}{2}
+      \field{title}{{Diabetes and hypertension: Is there a common metabolic pathway?}}
+      \field{volume}{14}
+      \field{year}{2012}
+      \field{pages}{160\bibrangedash 166}
+      \verb{doi}
+      \verb 10.1007/s11883-012-0227-2
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Cheung, Li - 2012 - Diabetes and hypertension Is there a common metabolic pathway.pdf:pdf
+      \endverb
+      \keyw{Diabetes,Hypertension,Insulin resistance,Metabolic pathway,Metabolic syndrome,Obesity}
     \endentry
     \entry{Chi2011a}{article}{}
       \name{labelname}{3}{}{%
@@ -3393,6 +3485,47 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Dillon, Friedman, Serneels - 2014 - Health information, treatment, and worker productivity Experimental evidence from malaria testing an.pdf:pdf
       \endverb
     \endentry
+    \entry{Dooley2009}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a73d41a29f6486b39ec78bd08e6d2bd8}{Dooley}{D\bibinitperiod}{Kelly\bibnamedelima E.}{K\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a7256673c4b88248856fea7e02415088}{Chaisson}{C\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a73d41a29f6486b39ec78bd08e6d2bd8}{Dooley}{D\bibinitperiod}{Kelly\bibnamedelima E.}{K\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=a7256673c4b88248856fea7e02415088}{Chaisson}{C\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{695c3b89338f42cd303f0ab3c850104d}
+      \strng{fullhash}{f577e7c49faac8bfab0d91b4d524b9cc}
+      \field{sortinit}{D}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Tuberculosis and diabetes mellitus: convergence of two epidemics}}
+      \field{abstract}{The link between diabetes mellitus and tuberculosis has been recognised for centuries. In recent decades, tuberculosis incidence has declined in high-income countries, but incidence remains high in countries that have high rates of infection with HIV, high prevalence of malnutrition and crowded living conditions, or poor tuberculosis control infrastructure. At the same time, diabetes mellitus prevalence is soaring globally, fuelled by obesity. There is growing evidence that diabetes mellitus is an important risk factor for tuberculosis and might affect disease presentation and treatment response. Furthermore, tuberculosis might induce glucose intolerance and worsen glycaemic control in people with diabetes. We review the epidemiology of the tuberculosis and diabetes epidemics, and provide a synopsis of the evidence for the role of diabetes mellitus in susceptibility to, clinical presentation of, and response to treatment for tuberculosis. In addition, we review potential mechanisms by which diabetes mellitus can cause tuberculosis, the effects of tuberculosis on diabetic control, and pharmacokinetic issues related to the co-management of diabetes and tuberculosis. ?? 2009 Elsevier Ltd. All rights reserved.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1473-3099}
+      \field{issn}{14733099}
+      \field{journaltitle}{The Lancet Infectious Diseases}
+      \field{number}{12}
+      \field{title}{{Tuberculosis and diabetes mellitus: convergence of two epidemics}}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{737\bibrangedash 746}
+      \verb{doi}
+      \verb 10.1016/S1473-3099(09)70282-8
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Dooley, Chaisson - 2009 - Tuberculosis and diabetes mellitus convergence of two epidemics.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S1473-3099(09)70282-8
+      \endverb
+    \endentry
     \entry{VanDooren2013}{article}{}
       \name{labelname}{6}{}{%
         {{hash=664f0b6082d3485fc5294ae55feaca8d}{Dooren}{D\bibinitperiod}{Fleur\bibnamedelimb E\bibnamedelima P}{F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim P\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
@@ -4161,29 +4294,69 @@
       \endverb
       \keyw{Aged,Blood Glucose,Body Mass Index,Counseling,Diabetes Mellitus,Diet,Exercise,Female,Group,Humans,Intervention Studies,Life Style,Male,Middle Aged,Overweight,Patient Education as Topic,Psychotherapy,Remission Induction,Risk Reduction Behavior,Social Support,Treatment Outcome,Type 2,Type 2: therapy,Weight Loss}
     \endentry
+    \entry{Gutierrez-delgado2009}{incollection}{}
+      \name{labelname}{2}{}{%
+        {{hash=4681cc79faf236b07271cd27cbd00bb8}{Gutiérrez-delgado}{G\bibinithyphendelim d\bibinitperiod}{Cristina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c71615cb8429f5d498ccd8e7f5ac2df9}{Guajardo-barrón}{G\bibinithyphendelim b\bibinitperiod}{Veronica}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4681cc79faf236b07271cd27cbd00bb8}{Gutiérrez-delgado}{G\bibinithyphendelim d\bibinitperiod}{Cristina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c71615cb8429f5d498ccd8e7f5ac2df9}{Guajardo-barrón}{G\bibinithyphendelim b\bibinitperiod}{Veronica}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=be1b461572081ef3d6f53288ce1cc7d9}{Gutiérrez-Delgado}{G\bibinithyphendelim D\bibinitperiod}{Cristina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7dbf2afbea6a99ba6c551274d8910808}{Guajardo-Barrón}{G\bibinithyphendelim B\bibinitperiod}{Veronica}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Bingley}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Group Publishing}%
+      }
+      \strng{namehash}{05d151fd85c9f7f495132dd9e605a3b8}
+      \strng{fullhash}{59f9d5cf2c42fdabeb8b8f874e698d4e}
+      \field{sortinit}{G}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The double burden of disease in developing countries: The Mexican experience}}
+      \field{booktitle}{Advances in Health Economics and Health Services Research}
+      \field{isbn}{978-1-84855-664-5}
+      \field{issn}{0731-2199}
+      \field{series}{Advances in Health Economics and Health Services Research}
+      \field{title}{{The double burden of disease in developing countries: The Mexican experience}}
+      \field{volume}{21}
+      \field{year}{2009}
+      \field{pages}{3\bibrangedash 22}
+      \verb{doi}
+      \verb 10.1108/S0731-2199(2009)0000021004
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Gutiérrez-delgado, Guajardo-barrón - 2009 - Advances in Health Economics and Health Services Research.pdf:pdf
+      \endverb
+    \endentry
     \entry{Guzman2010}{article}{}
       \name{labelname}{8}{}{%
-        {{hash=999934ff6ca15fe9e9678497638701fa}{Guzmán}{G\bibinitperiod}{Juan\bibnamedelima Rosas}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cb8a3cb283b5e786b43367cd9c308c6}{Guzman}{G\bibinitperiod}{Juan\bibnamedelima Rosas}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=adb2b2aebab59aafa0440804a8ef1d54}{Lyra}{L\bibinitperiod}{Ruy}{R\bibinitperiod}{}{}{}{}}%
         {{hash=6ff44f43806a6758de1fb4f78cb8c3e1}{Aguilar-Salinas}{A\bibinithyphendelim S\bibinitperiod}{Carlos\bibnamedelima a}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
         {{hash=288051c4b7d6e37863d31aca4d09a578}{Cavalcanti}{C\bibinitperiod}{Saulo}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=c997748461d7c487b476e62859f0896e}{Escaño}{E\bibinitperiod}{Felix}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=09ebd4e382ddbd450b4690468502868a}{Escano}{E\bibinitperiod}{Felix}{F\bibinitperiod}{}{}{}{}}%
         {{hash=ad6fa7721132cf28bcc898d7d9a41ed5}{Tambasia}{T\bibinitperiod}{Marcos}{M\bibinitperiod}{}{}{}{}}%
         {{hash=5811950d7d11a578d0f9fb2c66aa2050}{Duarte}{D\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
         {{hash=17a8225d2cb71aee8cb1dee10cda9363}{{ALAD\bibnamedelimb Consensus\bibnamedelimb Group}}{A\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{8}{}{%
-        {{hash=999934ff6ca15fe9e9678497638701fa}{Guzmán}{G\bibinitperiod}{Juan\bibnamedelima Rosas}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=2cb8a3cb283b5e786b43367cd9c308c6}{Guzman}{G\bibinitperiod}{Juan\bibnamedelima Rosas}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=adb2b2aebab59aafa0440804a8ef1d54}{Lyra}{L\bibinitperiod}{Ruy}{R\bibinitperiod}{}{}{}{}}%
         {{hash=6ff44f43806a6758de1fb4f78cb8c3e1}{Aguilar-Salinas}{A\bibinithyphendelim S\bibinitperiod}{Carlos\bibnamedelima a}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
         {{hash=288051c4b7d6e37863d31aca4d09a578}{Cavalcanti}{C\bibinitperiod}{Saulo}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=c997748461d7c487b476e62859f0896e}{Escaño}{E\bibinitperiod}{Felix}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=09ebd4e382ddbd450b4690468502868a}{Escano}{E\bibinitperiod}{Felix}{F\bibinitperiod}{}{}{}{}}%
         {{hash=ad6fa7721132cf28bcc898d7d9a41ed5}{Tambasia}{T\bibinitperiod}{Marcos}{M\bibinitperiod}{}{}{}{}}%
         {{hash=5811950d7d11a578d0f9fb2c66aa2050}{Duarte}{D\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
         {{hash=17a8225d2cb71aee8cb1dee10cda9363}{{ALAD\bibnamedelimb Consensus\bibnamedelimb Group}}{A\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{7165ae5b9b5fbe0ee9148713a46bdd15}
-      \strng{fullhash}{db87306d1709902856d5dc5698de83e5}
+      \strng{namehash}{6c18b1271c7d9bbf0ad05c5170a76809}
+      \strng{fullhash}{4281437eaba7b2005e3ab633feba16a7}
       \field{sortinit}{G}
       \field{labelyear}{2010}
       \field{labelmonth}{12}
@@ -4235,6 +4408,50 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Gyldmark, Morrison - 2001 - Demand for health care in Denmark results of a national sample survey using contingent valuation.pdf:pdf
       \endverb
       \keyw{*health care cost,*health care need,Adolescent,Adult,Aged,Bias (Epidemiology),Cost-Ben,Denmark,all,article,cost benefit analysis,decision making,diabetes mellitus,download,economic aspect,embase,extracted,financial management,health insurance,hypertension,included,newsearch,public health service,pubmed,questionnaire,relevant,reviewed,selected{\_}papers,statistical model,uterus cancer,wrist fracture,wtp}
+    \endentry
+    \entry{Hanson2012}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=96e261996d3b2726d14d8017416634b6}{Hanson}{H\bibinitperiod}{M\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3f8cd8defc38021fb48f46b36500e53e}{Gluckman}{G\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=68b9ff8082a676d9e9a21b1961fa1e4f}{Ma}{M\bibinitperiod}{R\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=de035ec2929f610497453c50ffdb0c24}{Matzen}{M\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=974352fb04a665e41f24c597d96a0818}{Biesma}{B\bibinitperiod}{R\bibnamedelima G}{R\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=96e261996d3b2726d14d8017416634b6}{Hanson}{H\bibinitperiod}{M\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=3f8cd8defc38021fb48f46b36500e53e}{Gluckman}{G\bibinitperiod}{P\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=68b9ff8082a676d9e9a21b1961fa1e4f}{Ma}{M\bibinitperiod}{R\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=de035ec2929f610497453c50ffdb0c24}{Matzen}{M\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=974352fb04a665e41f24c597d96a0818}{Biesma}{B\bibinitperiod}{R\bibnamedelima G}{R\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {BMC Public Health}%
+      }
+      \strng{namehash}{47dcb66d787a481552deaee6b9fb2e94}
+      \strng{fullhash}{e42efc01dd845780ae4464e22853b698}
+      \field{sortinit}{H}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Early life opportunities for prevention of diabetes in low and middle income countries}}
+      \field{abstract}{BACKGROUND: The global burden of diabetes and other non-communicable diseases is rising dramatically worldwide and is causing a double poor health burden in low- and middle-income countries. Early life influences play an important part in this scenario because maternal lifestyle and conditions such as gestational diabetes and obesity affect the risk of diabetes in the next generation. This indicates important periods during the lifecourse when interventions could have powerful affects in reducing incidence of non-communicable diseases. However, interventions to promote diet and lifestyle in prospective parents before conception have not received sufficient attention, especially in low- and middle-income countries undergoing socio-economic transition. DISCUSSION: Interventions to produce weight loss in adults or to reduce weight gain in pregnancy have had limited success and might be too late to produce the largest effects on the health of the child and his/her later risk of non-communicable diseases. A very important factor in the prevention of the developmental component of diabetes risk is the physiological state in which the parents enter pregnancy. We argue that the most promising strategy to improve prospective parents' body composition and lifestyle is the promotion of health literacy in adolescents. Multiple but integrated forms of community-based interventions that focus on nutrition, physical activity, family planning, breastfeeding and infant feeding practices are needed. They need to address the wider social economic context in which adolescents live and to be linked with existing public health programmes in sexual and reproductive health and maternal and child health initiatives. SUMMARY: Interventions aimed at ensuring a healthy body composition, diet and lifestyle before pregnancy offer a most effective solution in many settings, especially in low- and middle-income countries undergoing socio-economic transition. Preparing a mother, her partner and her future child for "the 1000 days", whether from planned or unplanned conception would break the cycle of risk and demonstrate benefit in the shortest possible time. Such interventions will be particularly important in adolescents and young women in disadvantaged groups and can improve the physiological status of the fetus as well as reduce the prevalence of pregnancy conditions such as gestational diabetes mellitus which both predispose to non-communicables diseases in both the mother and her child. Pre-conception interventions require equipping prospective parents with the necessary knowledge and skills to make healthy lifestyle choices for themselves and their children. Addressing the promotion of such health literacy in parents-to-be in low- and middle-income countries requires a wider social perspective. It requires a range of multisectoral agencies to work together and could be linked to the issues of women's empowerment, to reproductive health, to communicable disease prevention and to the Millennium Development Goals 4 and 5.}
+      \field{isbn}{1471-2458 (Electronic)$\backslash$r1471-2458 (Linking)}
+      \field{issn}{1471-2458}
+      \field{journaltitle}{BMC Public Health}
+      \field{number}{1}
+      \field{title}{{Early life opportunities for prevention of diabetes in low and middle income countries}}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{1025}
+      \verb{doi}
+      \verb 10.1186/1471-2458-12-1025
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Hanson et al. - 2012 - Early life opportunities for prevention of diabetes in low and middle income countries.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.biomedcentral.com/content/pdf/1471-2458-12-1025.pdf
+      \endverb
+      \keyw{Adolescent,Developing Countries,Diabetes Mellitus/ prevention {\&} control,Diet,Female,Health Promotion/ methods,Humans,Life Style,Male,Parents/ education,Risk Factors}
     \endentry
     \entry{Harris2009}{article}{}
       \name{labelname}{1}{}{%
@@ -6100,6 +6317,44 @@
       \verb http://hqlo.biomedcentral.com/articles/10.1186/1477-7525-8-62
       \endverb
     \endentry
+    \entry{Loayza2011}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=bce2351a95b48825e1d5a5891b5e09bd}{Loayza}{L\bibinitperiod}{Norman\bibnamedelima V.}{N\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=f0115d28a3595332c54b8852aaa2dcc0}{Rigolini}{R\bibinitperiod}{Jamele}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=bce2351a95b48825e1d5a5891b5e09bd}{Loayza}{L\bibinitperiod}{Norman\bibnamedelima V.}{N\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=f0115d28a3595332c54b8852aaa2dcc0}{Rigolini}{R\bibinitperiod}{Jamele}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{15dd55592222411fd23fcd46d4ee4b3e}
+      \strng{fullhash}{6c44036ad709110ecb8059a188597ab3}
+      \field{sortinit}{L}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Informal Employment: Safety Net or Growth Engine?}}
+      \field{abstract}{Is informal employment a safety net or a growth engine? To address this question, this paper studies the trends and cycles of informal employment. It first presents a theoretical model of long- and short-run behavior of informal labor. Then it analyzes these relationships empirically, using the share of self-employment in the labor force as the proxy for informal employment. In the long run, informality is larger when labor productivity is lower, government services weaker, and business flexibility less prevalent. In the short run, informal employment behaves counter-cyclically, indicating that it acts primarily as a safety net. The degree of counter-cyclicality, however, varies inversely with the size of informal labor itself. ?? 2011 Elsevier Ltd.}
+      \field{isbn}{0305750X}
+      \field{issn}{0305750X}
+      \field{journaltitle}{World Development}
+      \field{number}{9}
+      \field{title}{{Informal Employment: Safety Net or Growth Engine?}}
+      \field{volume}{39}
+      \field{year}{2011}
+      \field{pages}{1503\bibrangedash 1515}
+      \verb{doi}
+      \verb 10.1016/j.worlddev.2011.02.003
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Loayza, Rigolini - 2011 - Informal Employment Safety Net or Growth Engine.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.worlddev.2011.02.003
+      \endverb
+      \keyw{Business cycle,Informality,Shadow economy}
+    \endentry
     \entry{Long2014}{article}{}
       \name{labelname}{5}{}{%
         {{hash=4d2aacb36aa3da1e6967931fd238496b}{Long}{L\bibinitperiod}{Gráinne\bibnamedelima H.}{G\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
@@ -6360,6 +6615,80 @@
       \endverb
       \keyw{*diabetes mellitus,adult,age,aged,all,article,controlled study,download,embase2,extracted,financial management,health care cost,health care quality,health care system,health care utilization,health service,hospital patient,hospitalization,human,included,length of stay,major clinical study,outpatient,patient care,race difference,relevant,reviewed,risk factor,selected{\_}papers,soldier}
     \endentry
+    \entry{Marais2013}{article}{}
+      \name{labelname}{22}{}{%
+        {{hash=34e4327a4ee8dfd5e178ff81e3138d02}{Marais}{M\bibinitperiod}{Ben\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c0c11a6ccc5b5465a6621c87237ef215}{Lönnroth}{L\bibinitperiod}{Knut}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f53547a1d49b3f3f6e5917ee42be1565}{Lawn}{L\bibinitperiod}{Stephen\bibnamedelima D}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=631f80e8f9f69dc8c28d8e968c6f2a5a}{Migliori}{M\bibinitperiod}{Giovanni\bibnamedelima Battista}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=f33af7f8adcb41005be66657a84aaade}{Mwaba}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a3ad27efa87531942ac3b5b0634adae7}{Glaziou}{G\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e91e0a1f05a64747d0725e407f7e2adb}{Bates}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e2b4f416ddae1b4f0e0091b60604fd8}{Colagiuri}{C\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f4ba3cfaf14413420109bf4fc62329}{Zijenah}{Z\bibinitperiod}{Lynn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d068b18aaf8596fe0186734617c09035}{Swaminathan}{S\bibinitperiod}{Soumya}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=624d48828cc9536aed607e04166257d8}{Memish}{M\bibinitperiod}{Ziad\bibnamedelima A}{Z\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=335ec24a9f20ab73fa8ece253ee633e9}{Pletschette}{P\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b38eabbd9cbb384f29c4e15a59de7a92}{Hoelscher}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=94f4e1ff8cfca9ac366172c4586d8bc4}{Abubakar}{A\bibinitperiod}{Ibrahim}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=d4c86bff804f8dbaed6733aaa6a21cda}{Hasan}{H\bibinitperiod}{Rumina}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=c27f9737753d5613f613909d0fc6e7f8}{Zafar}{Z\bibinitperiod}{Afia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7105759aab089e4ada610b8443d89738}{Pantaleo}{P\bibinitperiod}{Guiseppe}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=12eaef4b204925173626192e9af226b5}{Craig}{C\bibinitperiod}{Gill}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a1b7684291844e9b66720eca81d534e}{Kim}{K\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=8a8920f82c90c7580158a9a3d3aa08f9}{Maeurer}{M\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=95d08b11a3457b01e9c019a590f1bd57}{Schito}{S\bibinitperiod}{Marco}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=aa9eff4fc0d70e6450e9302aefbdefc5}{Zumla}{Z\bibinitperiod}{Alimuddin}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{22}{}{%
+        {{hash=34e4327a4ee8dfd5e178ff81e3138d02}{Marais}{M\bibinitperiod}{Ben\bibnamedelima J}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c0c11a6ccc5b5465a6621c87237ef215}{Lönnroth}{L\bibinitperiod}{Knut}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f53547a1d49b3f3f6e5917ee42be1565}{Lawn}{L\bibinitperiod}{Stephen\bibnamedelima D}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=631f80e8f9f69dc8c28d8e968c6f2a5a}{Migliori}{M\bibinitperiod}{Giovanni\bibnamedelima Battista}{G\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=f33af7f8adcb41005be66657a84aaade}{Mwaba}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a3ad27efa87531942ac3b5b0634adae7}{Glaziou}{G\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=e91e0a1f05a64747d0725e407f7e2adb}{Bates}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7e2b4f416ddae1b4f0e0091b60604fd8}{Colagiuri}{C\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f4ba3cfaf14413420109bf4fc62329}{Zijenah}{Z\bibinitperiod}{Lynn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d068b18aaf8596fe0186734617c09035}{Swaminathan}{S\bibinitperiod}{Soumya}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=624d48828cc9536aed607e04166257d8}{Memish}{M\bibinitperiod}{Ziad\bibnamedelima A}{Z\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=335ec24a9f20ab73fa8ece253ee633e9}{Pletschette}{P\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b38eabbd9cbb384f29c4e15a59de7a92}{Hoelscher}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=94f4e1ff8cfca9ac366172c4586d8bc4}{Abubakar}{A\bibinitperiod}{Ibrahim}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=d4c86bff804f8dbaed6733aaa6a21cda}{Hasan}{H\bibinitperiod}{Rumina}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=c27f9737753d5613f613909d0fc6e7f8}{Zafar}{Z\bibinitperiod}{Afia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7105759aab089e4ada610b8443d89738}{Pantaleo}{P\bibinitperiod}{Guiseppe}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=12eaef4b204925173626192e9af226b5}{Craig}{C\bibinitperiod}{Gill}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1a1b7684291844e9b66720eca81d534e}{Kim}{K\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=8a8920f82c90c7580158a9a3d3aa08f9}{Maeurer}{M\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=95d08b11a3457b01e9c019a590f1bd57}{Schito}{S\bibinitperiod}{Marco}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=aa9eff4fc0d70e6450e9302aefbdefc5}{Zumla}{Z\bibinitperiod}{Alimuddin}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1b588b98252dcaed1731f120ad8efdba}
+      \strng{fullhash}{bc0005cb404845e036b958f923d3ab03}
+      \field{sortinit}{M}
+      \field{labelyear}{2013}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Tuberculosis comorbidity with communicable and non-communicable diseases: integrating health services and control efforts}}
+      \field{issn}{14733099}
+      \field{journaltitle}{The Lancet Infectious Diseases}
+      \field{month}{05}
+      \field{number}{5}
+      \field{title}{{Tuberculosis comorbidity with communicable and non-communicable diseases: integrating health services and control efforts}}
+      \field{volume}{13}
+      \field{year}{2013}
+      \field{pages}{436\bibrangedash 448}
+      \verb{doi}
+      \verb 10.1016/S1473-3099(13)70015-X
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Marais et al. - 2013 - Tuberculosis comorbidity with communicable and non-communicable diseases integrating health services and control.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S147330991370015X
+      \endverb
+    \endentry
     \entry{Marchesini2011b}{article}{}
       \name{labelname}{5}{}{%
         {{hash=7f827f5ff49bcd80926051520b01e9d2}{Marchesini}{M\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
@@ -6559,6 +6888,41 @@
       \endverb
       \keyw{Aged,Ambulatory Care,Cost of Illness,Diabetes Mell,Till,all,download,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers,spanish}
     \endentry
+    \entry{McMahon2005}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=b9fbe72cd80f294478e27f70e6ff6d43}{McMahon}{M\bibinitperiod}{Brian\bibnamedelima T}{B\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8e34d981bc37aa672c1f8d65f1a3c567}{West}{W\bibinitperiod}{Steven\bibnamedelima L}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cf6b5816abc2f4b5c62bd915cd879ffa}{Mansouri}{M\bibinitperiod}{Mehdi}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=66c39ed0ace5fbb330c38421876442ce}{Belongia}{B\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=b9fbe72cd80f294478e27f70e6ff6d43}{McMahon}{M\bibinitperiod}{Brian\bibnamedelima T}{B\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8e34d981bc37aa672c1f8d65f1a3c567}{West}{W\bibinitperiod}{Steven\bibnamedelima L}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cf6b5816abc2f4b5c62bd915cd879ffa}{Mansouri}{M\bibinitperiod}{Mehdi}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=66c39ed0ace5fbb330c38421876442ce}{Belongia}{B\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7ad0c5da288f68410a25aeeab992a59f}
+      \strng{fullhash}{f1eac765af9341a54a707c276b4c7f73}
+      \field{sortinit}{M}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Workplace discrimination and diabetes: the EEOC Americans with Disabilities Act research project.}}
+      \field{abstract}{Using the Integrated Mission System of the Equal Employment Opportunity Commission, the employment discrimination experience of Americans with diabetes is documented. Researchers compare and contrast the key dimensions of workplace discrimination involving Americans with diabetes and persons with other physical, sensory, and neurological impairments. Specifically, the researchers examine demographic characteristics of the charging parties; the industry designation, location, and size of employers against whom complaints are filed; the nature of discrimination (i.e., type of adverse action) alleged to occur; and the legal outcome or resolution of these complaints. Findings indicate that persons with diabetes were more likely to encounter discrimination involving discharge, constructive discharge, discipline and suspension - all job retention issues. Persons with diabetes were less likely to encounter discrimination involving hiring, reasonable accommodation, non-pension benefits, and layoff. They were also more likely to encounter discrimination when they were older or from specific ethnic backgrounds, or when they worked for small employers or in the Southern United States. Implications for policy and advocacy are addressed.}
+      \field{isbn}{10519815}
+      \field{issn}{1051-9815}
+      \field{journaltitle}{Work}
+      \field{number}{1}
+      \field{title}{{Workplace discrimination and diabetes: the EEOC Americans with Disabilities Act research project.}}
+      \field{volume}{25}
+      \field{year}{2005}
+      \field{pages}{9\bibrangedash 18}
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/McMahon et al. - 2005 - Workplace discrimination and diabetes the EEOC Americans with Disabilities Act research project.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/16006671
+      \endverb
+    \endentry
     \entry{Meza2015}{article}{}
       \name{labelname}{7}{}{%
         {{hash=2a38f2749f0b609e4ac7a8dbb1cc3d5e}{Meza}{M\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
@@ -6628,6 +6992,49 @@
       \verb{url}
       \verb http://www.nejm.org/doi/abs/10.1056/NEJMra1110897%20http://www.ncbi.nlm.nih.gov/pubmed/24499213
       \endverb
+    \endentry
+    \entry{Mills2016}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=dca85b39c762534f67877684d7401406}{Mills}{M\bibinitperiod}{Katherine\bibnamedelima T.}{K\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=af72a61ebd6ca6b5aec6559e8962b3f8}{Bundy}{B\bibinitperiod}{Joshua\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fc85e5254b6bdffa0fede9424cec4dd2}{Kelly}{K\bibinitperiod}{Tanika\bibnamedelima N.}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ffe6a8f2c6637abd518af2610de86f68}{Reed}{R\bibinitperiod}{Jennifer\bibnamedelima E.}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=03a85c0447c5fe38d9ad3e166bbbea69}{Kearney}{K\bibinitperiod}{Patricia\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=c6da3d3d5289ff23d94445b68b9aa2fb}{Reynolds}{R\bibinitperiod}{Kristi}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=11c05b885f1bc92570da26e49722e81d}{Chen}{C\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edaae1e790a277919402b3133f272dcc}{He}{H\bibinitperiod}{Jiang}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=dca85b39c762534f67877684d7401406}{Mills}{M\bibinitperiod}{Katherine\bibnamedelima T.}{K\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=af72a61ebd6ca6b5aec6559e8962b3f8}{Bundy}{B\bibinitperiod}{Joshua\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fc85e5254b6bdffa0fede9424cec4dd2}{Kelly}{K\bibinitperiod}{Tanika\bibnamedelima N.}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ffe6a8f2c6637abd518af2610de86f68}{Reed}{R\bibinitperiod}{Jennifer\bibnamedelima E.}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=03a85c0447c5fe38d9ad3e166bbbea69}{Kearney}{K\bibinitperiod}{Patricia\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=c6da3d3d5289ff23d94445b68b9aa2fb}{Reynolds}{R\bibinitperiod}{Kristi}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=11c05b885f1bc92570da26e49722e81d}{Chen}{C\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edaae1e790a277919402b3133f272dcc}{He}{H\bibinitperiod}{Jiang}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ec4e260842578e499cf506e21f85e40f}
+      \strng{fullhash}{55d06abfdf5b1f5e9e4c2eba555e5882}
+      \field{sortinit}{M}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Global disparities of hypertension prevalence and control}}
+      \field{abstract}{Background: Hypertension is the leading preventable cause of premature death worldwide. We examined global disparities of hypertension prevalence, awareness, treatment, and control in 2010 and compared secular changes from 2000 to 2010.Methods: We searched MEDLINE from 1995 through 2014 and supplemented with manual searches of retrieved article references. We included 135 population-based studies of 968 419 adults from 90 countries. Sex- and age-specific hypertension prevalences from each country were applied to population data to calculate regional and global numbers of hypertensive adults. Proportions of awareness, treatment, and control from each country were applied to hypertensive populations to obtain regional and global estimates.Results: In 2010, 31.1{\{}{\%}{\}} (95{\{}{\%}{\}} confidence interval, 30.0{\{}{\%}{\}}–32.2{\{}{\%}{\}}) of the world's adults had hypertension; 28.5{\{}{\%}{\}} (27.3{\{}{\%}{\}}–29.7{\{}{\%}{\}}) in high-income countries and 31.5{\{}{\%}{\}} (30.2{\{}{\%}{\}}–32.9{\{}{\%}{\}}) in low- and middle-income countries. An estimated 1.39 (1.34–1.44) billion people had hypertension in 2010: 349 (337–361) million in high-income countries and 1.04 (0.99–1.09) billion in low- and middle-income countries. From 2000 to 2010, the age-standardized prevalence of hypertension decreased by 2.6{\{}{\%}{\}} in high-income countries, but increased by 7.7{\{}{\%}{\}} in low- and middle-income countries. During the same period, the proportions of awareness (58.2{\{}{\%}{\}} versus 67.0{\{}{\%}{\}}), treatment (44.5{\{}{\%}{\}} versus 55.6{\{}{\%}{\}}), and control (17.9{\{}{\%}{\}} versus 28.4{\{}{\%}{\}}) increased substantially in high-income countries, whereas awareness (32.3{\{}{\%}{\}} versus 37.9{\{}{\%}{\}}) and treatment (24.9{\{}{\%}{\}} versus 29.0{\{}{\%}{\}}) increased less, and control (8.4{\{}{\%}{\}} versus 7.7{\{}{\%}{\}}) even slightly decreased in low- and middle-income countries.Conclusions: Global hypertension disparities are large and increasing. Collaborative efforts are urgently needed to combat the emerging hypertension burden in low- and middle-income countries.Clinical Perspective}
+      \field{issn}{15244539}
+      \field{journaltitle}{Circulation}
+      \field{number}{6}
+      \field{title}{{Global disparities of hypertension prevalence and control}}
+      \field{volume}{134}
+      \field{year}{2016}
+      \field{pages}{441\bibrangedash 450}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.115.018912
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Mills et al. - 2016 - Global disparities of hypertension prevalence and control.pdf:pdf
+      \endverb
+      \keyw{epidemiology,global health,hypertension,prevention {\&} control}
     \endentry
     \entry{Minor2011}{article}{}
       \name{labelname}{1}{}{%
@@ -6843,6 +7250,36 @@
       \verb :home/till/Dokumente/Mendeley Desktop/Mundlak - 1978 - On the Pooling of Time Series and Cross Section Data.pdf:pdf
       \endverb
     \endentry
+    \entry{Muravyev2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c6672b4a9bb9cea700874476c10e03bc}{Muravyev}{M\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c6672b4a9bb9cea700874476c10e03bc}{Muravyev}{M\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c6672b4a9bb9cea700874476c10e03bc}
+      \strng{fullhash}{c6672b4a9bb9cea700874476c10e03bc}
+      \field{sortinit}{M}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Employment protection legislation in transition and emerging markets}}
+      \field{issn}{20549571}
+      \field{journaltitle}{IZA World of Labor}
+      \field{number}{September}
+      \field{title}{{Employment protection legislation in transition and emerging markets}}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 10}
+      \verb{doi}
+      \verb 10.15185/izawol.63
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Muravyev - 2014 - Employment protection legislation in transition and emerging markets.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://wol.iza.org/articles/employment-protection-legislation-and-labor-market-outcomes-in-transition-and-emerging-market-economies
+      \endverb
+      \keyw{employment protection,informality,transition and emerging economies,unemployment}
+    \endentry
     \entry{Mytton2012c}{article}{}
       \name{labelname}{3}{}{%
         {{hash=4da90bc8c0dcaad7f114dec6cc057a0b}{Mytton}{M\bibinitperiod}{O.\bibnamedelimi T.}{O\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
@@ -7030,6 +7467,48 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Nead et al. - 2015 - Evidence of a Causal Association between Insulinemia and Endometrial Cancer A Mendelian Randomization Analysis.pdf:pdf
       \endverb
+    \endentry
+    \entry{Nebiker-Pedrotti2009}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=192c2630965097da9ab4b1d24c384ae2}{Nebiker-Pedrotti}{N\bibinithyphendelim P\bibinitperiod}{Piera\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2a4a892903c546a681c113d0bfcb92a9}{Keller}{K\bibinitperiod}{Ulrich}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=06543e932c6abfc1d15abc6bcf361adb}{Iselin}{I\bibinitperiod}{Hans\bibnamedelima Ulrich}{H\bibinitperiod\bibinitdelim U\bibinitperiod}{}{}{}{}}%
+        {{hash=8eea9d8180dd85c6a2c42391d44af206}{Ruiz}{R\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a33566de7fe8d64b91a721cff768ec84}{P??rli}{P\bibinitperiod}{Kurt}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e19271b46b86200629e05ecfc3384236}{Caplazi}{C\bibinitperiod}{Alexandra}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9d4fb69bfe8bbd3dc7f1f4a71d20cc29}{Puder}{P\bibinitperiod}{Jardena\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=192c2630965097da9ab4b1d24c384ae2}{Nebiker-Pedrotti}{N\bibinithyphendelim P\bibinitperiod}{Piera\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2a4a892903c546a681c113d0bfcb92a9}{Keller}{K\bibinitperiod}{Ulrich}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=06543e932c6abfc1d15abc6bcf361adb}{Iselin}{I\bibinitperiod}{Hans\bibnamedelima Ulrich}{H\bibinitperiod\bibinitdelim U\bibinitperiod}{}{}{}{}}%
+        {{hash=8eea9d8180dd85c6a2c42391d44af206}{Ruiz}{R\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a33566de7fe8d64b91a721cff768ec84}{P??rli}{P\bibinitperiod}{Kurt}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=e19271b46b86200629e05ecfc3384236}{Caplazi}{C\bibinitperiod}{Alexandra}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9d4fb69bfe8bbd3dc7f1f4a71d20cc29}{Puder}{P\bibinitperiod}{Jardena\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4acaecc12d7e36b4a0140150dc4270a6}
+      \strng{fullhash}{b922140a95b664a8307d81b7cdc416da}
+      \field{sortinit}{N}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Perceived discrimination against diabetics in the workplace and in work-related insurances in Switzerland}}
+      \field{abstract}{To investigate the prevalence and risk factors of perceived diabetes-related discrimination in the workplace and in work-related insurances in persons with diabetes mellitus in Switzerland.}
+      \field{isbn}{1424-7860}
+      \field{issn}{14247860}
+      \field{journaltitle}{Swiss Medical Weekly}
+      \field{number}{7-8}
+      \field{title}{{Perceived discrimination against diabetics in the workplace and in work-related insurances in Switzerland}}
+      \field{volume}{139}
+      \field{year}{2009}
+      \field{pages}{103\bibrangedash 109}
+      \verb{doi}
+      \verb smw-12432
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Nebiker-Pedrotti et al. - 2009 - Perceived discrimination against diabetics in the workplace and in work-related insurances in Switzerla.pdf:pdf
+      \endverb
+      \keyw{Diabetes mellitus,Discrimination,Insulin,Insurance,Work}
     \endentry
     \entry{Ng2001b}{article}{}
       \name{labelname}{3}{}{%
@@ -7255,6 +7734,35 @@
       \endverb
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Dia Care-2011-Nouwen-752-62.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Nulu2016}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e1f9cdbfdd1f50dec4cb42f3314abd41}{Nulu}{N\bibinitperiod}{Shanti}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e1f9cdbfdd1f50dec4cb42f3314abd41}{Nulu}{N\bibinitperiod}{Shanti}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e1f9cdbfdd1f50dec4cb42f3314abd41}
+      \strng{fullhash}{e1f9cdbfdd1f50dec4cb42f3314abd41}
+      \field{sortinit}{N}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Neglected chronic disease: The WHO framework on non-communicable diseases and implications for the global poor}}
+      \field{issn}{1744-1692}
+      \field{journaltitle}{Global Public Health}
+      \field{month}{03}
+      \field{number}{September}
+      \field{title}{{Neglected chronic disease: The WHO framework on non-communicable diseases and implications for the global poor}}
+      \field{volume}{1692}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 20}
+      \verb{doi}
+      \verb 10.1080/17441692.2016.1154584
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Nulu - 2016 - Neglected chronic disease The WHO framework on non-communicable diseases and implications for the global poor.pdf:pdf
       \endverb
     \endentry
     \entry{Oconnell2012}{article}{}
@@ -8108,6 +8616,44 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Redekop et al. - 2002 - Resource consumption and costs in Dutch patients with type 2 diabetes mellitus. Results from 29 general practice.pdf:pdf
       \endverb
       \keyw{Age of Onset,Aged,Body Mass Index,Costs and Cost A,all,download,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Remais2013}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=42578d91aeef31db4b78a921e600f2aa}{Remais}{R\bibinitperiod}{Justin\bibnamedelima V.}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=804f9cec99c307f48128faf8a75b565d}{Zeng}{Z\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e1649d25afd58ac809edba752c1d98f3}{Li}{L\bibinitperiod}{Guangwei}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=93f6bebda52671d9942001055ed3c654}{Tian}{T\bibinitperiod}{Lulu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=1d1ab77d80889786802293cf6907aaa5}{Engelgau}{E\bibinitperiod}{Michael\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=42578d91aeef31db4b78a921e600f2aa}{Remais}{R\bibinitperiod}{Justin\bibnamedelima V.}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=804f9cec99c307f48128faf8a75b565d}{Zeng}{Z\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e1649d25afd58ac809edba752c1d98f3}{Li}{L\bibinitperiod}{Guangwei}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=93f6bebda52671d9942001055ed3c654}{Tian}{T\bibinitperiod}{Lulu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=1d1ab77d80889786802293cf6907aaa5}{Engelgau}{E\bibinitperiod}{Michael\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ebfcd668177d8eb912af3fec8caff14e}
+      \strng{fullhash}{26b72f3b56bec5ce809409f2d61772a1}
+      \field{sortinit}{R}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Convergence of non-communicable and infectious diseases in low- and middle-income countries}}
+      \field{abstract}{The convergence of non-communicable disease (NCD) and infectious disease (ID) in low- and middle-income countries (LMICs) presents new challenges and new opportunities to enact responsive changes in policy and research. Most LMICs have significant dual disease burdens of NCDs such as cardiovascular disease, diabetes and cancer, and IDs including tuberculosis, HIV/AIDS and parasitic diseases. A combined strategy is needed in surveillance and disease control; yet, experts, institutions and policies that support prevention and control of these two overarching disease categories have limited interaction and alignment. NCDs and IDs share common features, such as long-term care needs and overlapping high-risk populations, and there are also notable direct interactions, such as the association between certain IDs and cancers, as well as evidence of increased susceptibility to IDs in individuals with NCDs. Enhanced simultaneous surveillance of NCD and ID comorbidity in LMIC populations would generate the empirical data needed to better understand the dual burden, and to target coordinated care. Where IDs and NCDs are endemic, focusing on vulnerable populations by strengthening social protections and improving access to health services is crucial, as is the re-alignment of efforts to combine NCD and ID screening, treatment programmes, and the assessment of their impact. Integrating public health activities for ID and NCD should extend beyond health care services to prevention, which is widely seen as crucial to successful NCD and ID control campaigns alike. The convergence of NCD and ID in LMICs has the potential to overstretch already strained health systems. With some LMICs now focused on major health system reforms, a unique opportunity is available to address NCD and ID challenges with newfound urgency and novel approaches.}
+      \field{isbn}{0300-5771$\backslash$n1464-3685}
+      \field{issn}{03005771}
+      \field{journaltitle}{International Journal of Epidemiology}
+      \field{number}{1}
+      \field{title}{{Convergence of non-communicable and infectious diseases in low- and middle-income countries}}
+      \field{volume}{42}
+      \field{year}{2013}
+      \field{pages}{221\bibrangedash 227}
+      \verb{doi}
+      \verb 10.1093/ije/dys135
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Remais et al. - 2013 - Convergence of non-communicable and infectious diseases in low- and middle-income countries.pdf:pdf
+      \endverb
+      \keyw{Chronic disease,Development transition,Infectious disease}
     \endentry
     \entry{Reynoso-Noveron2011}{article}{}
       \name{labelname}{7}{}{%
@@ -9161,8 +9707,11 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Seuring, Archangelidi, Suhrcke - 2015 - The Economic Costs of Type 2 Diabetes A Global Systematic Review.pdf:pdf
       \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007%7B%%7D2Fs40273-015-0268-9
+      \endverb
     \endentry
-    \entry{Seuring2014}{article}{}
+    \entry{Seuring2014}{report}{}
       \name{labelname}{3}{}{%
         {{hash=d24331a0c933ad61da85a34c65b30ff8}{Seuring}{S\bibinitperiod}{Till}{T\bibinitperiod}{}{}{}{}}%
         {{hash=d8fb21d96662a55fe9609fc990f4d00e}{Goryakin}{G\bibinitperiod}{Yevgeniy}{Y\bibinitperiod}{}{}{}{}}%
@@ -9186,13 +9735,17 @@
       \field{datelabelsource}{}
       \field{labeltitle}{{The impact of diabetes on employment in Mexico}}
       \field{abstract}{This study explores the impact of diabetes on employment in Mexico using data from the Mexican Family Life Survey (MxFLS) (2005), taking into account the possible endogeneity of diabetes via an instrumental variable estimation strategy. We find that diabetes significantly decreases employment probabilities for men by about 9.9 percent (p<0.01) and somewhat less so for women—4.2 percent (p<0.1)—without any indication of diabetes being endogenous. Further analysis shows that diabetes mainly affects the employment probabilities of people above the age of 44 and also has stronger effects on the poor than on the rich, particularly for men. Our results highlight — for the first time — the detrimental employment impact of diabetes in a developing country.}
-      \field{journaltitle}{CHE Research Paper}
+      \field{booktitle}{CHE Research Paper}
       \field{number}{100}
       \field{series}{CHE Research Paper}
       \field{title}{{The impact of diabetes on employment in Mexico}}
+      \field{type}{techreport}
       \field{year}{2014}
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Seuring, Goryakin, Suhrcke - 2014 - The impact of diabetes on employment in Mexico.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb https://www.york.ac.uk/media/che/documents/papers/researchpapers/CHERP100%7B%5C_%7DImpact%7B%5C_%7DDiabetes%7B%5C_%7DEmployment%7B%5C_%7DMexico.pdf
       \endverb
     \endentry
     \entry{Seuring2015}{article}{}
@@ -9223,9 +9776,12 @@
       \verb{doi}
       \verb 10.1016/j.ehb.2015.04.002
       \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1570677X15000349
+      \endverb
       \keyw{Diabetes,Employment,I10,Instrumental variable,J01,Mexico,employment}
     \endentry
-    \entry{Seuring2016}{article}{}
+    \entry{Seuring2016}{report}{}
       \name{labelname}{3}{}{%
         {{hash=d24331a0c933ad61da85a34c65b30ff8}{Seuring}{S\bibinitperiod}{Till}{T\bibinitperiod}{}{}{}{}}%
         {{hash=ee0761fc541281897372aed09ee091cf}{Serneels}{S\bibinitperiod}{Pieter}{P\bibinitperiod}{}{}{}{}}%
@@ -9245,12 +9801,16 @@
       \field{labelyear}{2016}
       \field{datelabelsource}{}
       \field{labeltitle}{{The Impact of Diabetes on Labor Market Outcomes in Mexico: A Panel Data and Biomarker Analysis}}
-      \field{journaltitle}{IZA Discussion Papers}
+      \field{booktitle}{IZA Discussion Papers}
       \field{number}{10123}
       \field{title}{{The Impact of Diabetes on Labor Market Outcomes in Mexico: A Panel Data and Biomarker Analysis}}
+      \field{type}{techreport}
       \field{year}{2016}
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Seuring, Serneels, Suhrcke - 2016 - The Impact of Diabetes on Labor Market Outcomes in Mexico A Panel Data and Biomarker Analysis.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://ftp.iza.org/dp10123.pdf
       \endverb
       \keyw{Mexico,biomarker,diabetes,labor market,panel data}
     \endentry
@@ -10232,6 +10792,39 @@
       \endverb
       \keyw{Age at onset,Epidemiology,Familial aggregation,Geographic difference,Global epidemic,Incidence variation,Temporal trends,Type 1 diabetes}
     \endentry
+    \entry{Ulyssea2010}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=10fcf9d33b2def85076e7b1bce65e0d9}{Ulyssea}{U\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=10fcf9d33b2def85076e7b1bce65e0d9}{Ulyssea}{U\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{10fcf9d33b2def85076e7b1bce65e0d9}
+      \strng{fullhash}{10fcf9d33b2def85076e7b1bce65e0d9}
+      \field{sortinit}{U}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Regulation of entry, labor market institutions and the informal sector}}
+      \field{abstract}{This paper develops a two-sector matching model that incorporates the main features of Latin American labor markets. It has an innovation in its matching structure that makes it more consistent with some key stylized facts of the informal sector in these countries. The model is numerically solved using Brazilian data and several policy simulations are performed. Reducing formal sector's entry cost significantly reduces the size of the informal sector and improves overall labor market performance. Increasing enforcement significantly reduces informality but has strong adverse effects on unemployment and welfare. Thus, the results indicate that the tradeoff between lower informal employment and higher unemployment rates is not present when one looks at policies that aim at reducing the costs of being formal, as opposed to policies that simply increase the costs of being informal. © 2009 Elsevier B.V. All rights reserved.}
+      \field{isbn}{03043878}
+      \field{issn}{03043878}
+      \field{journaltitle}{Journal of Development Economics}
+      \field{number}{1}
+      \field{title}{{Regulation of entry, labor market institutions and the informal sector}}
+      \field{volume}{91}
+      \field{year}{2010}
+      \field{pages}{87\bibrangedash 99}
+      \verb{doi}
+      \verb 10.1016/j.jdeveco.2009.07.001
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Ulyssea - 2010 - Regulation of entry, labor market institutions and the informal sector.pdf:pdf
+      \endverb
+      \keyw{Informal sector,Institutions,Labor market}
+    \endentry
     \entry{Valdmanis2001}{article}{}
       \name{labelname}{3}{}{%
         {{hash=429b49a77cbf614fb9fcf600835415ea}{Valdmanis}{V\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
@@ -10379,9 +10972,8 @@
       \field{labelyear}{2010}
       \field{datelabelsource}{}
       \field{labeltitle}{{Prevalence and distribution of type 2 diabetes mellitus in Mexican adult population: a probabilistic survey.}}
-      \field{abstract}{OBJECTIVE To describe the prevalence, distribution and degree of control of type 2 diabetes (T2D) in Mexican population. MATERIAL AND METHODS Subjects were classified as previously diagnosed T2D (PD); or as "finding of the survey" (FS) (glucose >or=126 mg/dL). Hemoglobin A1c was measured in PD-subjects. RESULTS The prevalence for PD-T2D was 7.34{\%} (95{\%}CI 6.3, 8.5) and for FS 7.07{\%} (95{\%}CI 6.1, 8.1), summing 14.42{\%}; (7.3 million diabetics). 5.3{\%} of PD-T2D were in good, 38.4{\%} in poor and 56.2{\%} very poor control. Older age (OR=0.96, 95{\%}CI 0.94, 0.97), lower BMI (OR=0.95, 95{\%}CI 0.91, 1.0), were protective for poor control. Affiliation to private services (OR=1.77, 95{\%}CI 0.98, 3.13), larger T2D duration (OR=1.05, 95{\%}CI 1.01, 1.08), and combining oral medication and insulin (OR=16.1, 95{\%}CI 1.61, 161) were riskier. CONCLUSIONS We found an alarming prevalence of T2D in Mexican population; the majority of PD diabetics are in poor control. Research on the latter is warranted.}
       \field{issn}{1606-7916}
-      \field{journaltitle}{Salud Pública de México}
+      \field{journaltitle}{Salud Publica de Mexico}
       \field{number}{1}
       \field{title}{{Prevalence and distribution of type 2 diabetes mellitus in Mexican adult population: a probabilistic survey.}}
       \field{volume}{52 Suppl 1}
@@ -10390,10 +10982,6 @@
       \verb{file}
       \verb :home/till/Dokumente/Mendeley Desktop/Villalpando et al. - 2010 - Prevalence and distribution of type 2 diabetes mellitus in Mexican adult population a probabilistic survey.pdf:pdf
       \endverb
-      \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/20585724
-      \endverb
-      \keyw{80 and over,Adult,Aged,Diabetes Mellitus,Diabetic Diet,Fasting,Fasting: blood,Female,Glycosylated,Glycosylated: analysis,Health Surveys,Hemoglobin A,Humans,Hypoglycemic Agents,Hypoglycemic Agents: therapeutic use,Male,Mexico,Mexico: epidemiology,Middle Aged,Nutrition Surveys,Prevalence,Risk Factors,Rural Population,Sampling Studies,Type 2,Type 2: blood,Type 2: epidemiology,Type 2: therapy,Urban Population,Young Adult}
     \endentry
     \entry{Wang2015}{article}{}
       \name{labelname}{12}{}{%
@@ -10612,6 +11200,40 @@
       \verb{url}
       \verb http://dx.plos.org/10.1371/journal.pmed.1002097
       \endverb
+    \endentry
+    \entry{White2011}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=c6abac5590a6c14cb32798e94687c96a}{White}{W\bibinitperiod}{Ian\bibnamedelima R.}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=d77ac0af604c52daf07a18aced65b51b}{Royston}{R\bibinitperiod}{Patrick}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7d446bd7c93659e7007e4ff7094941c5}{Wood}{W\bibinitperiod}{Angela\bibnamedelima M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c6abac5590a6c14cb32798e94687c96a}{White}{W\bibinitperiod}{Ian\bibnamedelima R.}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=d77ac0af604c52daf07a18aced65b51b}{Royston}{R\bibinitperiod}{Patrick}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7d446bd7c93659e7007e4ff7094941c5}{Wood}{W\bibinitperiod}{Angela\bibnamedelima M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c68b5d730a5af702f8df084a6350ca94}
+      \strng{fullhash}{7c75f01a1f20212b6e07726a95c24f28}
+      \field{sortinit}{W}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Multiple imputation using chained equations: Issues and guidance for practice}}
+      \field{abstract}{Multiple imputation by chained equations is a flexible and practical approach to handling missing data. We describe the principles of the method and show how to impute categorical and quantitative variables, including skewed variables. We give guidance on how to specify the imputation model and how many imputations are needed. We describe the practical analysis of multiply imputed data, including model building and model checking. We stress the limitations of the method and discuss the possible pitfalls. We illustrate the ideas using a data set in mental health, giving Stata code fragments.}
+      \field{isbn}{1097-0258 (Electronic)$\backslash$n0277-6715 (Linking)}
+      \field{issn}{02776715}
+      \field{journaltitle}{Statistics in Medicine}
+      \field{number}{4}
+      \field{title}{{Multiple imputation using chained equations: Issues and guidance for practice}}
+      \field{volume}{30}
+      \field{year}{2011}
+      \field{pages}{377\bibrangedash 399}
+      \verb{doi}
+      \verb 10.1002/sim.4067
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/White, Royston, Wood - 2011 - Multiple imputation using chained equations Issues and guidance for practice.pdf:pdf
+      \endverb
+      \keyw{Fully conditional specification,Missing data,Multiple imputation}
     \endentry
     \entry{White2016}{article}{}
       \name{labelname}{1}{}{%
@@ -11622,7 +12244,7 @@
       \verb 10.1016/j.jhealeco.2008.08.001
       \endverb
       \verb{file}
-      \verb :home/till/Dokumente/Mendeley Desktop//Minor - 2011 - The effect of diabetes on female labor force decisions new evidence from the National Health Interview Survey(2).pdf:pdf;:home/till/Dokumente/Mendeley Desktop/Zhang, Zhao, Harris - 2009 - Chronic diseases and labour force participation in Australia.pdf:pdf
+      \verb :home/till/Dokumente/Mendeley Desktop/Zhang, Zhao, Harris - 2009 - Chronic diseases and labour force participation in Australia.pdf:pdf
       \endverb
       \keyw{Adolescent,Adult,Australia,Australia: epidemiology,Chronic Disease,Chronic Disease: epidemiology,Demand and Supply of Labor: General J200,ECONLIT,Employment,Female,Health Surveys,Humans,IBSS,Male,Middle Aged,Treatment Outcome,Young Adult,all,download,econlit,extracted,included,newsearch,relevant,reviewed,selected{\_}papers}
     \endentry

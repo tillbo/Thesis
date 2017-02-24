@@ -1,16 +1,16 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [0] Config.pm:321> INFO - Logfile is 'Thesis.blg'
-[35] biber:275> INFO - === Mo Sep 26, 2016, 14:47:02
-[35] Biber.pm:333> INFO - Reading 'Thesis.bcf'
-[97] Biber.pm:630> INFO - Found 312 citekeys in bib section 0
-[107] Biber.pm:3053> INFO - Processing section 0
-[116] Biber.pm:3190> INFO - Looking for bibtex format file '/home/till/Dokumente/BibTex/Thesis.bib' for section 0
-[266] bibtex.pm:933> INFO - Decoding LaTeX character macros into UTF-8
-[1039] bibtex.pm:808> INFO - Found BibTeX data source '/home/till/Dokumente/BibTex/Thesis.bib'
-[1457] Utils.pm:169> WARN - BibTeX subsystem: /tmp/GvxV1Aq8Rn/Thesis.bib_7460.utf8, line 6, warning: 175 characters of junk seen at toplevel
-[1906] Biber.pm:2939> INFO - Overriding locale 'de_DE.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1906] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
-[1906] Biber.pm:2949> INFO - No sort tailoring available for locale 'de_DE.UTF-8'
-[3248] bbl.pm:482> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[3342] bbl.pm:555> INFO - Output to Thesis.bbl
-[3342] Biber.pm:105> INFO - WARNINGS: 1
+[79] biber:275> INFO - === Fr Feb 24, 2017, 11:41:33
+[79] Biber.pm:333> INFO - Reading 'Thesis.bcf'
+[202] Biber.pm:630> INFO - Found 328 citekeys in bib section 0
+[223] Biber.pm:3053> INFO - Processing section 0
+[236] Biber.pm:3190> INFO - Looking for bibtex format file '/home/till/Dokumente/BibTex/Thesis.bib' for section 0
+[477] bibtex.pm:933> INFO - Decoding LaTeX character macros into UTF-8
+[2832] bibtex.pm:808> INFO - Found BibTeX data source '/home/till/Dokumente/BibTex/Thesis.bib'
+[4364] Utils.pm:169> WARN - BibTeX subsystem: /tmp/aTNOOzYQeT/Thesis.bib_10726.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[5096] Biber.pm:2939> INFO - Overriding locale 'de_DE.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[5096] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
+[5096] Biber.pm:2949> INFO - No sort tailoring available for locale 'de_DE.UTF-8'
+[6888] bbl.pm:482> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[7035] bbl.pm:555> INFO - Output to Thesis.bbl
+[7036] Biber.pm:105> INFO - WARNINGS: 1

@@ -1,0 +1,145 @@
+\documentclass[12pt,english,abstract=on,titlepage=false]{scrreprt}
+\usepackage{setspace} %linespacing
+\setcounter{secnumdepth}{0} % prevents section numbering but lets them be included in TOC
+\onehalfspacing
+%\setlength{\parskip}{1em} % paragraph spacing
+\usepackage[affil-it]{authblk}
+\usepackage{graphicx}
+\usepackage[space]{grffile}
+\usepackage{latexsym}
+\usepackage{textcomp}
+\usepackage{longtable}
+%causes each table to be on seperate page
+\renewcommand\floatpagefraction{0.1}
+%causes each figure to be on seperate page
+%\makeatletter
+%\@fpsep\textheight
+%\makeatother
+%multirow tables etc.
+\usepackage{multirow,booktabs}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage{gensymb}  % to show special symbols like degree °
+\usepackage{url}
+\usepackage{dcolumn} % needed for tables in chapter 5
+%\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false,pdfborder={0 0 0}}
+%\usepackage{latexml}
+\newcommand{\truncateit}[1]{\truncate{0.8\textwidth}{#1}}
+\newcommand{\scititle}[1]{\title[\truncateit{#1}]{#1}}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,%
+            left=4cm,right=2.5cm,top=2cm,bottom=2.5cm,%
+            footskip=.25in]{geometry}
+%\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=4cm,rmargin=2cm}
+\providecommand{\tabularnewline}{\\}
+\usepackage[printonlyused]{acronym}
+%\usepackage[nolist]{acronym}
+\usepackage{ltablex,array} % to scale longtables
+\usepackage{lipsum}
+\usepackage[flushleft]{threeparttable}  %adds notes to tables
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+%\appto\TPTnoteSettings{\footnotesize}
+\usepackage{caption}
+\usepackage{chngcntr} %esnures running table numbers
+\counterwithout{table}{chapter}
+\counterwithout{figure}{chapter}
+\counterwithout{equation}{chapter}
+%fix problem with narrower table once using caption inside tabularx environment as suggested in last response here http://www.latex-community.org/forum/viewtopic.php?f=45&p=39951
+
+\makeatletter
+\patchcmd{\TX@endtabularx}% <cmd>
+  {\def\caption}% <search>
+  {\def\caption{\caption@withoptargs\TX@caption}%
+   \def\TX@caption##1##2}% <replace>
+  {}{}% <success><failure>
+\makeatother
+
+
+\usepackage{graphicx}
+\usepackage{adjustbox}
+%\newcommand{\sym}[1]{\ensuremath{^{#1}}} % for symbols in Table
+%landscape pages
+\usepackage{pdflscape}
+\newcommand{\comment}[1]{}  %allows multiline comments
+%\usepackage[english]{babel}% Recommended
+%\usepackage{csquotes}
+\usepackage[
+style=authoryear-comp,maxbibnames=9,maxcitenames=1,uniquelist=false,
+backend=biber, uniquename=false, firstinits=true,
+url=false,
+doi=false,
+isbn=false]{biblatex}
+
+
+\DeclareNameAlias{sortname}{last-first}
+\DeclareFieldFormat{pages}{#1}%
+\renewcommand*{\nameyeardelim}{\addcomma\space} %adds comma between name and years in citations
+
+\renewbibmacro{in:}{}
+\renewbibmacro*{volume+number+eid}{%
+  \printfield{volume}%
+  \setunit*{\adddot}% DELETED
+  \setunit*{\addnbspace}% NEW (optional); there's also \addnbthinspace
+ \printfield{number}%
+ \setunit{\addcomma\space}%
+ \printfield{eid}}
+\DeclareFieldFormat[article]{number}{\mkbibparens{#1}}
+\DeclareLanguageMapping{english}{english-apa}  %needed for APA style
+\AtEveryBibitem{
+  \clearfield{labelmonth}
+}
+
+%patch fullcite command so that full citation in text is same as in references: http://tex.stackexchange.com/questions/43196/biblatex-fullcite-produces-different-result-from-bibliography-entry
+\DeclareCiteCommand{\fullcite}
+  {\usebibmacro{prenote}}
+  {\usedriver
+     {\defcounter{minnames}{6}%
+      \defcounter{maxnames}{6}}
+     {\thefield{entrytype}}.}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+\addbibresource{/home/till/Dokumente/BibTex/Thesis.bib}
+
+%have it say References instead of Bibliography in TOC
+\DefineBibliographyStrings{english}{bibliography = {References},
+}
+
+
+\usepackage{afterpage}
+%\nobibliography*
+%limiting tables to only float within section
+%\usepackage[chapter]{placeins}
+  
+%use for commands only working with pdf
+  
+
+
+% *****************************************************************
+% siunitx
+% *****************************************************************
+\usepackage{siunitx} % centering in tables
+	\sisetup{
+		detect-mode,
+		tight-spacing		= true,
+		group-digits		= false ,
+		input-signs		= ,
+		input-symbols		= ( ) [ ] - + *,
+		input-open-uncertainty	= ,
+		input-close-uncertainty	= ,
+		table-align-text-post	= false
+        }
+
+
+%\pagenumbering{gobble} %no page numbering
+%For table commands to change column sizeand alignment, especially tabularx
+\newcolumntype{b}{X}  %large columns http://tex.stackexchange.com/questions/84400/table-layout-with-tabularx-column-widths-502525
+\newcolumntype{m}{>{\hsize=.5\hsize}X} % medium columns
+\newcommand{\merge}[1]{\multicolumn{2}{>{\hsize=\dimexpr2\hsize+2\tabcolsep+\arrayrulewidth\relax}X}{#1}}  %allows merging of two columns in tabularx http://tex.stackexchange.com/questions/236155/tabularx-and-multicolumn
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X} %new columntype for X columns in tabularx to center them http://tex.stackexchange.com/questions/89166/centering-in-tabularx-and-x-columns
+\newcolumntype{Z}{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}X} %left aligned X columns http://tex.stackexchange.com/questions/97180/how-to-get-column-alignment-in-tabularx
+\newcolumntype{z}{>{\hsize=.5\hsize\\\raggedright\let\newline\\\arraybackslash\hspace{0pt}}X} %left aligned X columns http://tex.stackexchange.com/questions/97180/how-to-get-column-alignment-in-tabularx
+\newcolumntype{y}{>{\hsize=.5\hsize}Y} % small columns

@@ -1,0 +1,98 @@
+Comments Pieter and Max
+
+Pieter 02.09.2016
+
+1. I have not worked with MSM before, but understand that this used in epidemiology because of its unique strength to handle time dependent confounding factors across multiple waves when evaluating the treatment effect of an intervention.
+*With this in kind, I see four major contributions of the paper; I present them as separate but they are intertwined
+1. Apply MSM to understand the effect of diabetes diagnosis on labour outcomes.
+ 
+-          I think this is the first study doing this, and an interesting alternative take on modelling these effects.
+-          Towards the end you make the point that MSM is superior to OLS as the latter yields biased results.  This is of course a good and valid point, which is worth making explicit early on, and then also needs referring to the OLS results. After reading I initially thought this is only a minor point, but I think readers may want to know if FE results effects are close to MSM estimates, how are MSM results compared to OLS?
+-          (further investigation of the drivers of differences between genders would further be of interest here, but can indeed be left till after the thesis)
+
+2. Apply MSM to understand the effect of diabetes diagnosis on health behaviour
+ 
+-          i.e. extend epidemiological approach to diabetes . not sure whether this has been done before but possibly not, in which case this can be stated.
+
+3. Apply MSM to simultaneously model the effect of diabetes on labour outcomes and health behaviour
+ 
+-          This may have sprung from the empirical approach but actually makes a profound conceptual point: impact estimates of diabetes on either labour outcomes or health behaviour may be biased if the other one is not taken into account. Moreover, it helps to test a possible path way through which diabetes affect labour outcomes, namely through  health behaviours (i.e. those with healthy behaviour have good disease management and this improves employment chances).  Causality remains hard to pin down and there is also a literature on how unemployment affects people’s functioning and mental health, and thus possibly health behaviours.  The similarity between MSM and FE results suggest that MSM estimates are robust (and the underlying assumptions may hold – see next point).
+
+4. Investigate the robustness of MSM estimates by comparing with FE panel estimation, which also accounts for time invariant unobserved confounding factors.
+ 
+-          This is a great methodological contribution in itself, and I do not know the lit using MSM enough but suspect it is novel. It provide a direct test for one of the key assumptions of MSM.
+-          The results suggest that in this setting MSM does quite well. 
+-          A small further extension that could be included is to test FE against RE (and possibly BE) to (i) further test the robustness of the results and (ii) understand the role of observed and unobserved time varying confounders, and to what extent the underlying assumptions of MSM hold.  This could be included as a FN for now, if you want, and be extended in future work if you do not have the time now, but I suspect that your internal will bring this up as it so natural to test FE against RE. This can also suggest further ways forward in the discussion at the end of your section on limitations.
+ 
+*The paper currently undersells its contribution in each of these four areas.  One way to address this would be to make the contributions more explicit in intro and conclusion. A more advanced approach would be to provide some discussion on each of them, which would require some additional references from the labor lit to motivate 1 (see already in other chapters), from epidemiology to motivate 2, from labour lit to motivate 3, and from MSM studies to motivate 4. 
+ 
+2. As it stands the paper pays limited attention to why it is of interest to simultaneously model employment and health behaviour  (see 3 above), and avoids an explicit theory of change.  It seems attractive in the framework of this thesis to say: we deliberately model the effect of diabetes on labour outcomes - in line with the rest of the dissertation - while also taking into account health behaviour. We allow for interrelations over time, and also shed light on the effect of diabetes on health behaviour, a possibly important pathway through which diabetes affects employment outcomes.  Looking at the results in Table 0.3, a possible explanation is that men are shocked more into ‘good’ health behaviour than women, and this results in improved employment chances.  I see this is precisely in line with what you present at the end. It seems indeed a plausible story for BMI, waist and calorie intake (but not for alcohol and smoking which women almost don’t engage in).
+*Bottom line: it would help for clarity and simplicity to discuss the effects on employment and health behaviours consistently in the same order, as presented in the tables. given the theme of the dissertation I would consistently keep employment first and then health behaviours, as you currently do.  
+
+3. it may be good to make explicit that your ‘treatment’ diagnosis is a bundle of at least four ‘treatments’ that are not identified in isolation:  (i) provision of information, (ii) provision of medicine, (iii) compliance with medicine, (iv) change in health behaviour. We only observe the combined (net) effect of these subtreatments. You allude to some of this implicitly in your discussion.
+ 
+Presentation
+- I would in the tables present the MSM results first, and then the FE results, as the use of FE is motivated as a robustness check of MSM. This is also how you implicitly discuss it in the text
+ 
+Other comments in the text.
+
+
+
+
+
+
+MAX
+
+Here at last are my detailed comments and suggestions. The paper is coming along nicely, and I like it short.
+ 
+My major points are:
+ 
+I agree that, with your submission deadline coming soon, you should first complete this study as a chapter, and complete the thesis, before submitting the paper to a journal. It will still take a lot of work to get this ready for publication, and that will leave you not enough time to complete the thesis by end of September.
+ 
+I agree with Pieter’s comments and suggestions. Except I dont think it is necessary to repeat all the analyses with binary outcomes using probit regression. The coefficients from probit still have a different interpretation from OLS coeffiecients, ie differences in proportions vs differences in means.
+ 
+For the MSM, I really think the ‘lagged’ models should be the primary models. That is, models using lagged time-varying covariates to predict current diabetes (if that is what you did). The reason is that the primary methodological advantage of longitudinal data, compared to cross-sectional data, is that you can assume that the ‘cause’ occurred before the effect. Eg that lagged BMI caused diabetes. I dont think it is valid to use outcomes in one wave to predict diabetes in the same wave, and then to use diabetes in that wave to predict outcomes in the same wave. That is circular. If we do that we could get a lot of criticism from examiners and reviewers. We assume that, in any wave, a diabetes diagnosis happened in the past, and that behavioural and economic outcomes are measured in the present. If true, it is valid to use diabetes reported in a wave to predict outcomes in the same wave. This might not always be true, but it is an explicit assumption, and more likely to be true than false. [I hope your lagged model didnt only lag diabetes, because then you would be using the future to predict the past, or would need assume that outcomes measured in one wave happened before diabetes was diagnosed and reported in the same wave]. It is all quite subtle and confusing, I know.  Fortunately the results are very similar, as you show in Table 16. In any case you need to describe the lagged models more clearly – my DAG helps do that.
+ 
+The DAG is confusing, especially with so many arrows involving confounders, and with such a long footnote. I have sketched out two options for a much simpler DAG (attached). Details from the footnote (eg the lists of baseline and time-varying covariates) should be in the text of methods. They are also listed under each table, so you dont need them under the figure as well.
+ 
+You need to report the fixed effects methods. And I agee with Pieter that you should say more in the discussion comparing the two methods, theoretically and why results differ. Fixed effects have the advantage of avoiding between-person confounding by unmeasured time invariant confounders, adn can also adjust for time-varying confounders.  In this study, because we excluded people who reported diabetes in their first wave, the difference in outcomes between waves with and without diabetes can be interpreted as the effects of diabetes. The MSMs have the advantage of dealing with the dynamic bicausal relationship between diabetes and our outcomes, and separating each causal process. They are also counterfactual models, comparing potential outcomes if all participants developed diabetes versus if none of them developed diabetes. Such counterfactual models are more fundamentally causal.
+
+PIETER
+
+Comments on 'the effects of receiving a diabetes diagnosis on health behaviour and employment'
+
+1. Data
+- it would be good to give more info on the sample: this is the adult working population, within which age brackets? Does it contain the entire 'active population', both working and not working?  Are unemployed and inactive in the sample?
+- what is attrition of the panel?
+- more details on data handling, imputations, inconsistencies, etc. how many in different categories, etc.
+
+2. Statistical and Econometric Analysis
+- explain assumptions behind the MSM model briefly - unless this is very standard stuff for readers of the journal you target
+- in the descriptive stats: report se's and p-values to show  which differences are significant in table 1
+- Apart from the overall effects, I would also provide some space to discussing the difference in estimates between the two methods, the importance of underlying assumptions, and how using both methods helps narrow down inference. It would for instance be very nice to have a paragraph summarising more explicitly where each model is better than the other
+- Some work provides graphical representations of odds rations which are sometimes clearer, but not always.  There is a book by Scott Long - now rather old - book with suggested ways. 
+- a  graphical representation for table 4 and 5 would help
+- I was slightly confused by the discussion of fe only addressing time invariant unobservable confounders, it also allows to look at time variant observed confounders, right?
+- more details discussion on testing of assumptions
+
+2. Interpretation and discussion
+- would it not be easier to report marginal effects using probit so coefs can be directly compared to coefs obtained from ols?
+- I can see 4 possible channels through which the observed effects may take place: they may be a consequence of (I) illness; (ii) medical treatment; (iii) medical advice; and (iv) behavioural response.  It would be fascinating to unravel this further, even if they cannot be fully identified in your data.  
+-- At a first level I was wondering whether there is a literature providing insights on each of these?  
+-- At a second level a question is whether more insights can be gained from further data analysis - I am not sure what info is available.
+--- one example would be to isolate the FE and regress them on the observed char to assess which observed char are important and how important relative to unobserved chars. This may also enrich the comparison between the two methods. It may also open ways to find out / investigate whether there is heterogeneity in effects among women, and if so along which dimension, this may shed light on which of the 4 channels above play a more important role.
+--- is there more information on health outcomes ? E.g. Survival, other illnesses, Hb levels, look at obesity instead of BMI
+
+3. Style
+
+- Sharpen the abstract
+- overall edits - some sentences are a bit long. 
+- text below figure 1 can be simpler, same confounders at t0,t,T?  work with dotted lines, as reader may not have access to a colour copy
+Make font consistent in title and abstract among others
+
+4. Extensions: same data can perhaps be used for more analysis 
+For instance: 
+- are there other outcomes of interest, e.g earnings, sector, movements in and out of employment between rounds
+- is there bio marker data?
+ 
+
