@@ -108,10 +108,10 @@
 \contentsline {subsubsection}{\nonumberline Prevention}{169}{section*.236}
 \contentsline {subsubsection}{\nonumberline Diagnosis}{171}{section*.238}
 \contentsline {subsubsection}{\nonumberline Treatment}{172}{section*.239}
-\contentsline {subsubsection}{\nonumberline {\color {blue}\uwave {Communicable diseases and structural constraints}}}{174}{section*.240}
+\contentsline {subsubsection}{\nonumberline {\color {blue}\uwave {The overall disease burden and structural constraints}}}{174}{section*.240}
 \contentsline {subsubsection}{\nonumberline {\color {blue}\uwave {Discrimination of people with diabetes}}}{176}{section*.242}
 \contentsline {section}{\nonumberline Strengths and limitations}{178}{section*.243}
-\contentsline {section}{\nonumberline Suggestions for future research}{179}{section*.244}
+\contentsline {section}{\nonumberline Suggestions for future research}{180}{section*.244}
 \contentsline {section}{\nonumberline Conclusion}{182}{section*.246}
 \contentsline {chapter}{\nonumberline References}{184}{chapter*.247}
 \contentsline {chapter}{\nameref {cha:Appendix}}{209}{chapter*.248}

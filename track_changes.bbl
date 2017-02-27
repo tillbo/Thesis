@@ -2628,6 +2628,38 @@
       \endverb
       \keyw{Animals,Diabetes Mellitus,Forecasting,Global Health,Global Health: trends,Humans,Prediabetic State,Prediabetic State: diagnosis,Prediabetic State: epidemiology,Prediabetic State: therapy,Risk Factors,Type 2,Type 2: diagnosis,Type 2: epidemiology,Type 2: therapy}
     \endentry
+    \entry{Cheung2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=03c865176e05fe965d34c9d74351ae04}{Cheung}{C\bibinitperiod}{Bernard\bibnamedelimb M\bibnamedelima Y}{B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad699cc0ff44aa8ef2a872dab8e20175}{Li}{L\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=03c865176e05fe965d34c9d74351ae04}{Cheung}{C\bibinitperiod}{Bernard\bibnamedelimb M\bibnamedelima Y}{B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad699cc0ff44aa8ef2a872dab8e20175}{Li}{L\bibinitperiod}{Chao}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e02c115009263ba75cfe429fddf98b75}
+      \strng{fullhash}{678bacb13aa980b2095108bc4befebe2}
+      \field{sortinit}{C}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Diabetes and hypertension: Is there a common metabolic pathway?}}
+      \field{abstract}{Diabetes and hypertension frequently occur together. There is substantial overlap between diabetes and hypertension in etiology and disease mechanisms. Obesity, inflammation, oxidative stress, and insulin resistance are thought to be the common pathways. Recent advances in the understanding of these pathways have provided new insights and perspectives. Physical activity plays an important protective role in the two diseases. Knowing the common causes and disease mechanisms allows a more effective and proactive approach in their prevention and treatment.}
+      \field{isbn}{1534-6242 (Electronic) 1523-3804 (Linking)}
+      \field{issn}{15233804}
+      \field{journaltitle}{Current Atherosclerosis Reports}
+      \field{number}{2}
+      \field{title}{{Diabetes and hypertension: Is there a common metabolic pathway?}}
+      \field{volume}{14}
+      \field{year}{2012}
+      \field{pages}{160\bibrangedash 166}
+      \verb{doi}
+      \verb 10.1007/s11883-012-0227-2
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Cheung, Li - 2012 - Diabetes and hypertension Is there a common metabolic pathway.pdf:pdf
+      \endverb
+      \keyw{Diabetes,Hypertension,Insulin resistance,Metabolic pathway,Metabolic syndrome,Obesity}
+    \endentry
     \entry{Chi2011a}{article}{}
       \name{labelname}{3}{}{%
         {{hash=3005fe5b75d661f7b1b433097ba169d1}{Chi}{C\bibinitperiod}{Mei-ju}{M\bibinithyphendelim j\bibinitperiod}{}{}{}{}}%
@@ -6961,6 +6993,49 @@
       \verb http://www.nejm.org/doi/abs/10.1056/NEJMra1110897%20http://www.ncbi.nlm.nih.gov/pubmed/24499213
       \endverb
     \endentry
+    \entry{Mills2016}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=dca85b39c762534f67877684d7401406}{Mills}{M\bibinitperiod}{Katherine\bibnamedelima T.}{K\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=af72a61ebd6ca6b5aec6559e8962b3f8}{Bundy}{B\bibinitperiod}{Joshua\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fc85e5254b6bdffa0fede9424cec4dd2}{Kelly}{K\bibinitperiod}{Tanika\bibnamedelima N.}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ffe6a8f2c6637abd518af2610de86f68}{Reed}{R\bibinitperiod}{Jennifer\bibnamedelima E.}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=03a85c0447c5fe38d9ad3e166bbbea69}{Kearney}{K\bibinitperiod}{Patricia\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=c6da3d3d5289ff23d94445b68b9aa2fb}{Reynolds}{R\bibinitperiod}{Kristi}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=11c05b885f1bc92570da26e49722e81d}{Chen}{C\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edaae1e790a277919402b3133f272dcc}{He}{H\bibinitperiod}{Jiang}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=dca85b39c762534f67877684d7401406}{Mills}{M\bibinitperiod}{Katherine\bibnamedelima T.}{K\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=af72a61ebd6ca6b5aec6559e8962b3f8}{Bundy}{B\bibinitperiod}{Joshua\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=fc85e5254b6bdffa0fede9424cec4dd2}{Kelly}{K\bibinitperiod}{Tanika\bibnamedelima N.}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=ffe6a8f2c6637abd518af2610de86f68}{Reed}{R\bibinitperiod}{Jennifer\bibnamedelima E.}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=03a85c0447c5fe38d9ad3e166bbbea69}{Kearney}{K\bibinitperiod}{Patricia\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=c6da3d3d5289ff23d94445b68b9aa2fb}{Reynolds}{R\bibinitperiod}{Kristi}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=11c05b885f1bc92570da26e49722e81d}{Chen}{C\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=edaae1e790a277919402b3133f272dcc}{He}{H\bibinitperiod}{Jiang}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ec4e260842578e499cf506e21f85e40f}
+      \strng{fullhash}{55d06abfdf5b1f5e9e4c2eba555e5882}
+      \field{sortinit}{M}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Global disparities of hypertension prevalence and control}}
+      \field{abstract}{Background: Hypertension is the leading preventable cause of premature death worldwide. We examined global disparities of hypertension prevalence, awareness, treatment, and control in 2010 and compared secular changes from 2000 to 2010.Methods: We searched MEDLINE from 1995 through 2014 and supplemented with manual searches of retrieved article references. We included 135 population-based studies of 968 419 adults from 90 countries. Sex- and age-specific hypertension prevalences from each country were applied to population data to calculate regional and global numbers of hypertensive adults. Proportions of awareness, treatment, and control from each country were applied to hypertensive populations to obtain regional and global estimates.Results: In 2010, 31.1{\{}{\%}{\}} (95{\{}{\%}{\}} confidence interval, 30.0{\{}{\%}{\}}–32.2{\{}{\%}{\}}) of the world's adults had hypertension; 28.5{\{}{\%}{\}} (27.3{\{}{\%}{\}}–29.7{\{}{\%}{\}}) in high-income countries and 31.5{\{}{\%}{\}} (30.2{\{}{\%}{\}}–32.9{\{}{\%}{\}}) in low- and middle-income countries. An estimated 1.39 (1.34–1.44) billion people had hypertension in 2010: 349 (337–361) million in high-income countries and 1.04 (0.99–1.09) billion in low- and middle-income countries. From 2000 to 2010, the age-standardized prevalence of hypertension decreased by 2.6{\{}{\%}{\}} in high-income countries, but increased by 7.7{\{}{\%}{\}} in low- and middle-income countries. During the same period, the proportions of awareness (58.2{\{}{\%}{\}} versus 67.0{\{}{\%}{\}}), treatment (44.5{\{}{\%}{\}} versus 55.6{\{}{\%}{\}}), and control (17.9{\{}{\%}{\}} versus 28.4{\{}{\%}{\}}) increased substantially in high-income countries, whereas awareness (32.3{\{}{\%}{\}} versus 37.9{\{}{\%}{\}}) and treatment (24.9{\{}{\%}{\}} versus 29.0{\{}{\%}{\}}) increased less, and control (8.4{\{}{\%}{\}} versus 7.7{\{}{\%}{\}}) even slightly decreased in low- and middle-income countries.Conclusions: Global hypertension disparities are large and increasing. Collaborative efforts are urgently needed to combat the emerging hypertension burden in low- and middle-income countries.Clinical Perspective}
+      \field{issn}{15244539}
+      \field{journaltitle}{Circulation}
+      \field{number}{6}
+      \field{title}{{Global disparities of hypertension prevalence and control}}
+      \field{volume}{134}
+      \field{year}{2016}
+      \field{pages}{441\bibrangedash 450}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.115.018912
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Mills et al. - 2016 - Global disparities of hypertension prevalence and control.pdf:pdf
+      \endverb
+      \keyw{epidemiology,global health,hypertension,prevention {\&} control}
+    \endentry
     \entry{Minor2011}{article}{}
       \name{labelname}{1}{}{%
         {{hash=66a6d7c669e47575f8c2fc182053aff3}{Minor}{M\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
@@ -8541,6 +8616,44 @@
       \verb :home/till/Dokumente/Mendeley Desktop//Redekop et al. - 2002 - Resource consumption and costs in Dutch patients with type 2 diabetes mellitus. Results from 29 general practice.pdf:pdf
       \endverb
       \keyw{Age of Onset,Aged,Body Mass Index,Costs and Cost A,all,download,extracted,included,newsearch,pubmed,relevant,reviewed,selected{\_}papers}
+    \endentry
+    \entry{Remais2013}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=42578d91aeef31db4b78a921e600f2aa}{Remais}{R\bibinitperiod}{Justin\bibnamedelima V.}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=804f9cec99c307f48128faf8a75b565d}{Zeng}{Z\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e1649d25afd58ac809edba752c1d98f3}{Li}{L\bibinitperiod}{Guangwei}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=93f6bebda52671d9942001055ed3c654}{Tian}{T\bibinitperiod}{Lulu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=1d1ab77d80889786802293cf6907aaa5}{Engelgau}{E\bibinitperiod}{Michael\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=42578d91aeef31db4b78a921e600f2aa}{Remais}{R\bibinitperiod}{Justin\bibnamedelima V.}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{hash=804f9cec99c307f48128faf8a75b565d}{Zeng}{Z\bibinitperiod}{Guang}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e1649d25afd58ac809edba752c1d98f3}{Li}{L\bibinitperiod}{Guangwei}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=93f6bebda52671d9942001055ed3c654}{Tian}{T\bibinitperiod}{Lulu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=1d1ab77d80889786802293cf6907aaa5}{Engelgau}{E\bibinitperiod}{Michael\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ebfcd668177d8eb912af3fec8caff14e}
+      \strng{fullhash}{26b72f3b56bec5ce809409f2d61772a1}
+      \field{sortinit}{R}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Convergence of non-communicable and infectious diseases in low- and middle-income countries}}
+      \field{abstract}{The convergence of non-communicable disease (NCD) and infectious disease (ID) in low- and middle-income countries (LMICs) presents new challenges and new opportunities to enact responsive changes in policy and research. Most LMICs have significant dual disease burdens of NCDs such as cardiovascular disease, diabetes and cancer, and IDs including tuberculosis, HIV/AIDS and parasitic diseases. A combined strategy is needed in surveillance and disease control; yet, experts, institutions and policies that support prevention and control of these two overarching disease categories have limited interaction and alignment. NCDs and IDs share common features, such as long-term care needs and overlapping high-risk populations, and there are also notable direct interactions, such as the association between certain IDs and cancers, as well as evidence of increased susceptibility to IDs in individuals with NCDs. Enhanced simultaneous surveillance of NCD and ID comorbidity in LMIC populations would generate the empirical data needed to better understand the dual burden, and to target coordinated care. Where IDs and NCDs are endemic, focusing on vulnerable populations by strengthening social protections and improving access to health services is crucial, as is the re-alignment of efforts to combine NCD and ID screening, treatment programmes, and the assessment of their impact. Integrating public health activities for ID and NCD should extend beyond health care services to prevention, which is widely seen as crucial to successful NCD and ID control campaigns alike. The convergence of NCD and ID in LMICs has the potential to overstretch already strained health systems. With some LMICs now focused on major health system reforms, a unique opportunity is available to address NCD and ID challenges with newfound urgency and novel approaches.}
+      \field{isbn}{0300-5771$\backslash$n1464-3685}
+      \field{issn}{03005771}
+      \field{journaltitle}{International Journal of Epidemiology}
+      \field{number}{1}
+      \field{title}{{Convergence of non-communicable and infectious diseases in low- and middle-income countries}}
+      \field{volume}{42}
+      \field{year}{2013}
+      \field{pages}{221\bibrangedash 227}
+      \verb{doi}
+      \verb 10.1093/ije/dys135
+      \endverb
+      \verb{file}
+      \verb :home/till/Dokumente/Mendeley Desktop/Remais et al. - 2013 - Convergence of non-communicable and infectious diseases in low- and middle-income countries.pdf:pdf
+      \endverb
+      \keyw{Chronic disease,Development transition,Infectious disease}
     \endentry
     \entry{Reynoso-Noveron2011}{article}{}
       \name{labelname}{7}{}{%
