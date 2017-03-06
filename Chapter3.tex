@@ -285,14 +285,14 @@ Diabetes_{i}=\delta_{0}+\delta_{1}X_{i}+\delta_{2}diabetesmother_{i}+\delta_{3}d
 \begin{equation}
 Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:cha3_employed}
 \end{equation}
-In Eq. \ref{eq:cha3_employed-1}, $Diabetes_{i}$
+In equation. \ref{eq:cha3_employed-1}, $Diabetes_{i}$
 is a dummy variable and is modelled as a function of the same socioeconomic
-and demographic factors $X_{i}$ as in Eq. \ref{eq:cha3_employed-2}
+and demographic factors $X_{i}$ as in equation \ref{eq:cha3_employed-2}
 and of the instrumental dummy variables $diabetesmother_{i}$ and
 $diabetesfather_{i}$, indicating if the father or the mother had
 been diagnosed with diabetes. The error term is denoted as $\eta_{i}$.
-Eq. \ref{eq:cha3_employed} is identical to the probit specification
-(Eq. \ref{eq:cha3_employed-2}) and estimates the effect of diabetes
+equation \ref{eq:cha3_employed} is identical to the probit specification
+(equation \ref{eq:cha3_employed-2}) and estimates the effect of diabetes
 on employment, now taking into account the possible endogeneity of
 diabetes. Diabetes is exogenous if the error terms of both equations
 are independent of each other ($Cov(u_{i}\eta_{i})=0$). Endogeneity
@@ -300,7 +300,7 @@ is tested using a likelihood ratio test based on the idea that if
 $Cov(u_{i}\eta_{i})=0$, the log-likelihood for the bivariate probit
 will be equal to the sum of the log-likelihoods from the two univariate
 probit models \parencite{Knapp1998}. If $u_{i}$ 
- and $\eta_{i}$ are correlated, the estimation of Eq. \ref{eq:cha3_employed-2}
+ and $\eta_{i}$ are correlated, the estimation of equation \ref{eq:cha3_employed-2}
 using a probit model will not provide consistent estimates of the
 impact of diabetes on employment. In this case the simultaneous estimation
 of both equations using the bivariate probit should be preferred.
@@ -377,8 +377,8 @@ test.
 
 We also estimate the linear \ac{IV} model
 as it is consistent even under non-normality \parencite{Angrist2009a}.
-The linear \ac{IV} model takes the following form of a first (Eq.
-\ref{eq:cha3_employed-1-1}) and a second stage (Eq. \ref{eq:cha3_employed-3}).
+The linear \ac{IV} model takes the following form of a first (equation
+\ref{eq:cha3_employed-1-1}) and a second stage (equation \ref{eq:cha3_employed-3}).
 
 
 \begin{equation}
@@ -392,8 +392,8 @@ Employed_{i}=\beta_{0}+\beta_{1}Diabetes_{i}+\beta_{2}X_{i}+u_{i}\label{eq:cha3_
 \end{equation}
 In the second stage, the potentially endogenous actual diabetes values
 are replaced with the predicted values from the first stage. The covariates
-are the same as in the bivariate probit case described in Eq.
-\ref{eq:cha3_employed-1} and Eq. \ref{eq:cha3_employed}. In the linear \ac{IV}
+are the same as in the bivariate probit case described in equation
+\ref{eq:cha3_employed-1} and equation \ref{eq:cha3_employed}. In the linear \ac{IV}
 model the Hausman test is used to identify endogeneity. Validity of
 the instruments is tested using first stage diagnostics of the linear
 \ac{IV} model, as similar tests are not available for the bivariate
@@ -471,7 +471,7 @@ probabilities (bivariate probit)}
 { \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} \begin{tabular}{l*{2}{S S}} \toprule           &\multicolumn{2}{c}{(1)}     &\multicolumn{2}{c}{(2)}     \\           &\multicolumn{2}{c}{Males}   &\multicolumn{2}{c}{Females} \\ \midrule Age 25--34&     .125\sym{***}&   (.012)&     .109\sym{***}&   (.015)\\ Age 35--44&     .134\sym{***}&   (.012)&     .207\sym{***}&   (.016)\\ Age 45--54&     .089\sym{***}&   (.016)&     .149\sym{***}&   (.021)\\ Age 55--64&    -.025         &   (.025)&     .032         &   (.029)\\ Small city&    -.014         &   (.017)&     .039\sym{**} &   (.018)\\ City      &    -.035\sym{**} &   (.018)&     .038\sym{**} &   (.019)\\ Big city  &     .030\sym{**} &   (.013)&     .093\sym{***}&   (.013)\\ Central   &     .027         &   (.018)&    -.030\sym{*}  &   (.015)\\ Westcentral&     .019         &   (.018)&    -.007         &   (.016)\\ Northeastcentral&     .002         &   (.018)&    -.049\sym{***}&   (.017)\\ Northwestcentral&    -.038\sym{**} &   (.017)&    -.091\sym{***}&   (.015)\\ Primary   &     .057\sym{***}&   (.020)&    -.006         &   (.021)\\ Secondary &     .052\sym{**} &   (.023)&     .052\sym{**} &   (.022)\\ High school&     .040         &   (.025)&     .113\sym{***}&   (.027)\\ College or university&     .046\sym{*}  &   (.025)&     .273\sym{***}&   (.032)\\ Indigenous&     .006         &   (.017)&    -.005         &   (.016)\\ Married   &     .093\sym{***}&   (.012)&    -.215\sym{***}&   (.011)\\ Children (under 15)&     .010\sym{**} &   (.004)&    -.016\sym{***}&   (.004)\\ Wealth    &     .002         &   (.006)&     .033\sym{***}&   (.007)\\ Parental education&    -.006         &   (.013)&     .000         &   (.012)\\ Diabetes  &    -.185         &   (.143)&    -.021         &   (.108)\\ \midrule Instruments  & & & & \\ \hspace{10 mm} Diabetes father  & .048\sym{***} &(.011) & .041\sym{***} & (.010) \\ \hspace{10 mm} Diabetes mother & .037\sym{***} & (.008) & .054\sym{***} & (.008) \\ \midrule Log likelihood&-3737.766         &         &-5939.588         &         \\ Score goodness-of-fit &&&& \\ (H0=normality of errors) & 12.32       &         &    8.85    &     \\
 \hspace{10 mm}p value & .196      &         & .451        & \\  Endogeneity &&&& \\ (H0: Diabetes exogenous) &         .443       &         &.039            &    \\  \hspace{10 mm}p value&     .506         &              &  .844            & \\ N         &     6286         &         &     8243         &         \\ \bottomrule  \end{tabular} 
 \begin{tablenotes}
-\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. The presented coefficients and standard errors for the instruments result from the estimation of the model specified in Eq. \ref{eq:cha3_employed-1}, indicating the effect of parental diabetes on a person's diabetes risk.
+\item \footnotesize \textit{Notes}  Average marginal effects; robust standard errors in parentheses. The presented coefficients and standard errors for the instruments result from the estimation of the model specified in equation \ref{eq:cha3_employed-1}, indicating the effect of parental diabetes on a person's diabetes risk.
 \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\).
 \end{tablenotes}
 }
@@ -485,8 +485,8 @@ but also remains negative. However, standard errors increase in both
 models and the results turn insignificant, suggesting considerable
 loss of efficiency (see Table \ref{tab:Bivariate-probit-model}).
 The likelihood-ratio test does not reject the null hypothesis of no
-correlation between the disturbance terms of Eq. \ref{eq:cha3_employed-1}
-and Eq. \ref{eq:cha3_employed} for males and females, suggesting exogeneity
+correlation between the disturbance terms of equation \ref{eq:cha3_employed-1}
+and equation \ref{eq:cha3_employed} for males and females, suggesting exogeneity
 of diabetes. The test for normality of the error term does not reject
 the null hypothesis of normality for the male and the female model,
 increasing our confidence in the estimates. Nonetheless we also consider
@@ -495,13 +495,13 @@ Table \ref{tab:Linear-IV-estimates-1st-2nd-stage} in the appendix
 presenting the complete first and second stage estimates): the test statistics indicate
 sufficiently strong and valid instruments, as shown by the Kleibergen-Paap
 Wald F statistic for weak instruments of 20.48 for men and 27.71 for
-women, being above the critical value of 19.93 for ten\% \ac{IV}
+women, being above the critical value of 19.93 for 10\% \ac{IV}
 size and well above the rule of thumb of 10 for weak identification
 not to be considered a problem \parencite{Staiger1997,Baum2007}. The
 Sargan test does not reject the null hypothesis of instruments uncorrelated
 with the error term and instruments correctly excluded from the estimated
 equation. 
-\afterpage{clearpage}
+\afterpage{\clearpage}
 \begin{table}[!p]
 \caption{\label{tab:Linear-IV-and}Impact of diabetes on employment probabilities
 (linear IV)}
@@ -778,7 +778,7 @@ model to arrive at a consistent estimate of the effect of diabetes
 on employment probabilities. Further, we found no endogeneity of diabetes
 for the sample comprised of the age group above the age of 44,  for
 the samples stratified into an upper and lower wealth half and for
-the samples stratified by employment type. For the younger age group
+the samples stratified by employment type. For the younger age group,
 the bivariate probit model only indicated exogeneity of diabetes for
 males, while for females diabetes was shown to be endogenous and having
 a significant positive effect of diabetes on employment. This result
@@ -840,7 +840,7 @@ to some sort of health insurance \parencite{Knaul2012}. The presented
 results rather show the effects of diabetes on employment probabilities
 in 2005 in an environment were insufficient healthcare coverage was
 common for parts of the Mexican population. We nonetheless deliberately chose
-this particular data set as it provided us with a sensible instrument
+this particular dataset as it provided us with a sensible instrument
 in parental diabetes as well as an array of other socioeconomic information
 which---as far as we have been able to ascertain---is not provided
 by any other dataset in \acp{LMIC}. Finally, due to data limitations,
